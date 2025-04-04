@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://parlamint-at.acdh.oeaw.ac.at" xml:id="about.xml">
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+                <title type="main" xml:lang="de">Über das Projekt</title>
+                <title type="sub" xml:lang="de">Österreichisches Parlamentskorpus ParlaMint-AT [ParlaMint]</title>
+           </titleStmt>
+           <publicationStmt>
+              <p>Publication Information</p>
+           </publicationStmt>
+           <sourceDesc>
+              <p>Information about the source</p>
+           </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+           <p>
+               
+           </p>
+        </body>
+    </text>
+  </TEI>

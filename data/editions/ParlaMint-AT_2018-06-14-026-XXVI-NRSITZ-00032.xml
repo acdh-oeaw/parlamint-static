@@ -1,0 +1,447 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" ana="#parla.sitting #reference" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.xml" xml:base="https://parlamint-at.acdh.oeaw.ac.at" prev="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00031.xml" next="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2018-06-29-026-XXVI-NRSITZ-00033.xml">
+   <teiHeader xml:lang="en">
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="de">Österreichisches Parlamentskorpus ParlaMint-AT, Stenographische Protokolle der Plenarsitzungen des Österreichischen Nationalrats, XXVI. Gesetzgebungsperiode [ParlaMint]</title>
+            <title type="sub" xml:lang="de">32. Sitzung des Nationalrates der Republik Österreich, XXVI. Gesetzgebungsperiode, Donnerstag, 14. Juni 2018</title>
+            <title type="main" xml:lang="en">Austrian parliamentary corpus ParlaMint-AT, Shorthand records of the National Council of the Austrian Parliament, Legislative period XXVI [ParlaMint]</title>
+            <title type="sub" xml:lang="en">Sitting Number 32, Legislative period XXVI, Thursday, 14. June 2018</title>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.sitting" n="32">32. Sitzung</meeting>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.term #NR.XXVI" n="26">XXVI. Gesetzgebungsperiode</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.sitting" n="32">Sitting 32</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.term #NR.XXVI" n="26">Legislative period XXVI</meeting>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0002-8111-5584">Hannes Pirker</persName>
+               <persName ref="https://orcid.org/0000-0003-2436-0361">Daniel Schopper</persName>
+               <persName ref="https://orcid.org/0000-0002-1631-4560">Tanja Wissik</persName>
+               <resp xml:lang="de">Projektplanung und Methode</resp>
+               <resp xml:lang="en">Project set-up and methodology</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hannes Pirker</persName>
+               <resp xml:lang="de">Datenbeschaffung, Korpuskodierung in TEI und automatische linguistische Annotation</resp>
+               <resp xml:lang="en">Data retrieval, TEI corpus encoding and automatic linguistic annotation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Schopper</persName>
+               <resp xml:lang="de">XSLT Transformationen</resp>
+               <resp xml:lang="en">XSLT transformations</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Martin Kirnbauer</persName>
+               <resp xml:lang="de">Einige der manuellen Korrekturen</resp>
+               <resp xml:lang="en">Some of the manual curation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Tanja Wissik</persName>
+               <resp xml:lang="de">Metadaten und Übersetzung</resp>
+               <resp xml:lang="en">Metadata and translation</resp>
+            </respStmt>
+            <funder>
+               <orgName xml:lang="de">CLARIN-ERIC</orgName>
+               <orgName xml:lang="en">CLARIN-ERIC (Common Language Resources and Technology Infrastructure—European Research Infrastructure Consortium)</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </funder>
+            <funder>
+               <orgName xml:lang="de">ÖAW (Österreichische Akademie der Wissenschaften)</orgName>
+               <orgName xml:lang="en">ÖAW (Austrian Academy of Sciences)</orgName>
+               <ref target="https://www.oeaw.ac.at/">www.oeaw.ac.at</ref>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>4.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="19" xml:lang="de">19 Äußerungen</measure>
+            <measure unit="speeches" quantity="19" xml:lang="en">19 speeches</measure>
+            <measure unit="words" quantity="3210" xml:lang="de">3,210 Wörter</measure>
+            <measure unit="words" quantity="3210" xml:lang="en">3,210 words</measure>
+         </extent>
+         <publicationStmt>
+            <publisher>
+               <orgName xml:lang="de">Die CLARIN Forschungsinfrastruktur</orgName>
+               <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </publisher>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/1912</idno>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="de">Dieses Werk ist lizensiert unter der <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz (CC BY 4.0)</ref>.</p>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+            </availability>
+            <date when="2024-05-14">2024-05-14</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main" xml:lang="de">Stenographische Protokolle der Plenarsitzungen des Nationalrats der Republik Österreich</title>
+               <title type="sub" xml:lang="de">Stenographisches Protokoll, 32. Sitzung des Nationalrates der Republik Österreich, XXVI. Gesetzgebungsperiode, Donnerstag, 14. Juni 2018</title>
+               <title type="main" xml:lang="en">Shorthand records of the plenary sittings of the National Council of the Austrian parliament</title>
+               <title type="sub" xml:lang="en">Shorthand record, Sitting Number 32, Legislative period XXVI, Thursday, 14. June 2018</title>
+               <publisher>Parlamentsdirektion</publisher>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/PAKT/VHG/XXVI/NRSITZ/NRSITZ_00032/fnameorig_729292.html</idno>
+               <date when="2018-06-14">2018-06-14</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p xml:lang="en"><ref target="https://www.clarin.eu/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://clarin-eric.github.io/ParlaMint/">ParlaMint encoding guidelines</ref>, covering the period from 2015 to mid-2022; (2) add linguistic annotations to the corpora and machine-translate them to English; (3) make the corpora available through concordancers; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.</p>
+            <p xml:lang="de"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+            </p>
+         </projectDesc>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="desc" occurs="47"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="kinesic" occurs="23"/>
+               <tagUsage gi="note" occurs="45"/>
+               <tagUsage gi="pb" occurs="7"/>
+               <tagUsage gi="seg" occurs="60"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="time" occurs="18"/>
+               <tagUsage gi="u" occurs="19"/>
+               <tagUsage gi="vocal" occurs="20"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <name type="city" xml:lang="de">Wien</name>
+               <name type="city" xml:lang="en">Vienna</name>
+               <name type="country" key="AT" xml:lang="en">Austria</name>
+               <name type="country" key="AT" xml:lang="de">Österreich</name>
+               <date ana="#parla.sitting" when="2018-06-14">2018-06-14</date>
+            </setting>
+         </settingDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2022-12-13">
+            <name>Hannes Pirker</name> : Converted from source HTML to TEI.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text ana="#reference">
+      <body>
+         <div xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e178" type="debateSection">
+            <gap reason="editorial" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.gap1">
+               <desc xml:lang="en">Frontmatters and table of content removed</desc>
+               <desc xml:lang="de">Titelseite und Inhaltsangabe entfernt</desc>
+            </gap>
+            <note type="time" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note1">
+               <time when="2018-06-14T20:52:55+02:00">20:52:55</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note2">Beginn der Sitzung:<time when="2018-06-14T20:53:00+02:00">20:53</time>Uhr</note>
+            <note type="chairpersons" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note3">Präsident Mag. Wolfgang Sobotka Dritte Präsidentin Anneliese Kitzmüller</note>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note4">Präsidentin Anneliese Kitzmüller</note>
+            <u who="#PAD_51565" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d7e512" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e197">Die Sitzung ist eröffnet. Als verhindert gemeldet sind die Abgeordneten Petra Bayr, MA MLS, Ing. Reinhold Einwallner, Melanie Erasim, MSc, Wolfgang Katzian, Josef Muchitsch, Mag. Johann Gudenus, M.A.I.S.und Josef Schellhorn. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d7e551">Abg. Leichtfried: (auf den neben ihm sitzenden Abgeordneten Muchitsch deutend) Der Beppo ist da! Der ist gekommen!</note>
+                  <note type="time" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note6">
+                     <time when="2018-06-14T20:53:15+02:00">20:53:15</time>
+                  </note>Einlauf und Zuweisungen</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note7">Präsidentin Anneliese Kitzmüller</note>
+            <u who="#PAD_51565" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d7e575" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e208">Hinsichtlich der eingelangten Verhandlungsgegenstände und deren Zuweisungen verweise ich gem. § 23 Abs. 4 der Geschäftsordnung auf die im Sitzungssaal verteilte Mitteilung.</seg>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e210">Die schriftliche Mitteilung hat folgenden Wortlaut:</seg>
+               <gap reason="editorial" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.gap2">
+                  <desc xml:lang="en">Quoted printed matter omited</desc>
+                  <desc xml:lang="de">Zitierte Druckfassung entfernt</desc>
+               </gap>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note8">Präsidentin Anneliese Kitzmüller</note>
+            <u who="#PAD_51565" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d7e727" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e220">Weiters weise ich den Antrag 305/A(E) der Abgeordneten Muchitsch, Kolleginnen und Kollegen betreffend „Harmonisierung der Leistungen aller Krankenversicherungsträger“ dem Ausschuss für Arbeit und Soziales zu.</seg>
+               <note type="time" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note9">
+                  <time when="2018-06-14T20:53:31+02:00">20:53:31</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e225">Fristsetzungsantrag</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note10">Präsidentin Anneliese Kitzmüller</note>
+            <u who="#PAD_51565" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d7e755" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e231">Ich teile mit, dass die Abgeordneten Peter Haubnerund Wolfgang Klinger beantragt haben, dem Ausschuss für Wirtschaft, Industrie und Energie zur Berichterstattung über den Antrag 303/A der Abgeordneten Peter Haubner, Wolfgang Klinger, Kolleginnen und Kollegen betreffend „ein Bundesgesetz, mit dem das Arbeitszeitgesetz, das Arbeitsruhegesetz und das Allgemeine Sozialversicherungsgesetz geändert werden“, eine Frist bis 4. Juli 2018 zu setzen.</seg>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e233">Ferner liegt das von fünf Abgeordneten gemäß § 43 Abs. 3 der Geschäftsordnung gestellte Verlangen vor, eine kurze Debatte über diesen Fristsetzungsantrag durchzuführen. Diese kurze Debatte wird nach Erledigung der Tagesordnung, also sogleich, stattfinden.</seg>
+               <note type="time" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note11">
+                  <time when="2018-06-14T20:54:26+02:00">20:54:26</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e238">Kurze Debatte über einen Fristsetzungsantrag</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note12">Präsidentin Anneliese Kitzmüller</note>
+            <u who="#PAD_51565" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d7e785" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e243">Wir gehen in die Debatte ein.</seg>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e245">Ich mache darauf aufmerksam, dass gemäß § 57a Abs. 1 der Geschäftsordnung kein Redner länger als 5 Minuten sprechen darf, wobei dem Erstredner zur Begründung 10 Minuten Redezeit zukommen. Stellungnahmen von Mitgliedern der Bundesregierung oder zu Wort gemeldeten Staatssekretären sollen nicht länger als 10 Minuten dauern.</seg>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e247">Das Wort erhält zunächst die Antragstellerin, Frau Abgeordnete Holzinger-Vogtenhuber. – Bitte, Frau Abgeordnete, Sie haben jetzt 10 Minuten.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note13">
+               <time when="2018-06-14T20:55:00+02:00">20:55:00</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note14">Abgeordnete Daniela Holzinger-Vogtenhuber, BA (PILZ)</note>
+            <u who="#PAD_83111" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d7e812" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e255">Frau Präsidentin! Geschätzte Kolleginnen und Kollegen! Liebe Mitbürgerinnen und Mitbürger! Ihnen ist der Begriff Hashtag eventuell bekannt. Ich darf Sie hier auf einen aufmerksam machen, der gerade in den sozialen Medien viral geht: „Drüberfahren und Sozialabbau #DasIstSchwarzBlau“. <kinesic type="applause" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.kinesic1">
+                     <desc>Beifall bei Liste Pilz und SPÖ.</desc>
+                  </kinesic>
+            Wissen Sie, warum ich den so einprägsam finde? – Weil er so kompakt beschreibt, worum es dieser Regierung eigentlich geht: Es geht ihr nicht um die ArbeitnehmerInnen, um die Hackler, die tatsächlich am Ende eines 8-Stunden-Arbeitstages auch körperlich spüren, dass sie mit ihrer Hände Arbeit dieses Land jeden Tag aufs Neue wieder aufgebaut haben. Es geht ihr nicht um Mütter, die nicht wissen, wo sie ihre Kinder <pb n="5"/>
+            während eines 12-Stunden-Arbeitstages unterbringen sollen. Es geht ihr nicht um Kinder, denen sie 12 Stunden am Tag ihre Eltern stehlen will. Es geht dieser Bundesregierung demnach auch nicht um die Familien – eine Ausrede, die entsprechend Ministerin Schramböck in Zeiten von Social Media ja sowieso keine Begründung hätte und nicht benötigt wird, schließlich gäbe es ja Social Media und Facebook, um jegliche Sozialkontakte zu ersetzen. Wenn wir den Bogen zu all den Kürzungen für sozial Schwache spannen, die wir heute auch schon diskutiert haben, dann ist klar: Dieser Regierung geht es nicht um die Menschen in diesem Land, sondern nur darum, den Profit für einige wenige auf dem Rücken und an der Gesundheit der ArbeitnehmerInnen zu steigern. <kinesic type="applause" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.kinesic2">
+                     <desc>Beifall bei der Liste Pilz und bei Abgeordneten der SPÖ.</desc>
+                  </kinesic>
+            Das ist ja aber auch okay so, das ist okay so – Gut, Sie nutzen Ihre satten Mehrheiten, die Sie sich mit bereits gebrochenen Wahlversprechen im Wahlkampf erschlichen haben. Ich brauche nur den Ceta-Umfaller durch die Freiheitlichen zu nennen oder etwa die Zusage des Bundeskanzlers, die Unterhaltssicherung einzuführen. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d7e835">Abg. Winzig: Das haben wir alles im Wahlkampf gesagt!</note>Sie nutzen Ihre Mehrheiten also für eine eiskalte Politik zum Wohle der obersten 5 bis 10 Prozent. Das ist auch Demokratie – die schwarz-blaue Seite der Demokratie halt. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d7e848">Abg. Winzig: Wie viel Prozent hatten denn Sie?</note> Gut, das mag die schwarz-blaue Seite der Demokratie sein, aber worum ich Sie bitten würde, ist Folgendes: Hören Sie auf, die Autorität, die Ihnen kraft Ihrer Ämter zusteht und zugeschrieben wird, so zu missbrauchen und so zu tun, als würden Sie im Interesse der Menschen agieren! Da gab es vorhin wirklich brillante Reden. Sie tun so, als würden Sie den 12-Stunden-Arbeitstag durchsetzen wollen, um irgendeinem Hackler in diesem Land zu ermöglichen, dass dieser schneller zu seiner Familie nach Hause kommt. Das stimmt einfach nicht! Ich kann es Ihnen vorrechnen – oder vielleicht rechnen wir gemeinsam; ich bin mir sicher, wir kommen auf dasselbe Ergebnis: 10 Stunden Maximalarbeitszeit bisher, das sind 2 Stunden weniger als 12. Nach Adam Riese wird der, der 12 Stunden arbeiten muss – von wem auch immer das gefordert werden wird –, 2 Stunden später nach Hause kommen, als er es jetzt kann. Der Rest ist einfach Propaganda, Sand in die Augen derjenigen, die noch immer die Hoffnung haben, dass diese Regierung umsetzen würde, was sie im Wahlkampf versprochen hat. Das stimmt einfach nicht. Selbst von Vizekanzler Strache wurde der 12-Stunden-Arbeitstag stets abgelehnt und immer verurteilt. Sie wissen vielleicht, wie man das nennt, wenn man etwas sagt, das nicht stimmt. Das ist in meinen Augen auf der einen Seite einfach nicht schlau oder auch dumm. Sie wissen aber ganz genau, was Sie tun. Wenn einer wider besseren Wissens genau die Unwahrheit sagt, dann lügt er. Das ist es, was Sie aktuell mit der österreichischen Bevölkerung machen. <kinesic type="applause" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.kinesic3">
+                     <desc>Beifall bei der Liste Pilz und bei Abgeordneten der SPÖ.</desc>
+                  </kinesic>
+            Sie belügen die Menschen über die wahren Motive hinter diesem Antrag. Selbstverständlich wissen Sie das aber auch, nur machen Sie es einfach trotzdem. Sie tun zwar nicht, wofür die Menschen Sie gewählt haben, aber Sie tun genau das, was Ihre Spender im Wahlkampf von Ihnen verlangt haben. Die wollen jetzt ihre Rendite sehen, die wollen jetzt genau weniger Steuern. – Das machen Sie, Sie liefern. Die wollen Arbeitsschutzgesetze und Arbeitszeitgesetze abbauen und über ihre Arbeitskräfte quasi verfügen. – Und Sie liefern. <vocal type="interruption" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.vocal1">
+                     <desc>Zwischenrufe bei der ÖVP.</desc>
+                  </vocal>
+            Sie wollen die demokratische Mitbestimmung soweit es Ihnen nur irgend möglich ist einschränken. – Und auch da liefern Sie. <kinesic type="applause" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.kinesic4">
+                     <desc>Beifall bei der Liste Pilz und bei Abgeordneten der SPÖ.</desc>
+                  </kinesic>
+            Anders sind solche zu verurteilenden Drüberfahrmethoden wie dieser Fristsetzungsantrag einfach nicht zu erklären. <pb n="6"/>
+            Ganz im Ernst: Bei der heutigen Fragestunde am Anfang des Tages mit Ministerin Bogner-Strauß habe ich mich noch gewundert, in welche Richtung sich diese Bundesregierung entwickeln wird. Sie hat mir erklärt, dass die Bundesregierung drei Jahre benötigen wird, um eine ordentliche Unterhaltssicherung, um eine ordentliche Unterhaltsgarantie umsetzen zu können. <note type="procedural" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note17">Präsident Sobotka übernimmt den Vorsitz.</note> Drei Jahre! – Und Sie wollen dem Ausschuss zur Beratung des 12-Stunden-Arbeitstages eine derart verkürzte Frist und Begutachtungsfrist bis heute Abend setzen, eine derartige Frist, um jetzt noch zu entscheiden, dass dieser Antrag durchgehen soll, um das Ganze so rasch wie möglich durchzuboxen und die Kritik möglichst kleinzuhalten? Sie haben sich wirklich vorgenommen, dieses Land zu verändern, in einer atemberaubenden Geschwindigkeit und in eine Richtung, die ich eigentlich in keinster Weise unterstützen will. Da sehne ich mich doch nach dem rot-schwarzen Stillstand in der Bundesregierung zurück <vocal type="interruption" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.vocal2">
+                     <desc>Zwischenrufe bei der ÖVP</desc>
+                  </vocal>
+            , denn angesichts dieses Schadens, den Sie mit dieser Politik hier anrichten, mit diesen Anträgen und mit diesen Sozialkürzungen, wünsche ich mir genau diesen Stillstand, diesen Reformstau zurück. Eine Bitte: Denken Sie darüber nach, diese Arbeit sein zu lassen! Die Menschen in diesem Land werden es Ihnen danken.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.kinesic5">
+               <desc>Beifall bei der Liste Pilz.</desc>
+            </kinesic>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note18">Präsident Mag. Wolfgang Sobotka</note>
+            <u who="#PAD_88386" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d7e902" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e301">Frau Abgeordnete, ich darf Sie ersuchen, den Begriff Lüge zurückzunehmen!</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note19">Abgeordnete Daniela Holzinger-Vogtenhuber, BA</note>
+            <note type="procedural" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note20">fortsetzend</note>
+            <u who="#PAD_83111" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d7e918" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e309">Ich habe mit dem Begriff Folgendes beschrieben: Wenn man gezielt die Unwahrheit sagt, dann ist das eine Lüge. – Wenn es zur Beruhigung der Situation beiträgt, nehme ich es selbstverständlich zurück.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.kinesic6">
+               <desc>Beifall bei der Liste Pilz.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note21">
+               <time when="2018-06-14T21:01:00+02:00">21:01</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note22">Präsident Mag. Wolfgang Sobotka</note>
+            <u who="#PAD_88386" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d7e945" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e320">Zu Wort gemeldet ist Herr Abgeordneter Peter Haubner. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note23">
+               <time when="2018-06-14T21:01:28+02:00">21:01:28</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note24">Abgeordneter Peter Haubner (ÖVP)</note>
+            <u who="#PAD_12741" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d7e969" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e328">Sehr geehrter Herr Präsident! Frau Kollegin! Ja, wir wollen dieses Land verändern: Wir wollen heraus aus verkrusteten Strukturen, wir wollen mehr Freiheit und mehr Flexibilität, sowohl für die Unternehmer als auch für die Arbeitnehmer.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.kinesic7">
+                  <desc>Beifall bei ÖVP und FPÖ.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e333">Wir haben sehr intensiv an diesem Gesetz gearbeitet. Es ist nicht von heute auf morgen entstanden, sondern wir haben intensiv daran gearbeitet <vocal type="interruption" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.vocal3">
+                     <desc>Zwischenrufe bei der SPÖ</desc>
+                  </vocal>
+            , und wir wollen dieses Gesetz noch vor dem Sommer fertig machen, denn wir wollen einfach Rechtssicherheit schaffen. Wir wollen Rechtssicherheit schaffen, und wir wollen heraus aus den Graubereichen.</seg>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e339">Frau Kollegin! Wer wirklich diese Flexibilisierung der Arbeitszeit braucht, das sind die klein- und mittelständischen Unternehmer. <kinesic type="applause" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.kinesic8">
+                     <desc>Beifall bei ÖVP und FPÖ.</desc>
+                  </kinesic>
+            Das sind die Unternehmer, die 80 Prozent der Unternehmerlandschaft in Österreich abbilden, die in Familienbetrieben ihre Mitarbeiter wie ihre Familienmitglieder behandeln, nämlich ganz besonders. <kinesic type="applause" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.kinesic9">
+                     <desc>Beifall bei der ÖVP.</desc>
+                  </kinesic>
+            Die wissen, wie wertvoll diese Mitarbeiter sind, und die wissen, dass sie gemeinsam etwas bewegen können. Deshalb brauchen sie auch diese Flexibilität.</seg>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e349">Malen Sie nicht irgendwelche Gespenster an die Wand, die es nicht gibt, meine Damen und Herren! Ich glaube, das muss man auch einmal ganz entschieden sagen.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.kinesic10">
+                  <desc>Beifall bei ÖVP und FPÖ.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e354">Es besteht ja die Möglichkeit; es hat zuerst auch eine Präsidiale gegeben, wo viele Möglichkeiten, Varianten durchbesprochen worden sind.</seg>
+               <vocal type="interruption" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.vocal4">
+                  <desc>Zwischenrufe bei der SPÖ.</desc>
+               </vocal>
+               <pb n="7"/>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e360">Als Obmann des Wirtschaftsausschusses sage ich, wir können uns jederzeit sofort zusammensetzen und diese Begutachtung einbegleiten. Wir sind also bereit, es liegt an Ihnen. – Danke vielmals.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.kinesic11">
+               <desc>Beifall bei ÖVP und FPÖ.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note25">
+               <time when="2018-06-14T21:03:00+02:00">21:03</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note26">Präsident Mag. Wolfgang Sobotka</note>
+            <u who="#PAD_88386" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d7e1048" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e372">Zu Wort gemeldet ist Herr Abgeordneter Josef Muchitsch. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note27">
+               <time when="2018-06-14T21:03:20+02:00">21:03:20</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note28">Abgeordneter Josef Muchitsch (SPÖ)</note>
+            <u who="#PAD_35497" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d7e1072" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e380">Herr Präsident! Sehr geehrte Damen und Herren! Ich versuche, es ohne Emotion zu machen. Was heute hier im Hohen Haus passiert ist, ist ein dunkler Tag in der Geschichte des Parlamentarismus.</seg>
+               <vocal type="interruption" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.vocal5">
+                  <desc>Zwischenrufe bei der ÖVP.</desc>
+               </vocal>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e385">Wir haben beim Tagesordnungspunkt 9 das Thema Lohn- und Sozialdumping behandelt, und die Regierungsparteien sind nicht bereit, irgendetwas für die Menschen zu tun, die ausgebeutet werden, die unterentlohnt werden – das war ein Punkt. Eine Stunde später kommt der nächste Punkt, nämlich Arbeitszeit flexibilisieren, mit Worten wie: Wir brauchen mehr Freiheit, mehr Flexibilität, wir brauchen mehr Rechtssicherheit! – Das ist einseitig, einseitig für die Arbeitgeber.</seg>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e387">Lieber Peter Haubner! Dass du als Teil der Sozialpartnerschaft das so machst, an dem Tag, an dem dein Partner in der Sozialpartnerschaft Wolfgang Katzianzum ÖGB-Präsidenten gewählt wird, dass du das zwei Stunden später hier mitträgst: Das ist nicht Sozialpartnerschaft, das ist kein Dialog!</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.kinesic12">
+                  <desc>Beifall bei der SPÖ.</desc>
+               </kinesic>
+               <vocal type="interruption" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.vocal6">
+                  <desc>Zwischenrufe bei der ÖVP.</desc>
+               </vocal>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e395">Wenn wir, obwohl wir eine sehr gute Stehung, eine Präsidiale nach 19 Uhr gehabt haben, wo alles Für und Wider ganz sachlich und fair besprochen wurde, auch politisch – nach 19 Uhr! –, und je länger wir uns mit eurem Antrag befassen, dann herausfinden, dass um 18.11 Uhr die APA schon alles abgedruckt hat, dass der neue Wirtschaftskammerpräsident, dass der Präsident der Industriellenvereinigung schon alle Plakate fertig gehabt haben, dann war es nie eure Absicht, heute irgendwie einen Konsens für einen Ausschuss zustande zu bringen. Das war nie eure Absicht! Das war vorher bestellt – vorher bestellt, vorher gedruckt!</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.kinesic13">
+                  <desc>Beifall bei SPÖ, NEOS und Liste Pilz.</desc>
+               </kinesic>
+               <vocal type="interruption" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.vocal7">
+                  <desc>Rufe und Gegenrufe zwischen ÖVP und SPÖ.</desc>
+               </vocal>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e403">Abschließend: Jede Abgeordnete, jeder Abgeordnete hat die verdammte Pflicht, sich mit dieser Materie zu befassen. Es geht um 3,7 Millionen Menschen, die arbeiten, und um ihre Familien. Wenn hier irgendjemand von eurer Seite sagt, ihr wollt, dass Zeitguthaben nach hinten verschoben werden, weil Arbeiten ja, Flexibilität ja, aber Kohle nein, Zeitausgleich nein, dann kann das nicht eure Absicht sein.</seg>
+               <vocal type="interruption" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.vocal8">
+                  <desc>Zwischenrufe bei der ÖVP.</desc>
+               </vocal>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e409">Deshalb: Wir sollten keine Schnellschüsse machen! Ihr werdet das ohnehin durchpeitschen, wie ihr wollt, aber Fakt ist, wir werden uns die Zeit nehmen, die wir brauchen, um jeden Buchstaben, um jeden Beistrich, der hier in diesem Entwurf drin ist, zu analysieren, mit Beispielen zu widerlegen. Gesichter von betroffenen Menschen werden wir euch übermitteln, die da dementsprechend unter die Räder kommen. Und das werden wir kommunizieren, das wird kommuniziert!</seg>
+               <vocal type="interruption" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.vocal9">
+                  <desc>Zwischenrufe bei der ÖVP.</desc>
+               </vocal>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e414">Ich rufe die gesamte Republik Österreich auf, ich rufe all jene auf, denen die Arbeitnehmer wichtig und nicht wurscht sind wie euch: Machen wir einen Schulterschluss, egal, welche politischen Parteien, egal, welche Organisation, ob Kirche oder sonst etwas! <vocal type="interruption" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.vocal10">
+                     <desc>Bravorufe bei der SPÖ.</desc>
+                  </vocal>
+            Dazu rufe ich auf.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.kinesic14">
+               <desc>Beifall bei der SPÖ.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note29">
+               <time when="2018-06-14T21:07:00+02:00">21:07</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note30">Präsident Mag. Wolfgang Sobotka</note>
+            <u who="#PAD_88386" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d7e1166" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e429">Zu Wort gemeldet ist Herr Klubobmann Rosenkranz. – Bitte.</seg>
+            </u>
+            <pb n="8"/>
+            <note type="time" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note31">
+               <time when="2018-06-14T21:07:11+02:00">21:07:11</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note32">Abgeordneter Dr. Walter Rosenkranz (FPÖ)</note>
+            <u who="#PAD_51570" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d7e1193" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e439">Hohes Haus! Ja, Frau Kollegin Holzinger-Vogtenhuber, diese Regierung legt tatsächlich Tempo vor. Wenn es für Sie atemberaubend erscheinen mag: Das ist unser normales Arbeitstempo. <kinesic type="applause" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.kinesic15">
+                     <desc>Beifall bei FPÖ und ÖVP.</desc>
+                  </kinesic>
+            Dazu, dass es politisch vielleicht nicht in Ihre Richtung geht, kann ich Ihnen nur eines sagen: Ja, wir sind nicht in der politischen Richtung der Liste Pilz. <vocal type="interruption" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.vocal11">
+                     <desc>Zwischenruf des Abg. Rossmann.</desc>
+                  </vocal>
+            Das ist nicht unsere Richtung, sondern unsere Richtung ist eine andere. Das hat nichts mit dem zu tun <vocal type="interruption" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.vocal12">
+                     <desc>Zwischenrufe bei SPÖ und Liste Pilz</desc>
+                  </vocal>
+            ,was Kollege Muchitsch in seiner vielleicht verständlichen Erregung jetzt gemeint hat: Es war so ein schöner, total wunderbarer Gewerkschaftstag! –Wir sehen hier jetzt auch manche Abgeordnete, die die letzten Tage eigentlich lieber dort zugebracht haben als hier im Hohen Haus. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d7e1219">Abg. Schieder: Und der Strache fährt mit der U-Bahn, oder was?</note>
+                  <vocal type="interruption" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.vocal13">
+                     <desc>Weitere Zwischenrufe bei SPÖ und Liste Pilz.</desc>
+                  </vocal>
+            Hohes Haus! Seit wann hat ein Regierungsmitglied die Verpflichtung, bei einem Tagesordnungspunkt, bei dem er gar nicht hier zu sein hat, da zu sein? – Die Abgeordneten haben die Verpflichtung, hier zu sein! Und da schwänzen Sie! <vocal type="interruption" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.vocal14">
+                     <desc>Zwischenrufe bei der SPÖ.</desc>
+                  </vocal>
+                  <kinesic type="signal" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.kinesic16">
+                     <desc>Präsident Sobotka gibt das Glockenzeichen.</desc>
+                  </kinesic>
+            Da schwänzen Sie, weil Ihnen der Österreichische Gewerkschaftsbund wichtiger ist. <kinesic type="applause" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.kinesic17">
+                     <desc>Beifall bei FPÖ und ÖVP.</desc>
+                  </kinesic>
+            Sie von der Sozialdemokratie haben es verstanden, von Ihrem Standpunkt aus <vocal type="interruption" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.vocal15">
+                     <desc>Zwischenrufe bei der SPÖ</desc>
+                  </vocal>
+            ,noch vor der letzten Wahl 2017, ruck, zuck, auch gemeinsam mit uns Freiheitlichen – da war Ihnen die Unterstützung von uns recht, wenn es um die Gleichstellung - -</seg>
+            </u>
+            <vocal type="interruption" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.vocal16">
+               <desc>Anhaltende Zwischenrufe bei der SPÖ.</desc>
+            </vocal>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note34">Präsident Mag. Wolfgang Sobotka</note>
+            <u who="#PAD_88386" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d7e1277" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e481">Moment! Ich würde bitten, den Redner ausreden zu lassen!</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note35">Abgeordneter Dr. Walter Rosenkranz</note>
+            <note type="procedural" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note36">fortsetzend</note>
+            <u who="#PAD_51570" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d7e1293" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e488">Ich kann dann auch leiser sein.</seg>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e490">Sie haben es sehr wohl verstanden und für gut geheißen, dass hier in ganz wenigen Tagen die Gleichstellung von Arbeitern und Angestellten erledigt wurde. Da ist es mit Ihnen, neben anderen Dingen – Fremdenrechtsnovelle-Fristsetzung, 15a-Kinderbetreuung, Bundesklimaschutzgesetz, Steuervermeidung für transnationale Konzerne –, genauso schnell gegangen; nein, es ist sogar noch schneller gegangen!</seg>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e492">Wir haben Ihnen die Möglichkeit gegeben: Wir haben klar gesagt, wir wollen in der Juli-Sitzung beschließen. Wir haben Ihnen eingeräumt, Sie können es im Sozialausschuss oder im Wirtschaftsausschuss machen. Wenn Sie geglaubt hätten, es gehört in den Kulturausschuss, hätten wir Ihnen auch das noch zugebilligt – was Sie wollen!</seg>
+               <vocal type="interruption" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.vocal17">
+                  <desc>Zwischenrufe bei der SPÖ.</desc>
+               </vocal>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e497">Wir haben geglaubt, wir können Ihnen eine Begutachtungsfrist einräumen. Ich nehme aber auch zur Kenntnis, es hat sich jetzt ein bisschen relativiert, denn Kollege Muchitsch hat gesagt, er wird das alles jetzt auf Punkt und Beistrich anschauen. – Das erwarte ich mir sogar.</seg>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e499">Und wissen Sie was? – Ich habe noch eine derart hohe Meinung von Arbeiterkammer und Österreichischem Gewerkschaftsbund, dass ich glaube, die können ein derart kurzes Gesetz tatsächlich intellektuell so bearbeiten, dass sie einerseits polemisch daraus die Unwahrheit ableiten oder es richtigerweise so lesen, wie wir das Gesetz intendiert haben und wie es auch tatsächlich umgesetzt wird. <vocal type="interruption" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.vocal18">
+                     <desc>Zwischenrufe bei der SPÖ.</desc>
+                  </vocal>
+            Wie Sie das umsetzen, ist Ihre Sache.</seg>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e505">Diese Regierung arbeitet aber zum Wohl der Menschen, der Arbeitnehmer und der Arbeitgeber.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.kinesic18">
+               <desc>Beifall bei FPÖ und ÖVP.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note37">
+               <time when="2018-06-14T21:10:00+02:00">21:10</time>
+            </note>
+            <pb n="9"/>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note38">Präsident Mag. Wolfgang Sobotka</note>
+            <u who="#PAD_88386" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d7e1353" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e518">Zu Wort gemeldet ist Herr Abgeordneter Scherak. – Bitte.</seg>
+            </u>
+            <vocal type="interruption" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.vocal19">
+               <desc>Zwischenruf des Abg. Krainer.</desc>
+            </vocal>
+            <kinesic type="signal" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.kinesic19">
+               <desc>Präsident Sobotka gibt das Glockenzeichen.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note39">
+               <time when="2018-06-14T21:10:51+02:00">21:10:51</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note40">Abgeordneter Dr. Nikolaus Scherak, MA (NEOS)</note>
+            <u who="#PAD_83125" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d7e1386" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e532">Wir sind ja als NEOS denkbar unverdächtig, dass wir in irgendeiner Art und Weise gegen Arbeitszeitflexibilisierung wären. Umso enttäuschter bin ich, was hier heute parlamentarisch vor sich gegangen ist.</seg>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e534">Diese Regierung ist angetreten und hat gesagt, sie wolle einen neuen Stil hineinbringen. Auch die Regierungsparteien wiederholen das immer wieder. Wir haben in den letzten paar Monaten gesehen, wie dieser neue Stil ausschaut. Ich glaube, Kollege Muchitsch hat schon recht, wenn er sagt, das ist ein schwarzer Tag für den Parlamentarismus. Es ist nur eine Aneinanderreihung von vielen schwarzen Tagen, die wir in den letzten Monaten gesehen haben, und ich verstehe es schlichtweg nicht mehr.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.kinesic20">
+                  <desc>Beifall bei NEOS, SPÖ und Liste Pilz.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e539">Es wird hier ein Initiativantrag eingebracht, und Kollege Rosenkranz hat gesagt, das ist nur von den Abgeordneten und von den parlamentarischen Klubs ausgearbeitet worden. – Das lasse ich einmal so stehen. Nehmen wir einmal an, das ist wirklich so ausgearbeitet und wird mit einem Zuweisungsvorschlag in den falschen Ausschuss gebracht. Der Präsident akzeptiert das und weist es eben dem falschen Ausschuss zu. Wir haben noch nie – zumindest, seitdem ich hier im Haus bin – über Fragen der Arbeitszeitflexibilisierung und des Arbeitszeitschutzes im Wirtschaftsausschuss diskutiert. Das ist vollkommen unverständlich.</seg>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e541">Dann kommt dieser Vorschlag: Na, wir können ja doch irgendwie einen machen, es soll eine zweieinhalbwöchige Begutachtung geben. Klubobmann Wöginger hat dann mehrmals, auch in der Präsidiale, darauf gesagt: Na ja, ÖGB und Arbeiterkammer haben das ohnehin schon irgendwo in der Schublade, die können das ja gleich schicken!</seg>
+               <vocal type="interruption" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.vocal20">
+                  <desc>Zwischenruf des Abg. Rosenkranz.</desc>
+               </vocal>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e546">Ja, Herr Kollege Rosenkranz, es ist auch möglich, dass ÖGB und Arbeiterkammer sich abschließend eine Meinung gebildet haben. Was Sie aber offensichtlich missverstehen, ist, dass die Begutachtung nicht nur für sozialpartnerschaftliche Organisationen da ist, sondern auch für die Bürgerinnen und Bürger. Auch die haben ein Recht, sich dazu zu Wort zu melden.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.kinesic21">
+                  <desc>Beifall bei NEOS, SPÖ und Liste Pilz.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e551">Jetzt ist das unabhängig davon, ob Bürgerinnen und Bürger 40 oder 60 oder 80 Stunden die Woche arbeiten. Sie können das dann Ihren Wählerinnen und Wählern erklären, wieso Sie jetzt das, was wir normalerweise als Begutachtungsfrist haben und was auch das Bundeskanzleramt vorsieht, nämlich sechs Wochen, hier umgehen wollten. Jetzt am Schluss gibt es offensichtlich überhaupt keine Begutachtung mehr.</seg>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e553">Das Problem ist ja, wo das Ganze hinführt. Da frage ich mich wirklich, wann Sie mit dieser unglaublichen Missachtung des Parlaments aufhören. Wir hatten die Situation mit dem Bundesministeriengesetz, damals wurde über einen Fristsetzungsantrag probiert, dass der Ausschussobmann den Ausschuss einberuft, weil Sie kein Interesse daran hatten, das nach den Gepflogenheiten des Parlaments zu machen.</seg>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e555">Wir müssen als Opposition darum kämpfen, dass es Begutachtungen gibt. Wir hatten diesen Kampf schon beim Sicherheitspaket, diese Begutachtung wurde dann zugesichert. Hier gab es auch eine Ausschussbegutachtung mit einer annehmbaren Frist, das gebe ich zu.</seg>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e558">Der nächste Kampf, den wir hatten, den Kollege Amon und ich geführt haben, war um die Frage: Ist ein Hearing öffentlich oder nicht? – Ich habe es damals schon gesagt:</seg>
+               <pb n="10"/>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e561">Ein Hearing hält man genauso dafür ab, dass die interessierte Bevölkerung die Möglichkeit hat, sich zu informieren. Da geht es nicht ausnahmslos um uns als Abgeordnete, sondern auch um die interessierte Bevölkerung. Auch da hatten Sie kein Interesse, so etwas öffentlich zu gestalten – der nächste Tiefpunkt!</seg>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e563">Ich bin Ausschussvorsitzender des Menschenrechtsausschusses und versuche seit mehreren Monaten, den Menschenrechtsausschuss einzuberufen. Es gab eigentlich einen akkordierten Termin, der wurde dann nicht eingehalten, aus welchen Gründen auch immer. Ich habe zugesichert, dass es okay ist, dass wir diesen Ausschuss auch ohne Minister abhalten, weil ich Verständnis dafür habe, dass sowohl der Justizminister als auch die Außenministerin aufgrund von Krankheiten Terminschwierigkeiten hatten. Es war nicht möglich, dass wir diesen Ausschuss ohne Minister machen. Es gibt offensichtlich kein Interesse, hier über Menschenrechte zu diskutieren.</seg>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e565">Wir haben beim Datenschutz-Anpassungsgesetz eine verkürzte Begutachtungsfrist aufgrund einer Richtlinienumsetzung gehabt, das ist klar. So ein massives Gesetz aber in so einer kurzen Zeit zu begutachten, ist auch etwas, was den Usancen hier im Haus einigermaßen widerspricht.</seg>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e567">Was mich nachhaltig nicht nur enttäuscht, Herr Kollege Rosenkranz, gerade von Ihnen: Ich habe Sie immer als sehr selbstbewussten Parlamentarier wahrgenommen, und in der Zeit, in der Sie in Opposition waren, hätten Sie anders agiert.</seg>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e569">Ich frage mich aber, wie wir zukünftig hier im Haus miteinander umgehen wollen. Sie können natürlich als Regierungsparteien alles beschließen, was Sie wollen. Sie haben hier eine Mehrheit, das können Sie ohne Weiteres machen. Ich glaube nur, dass es sinnvoll ist, wenn wir uns hier im Parlament insgesamt mit Dingen auseinandersetzen. Das braucht eine gewisse Zeit, und auch die Frage der Arbeitszeitflexibilisierung braucht eine gewisse Zeit. Es hätte niemandem geschadet, wenn wir das über den Sommer diskutiert hätten, auch mit einer Begutachtung, und im Herbst beschließen könnten.</seg>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e571">Ich habe eine wesentliche Frage, an beide Regierungsparteien gerichtet: Wenn Sie eine Zweidrittelmaterie diskutieren wollen, dann haben Sie zwei Möglichkeiten, Sie können auf die SPÖ und die NEOS zugehen. Ich sage es Ihnen ganz ehrlich: Ich habe langsam, aber sicher immer weniger Lust, über solche Dinge mit Ihnen zu verhandeln, weil der Stil, den Sie hier an den Tag legen, so unterirdisch ist!</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.kinesic22">
+                  <desc>Beifall bei NEOS, SPÖ und Liste Pilz.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e576">Mir geht es da wirklich nicht um die Frage, wie wir über Inhalte diskutieren. Sie wissen beide, dass ich immer für konstruktive Gespräche bereitstehe und ernsthaft ein Anliegen habe, dieses Land voranzubringen. Wenn man aber jedes Mal von Ihnen an der Nase herumgeführt wird, dann reicht es mir irgendwann auch einmal. Ich glaube, Sie müssen wirklich aufpassen, dass Sie diese konstruktive Gesprächsbasis hier im Haus nicht nachhaltig zerstören!</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.kinesic23">
+               <desc>Beifall bei NEOS, SPÖ und Liste Pilz.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note41">
+               <time when="2018-06-14T21:16:00+02:00">21:16</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note42">
+               <time when="2018-06-14T21:16:05+02:00">21:16:05</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note43">Präsident Mag. Wolfgang Sobotka</note>
+            <u who="#PAD_88386" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d7e1488" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e590">Zu Wort ist niemand mehr gemeldet. Die Debatte ist geschlossen.</seg>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e592">Wir kommen nun zur Abstimmung über den Antrag, dem Ausschuss für Wirtschaft, Industrie und Energie zur Berichterstattung über den Antrag eine Frist bis 4. Juli 2018 zu setzen.</seg>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e594">Ich bitte die Damen und Herren, die dafür Zustimmung signalisieren wollen, sich zu erheben. – Das ist die Mehrheit. Daher ist dieser Antrag angenommen.</seg>
+               <pb n="11"/>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e597">Die nächste Sitzung des Nationalrates berufe ich für Mittwoch, den 4. Juli 2018, um 9 Uhr ein. Die Tagesordnung ergeht auf schriftlichem Wege.</seg>
+               <seg xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032_d2e599">Diese Sitzung ist geschlossen.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note44">
+               <time when="2018-06-14T21:16:49+02:00">21:16:49</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note45">Schluss der Sitzung:<time when="2018-06-14T21:16:00+02:00">21:16</time>Uhr</note>
+         </div>
+      </body>
+   </text>
+</TEI>

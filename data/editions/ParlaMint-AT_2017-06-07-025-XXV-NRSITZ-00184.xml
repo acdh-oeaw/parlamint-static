@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" ana="#parla.sitting #reference" xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184.xml" xml:base="https://parlamint-at.acdh.oeaw.ac.at" prev="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00183.xml" next="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00185.xml">
+   <teiHeader xml:lang="en">
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="de">Österreichisches Parlamentskorpus ParlaMint-AT, Stenographische Protokolle der Plenarsitzungen des Österreichischen Nationalrats, XXV. Gesetzgebungsperiode [ParlaMint]</title>
+            <title type="sub" xml:lang="de">184. Sitzung des Nationalrates der Republik Österreich, XXV. Gesetzgebungsperiode, Mittwoch, 7. Juni 2017</title>
+            <title type="main" xml:lang="en">Austrian parliamentary corpus ParlaMint-AT, Shorthand records of the National Council of the Austrian Parliament, Legislative period XXV [ParlaMint]</title>
+            <title type="sub" xml:lang="en">Sitting Number 184, Legislative period XXV, Wednesday, 7. June 2017</title>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.sitting" n="184">184. Sitzung</meeting>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.term #NR.XXV" n="25">XXV. Gesetzgebungsperiode</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.sitting" n="184">Sitting 184</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.term #NR.XXV" n="25">Legislative period XXV</meeting>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0002-8111-5584">Hannes Pirker</persName>
+               <persName ref="https://orcid.org/0000-0003-2436-0361">Daniel Schopper</persName>
+               <persName ref="https://orcid.org/0000-0002-1631-4560">Tanja Wissik</persName>
+               <resp xml:lang="de">Projektplanung und Methode</resp>
+               <resp xml:lang="en">Project set-up and methodology</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hannes Pirker</persName>
+               <resp xml:lang="de">Datenbeschaffung, Korpuskodierung in TEI und automatische linguistische Annotation</resp>
+               <resp xml:lang="en">Data retrieval, TEI corpus encoding and automatic linguistic annotation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Schopper</persName>
+               <resp xml:lang="de">XSLT Transformationen</resp>
+               <resp xml:lang="en">XSLT transformations</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Martin Kirnbauer</persName>
+               <resp xml:lang="de">Einige der manuellen Korrekturen</resp>
+               <resp xml:lang="en">Some of the manual curation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Tanja Wissik</persName>
+               <resp xml:lang="de">Metadaten und Übersetzung</resp>
+               <resp xml:lang="en">Metadata and translation</resp>
+            </respStmt>
+            <funder>
+               <orgName xml:lang="de">CLARIN-ERIC</orgName>
+               <orgName xml:lang="en">CLARIN-ERIC (Common Language Resources and Technology Infrastructure—European Research Infrastructure Consortium)</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </funder>
+            <funder>
+               <orgName xml:lang="de">ÖAW (Österreichische Akademie der Wissenschaften)</orgName>
+               <orgName xml:lang="en">ÖAW (Austrian Academy of Sciences)</orgName>
+               <ref target="https://www.oeaw.ac.at/">www.oeaw.ac.at</ref>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>4.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="3" xml:lang="de">3 Äußerungen</measure>
+            <measure unit="speeches" quantity="3" xml:lang="en">3 speeches</measure>
+            <measure unit="words" quantity="859" xml:lang="de">859 Wörter</measure>
+            <measure unit="words" quantity="859" xml:lang="en">859 words</measure>
+         </extent>
+         <publicationStmt>
+            <publisher>
+               <orgName xml:lang="de">Die CLARIN Forschungsinfrastruktur</orgName>
+               <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </publisher>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/1912</idno>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="de">Dieses Werk ist lizensiert unter der <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz (CC BY 4.0)</ref>.</p>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+            </availability>
+            <date when="2024-05-14">2024-05-14</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main" xml:lang="de">Stenographische Protokolle der Plenarsitzungen des Nationalrats der Republik Österreich</title>
+               <title type="sub" xml:lang="de">Stenographisches Protokoll, 184. Sitzung des Nationalrates der Republik Österreich, XXV. Gesetzgebungsperiode, Mittwoch, 7. Juni 2017</title>
+               <title type="main" xml:lang="en">Shorthand records of the plenary sittings of the National Council of the Austrian parliament</title>
+               <title type="sub" xml:lang="en">Shorthand record, Sitting Number 184, Legislative period XXV, Wednesday, 7. June 2017</title>
+               <publisher>Parlamentsdirektion</publisher>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/PAKT/VHG/XXV/NRSITZ/NRSITZ_00184/fnameorig_674018.html</idno>
+               <date when="2017-06-07">2017-06-07</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p xml:lang="en"><ref target="https://www.clarin.eu/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://clarin-eric.github.io/ParlaMint/">ParlaMint encoding guidelines</ref>, covering the period from 2015 to mid-2022; (2) add linguistic annotations to the corpora and machine-translate them to English; (3) make the corpora available through concordancers; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.</p>
+            <p xml:lang="de"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+            </p>
+         </projectDesc>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="desc" occurs="4"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="note" occurs="9"/>
+               <tagUsage gi="pb" occurs="3"/>
+               <tagUsage gi="seg" occurs="55"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="time" occurs="5"/>
+               <tagUsage gi="u" occurs="3"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <name type="city" xml:lang="de">Wien</name>
+               <name type="city" xml:lang="en">Vienna</name>
+               <name type="country" key="AT" xml:lang="en">Austria</name>
+               <name type="country" key="AT" xml:lang="de">Österreich</name>
+               <date ana="#parla.sitting" when="2017-06-07">2017-06-07</date>
+            </setting>
+         </settingDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2022-12-13">
+            <name>Hannes Pirker</name> : Converted from source HTML to TEI.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text ana="#reference">
+      <body>
+         <div xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e178" type="debateSection">
+            <gap reason="editorial" xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184.gap1">
+               <desc xml:lang="en">Frontmatters and table of content removed</desc>
+               <desc xml:lang="de">Titelseite und Inhaltsangabe entfernt</desc>
+            </gap>
+            <note type="time" xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184.note1">
+               <time when="2017-06-07T19:36:06+02:00">19:36:06</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184.note2">Beginn der Sitzung:<time when="2017-06-07T19:36:00+02:00">19:36</time>Uhr</note>
+            <note type="chairpersons" xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184.note3">Dritter Präsident Ing. Norbert Hofer</note>
+            <note type="speaker" xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184.note4">Präsident Ing. Norbert Hofer</note>
+            <u who="#PAD_35521" xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d7e444" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e197">Ich eröffne die 184. Sitzung des Nationalrats.</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e199">Als verhindert gemeldet ist Frau Abgeordnete Mag. Gisela Wurm.</seg>
+               <note type="time" xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184.note5">
+                  <time when="2017-06-07T19:36:19+02:00">19:36:19</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e204">Einlauf und Zuweisungen</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184.note6">Präsident Ing. Norbert Hofer</note>
+            <u who="#PAD_35521" xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d7e478" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e209">Hinsichtlich der eingelangten Verhandlungsgegenstände und deren Zuweisungen verweise ich gemäß § 23 Abs. 4 der Geschäftsordnung auf die im Sitzungssaal verteilten Mitteilungen.</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e211">Die schriftlichen Mitteilungen haben folgenden Wortlaut:</seg>
+               <gap reason="editorial" xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184.gap2">
+                  <desc xml:lang="en">Quoted printed matter omited</desc>
+                  <desc xml:lang="de">Zitierte Druckfassung entfernt</desc>
+               </gap>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e218">Ergänzung der Mitteilung gemäß § 23 Abs. 4 des Geschäftsordnungsgesetzes 1975</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e220">Weitere Zuweisung folgender Anträge:</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e222">Antrag 2226/A der Abgeordneten Mag. Michaela Steinacker, Josef Muchitsch, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Aktiengesetz, das GmbH-Gesetz, das SE-Gesetz, das Genossenschaftsgesetz und das Arbeitsverfassungsgesetz zur Erreichung einer gleichberechtigten Vertretung von Frauen und Männern im Aufsichtsrat geändert werden (Gleichstellungsgesetz von Frauen und Männern im Aufsichtsrat – GFMA-G)</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e224">dem Justizausschuss</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e226">Antrag 2227/A der Abgeordneten Dr. Peter Wittmann, Mag. Wolfgang Gerstl, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das E-Government-Gesetz geändert wird</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e228">dem Verfassungsausschuss</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e230">Antrag 2228/A der Abgeordneten Josef Muchitsch, August Wöginger, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das ArbeitnehmerInnenschutzgesetz, das Arbeitsinspektionsgesetz 1993, das Arbeitszeitgesetz, das Arbeitsruhegesetz, das Mutterschutzgesetz 1979, das Allgemeine Sozialversicherungsgesetz, das Beamten-Kranken- und Unfallversicherungsgesetz und das Arbeitsplatz-Sicherungsgesetz 1991 geändert werden (ArbeitnehmerInnenschutz-Deregulierungsgesetz)</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e232">dem Ausschuss für Arbeit und Soziales</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e235">Antrag 2229/A der Abgeordneten Anton Heinzl, Andreas Ottenschläger, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Kraftfahrgesetz 1967 und das Unfalluntersuchungsgesetz-UUG 2005 geändert werden</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e237">dem Verkehrsausschuss</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e239">Antrag 2230/A der Abgeordneten Anton Heinzl, Andreas Ottenschläger, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Wasserstraßengesetz geändert wird</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e241">dem Verkehrsausschuss</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e243">Antrag 2231/A der Abgeordneten Ing. Mag. Werner Groiß, Dietmar Keck, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Einkommensteuergesetz 1988,</seg>
+               <pb n="10"/>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e246">das Körperschaftsteuergesetz 1988, das Stiftungseingangssteuergesetz, das Aktiengesetz und das Allgemeine Sozialversicherungsgesetz geändert sowie aktienrechtliche Sonderregelungen über die planmäßige Abgabe von Aktien einer Arbeitgebergesellschaft erlassen werden (Mitarbeiterbeteiligungsstiftungsgesetz 2017 – MitarbeiterBetStG 2017)</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e248">dem Finanzausschuss</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e250">Antrag 2232/A der Abgeordneten Hermann Krist, Mag. Johannes Rauch, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem ein Bundesgesetz betreffend die Förderung des Sports erlassen wird und das Bundesgesetz über die Neuorganisation der Bundessporteinrichtungen sowie das Anti-Doping Bundesgesetz geändert werden</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e252">dem Ausschuss für Sportangelegenheiten</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e254">Antrag 2233/A der Abgeordneten Josef Muchitsch, August Wöginger, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Arbeitszeitgesetz, das Arbeitsruhegesetz und das Apothekengesetz geändert werden</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e257">dem Ausschuss für Arbeit und Soziales</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e259">Antrag 2234/A der Abgeordneten Josef Muchitsch, August Wöginger, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Insolvenz-Entgeltsicherungsgesetz geändert wird</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e261">dem Ausschuss für Arbeit und Soziales</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e263">Antrag 2235/A der Abgeordneten Mag. Elisabeth Grossmann, Dr. Karlheinz Töchterle, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Hochschulgesetz 2005, das Schulorganisationsgesetz und das Land- und forstwirtschaftliche Bundesschulgesetz geändert werden sowie das Hochschul-Studienberechtigungsgesetz aufgehoben wird und das Universitätsgesetz 2002, das Fachhochschul-Studiengesetz, das Privatuniversitätengesetz und das Hochschul-Qualitätssicherungsgesetz geändert werden</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e265">dem Unterrichtsausschuss</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e267">Antrag 2236/A der Abgeordneten Dr. Peter Wittmann, Mag. Wolfgang Gerstl, Kolleginnen und Kollegen betreffend ein Bundesverfassungsgesetz, mit dem das Bundes-Verfassungsgesetz geändert, ein Staatsverträge-Bundesverfassungsgesetz erlassen und das Staatsverträge-Bundesverfassungsgesetz geändert werden</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e269">dem Verfassungsausschuss</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e271">Antrag 2237/A der Abgeordneten Ing. Mag. Werner Groiß, Kai Jan Krainer, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Einkommensteuergesetz 1988, das Körperschaftsteuergesetz 1988, das Umsatzsteuergesetz 1994 und das Alternative Investmentfonds Manager-Gesetz geändert werden (Mittelstandsfinanzierungsgesellschaftengesetz 2017 – MiFiGG 2017)</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e273">dem Finanzausschuss</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e275">Antrag 2238/A der Abgeordneten Ing. Mag. Werner Groiß, Kai Jan Krainer, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Tabaksteuergesetz 1995 und das Tabakmonopolgesetz 1996 geändert werden</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e277">dem Finanzausschuss</seg>
+               <pb n="11"/>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e281">Antrag 2239/A der Abgeordneten Ing. Mag. Werner Groiß, Kai Jan Krainer, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Normverbrauchsabgabegesetz geändert wird</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e283">dem Finanzausschuss</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e285">Antrag 2240/A der Abgeordneten Erwin Spindelberger, Dr. Erwin Rasinger, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Suchtmittelgesetz geändert wird (SMG-Novelle 2017)</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e287">dem Gesundheitsausschuss</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e289">Antrag 2241/A der Abgeordneten Josef Muchitsch, August Wöginger, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Bauarbeiter-Urlaubs- und Abfertigungsgesetz und das Bauarbeiter-Schlechtwetterentschädigungsgesetz 1957 geändert werden</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e291">dem Ausschuss für Arbeit und Soziales</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e293">Antrag 2242/A der Abgeordneten Dr. Peter Wittmann, Mag. Wolfgang Gerstl, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Einführungsgesetz zu den Verwaltungsverfahrensgesetzen 2008 und das Verwaltungsstrafgesetz 1991 geändert werden</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e295">dem Verfassungsausschuss</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e297">Antrag 2243/A der Abgeordneten Mag. Michaela Steinacker, Dr. Johannes Jarolim, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Außerstreitgesetz, die Jurisdiktionsnorm, das Gerichtsgebührengesetz, das Sicherheitspolizeigesetz und das Auslandsunterhaltsgesetz 2014 geändert werden sowie das Bundesgesetz vom 9. Juni 1988 zur Durchführung des Übereinkommens vom 25. Oktober 1980 über die zivilrechtlichen Aspekte internationaler Kindesentführung aufgehoben wird (Kinder-RückführungsG 2017 – KindRückG 2017)</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e299">dem Justizausschuss</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184.note7">Präsident Ing. Norbert Hofer</note>
+            <u who="#PAD_35521" xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d7e1230" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e304">Weiters weise ich nachstehende Anträge den folgenden Ausschüssen zu:</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e306">Antrag 2244/A(E) der Abgeordneten Strache, Kolleginnen und Kollegen dem Ausschuss für innere Angelegenheiten;</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e308">Antrag 2245/A(E) der Abgeordneten Ing. Hofer, Kolleginnen und Kollegen dem Ausschuss für Arbeit und Soziales;</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e310">Antrag 2246/A(E) der Abgeordneten Mölzer, Kolleginnen und Kollegen dem Unterrichtsausschuss;</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e312">Antrag 2247/A(E) der Abgeordneten Pendl, Mag. Schönegger, Kolleginnen und Kollegen dem Verfassungsausschuss;</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e314">Antrag 2248/A(E) der Abgeordneten Mag. Muttonen, Dr. Lopatka, Kolleginnen und Kollegen dem Außenpolitischen Ausschuss;</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e316">Antrag 2250/A(E) der Abgeordneten Strache, Kolleginnen und Kollegen dem Außenpolitischen Ausschuss;</seg>
+               <pb n="12"/>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e319">Antrag 2251/A(E) der Abgeordneten Ing. Hofer, Kolleginnen und Kollegen dem Verfassungsausschuss;</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e321">Antrag 2252/A(E) der Abgeordneten Ing. Hofer, Kolleginnen und Kollegen dem Ausschuss für Arbeit und Soziales.</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e323">Die nächste Sitzung des Nationalrates, die geschäftsordnungsmäßige Mitteilungen und Zuweisungen betreffen wird, berufe ich für 19.38 Uhr ein; das ist gleich im Anschluss an diese Sitzung.</seg>
+               <seg xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184_d2e326">Die Sitzung ist geschlossen.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184.note8">
+               <time when="2017-06-07T19:38:07+02:00">19:38:07</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2017-06-07-025-XXV-NRSITZ-00184.note9">Schluss der Sitzung:<time when="2017-06-07T19:38:00+02:00">19:38</time>Uhr</note>
+         </div>
+      </body>
+   </text>
+</TEI>

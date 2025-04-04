@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" ana="#parla.sitting #reference" xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066.xml" xml:base="https://parlamint-at.acdh.oeaw.ac.at" prev="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00065.xml" next="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2008-07-09-023-XXIII-NRSITZ-00067.xml">
+   <teiHeader xml:lang="en">
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="de">Österreichisches Parlamentskorpus ParlaMint-AT, Stenographische Protokolle der Plenarsitzungen des Österreichischen Nationalrats, XXIII. Gesetzgebungsperiode [ParlaMint]</title>
+            <title type="sub" xml:lang="de">66. Sitzung des Nationalrates der Republik Österreich, XXIII. Gesetzgebungsperiode, Dienstag, 8. Juli 2008</title>
+            <title type="main" xml:lang="en">Austrian parliamentary corpus ParlaMint-AT, Shorthand records of the National Council of the Austrian Parliament, Legislative period XXIII [ParlaMint]</title>
+            <title type="sub" xml:lang="en">Sitting Number 66, Legislative period XXIII, Tuesday, 8. July 2008</title>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.sitting" n="66">66. Sitzung</meeting>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.term #NR.XXIII" n="23">XXIII. Gesetzgebungsperiode</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.sitting" n="66">Sitting 66</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.term #NR.XXIII" n="23">Legislative period XXIII</meeting>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0002-8111-5584">Hannes Pirker</persName>
+               <persName ref="https://orcid.org/0000-0003-2436-0361">Daniel Schopper</persName>
+               <persName ref="https://orcid.org/0000-0002-1631-4560">Tanja Wissik</persName>
+               <resp xml:lang="de">Projektplanung und Methode</resp>
+               <resp xml:lang="en">Project set-up and methodology</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hannes Pirker</persName>
+               <resp xml:lang="de">Datenbeschaffung, Korpuskodierung in TEI und automatische linguistische Annotation</resp>
+               <resp xml:lang="en">Data retrieval, TEI corpus encoding and automatic linguistic annotation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Schopper</persName>
+               <resp xml:lang="de">XSLT Transformationen</resp>
+               <resp xml:lang="en">XSLT transformations</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Martin Kirnbauer</persName>
+               <resp xml:lang="de">Einige der manuellen Korrekturen</resp>
+               <resp xml:lang="en">Some of the manual curation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Tanja Wissik</persName>
+               <resp xml:lang="de">Metadaten und Übersetzung</resp>
+               <resp xml:lang="en">Metadata and translation</resp>
+            </respStmt>
+            <funder>
+               <orgName xml:lang="de">CLARIN-ERIC</orgName>
+               <orgName xml:lang="en">CLARIN-ERIC (Common Language Resources and Technology Infrastructure—European Research Infrastructure Consortium)</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </funder>
+            <funder>
+               <orgName xml:lang="de">ÖAW (Österreichische Akademie der Wissenschaften)</orgName>
+               <orgName xml:lang="en">ÖAW (Austrian Academy of Sciences)</orgName>
+               <ref target="https://www.oeaw.ac.at/">www.oeaw.ac.at</ref>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>4.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="4" xml:lang="de">4 Äußerungen</measure>
+            <measure unit="speeches" quantity="4" xml:lang="en">4 speeches</measure>
+            <measure unit="words" quantity="1102" xml:lang="de">1,102 Wörter</measure>
+            <measure unit="words" quantity="1102" xml:lang="en">1,102 words</measure>
+         </extent>
+         <publicationStmt>
+            <publisher>
+               <orgName xml:lang="de">Die CLARIN Forschungsinfrastruktur</orgName>
+               <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </publisher>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/1912</idno>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="de">Dieses Werk ist lizensiert unter der <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz (CC BY 4.0)</ref>.</p>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+            </availability>
+            <date when="2024-05-14">2024-05-14</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main" xml:lang="de">Stenographische Protokolle der Plenarsitzungen des Nationalrats der Republik Österreich</title>
+               <title type="sub" xml:lang="de">Stenographisches Protokoll, 66. Sitzung des Nationalrates der Republik Österreich, XXIII. Gesetzgebungsperiode, Dienstag, 8. Juli 2008</title>
+               <title type="main" xml:lang="en">Shorthand records of the plenary sittings of the National Council of the Austrian parliament</title>
+               <title type="sub" xml:lang="en">Shorthand record, Sitting Number 66, Legislative period XXIII, Tuesday, 8. July 2008</title>
+               <publisher>Parlamentsdirektion</publisher>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/PAKT/VHG/XXIII/NRSITZ/NRSITZ_00066/fnameorig_142996.html</idno>
+               <date when="2008-07-08">2008-07-08</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p xml:lang="en"><ref target="https://www.clarin.eu/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://clarin-eric.github.io/ParlaMint/">ParlaMint encoding guidelines</ref>, covering the period from 2015 to mid-2022; (2) add linguistic annotations to the corpora and machine-translate them to English; (3) make the corpora available through concordancers; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.</p>
+            <p xml:lang="de"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+            </p>
+         </projectDesc>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="desc" occurs="4"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="note" occurs="10"/>
+               <tagUsage gi="pb" occurs="3"/>
+               <tagUsage gi="seg" occurs="48"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="time" occurs="5"/>
+               <tagUsage gi="u" occurs="4"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <name type="city" xml:lang="de">Wien</name>
+               <name type="city" xml:lang="en">Vienna</name>
+               <name type="country" key="AT" xml:lang="en">Austria</name>
+               <name type="country" key="AT" xml:lang="de">Österreich</name>
+               <date ana="#parla.sitting" when="2008-07-08">2008-07-08</date>
+            </setting>
+         </settingDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2022-12-13">
+            <name>Hannes Pirker</name> : Converted from source HTML to TEI.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text ana="#reference">
+      <body>
+         <div xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e178" type="debateSection">
+            <gap reason="editorial" xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066.gap1">
+               <desc xml:lang="en">Frontmatters and table of content removed</desc>
+               <desc xml:lang="de">Titelseite und Inhaltsangabe entfernt</desc>
+            </gap>
+            <note type="time" xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066.note1">Beginn der Sitzung:<time when="2008-07-08T22:00:00+02:00">22:00</time>Uhr</note>
+            <note type="chairpersons" xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066.note2">Präsidentin Mag. Barbara Prammer</note>
+            <note type="speaker" xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066.note3">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d7e731" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e194">Die Sitzung ist eröffnet.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e196">Als verhindert gemeldet ist Herr Abgeordneter Dobnigg.</seg>
+               <note type="time" xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066.note4">
+                  <time when="2008-07-08T22:00:02+02:00">22:00:02</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e201">Einlauf und Zuweisungen</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066.note5">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d7e762" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e206">Hinsichtlich der eingelangten Verhandlungsgegenstände und deren Zuweisung verweise ich gemäß § 23 Abs. 4 der Geschäftsordnung auf die im Sitzungssaal verteilte Mitteilung.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e208">Die schriftliche Mitteilung hat folgenden Wortlaut:</seg>
+               <gap reason="editorial" xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066.gap2">
+                  <desc xml:lang="en">Quoted printed matter omited</desc>
+                  <desc xml:lang="de">Zitierte Druckfassung entfernt</desc>
+               </gap>
+               <note type="time" xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066.note6">
+                  <time when="2008-07-08T22:00:05+02:00">22:00:05</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e218">Fristsetzungsanträge</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066.note7">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d7e963" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e223">Ich teile mit, dass die Abgeordneten Dr. Bauer, Kopf, Kolleginnen und Kollegen beantragt haben, dem Ausschuss für Wirtschaft und Industrie zur Berichterstattung über den Antrag 853/A der Abgeordneten Kopf, Dr. Bauer, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Wärme- und Kälteleitungsausbaugesetz erlassen und das Energie-Regulierungsbehördengesetz geändert wird, eine Frist bis 9. Juli 2008 zu setzen.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e225">Der gegenständliche Fristsetzungsantrag wird gleich zur Abstimmung gebracht werden.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e227">Ferner teile ich mit, dass Herr Abgeordneter Mag. Steinhauser beantragt hat, dem Ausschuss für innere Angelegenheiten zur Berichterstattung über den Antrag 844/A</seg>
+               <pb n="7"/>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e230">der Abgeordneten Dr. Pilz, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Sicherheitspolizeigesetz 1991 geändert wird, eine Frist bis 9. Juli 2008 zu setzen.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e232">Der gegenständliche Fristsetzungsantrag wird gleich zur Abstimmung gebracht werden.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e234">Ich teile weiters mit, dass Herr Abgeordneter Mag. Rossmann beantragt hat, dem Finanzausschuss zur Berichterstattung über den Antrag 842/A der Abgeordneten Mag. Rossmann, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Stiftungseingangssteuergesetz (StiftEG) geändert wird und der Stiftungseingangssteuersatz erhöht wird, eine Frist bis 9. Juli 2008 zu setzen.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e236">Der gegenständliche Fristsetzungsantrag wird gleich zur Abstimmung gebracht werden.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e238">Ich teile nun mit, dass Frau Abgeordnete Hradecsni beantragt hat, dem Justizausschuss zur Berichterstattung über den Antrag 499/A der Abgeordneten Hradecsni, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Konsumentenschutzgesetz geändert wird, eine Frist bis 9. Juli 2008 zu setzen.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e240">Dieser Fristsetzungsantrag wird ebenfalls gleich zur Abstimmung gebracht werden.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e242">Des Weiteren teile ich mit, dass Herr Abgeordneter Mag. Steinhauser beantragt hat, dem Justizausschuss zur Berichterstattung über den Antrag 843/A der Abgeordneten Mag. Steinhauser, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Strafgesetzbuch BGBl. Nr. 60/1974, zuletzt geändert durch BGBl. I Nr. 112/2007, geändert wird, eine Frist bis 9. Juli 2008 zu setzen.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e245">Auch darüber wird im Anschluss abzustimmen sein.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e247">Ferner teile ich mit, dass Herr Abgeordneter Öllinger beantragt hat, dem Ausschuss für Arbeit und Soziales zur Berichterstattung über den Antrag 846/A der Abgeordneten Öllinger, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Allgemeine Sozialversicherungsgesetz und andere Gesetze geändert werden, und ein Bundesgesetz, mit dem der Bundesminister für Finanzen ermächtigt wird, auf Bundesforderungen gegenüber den Gebietskrankenkassen zu verzichten, sowie ein Bundesgesetz über eine pauschalierte Abgabe von Unternehmen, die zum Vertrieb von Heilmitteln berechtigt sind (Heilmittelabgabegesetz), (Krankenkassen-Finanzierungs-Sicherungsgesetz), eine Frist bis 9. Juli 2008 zu setzen.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e249">Der gegenständliche Antrag wird ebenfalls sogleich zur Abstimmung gebracht werden.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e251">Weiters teile mit, dass Frau Abgeordnete Mag. Brigid Weinzingerbeantragt hat, dem Ausschuss für innere Angelegenheiten zur Berichterstattung über den Antrag 845/A</seg>
+               <pb n="8"/>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e254">der Abgeordneten Mag. Brigid Weinzinger, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Niederlassungs- und Aufenthaltsgesetz, BGBl. I 2005/100, idF BGBl. Nr. 4/2008, geändert wird, eine Frist bis 9. Juli 2008 zu setzen.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e256">Auch dieser Antrag wird gleich zur Abstimmung gebracht werden.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e258">Schließlich teile ich mit, dass Frau Abgeordnete Mag. Lunacek beantragt hat, dem Finanzausschuss zur Berichterstattung über den Antrag 847/A der Abgeordneten Mag. Lunacek, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Ausfuhrförderungsgesetz 1981 geändert wird, eine Frist bis 9. Juli 2008 zu setzen.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e260">Dieser Antrag wird auch sogleich zur Abstimmung gebracht werden.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e262">Abstimmung über Fristsetzungsanträge</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066.note8">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d7e1108" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e267">Wir kommen nunmehr zu den Abstimmungen über die eingebrachten Fristsetzungsanträge in der Reihenfolge der Bekanntgabe.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e269">Ich werde das jetzt sehr abgekürzt verlesen, wenn Ihnen das so recht ist. Dann muss ich allerdings um etwas mehr Aufmerksamkeit bitten, aber ich möchte das jetzt so kurz wie möglich machen.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e271">Wir kommen zuerst zur Abstimmung über den Antrag der Abgeordneten Dr. Bauer, Kopf, Kolleginnen und Kollegen, dem Wirtschaftsausschuss zur Berichterstattung über den Antrag 853/A betreffend Wärme- und Kälteleitungsausbaugesetz eine Frist bis 9. Juli 2008 zu setzen.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e273">Wer diesem Antrag die Zustimmung gibt, den ersuche ich um ein entsprechendes Zeichen. – Dieser Antrag ist mit Mehrheit angenommen.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e275">Ich lasse nun abstimmen über den Antrag des Herrn Abgeordneten Mag. Steinhauser, dem Ausschuss für innere Angelegenheiten zur Berichterstattung über den Antrag 844/A eine Frist bis 9. Juli 2008 zu setzen – das ist das Sicherheitspolizeigesetz.</seg>
+               <pb n="9"/>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e278">Wer diesem Antrag die Zustimmung gibt, den ersuche ich um ein entsprechendes Zeichen. – Das ist die Minderheit. Abgelehnt.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e280">Ich lasse jetzt abstimmen über den Antrag des Herrn Abgeordneten Mag. Rossmann, dem Finanzausschuss zur Berichterstattung über den Antrag 842/A eine Frist bis 9. Juli 2008 zu setzen – das ist das Stiftungseingangssteuergesetz.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e282">Wer diesem Antrag die Zustimmung gibt, den ersuche ich um ein entsprechendes Zeichen. – Das ist die Minderheit. Abgelehnt.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e284">Ich lasse ferner abstimmen über den Antrag der Frau Abgeordneten Hradecsni, dem Justizausschuss zur Berichterstattung über den Antrag 499/A eine Frist bis 9. Juli 2008 zu setzen – das ist das Konsumentenschutzgesetz.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e286">Wer diesem Antrag die Zustimmung gibt, den ersuche ich um ein entsprechendes Zeichen. – Das ist die Minderheit. Abgelehnt.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e289">Ich lasse des Weiteren abstimmen über den Antrag des Herrn Abgeordneten Mag. Steinhauser, dem Justizausschuss zur Berichterstattung über den Antrag 843/A eine Frist bis 9. Juli 2008 zu setzen – das ist das Bundesgesetz, mit dem das Strafgesetzbuch BGBl. Nr. 60/1974, zuletzt geändert 2007, geändert wird.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e291">Wer diesem Antrag die Zustimmung gibt, den ersuche ich um ein entsprechendes Zeichen. – Das ist die Minderheit. Abgelehnt.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e293">Ich lasse nun abstimmen über den Antrag des Herrn Abgeordneten Öllinger, dem Ausschuss für Arbeit und Soziales zur Berichterstattung über den Antrag 846/A eine Frist bis 9. Juli 2008 zu setzen – das sind das Heilmittelabgabegesetz und das Krankenkassen-Finanzierungs-Sicherungsgesetz.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e295">Wer diesem Antrag die Zustimmung gibt, den ersuche ich um ein entsprechendes Zeichen. – Das ist die Minderheit. Abgelehnt.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e297">Ich lasse weiters abstimmen über den Antrag der Frau Abgeordneten Mag. Brigid Weinzinger, dem Ausschuss für innere Angelegenheiten zur Berichterstattung über den Antrag 845/A eine Frist bis 9. Juli 2008 zu setzen – das ist das Niederlassungs- und Aufenthaltsgesetz.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e299">Wer diesem Antrag die Zustimmung gibt, den ersuche ich um ein entsprechendes Zeichen. – Das ist die Minderheit. Abgelehnt.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e301">Ich lasse schließlich abstimmen über den Antrag der Frau Abgeordneten Mag. Lunacek, dem Finanzausschuss zur Berichterstattung über den Antrag 847/A eine Frist bis 9. Juli 2008 zu setzen – das ist das Ausfuhrförderungsgesetz 1981.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e303">Wer diesem Antrag die Zustimmung gibt, den ersuche ich um ein entsprechendes Zeichen. – Das ist die Minderheit. Abgelehnt.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e305">Die nächste Sitzung des Nationalrates berufe ich für Mittwoch, den 9. Juli 2008, 9 Uhr, ein.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e307">Die Tagesordnung wird im Wege der Klubs zugestellt.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e309">Diese Sitzung wird mit einer Fragestunde eingeleitet.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e312">Bevor ich die Sitzung schließe, gebe ich bekannt, dass unmittelbar nach Schluss dieser Sitzung der Verfassungsausschuss im Lokal VIII seine Sitzung abhalten wird.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066_d2e314">Diese Sitzung ist geschlossen.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066.note9">
+               <time when="2008-07-08T22:08:21+02:00">22:08:21</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2008-07-08-023-XXIII-NRSITZ-00066.note10">Schluss der Sitzung:<time when="2008-07-08T22:08:00+02:00">22:08</time>Uhr</note>
+         </div>
+      </body>
+   </text>
+</TEI>

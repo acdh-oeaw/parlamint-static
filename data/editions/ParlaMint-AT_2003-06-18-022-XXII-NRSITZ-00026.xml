@@ -1,0 +1,335 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" ana="#parla.sitting #reference" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.xml" xml:base="https://parlamint-at.acdh.oeaw.ac.at" prev="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00025.xml" next="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2003-07-08-022-XXII-NRSITZ-00027.xml">
+   <teiHeader xml:lang="en">
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="de">Österreichisches Parlamentskorpus ParlaMint-AT, Stenographische Protokolle der Plenarsitzungen des Österreichischen Nationalrats, XXII. Gesetzgebungsperiode [ParlaMint]</title>
+            <title type="sub" xml:lang="de">26. Sitzung des Nationalrates der Republik Österreich, XXII. Gesetzgebungsperiode, Mittwoch, 18. Juni 2003</title>
+            <title type="main" xml:lang="en">Austrian parliamentary corpus ParlaMint-AT, Shorthand records of the National Council of the Austrian Parliament, Legislative period XXII [ParlaMint]</title>
+            <title type="sub" xml:lang="en">Sitting Number 26, Legislative period XXII, Wednesday, 18. June 2003</title>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.sitting" n="26">26. Sitzung</meeting>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.term #NR.XXII" n="22">XXII. Gesetzgebungsperiode</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.sitting" n="26">Sitting 26</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.term #NR.XXII" n="22">Legislative period XXII</meeting>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0002-8111-5584">Hannes Pirker</persName>
+               <persName ref="https://orcid.org/0000-0003-2436-0361">Daniel Schopper</persName>
+               <persName ref="https://orcid.org/0000-0002-1631-4560">Tanja Wissik</persName>
+               <resp xml:lang="de">Projektplanung und Methode</resp>
+               <resp xml:lang="en">Project set-up and methodology</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hannes Pirker</persName>
+               <resp xml:lang="de">Datenbeschaffung, Korpuskodierung in TEI und automatische linguistische Annotation</resp>
+               <resp xml:lang="en">Data retrieval, TEI corpus encoding and automatic linguistic annotation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Schopper</persName>
+               <resp xml:lang="de">XSLT Transformationen</resp>
+               <resp xml:lang="en">XSLT transformations</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Martin Kirnbauer</persName>
+               <resp xml:lang="de">Einige der manuellen Korrekturen</resp>
+               <resp xml:lang="en">Some of the manual curation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Tanja Wissik</persName>
+               <resp xml:lang="de">Metadaten und Übersetzung</resp>
+               <resp xml:lang="en">Metadata and translation</resp>
+            </respStmt>
+            <funder>
+               <orgName xml:lang="de">CLARIN-ERIC</orgName>
+               <orgName xml:lang="en">CLARIN-ERIC (Common Language Resources and Technology Infrastructure—European Research Infrastructure Consortium)</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </funder>
+            <funder>
+               <orgName xml:lang="de">ÖAW (Österreichische Akademie der Wissenschaften)</orgName>
+               <orgName xml:lang="en">ÖAW (Austrian Academy of Sciences)</orgName>
+               <ref target="https://www.oeaw.ac.at/">www.oeaw.ac.at</ref>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>4.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="15" xml:lang="de">15 Äußerungen</measure>
+            <measure unit="speeches" quantity="15" xml:lang="en">15 speeches</measure>
+            <measure unit="words" quantity="3181" xml:lang="de">3,181 Wörter</measure>
+            <measure unit="words" quantity="3181" xml:lang="en">3,181 words</measure>
+         </extent>
+         <publicationStmt>
+            <publisher>
+               <orgName xml:lang="de">Die CLARIN Forschungsinfrastruktur</orgName>
+               <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </publisher>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/1912</idno>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="de">Dieses Werk ist lizensiert unter der <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz (CC BY 4.0)</ref>.</p>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+            </availability>
+            <date when="2024-05-14">2024-05-14</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main" xml:lang="de">Stenographische Protokolle der Plenarsitzungen des Nationalrats der Republik Österreich</title>
+               <title type="sub" xml:lang="de">Stenographisches Protokoll, 26. Sitzung des Nationalrates der Republik Österreich, XXII. Gesetzgebungsperiode, Mittwoch, 18. Juni 2003</title>
+               <title type="main" xml:lang="en">Shorthand records of the plenary sittings of the National Council of the Austrian parliament</title>
+               <title type="sub" xml:lang="en">Shorthand record, Sitting Number 26, Legislative period XXII, Wednesday, 18. June 2003</title>
+               <publisher>Parlamentsdirektion</publisher>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/PAKT/VHG/XXII/NRSITZ/NRSITZ_00026/fnameorig_007238.html</idno>
+               <date when="2003-06-18">2003-06-18</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p xml:lang="en"><ref target="https://www.clarin.eu/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://clarin-eric.github.io/ParlaMint/">ParlaMint encoding guidelines</ref>, covering the period from 2015 to mid-2022; (2) add linguistic annotations to the corpora and machine-translate them to English; (3) make the corpora available through concordancers; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.</p>
+            <p xml:lang="de"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+            </p>
+         </projectDesc>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="desc" occurs="14"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="3"/>
+               <tagUsage gi="kinesic" occurs="8"/>
+               <tagUsage gi="note" occurs="30"/>
+               <tagUsage gi="pb" occurs="8"/>
+               <tagUsage gi="seg" occurs="87"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="time" occurs="10"/>
+               <tagUsage gi="u" occurs="15"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <name type="city" xml:lang="de">Wien</name>
+               <name type="city" xml:lang="en">Vienna</name>
+               <name type="country" key="AT" xml:lang="en">Austria</name>
+               <name type="country" key="AT" xml:lang="de">Österreich</name>
+               <date ana="#parla.sitting" when="2003-06-18">2003-06-18</date>
+            </setting>
+         </settingDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2022-12-13">
+            <name>Hannes Pirker</name> : Converted from source HTML to TEI.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text ana="#reference">
+      <body>
+         <div xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e178" type="debateSection">
+            <gap reason="editorial" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.gap1">
+               <desc xml:lang="en">Frontmatters and table of content removed</desc>
+               <desc xml:lang="de">Titelseite und Inhaltsangabe entfernt</desc>
+            </gap>
+            <note type="time" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.note1">Beginn der Sitzung:<time when="2003-06-18T20:23:00+02:00">20:23</time>Uhr</note>
+            <note type="chairpersons" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.note2">Zweiter Präsident Dr. Heinz Fischer</note>
+            <note type="speaker" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.note3">Präsident Dr. Heinz Fischer</note>
+            <u who="#PAD_00334" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d7e515" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e194">Ich eröffne die 26. Sitzung des Nationalrates.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e196">Als verhindert gemeldet ist Herr Abgeordneter Dipl.-Ing. Prinzhorn.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e198">Einlauf und Zuweisungen</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.note4">Präsident Dr. Heinz Fischer</note>
+            <u who="#PAD_00334" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d7e543" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e203">Hinsichtlich der eingelangten Verhandlungsgegenstände und deren Zuweisungen verweise ich nach § 23 Abs. 4 der Geschäftsordnung auf die im Sitzungssaal verteilte schriftliche Mitteilung.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e205">Die schriftliche Mitteilung hat folgenden Wortlaut:</seg>
+               <gap reason="editorial" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.gap2">
+                  <desc xml:lang="en">Quoted printed matter omited</desc>
+                  <desc xml:lang="de">Zitierte Druckfassung entfernt</desc>
+               </gap>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e212">Behandlung der Tagesordnung</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.note5">Präsident Dr. Heinz Fischer</note>
+            <u who="#PAD_00334" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d7e778" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e217">Wir gehen in die Tagesordnung ein.</seg>
+               <pb n="5"/>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e220">Redezeitbeschränkung</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.note6">Präsident Dr. Heinz Fischer</note>
+            <u who="#PAD_00334" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d7e798" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e225">Ich gebe bekannt, dass Konsens herbeigeführt wurde, dass folgendermaßen vorgegangen wird: Es besteht Einvernehmen, dass zu jedem Tagesordnung je ein Redner pro Fraktion mit maximal 5 Minuten Redezeit zu Wort gelangt.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e227">Gibt es dagegen Einwendungen? – Das ist nicht der Fall. Dann ist das im Konsens so festgelegt.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e229">1. Punkt</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e231">Bericht des Budgetausschusses über den Antrag 133/A der Abgeordneten Dr. Andreas Khol, Dr. Heinz Fischer, Herbert Scheibner, Dr. Alexander Van der Bellen, Kolleginnen und Kollegen über ein Bundesgesetz betreffend die finanzielle und administrative Unterstützung des Österreich-Konvents (114 der Beilagen)</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.note7">Präsident Dr. Heinz Fischer</note>
+            <u who="#PAD_00334" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d7e841" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e237">Wir kommen zum 1. Punkt der Tagesordnung.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e239">Ein Wunsch nach mündlicher Berichterstattung liegt nicht vor.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e241">Wir gehen daher in die Debatte ein, wobei die Redezeiten jeweils 5 Minuten betragen.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e243">Ich erteile als erstem Redner Herrn Abgeordnetem Dr. Khol das Wort. – Bitte, Herr Abgeordneter.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.note8">
+               <time when="2003-06-18T20:24:00+02:00">20:24</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.note9">Abgeordneter Dr. Andreas Khol (ÖVP)</note>
+            <u who="#PAD_00799" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d7e871" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e251">Herr Präsident! Meine Damen und Herren! Es ist ungewöhnlich, dass der Präsident hier an das Rednerpult tritt. Ich habe mir aber vorbehalten, mich bei wichtigen und grundlegenden Angelegenheiten vom Rednerpult aus zu Wort zu melden.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e253">Wir haben heute eine wichtige und grundlegende Angelegenheit auf der Tagesordnung, die von tragender Bedeutung für unser Gemeinwesen sein kann und hoffentlich sein wird. Es ist dies die Frage des Österreich-Konventes zur Schaffung einer erneuerten Bundesverfassung.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e255">Hiezu, so kann ich dem Hohen Haus berichten, gibt es einen Vier-Parteien-Antrag, der von den Spitzen der vier Parlamentsparteien unterstützt wird und durch den gemeinsam ein solcher Österreich-Konvent zu einer erneuerten Bundesverfassung finanziert und damit auch möglich gemacht werden soll.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e257">Es ist dies ein wichtiges Vorhaben, meine Damen und Herren, nach dem Modell des Europa-Konventes, der dieser Tage zu Ende geht und durch den in Europa die verstreut herumliegenden Vertragstexte, die unübersichtlich gewordene Realverfassung der Europäischen Union zu einer übersichtlichen, geschlossenen und lesbaren Verfassung erneuert werden sollen.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e259">Ein ähnliches Unterfangen nimmt sich der Österreich-Konvent vor. Wir haben in Österreich eine ähnliche Verfassungssituation: Hunderte von Verfassungsbestimmungen, viele Nebengesetze, einen nicht übersichtlichen Grundrechtskatalog und sehr viel Verfassungsrecht, das nicht mehr notwendig ist oder das von vielen als überholt bezeichnet wird.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e261">Hans Klecatsky hat die österreichische Verfassung als eine Ruine bezeichnet. Manche haben sie als Torso bezeichnet. Jedenfalls wissen wir: Diese Verfassung hat sich in ihren Grundsätzen bewährt, hat Friede, Recht und Freiheit, sozialen Rechtsstaat, Bun-</seg>
+               <pb n="6"/>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e264">desstaat und Demokratie in diesem Land dauerhaft ermöglicht, und wir wollen an diesen Grundsätzen der Bundesverfassung festhalten.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e266">Wichtige Kräfte haben sich zusammengeschlossen, um diesen Österreich-Konvent zu ermöglichen: alle vier Parlamentsparteien, Bund, Länder und Gemeinden. Er wird mit 70 Delegierten in 18 Monaten unter Vorsitz des Rechnungshofpräsidenten Franz Fiedler eine erneuerte Verfassung erarbeiten: prägnant, vollständig, zeitgemäß, unter Berücksichtigung der Europäischen Union und unserer Stellung als Mitgliedstaat, mit hoffentlich einem übersichtlichen Grundrechtskatalog, einer erneuerten, schlagkräftigen Kontrolle, einfacheren Verfahren und einer verständlichen Sprache.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e268">Meine Damen und Herren! Ich bin froh, dass wir in einer Zeit, in der es sehr viel Konflikt in diesem Hohen Haus gegeben hat, auf diese Weise ein deutlich sichtbares Zeichen eines Grundkonsenses setzen, der in diesem Haus und über dieses Haus hinaus besteht!</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.kinesic1">
+                  <desc>Beifall bei der ÖVP, den Freiheitlichen und bei Abgeordneten der SPÖ.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e274">Ich möchte allen Verhandlern danken und folgenden Abänderungsantrag einbringen, der die Vollzugsklausel betrifft:</seg>
+               <gap reason="editorial" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.gap3">
+                  <desc xml:lang="en">Quoted printed matter omited</desc>
+                  <desc xml:lang="de">Zitierte Druckfassung entfernt</desc>
+               </gap>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e281">Ich danke Ihnen.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.kinesic2">
+               <desc>Beifall bei der ÖVP, den Freiheitlichen und bei Abgeordneten der SPÖ.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.note10">
+               <time when="2003-06-18T20:28:00+02:00">20:28</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.note11">Präsident Dr. Heinz Fischer</note>
+            <u who="#PAD_00334" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d7e962" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e292">Der Abänderungsantrag ist ausreichend unterstützt und steht mit in Verhandlung.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e294">Zu Wort gelangt als nächster Redner Herr Abgeordneter Dr. Gusenbauer. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.note12">
+               <time when="2003-06-18T20:28:00+02:00">20:28</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.note13">Abgeordneter Dr. Alfred Gusenbauer(SPÖ)</note>
+            <u who="#PAD_00663" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d7e984" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e303">Herr Präsident! Meine sehr verehrten Damen und Herren! Ich stimme in vielen Punkten mit Herrn Präsidentem Khol überein, unter anderem in jenem, dass sich die zentralen Elemente der Kelsen’schen Verfassung bewährt haben und dass die österreichische Verfassung in der Tat besser ist als manchmal ihr Ruf.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e305">Trotzdem haben wir festzuhalten, dass großer Handlungsbedarf besteht, die Verfassung an moderne Herausforderungen anzupassen, was vor allem deshalb notwendig ist, weil in der Vergangenheit der Mut zu grundsätzlichen Änderungen manchmal nicht vorhanden war.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e307">Ich glaube, wir sollten aber von vornherein darauf hinweisen, dass das Ziel dieses Staatskonvents nicht nur, wenngleich auch in Einsparungsvorschlägen besteht. Das ist ein wichtiger Teil, aber eine Staatsreform muss mehr sein als eine Verwaltungsreform.</seg>
+               <pb n="7"/>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e310">Die Verfassung soll ein rechtliches Gehäuse für die Bürger bilden, in dem sie sich wohl fühlen können. Dazu gehört auch eine gestärkte Bürgernähe, die Garantie des Sozialstaates, eine Verstärkung des Persönlichkeitsschutzes, eine Transparenz der Verwaltung, eine Abschaffung des Amtsgeheimnisses und eine effiziente Kontrolle.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e312">Mit der Aufgabenanalyse des Staates allein wird es nicht getan sein. Ich bin der Meinung, dass an der Spitze dieses Österreich-Konvents eine grundsätzliche Diskussion über Staatsaufgaben und Staatsziele stehen muss. Wünschenswert wäre es, wenn wir Konsens über einen Katalog von Staatszielen erzielen könnten, die letztendlich ein Leitbild für unseren Staat ausmachen sollen.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e314">Wir Sozialdemokraten stellen an diesen Österreich-Konvent einen hohen Anspruch und sind der Meinung, wir sollten uns nicht mit Stückwerk zufrieden geben, sondern sollten von vornherein den Anspruch haben, eine grundsätzliche, weit reichende Reform unserer Verfassung durchzuführen; und wenn wir den Eindruck haben, man kann sich auf nichts einigen, dann sollten wir uns nicht mit Stückwerk begnügen. Daher ist es ganz wichtig, dass die Konsenskultur in diesem Konvent von vornherein als leitendes Prinzip im Vordergrund steht.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e316">Wir wollen neue Ideen mit Menschen diskutieren, die bisher abseits der gesetzgebenden Körperschaften tätig waren, und es soll die Möglichkeit bestehen, vorurteilsfrei auch an ihre Vorschläge heranzugehen. Die Grundvoraussetzung dafür ist auch das Bemühen um Konsens. Es geht darum, dass man andere überzeugt, aber sich auch überzeugen lässt. Nur dann, glaube ich, kann dieser Konvent zu Ergebnissen gelangen, die wirklich unseren Ansprüchen Rechnung tragen.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e318">Wir wollen in diesem Konvent grundlegende neue Konzepte für zentrale Bereiche des Staates vorlegen. Es geht um eine aufgabenorientierte Verteilung der Gesetzgebungskompetenzen, es geht um eine Reform der Vollziehung mit dem grundlegenden Anspruch einer stärkeren Regionalisierung – was nicht immer eine Föderalisierung bedeuten muss –, und es geht vor allem darum, dass wir ein durchgängiges Zwei-Ebenen-Prinzip einführen. Ich glaube, wir sind uns alle im Klaren darüber, dass wir keine der vier bestehenden Ebenen abschaffen können – weder Gemeinde, noch Bezirk, Land oder Bund –, aber es wäre schon viel erreicht, wenn für jede Aufgabe in unserem Staat maximal zwei Ebenen zuständig wären. Das würde, so meine ich, zu einer besseren Vollziehung führen.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e320">In diesem Zusammenhang geht es um die Neuordnung auch der so genannten kostspieligen und teuren Bereiche wie der Sicherheitsregionen, der Bildungsregionen und der Gesundheitsregionen, wo eine stärkere Regionalisierung auch einen Beitrag zur Kostenersparnis leisten kann.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e322">Ich glaube, wir sollten uns auch nicht vor einer Reform des Legalitätsprinzips drücken, damit eine neue Aufgabenteilung zwischen Legislative und Exekutive Platz greifen kann.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e325">Ganz wichtig ist, dass bei diesen Vorstellungen sowohl die Transparenz auf allen Ebenen im Vordergrund steht als auch eine Reform des Rechtsschutzes sowohl in der Gerichtsbarkeit als auch im öffentlichen Recht.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e327">Ganz zentral, wenn Einsparungen auf der Tagesordnung stehen, ist auch eine Reform der Finanzverfassung: Wer anschafft und die Ausgaben bestimmen kann, der soll in Zukunft auch für die Einnahmen sorgen.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e329">Wir haben, meine sehr verehrten Damen und Herren, mit diesem Konvent eine große Chance. Diese große Chance soll für Österreich ergriffen werden, und das Interesse unseres Landes und der Republik soll in dieser Frage über der Parteipolitik stehen,</seg>
+               <pb n="8"/>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e332">dann wird es auch ein gutes Ergebnis geben!</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.kinesic3">
+               <desc>Beifall bei der SPÖ und bei Abgeordneten der Grünen, der ÖVP und der Freiheitlichen.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.note14">
+               <time when="2003-06-18T20:33:00+02:00">20:33</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.note15">Präsident Dr. Heinz Fischer</note>
+            <u who="#PAD_00334" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d7e1053" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e343">Zu Wort gelangt Herr Abgeordneter Scheibner. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.note16">
+               <time when="2003-06-18T20:33:00+02:00">20:33</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.note17">Abgeordneter Herbert Scheibner(Freiheitliche)</note>
+            <u who="#PAD_01604" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d7e1071" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e351">Herr Präsident! Meine Damen und Herren! Am Beginn der Arbeit des Verfassungskonvents, für die wir heute mit dieser Vorlage die Rahmenbedingungen schaffen, sollte man der Hoffnung Ausdruck verleihen – und in diesem Sinne habe ich auch meine beiden Vorredner verstanden –, dass mit den Beratungen in diesem Konvent eine ganz große, vielleicht sogar eine epochale Neuordnung unseres Verfassungsgefüges gelingen kann. Und ich sage: gelingen kann, weil dazu einige Voraussetzungen notwendig sein werden:</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e353">Vor allem – und das sei in die Richtung von uns als Parlamentarier und Politiker gesagt – natürlich jene, dass wir in diesem Verfassungskonvent unsere tagespolitischen, parteipolitischen Ideen – nicht die grundsatzpolitischen, aber die tagespolitischen und parteipolitischen Ideen – einmal in die zweite Reihe stellen und versuchen müssen, so wie es auch Präsident Fiedler angekündigt hat, hier einen Konsens zu finden, einen Konsens in wahrscheinlich sehr schwierigen, in sehr umfassenden Materien; wobei wir alle davon ausgehen können, dass sich zumindest in weiten Bereichen dieser Arbeit das mediale Interesse in Grenzen halten wird und niemand von jenen, die hier wahrscheinlich viele Stunden, Tage und Wochen sehr intensiv mit Grundsatzmaterien beschäftigt sein werden, sich damit die großen Lorbeeren in der Öffentlichkeit erwirtschaften wird.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e355">Aber ich glaube, es ist wichtig, sich dieser Verantwortung zu stellen, erstmals nach vielen Jahren, wenn nicht Jahrzehnten auch zu überprüfen, ob dieses Verfassungsgefüge – und nicht nur das Bundes-Verfassungsgesetz, sondern insgesamt die Bundesverfassung der Republik Österreich – noch dem entspricht, was ein moderner Staat des 21. Jahrhunderts an ein derartiges Verfassungsgefüge an Ansprüchen stellt.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e357">Wir werden – und da gebe ich Kollegem Gusenbauer Recht – vor allem in eine Aufgabenkritik eingehen müssen, indem wir von Beginn an überlegen: Welche Aufgaben hat denn ein moderner Staat von Seiten der öffentlichen Hand zu regeln? – Da werden vielleicht, oder wahrscheinlich, viele Aufgaben sein, die in Frage zu stellen sind, vielleicht aber auch die eine oder andere Aufgabe, die dazukommen wird.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e359">Wir werden uns die Frage stellen: Wie schaffen wir es, dass die öffentliche Hand, das gesamte Verwaltungsgefüge, zum Dienstleister am Bürger wird und nicht das Gefühl weiter perpetuiert wird, dass es umgekehrt ist, dass der Bürger in Wirklichkeit der Dienstleister des Staates ist?</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e361">Wir werden uns überlegen müssen, wie die Instrumente der Demokratie, auch der direkten Demokratie, zu verbessern sind: Fragen des Wahlrechtes, Fragen auch der Instrumente wie Volksbegehren, Volksabstimmung. Wir werden uns – und das wird ganz besonders wichtig sein – auch mit den Fragen der Kontrolle auseinander setzen müssen, vielleicht auch mit den Befugnissen, die dieses Haus im Bereich der Kontrollrechte gegenüber der Verwaltung hat, vor allem aber auch, wenn es darum geht, die Höchstgerichte zu schärfen und ihre Arbeit, ihre Kontrollbefugnisse zu stärken – gerade dort, wo es auch darum geht, Verfassungsgesetze auf ihre Rechtmäßigkeit im Gesamtgefüge zu überprüfen.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e363">Hier wird sehr viel Arbeit zu tun sein, auch wenn es darum geht, dann das Verfassungsrecht insgesamt wieder zusammenzuführen. Sie wissen, wir haben oft kritisiert, dass man auch hier im Hohen Haus mit einer bequemen Zweidrittelmehrheit sehr viele</seg>
+               <pb n="9"/>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e366">einfachgesetzliche Materien in den Verfassungsrang gehoben hat, nur um die Kontrolle des Verfassungsgerichtshofes auszuschalten. Auch diese Materien werden wir überprüfen und wieder auf den wahren Gehalt im Rahmen des Stufenbaus der Rechtsordnung zurückführen müssen.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e368">Also eine Herausforderung, eine echte Herausforderung – nicht nur an die vielen Teilnehmer dieses Konvents, sondern auch an alle anderen, die sich mit diesen wichtigen Fragen des Verfassungsrechts in der Zukunft auseinander setzen werden!</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e370">Aber ich bin guter Hoffnung, dass es, wenn wir diese Prinzipien auch hier im Hohen Haus beachten, wirklich gelingen kann, ein neues, ein epochales, ein zukunftsweisendes Verfassungswerk zu schaffen – und das wäre mehr, als tagespolitisch einmal die Schlagzeilen zu bestimmen.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.kinesic4">
+               <desc>Beifall bei den Freiheitlichen, der ÖVP und bei Abgeordneten der SPÖ.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.note18">
+               <time when="2003-06-18T20:38:00+02:00">20:38</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.note19">Präsident Dr. Heinz Fischer</note>
+            <u who="#PAD_00334" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d7e1133" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e382">Zu Wort gelangt Frau Abgeordnete Dr. Glawischnig. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.note20">
+               <time when="2003-06-18T20:38:00+02:00">20:38</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.note21">Abgeordnete Dr. Eva Glawischnig(Grüne)</note>
+            <u who="#PAD_08240" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d7e1151" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e390">Herr Präsident! Hohes Haus! Die Grünen begrüßen grundsätzlich selbstverständlich das Vorhaben einer großen Verfassungsreform. Wir möchten heute aber auch einige Warnungen mit auf den Weg geben, und wir werden auch dem Gesetz heute leider nicht zustimmen können. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d7e1159">Abg. Scheibner: So fängt es schon an!</note>Ich möchte einige Punkte dieser Kritik, die bereits mit der Einrichtung begonnen hat, herausgreifen, und auch die jüngste Entwicklung, die uns diese Woche beziehungsweise heute zur Ablehnung motiviert hat, genau begründen. Wir glauben, dass es einen Unterschied gibt zwischen einer EU-Verfassung, einem EU-Konvent und einer österreichischen Verfassungsreform: Das Wort „Konvent“ kommt aus dem Französischen <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d7e1173">Abg. Großruck: Aus dem Lateinischen: „convenire“: „zusammenkommen“! – Herr Präsident, stimmt es?</note> und ist gebildet worden als Bezeichnung einer gesetzgebenden Versammlung, die grundlegende Dinge ausarbeitet in einem Umfeld, in dem es noch keinen Verfassungsgesetzgeber gibt. Das ist auf der europäischen Ebene der Fall. In Österreich haben wir einen Verfassungsgesetzgeber, und wir hätten begrüßt, dass der Nationalrat diese Verfassungsreform mit einer Enquete-Kommission auf einer ganz klaren parlamentarischen Basis auf die Reise schickt – und dass das nicht im Rahmen eines Gründungskomitees, vom Bundeskanzler einberufen, als Einrichtung sui generis beschrieben wird. <kinesic type="applause" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.kinesic5">
+                     <desc>Beifall bei den Grünen.</desc>
+                  </kinesic>
+            Wir haben einen Verfassungsgesetzgeber, wir haben ein Verfahren. Durch diese Art der Konstituierung hat das Ganze für uns schon falsch begonnen. Das Zweite betrifft die Aufgaben. – Es sind einige dieser Vorschläge, die auf dem Tisch liegen, völlig unbestritten, so die Analyse der Staatsaufgaben, eine umfassende Aufgabenkritik, die Neuordnung der Kompetenzen – seit dem EU-Beitritt Österreichs dringend notwendig! –, die Überprüfung der Struktur des staatlichen Handelns, die Grundzüge der Finanzverfassung – das ist schon angesprochen worden –, die Zusammenführung von dem, der einhebt, und dem, der auch ausgibt, sowie eben ein neuer Verfassungstext, denn es gibt über tausend Bestimmungen und Verfassungsgesetze, die nicht wie in anderen Länder in einer inkorporierten Verfassungsurkunde gemeinsam abgelegt, sondern völlig zerstreut sind. Was uns besonders am Herzen liegt und sehr wichtig ist, ist ein aktualisierter Grundrechtskatalog – den brauchen wir! –, aber auch die uns direkt demokratische Instrumente zu überarbeiten. Wir hatten gerade wieder ein Volksbegehren, wir hatten insge- <pb n="10"/>
+            samt sehr viele Volksbegehren in Österreich, fast alle sind folgenlos geblieben. Über die weitere Ausgestaltung, über die Weiterentwicklung von direkt demokratischen Mitsprachemöglichkeiten der Bürgerinnen und Bürger müssen wir daher dringend nachdenken! <kinesic type="applause" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.kinesic6">
+                     <desc>Beifall bei den Grünen.</desc>
+                  </kinesic>
+            Auch eine Modernisierung des Wahlrechtes im Hinblick auf eine erweiterte Partizipationsmöglichkeit halten wir für wichtig und, nicht zuletzt, auch eine Stärkung der parlamentarischen Kontrolle der gesetzgebenden Körperschaften. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d7e1206">Abg. Scheibner: Kein guter Beginn! Kein guter Beginn!</note> Man muss sich vor Augen führen, dass die jetzigen Kontrollrechte noch vorwiegend als Mehrheitsrechte konstruiert sind, was nur historisch erklärbar ist, da es seinerzeit das Parlament als Pendant zum Monarchen gab, in dem also die Mehrheitskontrollrechte angebracht waren. In der jetzigen Verfassung sind sie es nicht mehr. Das, was im Zusammenhang mit den Aufgaben oft kommt – und ich möchte davor warnen, das als ausschließliche Leitlinie für eine so große, moderne Staatsdiskussion zu nehmen –, sind ausschließlich Schlagworte wie Straffung, Effizienz, Einsparen und den Staat schlanker machen! In diesem Zusammenhang sind auch Sätze gefallen wie: Mehr Muskeln, weniger Fett! – Ich weiß nicht, was das verfassungspolitisch bedeuten soll, und möchte davor warnen, ein Zurückdrängen des staatlichen Handelns per se als Ziel anzunehmen. <kinesic type="applause" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.kinesic7">
+                     <desc>Beifall bei den Grünen.</desc>
+                  </kinesic>
+            Wir brauchen eine grundlegende Diskussion: Was sollen die Aufgaben des Staates sein? Auf welcher Ebene sollen sie abgewickelt werden? Und: Wie sollen sie erfüllt werden? Und trotzdem: Ein modernes Staatsgrundgesetz zu machen, den österreichischen Föderalismus in Richtung mehr Partizipation umzubauen – das sind andere Aufgaben, nicht ausschließlich: schlanker Staat und all das in Richtung Effizienz und Straffung anzudenken! Abschließend: Wir haben erst in dieser Woche erfahren, welche organisatorische, administrative Gestaltung das Büro, der gesamte Konvent haben soll. Und da macht sich neuerlich eine Schieflage bemerkbar, die schon bei Zusammensetzung des Konvents aufgefallen ist, nämlich eine sehr starke Betonung der Exekutive und eine viel zu geringe Betonung der Legislative, die sich jetzt vor allem darin zeigt, dass die Büromitarbeiter ausschließlich aus den Ministerien entsendet werden sollen und nicht über eine objektive Ausschreibung zur Verfügung gestellt werden können. Das war für uns letztendlich der Schlusspunkt dieser Schräglage, die schon mit der aus meiner Sicht verfehlten Einsetzung eines Gründungskomitee in einem „sui generis“-Prozess des Bundeskanzlers und nicht des Parlamentes begonnen hat. Wir werden weiterhin versuchen, unsere Ideen konstruktiv einzubringen. Aber leider ist es uns heute nicht möglich, dem Gesetz unsere Zustimmung zu geben.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.kinesic8">
+               <desc>Beifall bei den Grünen.</desc>
+            </kinesic>
+            <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d7e1231">Abg. Scheibner: Kein guter Beginn! Gegen den eigenen Antrag zu stimmen! Das ist ganz schlimm!</note>
+            <note type="time" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.note26">
+               <time when="2003-06-18T20:44:00+02:00">20:44</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.note27">Präsident Dr. Heinz Fischer</note>
+            <u who="#PAD_00334" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d7e1252" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e427">Weitere Wortmeldungen liegen nicht vor, sie können vereinbarungsgemäß auch nicht vorliegen. Ich schließe die Debatte.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e429">Wir kommen zu den Abstimmungen im Zusammenhang mit der Vorlage 114 der Beilagen, dem Antrag Khol, Fischer, Scheibner und Glawischnig.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e431">Ich werde zunächst über den Abänderungsantrag, der von Khol, Fischer und Scheibner eingebracht wurde und sich auf § 3 des Gesetzentwurfes bezieht, danach über den Gesetzentwurf samt Titel und Eingang in der Fassung des Ausschussberichtes abstimmen lassen.</seg>
+               <pb n="11"/>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e434">Ich bitte jene Damen und Herren, die diesem Abänderungsantrag zustimmen, um ein diesbezügliches Zeichen. – Der Abänderungsantrag zu § 3 ist mit Mehrheit angenommen.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e436">Ich lasse nun über die restlichen, noch nicht abgestimmten Teile der Vorlage samt Titel und Eingang in der Fassung des Ausschussberichtes abstimmen und bitte jene Damen und Herren, die dafür eintreten, um ein Zeichen. – Ich stelle fest, dass dies ebenfalls mit Mehrheit beschlossen wurde.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e438">Damit haben wir die zweite Lesung beendet und kommen sogleich zur dritten Lesung.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e440">Ich bitte jene Damen und Herren, die der Vorlage auch in dritter Lesung zustimmen, um ein diesbezügliches Zeichen. – Ich stelle fest, dass der Gesetzentwurf in dritter Lesung angenommen wurde.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e442">Dies war der 1. Punkt der Tagesordnung dieser Sitzung. Ich bitte Sie, wieder Platz zu nehmen.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e444">2. Punkt</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e446">Bericht des Budgetausschusses über den Antrag 147/A der Abgeordneten Dr. Michael Spindelegger, Herbert Scheibner, Mag. Kurt Gaßner, Mag. Terezija Stoisits, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Bundesgesetz über die Beschäftigung parlamentarischer Mitarbeiter (Parlamentsmitarbeitergesetz) geändert wird (115 der Beilagen)</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.note28">Präsident Dr. Heinz Fischer</note>
+            <u who="#PAD_00334" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d7e1318" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e451">Wir kommen sogleich zum 2. Punkt der Tagesordnung.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e453">Eine Wortmeldung von Seiten des Berichterstatters liegt mir nicht vor, daher gehe ich gleich in die Debatte ein.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e455">Wortmeldungen liegen ebenfalls nicht vor, wir kommen also sogleich zur Abstimmung.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e457">Wir gelangen zur Abstimmung über den Gesetzentwurf samt Titel und Eingang in 115 der Beilagen.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e459">Ich bitte jene Damen und Herren, die dieser Vorlage ihre Zustimmung erteilen, um ein Zeichen. – Ich stelle fest, dass diese Vorlage in zweiter Lesung einstimmig angenommen wurde.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e461">Wir kommen sogleich zur dritten Lesung.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e463">Ich darf bitten, dass jene Damen und Herren, die der Vorlage auch in dritter Lesung zustimmen, dies durch ein Zeichen bekunden. – Diese Vorlage ist auch in dritter Lesung einstimmig angenommen.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e465">Die Tagesordnung ist erschöpft.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e467">Verlesung eines Teiles des Amtlichen Protokolls</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.note29">Präsident Dr. Heinz Fischer</note>
+            <u who="#PAD_00334" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d7e1364" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e473">Es liegt das schriftliche Verlangen von 20 Abgeordneten vor, das Amtliche Protokoll dieser Sitzung zu verlesen, damit die Tagesordnungspunkte 1 und 2 beziehungsweise das Protokoll darüber mit Schluss der Sitzung als genehmigt gelten können, was die umgehende Ausfertigung der Beschlüsse des Nationalrates ermöglicht.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e475">In diesem Sinne verlese ich das Amtliche Protokoll, das kürzer sein wird als das zuvor verlesene, wie folgt:</seg>
+               <pb n="12"/>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e478">„TO-Punkt 1: Bericht des Budgetausschusses über den Antrag 133/A der Abgeordneten Dr. Andreas Khol, Dr. Heinz Fischer, Herbert Scheibner, Dr. Alexander Van der Bellen, Kolleginnen und Kollegen über ein Bundesgesetz betreffend die finanzielle und administrative Unterstützung des Österreich-Konvents (114 der Beilagen)</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e480">Die Abgeordneten Dr. Khol, Dr. Fischer, Scheibner, Kolleginnen und Kollegen bringen den Abänderungsantrag Beilage 1/1 ein.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e482">Abstimmung: Der Gesetzentwurf wird gemäß dem Ausschussantrag in 114 der Beilagen unter Berücksichtigung des Abänderungsantrages Beilage 1/1 in zweiter und dritter Lesung mit Stimmenmehrheit (dafür V, S, F) angenommen.“</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e484">Was den Tagesordnungspunkt 2 betrifft, wird im Protokoll festgehalten:</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e486">„TO-Punkt 2: Bericht des Budgetausschusses über den Antrag 147/A der Abgeordneten Dr. Spindelegger, Herbert Scheibner, Mag. Kurt Gaßner, Mag. Terezija Stoisits, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Bundesgesetz über die Beschäftigung parlamentarischer Mitarbeiter (Parlamentsmitarbeitergesetz) geändert wird (115 der Beilagen)</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e488">Abstimmung: Der Gesetzentwurf wird gemäß dem Ausschussantrag in 115 der Beilagen in zweiter und dritter Lesung einstimmig angenommen.“</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e490">Ich stelle nun die Frage, ob sich gegen diese Fassung des Amtlichen Protokolls, wie sie soeben verlesen wurde, Einwendungen erheben. – Es erheben sich keine Einwendungen.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e492">Damit gilt das Amtliche Protokoll hinsichtlich der Tagesordnungspunkte 1 und 2 im Sinne des § 51 Abs. 6 der Geschäftsordnung als genehmigt.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e495">Die nächste Sitzung des Nationalrates ist für den 8. Juli 2003 in Aussicht genommen und wird auf schriftlichem Wege einberufen werden.</seg>
+               <seg xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026_d2e497">Diese Sitzung ist geschlossen.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2003-06-18-022-XXII-NRSITZ-00026.note30">Schluss der Sitzung:<time when="2003-06-18T20:49:00+02:00">20:49</time>Uhr</note>
+         </div>
+      </body>
+   </text>
+</TEI>

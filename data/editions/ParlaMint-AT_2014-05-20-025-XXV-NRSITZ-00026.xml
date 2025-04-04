@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" ana="#parla.sitting #reference" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.xml" xml:base="https://parlamint-at.acdh.oeaw.ac.at" prev="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00025.xml" next="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2014-05-21-025-XXV-NRSITZ-00027.xml">
+   <teiHeader xml:lang="en">
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="de">Österreichisches Parlamentskorpus ParlaMint-AT, Stenographische Protokolle der Plenarsitzungen des Österreichischen Nationalrats, XXV. Gesetzgebungsperiode [ParlaMint]</title>
+            <title type="sub" xml:lang="de">26. Sitzung des Nationalrates der Republik Österreich, XXV. Gesetzgebungsperiode, Dienstag, 20. Mai 2014</title>
+            <title type="main" xml:lang="en">Austrian parliamentary corpus ParlaMint-AT, Shorthand records of the National Council of the Austrian Parliament, Legislative period XXV [ParlaMint]</title>
+            <title type="sub" xml:lang="en">Sitting Number 26, Legislative period XXV, Tuesday, 20. May 2014</title>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.sitting" n="26">26. Sitzung</meeting>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.term #NR.XXV" n="25">XXV. Gesetzgebungsperiode</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.sitting" n="26">Sitting 26</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.term #NR.XXV" n="25">Legislative period XXV</meeting>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0002-8111-5584">Hannes Pirker</persName>
+               <persName ref="https://orcid.org/0000-0003-2436-0361">Daniel Schopper</persName>
+               <persName ref="https://orcid.org/0000-0002-1631-4560">Tanja Wissik</persName>
+               <resp xml:lang="de">Projektplanung und Methode</resp>
+               <resp xml:lang="en">Project set-up and methodology</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hannes Pirker</persName>
+               <resp xml:lang="de">Datenbeschaffung, Korpuskodierung in TEI und automatische linguistische Annotation</resp>
+               <resp xml:lang="en">Data retrieval, TEI corpus encoding and automatic linguistic annotation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Schopper</persName>
+               <resp xml:lang="de">XSLT Transformationen</resp>
+               <resp xml:lang="en">XSLT transformations</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Martin Kirnbauer</persName>
+               <resp xml:lang="de">Einige der manuellen Korrekturen</resp>
+               <resp xml:lang="en">Some of the manual curation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Tanja Wissik</persName>
+               <resp xml:lang="de">Metadaten und Übersetzung</resp>
+               <resp xml:lang="en">Metadata and translation</resp>
+            </respStmt>
+            <funder>
+               <orgName xml:lang="de">CLARIN-ERIC</orgName>
+               <orgName xml:lang="en">CLARIN-ERIC (Common Language Resources and Technology Infrastructure—European Research Infrastructure Consortium)</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </funder>
+            <funder>
+               <orgName xml:lang="de">ÖAW (Österreichische Akademie der Wissenschaften)</orgName>
+               <orgName xml:lang="en">ÖAW (Austrian Academy of Sciences)</orgName>
+               <ref target="https://www.oeaw.ac.at/">www.oeaw.ac.at</ref>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>4.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="15" xml:lang="de">15 Äußerungen</measure>
+            <measure unit="speeches" quantity="15" xml:lang="en">15 speeches</measure>
+            <measure unit="words" quantity="3259" xml:lang="de">3,259 Wörter</measure>
+            <measure unit="words" quantity="3259" xml:lang="en">3,259 words</measure>
+         </extent>
+         <publicationStmt>
+            <publisher>
+               <orgName xml:lang="de">Die CLARIN Forschungsinfrastruktur</orgName>
+               <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </publisher>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/1912</idno>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="de">Dieses Werk ist lizensiert unter der <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz (CC BY 4.0)</ref>.</p>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+            </availability>
+            <date when="2024-05-14">2024-05-14</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main" xml:lang="de">Stenographische Protokolle der Plenarsitzungen des Nationalrats der Republik Österreich</title>
+               <title type="sub" xml:lang="de">Stenographisches Protokoll, 26. Sitzung des Nationalrates der Republik Österreich, XXV. Gesetzgebungsperiode, Dienstag, 20. Mai 2014</title>
+               <title type="main" xml:lang="en">Shorthand records of the plenary sittings of the National Council of the Austrian parliament</title>
+               <title type="sub" xml:lang="en">Shorthand record, Sitting Number 26, Legislative period XXV, Tuesday, 20. May 2014</title>
+               <publisher>Parlamentsdirektion</publisher>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/PAKT/VHG/XXV/NRSITZ/NRSITZ_00026/fnameorig_358516.html</idno>
+               <date when="2014-05-20">2014-05-20</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p xml:lang="en"><ref target="https://www.clarin.eu/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://clarin-eric.github.io/ParlaMint/">ParlaMint encoding guidelines</ref>, covering the period from 2015 to mid-2022; (2) add linguistic annotations to the corpora and machine-translate them to English; (3) make the corpora available through concordancers; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.</p>
+            <p xml:lang="de"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+            </p>
+         </projectDesc>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="desc" occurs="29"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="kinesic" occurs="20"/>
+               <tagUsage gi="note" occurs="109"/>
+               <tagUsage gi="pb" occurs="9"/>
+               <tagUsage gi="seg" occurs="23"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="time" occurs="19"/>
+               <tagUsage gi="u" occurs="15"/>
+               <tagUsage gi="vocal" occurs="5"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <name type="city" xml:lang="de">Wien</name>
+               <name type="city" xml:lang="en">Vienna</name>
+               <name type="country" key="AT" xml:lang="en">Austria</name>
+               <name type="country" key="AT" xml:lang="de">Österreich</name>
+               <date ana="#parla.sitting" when="2014-05-20">2014-05-20</date>
+            </setting>
+         </settingDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2022-12-13">
+            <name>Hannes Pirker</name> : Converted from source HTML to TEI.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text ana="#reference">
+      <body>
+         <div xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d2e178" type="debateSection">
+            <gap reason="editorial" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.gap1">
+               <desc xml:lang="en">Frontmatters and table of content removed</desc>
+               <desc xml:lang="de">Titelseite und Inhaltsangabe entfernt</desc>
+            </gap>
+            <pb n="4"/>
+            <note type="time" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note1">
+               <time when="2014-05-20T22:04:53+02:00">22:04:53</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note2">Beginn der Sitzung:<time when="2014-05-20T22:05:00+02:00">22:05</time>Uhr</note>
+            <note type="chairpersons" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note3">Präsidentin Mag. Barbara Prammer</note>
+            <note type="speaker" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note4">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e757" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d2e198">Die Sitzung ist eröffnet.</seg>
+               <seg xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d2e200">Als verhindert gemeldet sind die Abgeordneten Ottenschläger, Ing. Schellenbacher und Mag. Vavrik.</seg>
+               <note type="time" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note5">
+                  <time when="2014-05-20T22:04:59+02:00">22:04:59</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d2e205">Einlauf und Zuweisungen</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note6">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e788" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d2e210">Hinsichtlich der eingelangten Verhandlungsgegenstände und deren Zuweisungen verweise ich gemäß § 23 Abs. 4 der Geschäftsordnung auf die im Sitzungssaal verteilte Mitteilung.</seg>
+               <seg xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d2e212">Die schriftliche Mitteilung hat folgenden Wortlaut:</seg>
+               <gap reason="editorial" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.gap2">
+                  <desc xml:lang="en">Quoted printed matter omited</desc>
+                  <desc xml:lang="de">Zitierte Druckfassung entfernt</desc>
+               </gap>
+               <note type="time" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note7">
+                  <time when="2014-05-20T22:05:09+02:00">22:05:09</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d2e222">Einwendungen gegen die Tagesordnung 27. NR</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note8">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e965" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d2e227">Die Abgeordneten Dr. Strolz, Kolleginnen und Kollegen haben im Sinne des § 50 der Geschäftsordnung schriftlich Einwendungen gegen die im Sitzungssaal verteilte schriftliche Tagesordnung der nächsten Sitzung erhoben.</seg>
+               <seg xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d2e229">Die Einwendungen betreffen die Absetzung der Tagesordnungspunkte 1 bis 3.</seg>
+               <seg xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d2e231">Ich trete diesen Einwendungen nicht bei, weshalb der Nationalrat zu entscheiden hat.</seg>
+               <seg xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d2e233">Ich nehme mein geschäftsordnungsmäßiges Recht in Anspruch und reduziere die Debatte auf je drei RednerInnen pro Klub und 5 Minuten Redezeit, wenngleich die Fraktionen in der Präsidiale übereingekommen sind, dass es nur einen Redner/eine Rednerin pro Klub geben soll.</seg>
+               <seg xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d2e235">Zu Wort gemeldet ist als Erster Herr Klubobmann Dr. Strolz. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note9">
+               <time when="2014-05-20T22:05:58+02:00">22:05:58</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note10">Abgeordneter Mag. Dr. Matthias Strolz (NEOS)</note>
+            <u who="#PAD_10304" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1002" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d2e244">Geschätzte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Ich komme mit einer Einwendung bezüglich der Tagesordnung für morgen bis Freitag auf Sie zu. Wir haben es auch in der Präsidiale besprochen. Wir hier sind das Parlament, wir sind die Abgeordneten zum Nationalrat und wir haben die Aufgabe, ein Budget zu verabschieden, wofür gewisse Prozesse vorgesehen sind, nämlich dass entsprechende Vorschläge von der Bundesregierung kommen, dass diese Vorschläge beraten werden, kapitelweise beraten werden und dass dann eine Plenardebatte und ebenso eine Entscheidung darüber stattfindet. Ich denke, wir alle haben uns ordentlich vorbereitet. Ich denke, wir alle sind hier in der Sorgfaltspflicht. Das ist wahrscheinlich der wichtigste Themenblock des Jahres. Sie wissen, dass das Budget sozusagen das Drehbuch für ein Land ist. Aber was ist hier geschehen? Wir haben eine Woche lang im Budgetausschuss beraten, führten Budgetberatungen durch – und am letzten Tag mussten wir aus der Zeitung erfahren, dass dieses Drehbuch für Österreich offensichtlich umgeschrieben wurde. Das Problem dabei ist: Keiner hat uns etwas gesagt! <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1008">Ruf:Das ist nicht wahr</note>
+                  <pb n="6"/>
+            Meines Erachtens gibt es zwei Möglichkeiten: Entweder man versteht seinen Job als Nationalratsabgeordneter solchermaßen, dass man sich dem Budget seriös mit einer Sorgfaltspflicht widmet, wo man die Dinge auch hinterfragt auf Basis von belastbaren, auf Basis von tragfähigen, auf Basis von ehrlichen Zahlen, oder man sagt, das ist mir nicht so wichtig, ich bin ein robuster „Bandldurchschneider“, das ist meine Interpretation eines Abgeordnetenmandats. – Dann wird man sich daran nicht stoßen. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1023">Abg. Schmuckenschlager: Die Kameras werden schon zusammengepackt!</note>Ich weiß nicht, vielleicht ist es nur mir aufgefallen, ich hatte jedenfalls heute einen Gast hier auf Besuch, der mir berichtet hat, dass er kürzlich mit Herrn Professor Pelinka gesprochen hat, dieser habe ihm Österreich erklärt. Dieser hat gemeint: Österreich hat eigentlich nie zu einer Nation im klassischen Sinne wie andere europäische Länder gefunden, weil wir uns über eine Parteiendemokratie definiert haben. Das ist dieses rot-schwarze Machtkartell. Jeder Fußballklub, jeder Gesangsverein, jeder Kegelklub hat eine Farbe. Das geht damit einher, dass zwei Parteien das Gefühl und die Überzeugung haben, dieses Land gehört uns. Die einzige Frage, die sich in diesem Land stellt, ist: Wie teilen wir zwei uns das Land auf? Das ist die einzige Frage! Über alle anderen Fragen können wir uns hinwegsetzen. Deswegen ist es auch nicht so relevant, ob wir 1 Milliarde € nachreichen oder nicht, ob da 300 Millionen € Ermessensausgaben dabei sind oder nicht. Aber hallo <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1036">Abg. Lopatka: Wer ist der „Hallo“?</note> , wir haben über 57 Millionen € beim Bildungsbudget diskutiert – 57 Millionen! – und diese 57 Millionen haben Sie schon an den Rand einer kleinen Regierungskrise gebracht. Da können Sie jetzt nicht sagen, diese Milliarde oder diese 660 Millionen oder 650 Millionen sind Peanuts. Das ist kein Rundungsfehler. Das sind heftige Beträge und wir wissen nicht, wie sie im Budget zu Buche schlagen. Ich halte diese Praxis für eine Verhöhnung des Hohen Hauses. Ich halte das für einen Versuch der Trickserei, für eine Verschleierung. Ich halte das Strickmuster für bekannt. Das ist exakt dasselbe Strickmuster, wie wir es vor der Nationalratswahl gesehen haben. Wir haben ja den Ditz-Brief letzte Woche geoutet, „geleakt“. Der Herr Ditz ist bereits vor einem Jahr auf Sie zugekommen und hat gesagt, wenn Sie weiter die Abbaugesellschaft, die Abwicklung der Hypo verschleppen, dann gehen Sie das Risiko ein, dass Sie 1 Milliarde bis 2 Milliarden € verbrennen. Sie von den Koalitionsparteien haben gesagt, wir nehmen diese 2 Milliarden € Steuergeld bewusst in die Hand, verbrennen sie sozusagen – und hoffen, damit unseren Machterhalt zu sichern! Es war Wählertäuschung, die Sie in diese große Koalition geführt hat – und Sie versuchen, dasselbe Strickmuster jetzt wieder anzuwenden: tarnen, täuschen, durchtauchen. Sie wurden aber am letzten Tag erwischt, und deswegen ist die einzige faire Möglichkeit, jetzt zu sagen: Takten wir die Budgetsitzung, das Budgetplenum aus, gehen wir zurück in die Ausschusssitzungen, in die Budgetberatungen, und zwar auf Basis belastbarer, ehrlicher und tragfähiger Zahlen – und dann gehen wir damit zurück ins Plenum. Dafür möchte ich werben, und deswegen müssen wir die Tagesordnungspunkte 1, 2 und 3 von der Tagesordnung der 27. NR-Sitzung nehmen. Das ist unser Begehren. Und ich glaube, wer als Abgeordneter einen Funken Ehren im Leibe hat <vocal type="interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.vocal1">
+                     <desc>Hallo-Rufe bei der ÖVP</desc>
+                  </vocal>
+            , der sollte diesem Begehren folgen.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.kinesic1">
+               <desc>Beifall bei NEOS und FPÖ.</desc>
+            </kinesic>
+            <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1061">Abg. Lopatka: Was soll das? Ungeheuerlich!</note>
+            <vocal type="interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.vocal2">
+               <desc>Weitere Zwischenrufe bei der ÖVP.</desc>
+            </vocal>
+            <note type="time" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note15">
+               <time when="2014-05-20T22:11:00+02:00">22:11</time>
+            </note>
+            <pb n="7"/>
+            <note type="speaker" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note16">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1092" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d2e275">Zu Wort gelangt Herr Klubobmann Mag. Schieder. – Bitte.</seg>
+            </u>
+            <note type="inquietude" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note17">Unruhe im Saal.</note>
+            <kinesic type="signal" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.kinesic2">
+               <desc>Präsidentin Prammer gibt das Glockenzeichen.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note18">
+               <time when="2014-05-20T22:11:26+02:00">22:11:26</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note19">Abgeordneter Mag. Andreas Schieder (SPÖ)</note>
+            <u who="#PAD_35504" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1125" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d2e289">Sehr geehrte Frau Präsidentin! Werte Kolleginnen und Kollegen! <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1135">Abg. Lopatka: (in Richtung des Abg. Strolz) Das ist ja ungeheuerlich! Haben Sie einen Funken Ehre im Leib? Das brauchen wir uns nicht vorhalten zu lassen!</note>Festhalten ist zunächst: Es ist nicht die Aufgabe, nicht die Zuständigkeit und, ehrlich gesagt, auch nicht die Gepflogenheit hier im Haus, dass Kollege Strolz zu beurteilen hat, wer mit welchem Abstimmungsverhalten „Ehre im Leib“ hat und wer mit welchem Abstimmungsverhalten nicht Ehre im Leib hat. <kinesic type="applause" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.kinesic3">
+                     <desc>Anhaltender Beifall bei SPÖ und ÖVP.</desc>
+                  </kinesic>
+            Da Sie ja das „Neue Österreich“ sein wollen, da Sie ja auch einen neuen Politikstil haben wollen, sage ich Ihnen schon: Diese Herangehensweise, dass ein Klub über alle anderen und deren Qualität entscheidet, diese Zeit ist hier jetzt nicht, die ist vorbei – und das steht Ihnen auch nicht zu, um das hier ganz klar zu sagen. <kinesic type="applause" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.kinesic4">
+                     <desc>Beifall bei SPÖ und ÖVP.</desc>
+                  </kinesic>
+            Die zweite Fragestellung ist auch eine technische, nämlich eine der Geschäftsordnung. Ehrlich gesagt, ich sehe keinen Grund, technisch und auch inhaltlich von den Budgetzahlen her einer Rückverweisung nur ansatzweise näherzutreten <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1170">Abg. Kogler: Dann macht einen Abänderungsantrag! Ihr arbeitet mit den falschen Zahlen!</note>, denn es gibt ein Schreiben des Finanzministers, eine Konversation mit der Europäischen Kommission. Es geht dabei nicht darum, dass das österreichische Budget nicht halten würde oder dergleichen, sondern es geht darum, dass für den Fall, dass der Europäischen Kommission im Laufe des Vollzuges etwas nicht passen sollte, Maßnahmen angedacht sind, die übrigens größtenteils auch dort angesiedelt sind, wo ich sie auch sofort ansiedeln würde, nämlich in einer stärkeren Bekämpfung der Steuerhinterziehung. Dagegen habe ich rein gar nichts, sondern bin auf jeden Fall dafür, das zu machen. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1186">Abg. Kogler: Das ist jetzt die dritte Version!</note>In einer ehrlichen parlamentarischen Debatte – wo es ja dem Herrn Strolz um einen neuen Stil gegangen ist, als er noch kandidiert hat; hier herinnen verwandelt er sich ja inzwischen zu dem, der morgen eine Bädertour startet, weil es ihm hier irgendwie zu fad geworden ist <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1199">Abg. Strolz: Sie sind ein Zyniker!</note> –, bei einem neuen Stil würde es doch heißen, zwischen der technischen Geschäftsordnungsfrage auf der einen Seite zu trennen und auf der anderen Seite die inhaltliche Diskussion hier zu führen. Sie können inhaltlich der Meinung sein, das steht Ihnen frei, Sie können das auch kritisieren, aber: Die Rückverweisung ist eine Vorgangsweise, die technisch, geschäftsordnungsmäßig nicht notwendig ist – und ein Ausziehen aus dem Plenum ist, ehrlich gesagt, ein Verhalten, das gegen die Geschäftsordnung steht und gegen den von Ihnen propagierten neuen demokratischen Stil. Eine solche Vorgangsweise ist, ehrlich gesagt, nur letztklassig.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.kinesic5">
+               <desc>Beifall bei SPÖ und ÖVP.</desc>
+            </kinesic>
+            <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1219">Abg. Wöginger: Arbeitsverweigerung!</note>
+            <note type="time" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note25">
+               <time when="2014-05-20T22:14:00+02:00">22:14</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note26">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1239" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d2e323">Nächster Redner: Herr Abgeordneter Podgorschek. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note27">
+               <time when="2014-05-20T22:14:27+02:00">22:14:27</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note28">Abgeordneter Elmar Podgorschek (FPÖ)</note>
+            <u who="#PAD_59908" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1260" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d2e332">Sehr geehrte Frau Präsidentin! Sehr geehrte Damen und Herren! Ich kann jetzt nicht mehr sagen: sehr geehrte Damen und Herren an den Bildschirmen, denn mittlerweile hat ja der ORF hier eingepackt. – So viel zum „objektiven Rundfunk“, der wahrscheinlich seine Kameras dann ausschaltet, <pb n="8"/>
+            wenn es für die Regierung unangenehm wird. <kinesic type="applause" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.kinesic6">
+                     <desc>Beifall bei FPÖ und NEOS sowie bei Abgeordneten des Teams Stronach.</desc>
+                  </kinesic>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1277">Abg. Lopatka: Sie sind noch im Bild! Da oben!</note>Meine sehr geehrten Damen und Herren, wir werden diesen Antrag der NEOS unterstützen, weil wir auch nicht wissen, wie sich die Rahmenbedingungen, fast stündlich, ändern. Wir wissen nicht, welche Zahlen im Budget Aktualität haben, denn einmal geht es um 1 Milliarde €, wie in diesem Spindelegger-Brief geschrieben wurde, die man noch zusätzlich einsparen beziehungsweise einnehmen muss. Dann wiederum sind es angeblich nur 600 Millionen €, dann heißt es anhand anderer Zahlen, dass das überhaupt nur mehr Fiktion aus Brüssel sei, und so weiter und so fort. Also das ist wirklich ein reines Durcheinander, und daher wäre es durchaus berechtigt und sinnvoll, diese Vorlagen noch einmal im Budgetausschuss zu behandeln. Was wir Freiheitlichen aber nicht tun: Wir von der FPÖ stellen uns der Diskussion, und wir werden nicht aus dem Plenum ausziehen, sondern wir werden natürlich die nächsten drei Tage lang ordentlich mit Ihnen von den Koalitionsparteien diskutieren. <kinesic type="applause" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.kinesic7">
+                     <desc>Beifall bei der FPÖ.</desc>
+                  </kinesic>
+            Ich habe von heute Vormittag noch – das liegt mir sozusagen auf der Zunge – eine Tabelle <note type="speaker_action" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note30">der Redner hält zunächst einen Zettel mit einer darauf abgebildeten Tabelle in die Höhe, den er dann vor sich auf das Rednerpult stellt</note> , weil der Herr Abgeordnete Krainer immer behauptet, Österreich liege besser als Schweden, was die Steuer- und Abgabenquote anlangt: Quelle EU-Kommission, Wirtschafskammer Österreich. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1302">Abg. Walter Rosenkranz: Ist der Herr Krainer nicht auch der Berater vom Herrn Faymann?</note>Liebe Kollegen von der ÖVP, ich glaube, sehr seriöse Quellen auch aus Ihrer Sicht, und da sieht man ganz klar: Österreich liegt da schon einen Platz hinter Schweden. – So viel zur Steuer- und Abgabenquote. Da kann der Herr Krainer behaupten, was er will. Österreich ist da im Vergleich zu Schweden leider ins Hintertreffen geraten. Wir in Österreich könnten uns Schweden als Vorbild nehmen, denn Schweden hat es innerhalb von fünf Jahren geschafft, seinen Staatshaushalt zu sanieren. Schweden hat jetzt wesentlich weniger Staatsverschuldung, Schweden hat ein niedrigeres Budgetdefizit, Schweden konnte teilweise sogar Budgetüberschüsse erwirtschaften. <vocal type="interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.vocal3">
+                     <desc>Zwischenruf des Abg. Matznetter.</desc>
+                  </vocal>
+            Und der SPÖ sei ins Stammbuch geschrieben: Trotzdem wurde in Schweden der Sozialstaat nicht weniger, sondern die Schweden haben nach wie vor hohe Sozialstandards. In Schweden haben alle Parteien – im wahrsten Sinne des Wortes – in die Hände gespuckt, haben zusammengearbeitet und haben ihren Staatshaushalt nachhaltig saniert, was in Österreich leider nicht der Fall ist. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1318">Ruf bei der ÖVP:Das geht mit 1 200 € Mindestpension nicht!</note>Mit uns ginge es, aber mit uns spricht ja niemand von der Koalition. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1331">Abg. Lopatka: Geh bitte!</note>Sie wollen doch nichts anderes, als Ihre Pfründe zu sichern; das ist es. <kinesic type="applause" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.kinesic8">
+                     <desc>Beifall bei der FPÖ sowie des Abg. Strolz.</desc>
+                  </kinesic>
+            Die einen beharren auf die Rechte der Lehrer und der Bauern. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1351">Abg. Lopatka: Mit Ihnen reden wir gerne, Herr Kollege!</note>Die anderen beharren auf die Rechte der Gewerkschaft und so weiter. <kinesic type="signal" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.kinesic9">
+                     <desc>Präsidentin Prammer gibt das Glockenzeichen.</desc>
+                  </kinesic>
+            Aber, wie schon gesagt – die Glocke hier wurde schon geläutet –, wir werden morgen weiter diskutieren, meine sehr geehrten Damen und Herren, und wir werden morgen noch das eine oder andere an Informationen austauschen. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1367">Ruf bei der ÖVP:Ohne NEOS!</note>
+                  <pb n="9"/>
+            Ich bin fest davon überzeugt, dass die Regierungsfraktionen keinen guten Stand dabei haben werden.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.kinesic10">
+               <desc>Beifall bei der FPÖ sowie bei Abgeordneten von Team Stronach und NEOS.</desc>
+            </kinesic>
+            <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1388">Abg. Wöginger: Wir reden schon mit dir, Elmar!</note>
+            <note type="time" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note37">
+               <time when="2014-05-20T22:18:00+02:00">22:18</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note38">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1409" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d2e390">Nächster Redner: Herr Klubobmann Dr. Lopatka. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note39">
+               <time when="2014-05-20T22:18:25+02:00">22:18:25</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note40">Abgeordneter Dr. Reinhold Lopatka (ÖVP)</note>
+            <u who="#PAD_15526" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1430" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d2e398">Herr Klubobmann Strolz, ich würde Sie wirklich um eines bitten: Man kann nicht immer Luft unter den Flügeln haben, aber das sollte einen nicht dazu veranlassen, dann zu einer solchen Wortwahl zu greifen, wie Sie es heute getan haben. Ich sage es ganz offen: Uns einen Funken Ehre im Leib abzusprechen – das ist letztklassig, was Sie hier gemacht haben. Ich sage Ihnen das. <kinesic type="applause" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.kinesic11">
+                     <desc>Beifall bei ÖVP und SPÖ.</desc>
+                  </kinesic>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1444">Abg. Kopf: Jemandem die Ehre abzusprechen, das geht nicht!</note>Ich gehe davon aus, dass Sie Ihre Redebeiträge hier nach bestem Wissen und Gewissen abgeben und auch Ihr Handeln entsprechend ist. Sie sollten auch uns zutrauen, dass wir hier nicht leichtfertig unsere Entscheidungen treffen. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1457">Abg. Glawischnig-Piesczek: Wir haben das Recht, einen Rückverweisungsantrag zu stellen! Einen Rückverweisungsantrag kann man jederzeit stellen!</note>
+                  <kinesic type="signal" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.kinesic12">
+                     <desc>Präsidentin Prammer gibt das Glockenzeichen.</desc>
+                  </kinesic>
+            Frau Klubobfrau Glawischnig, auch Sie hätten das, was Sie heute hier sagen, in den Budgetausschüssen sagen können. Am 8. Mai <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1477">Abg. Kogler: Was war am 8. Mai?</note>und am 16. Mai im Budgetausschuss ist es genau um diese Frage gegangen: Ist das, was die Regierung hier vorlegt, ausreichend für die Oppositionsparteien, dass sie <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1490">Abg. Glawischnig-Piesczek: Stimmt nicht!</note>Was stimmt hier nicht? – Es war der Abgeordnete Krainer, der sich genau erkundigt hat, was es mit diesem Brief auf sich hat. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1503">Abg. Kogler: Das stimmt alles nicht!</note>Lesen Sie in der „Parlamentskorrespondenz“ nach! Danach hat der Finanzminister <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1516">Abg. Strolz: Solche Tricks, das ist unglaublich!</note>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1530">Abg. Kogler: Trickser! Richtig!</note>– Nicht „Trickser“! – Danach hat der Finanzminister klar und deutlich diesen Brief erläutert. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1543">Abg. Glawischnig-Piesczek: Keine Information der Parlamentarier!</note>Und der nächste Punkt ist: Eigentlich müsste die Opposition froh sein, <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1556">Abg. Pirklhuber: ! Das stimmt alles nicht!</note>– Herr Abgeordneter Pirklhuber: Die Opposition müsste froh sein, wenn die Bundesregierung noch ambitionierter vorgehen möchte, als es das Budget verlangt. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1570">Abg. Glawischnig-Piesczek: Wir hätten es ja gar nicht gewusst!</note>Frau Klubobfrau Glawischnig, dieser Brief ist genau das: dass die Bundesregierung sagt, sie möchte ambitionierter vorgehen. Ich weiß nicht, ob Sie den Brief von Spindelegger und die Antwort der Kommission gelesen haben. Die Kommission sagt ganz klar: Es sind keine Änderungen bei dem, was wir hier für das Budget an Vorlage haben, notwendig. – Erster Punkt. Das heißt, der vorliegende Budgetvoranschlag wird von der Kommission akzeptiert. Die Bundesregierung verpflichtet sich, im Vollzug mehr zu leisten. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1583">Abg. Kogler: Das ist ja keine Vollzugsfrage!</note>Ist irgendetwas falsch, was ich sage, Abgeordneter Kogler? <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1596">Abg. Rossmann: Ja!</note>Was ist falsch? <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1609">Abg. Rossmann: Es geht nicht um den Vollzug, Herr Kollege Lopatka!</note>Genau, es geht um den Vollzug! <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1623">Abg. Rossmann: Es geht um neue Gesetze!</note>Dafür ist die Regierung zuständig, im Vollzug! Und die Regierung hat klar gesagt, sie hat hier mehrere Möglichkeiten, in einem Volumen von insgesamt 900 Millionen. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1636">Abg. Glawischnig-Piesczek: „Eh nur eine Milliarde!“</note> Die Kommission sagt, notwendig sind <pb n="10"/>
+            630, um genau das zu erreichen, dass die Kommission sagt <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1651">Abg. Glawischnig-Piesczek: „Eh nur eine Milliarde! Das ist doch Budgetvollzug!“</note>Ja, dann bleibt Österreich genau in dem Pfad, den die Kommission verlangt. Und Sie regen sich heute hier auf, nachdem Sie es im Ausschuss verschlafen haben, vor allem die NEOS – vor allem die NEOS haben es verschlafen <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1664">Abg. Strolz: Das ist unglaublich! Das ist ungeniert!</note> –, Sie regen sich heute hier auf! <kinesic type="applause" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.kinesic13">
+                     <desc>Beifall bei der ÖVP.</desc>
+                  </kinesic>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1684">Abg. Strolz: Das ist ungeniert!</note> Zu spät aufgewacht, Kollege Strolz! Zu spät aufgewacht! Daher wünsche ich Ihnen morgen alles Gute auf Ihrer Urlaubstour quer durch Österreich.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.kinesic14">
+               <desc>Beifall bei ÖVP und SPÖ.</desc>
+            </kinesic>
+            <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1703">Abg. Glawischnig-Piesczek: Das war nicht sehr gehaltvoll!</note>
+            <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1718">Abg. Lopatka: (auf dem Weg zu seinem Sitzplatz) Aber notwendig!</note>
+            <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1737">Abg. Wöginger: (in Richtung Grüne) Sie sollten in den Ausschuss gehen das nächste Mal!</note>
+            <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1753">Abg. Glawischnig-Piesczek: Wir haben gute Leute im Ausschuss!</note>
+            <note type="time" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note63">
+               <time when="2014-05-20T22:22:00+02:00">22:22</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note64">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1773" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d2e485">Nächster Redner: Herr Abgeordneter Mag. Rossmann. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note65">
+               <time when="2014-05-20T22:22:24+02:00">22:22:24</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note66">Abgeordneter Mag. Bruno Rossmann (Grüne)</note>
+            <u who="#PAD_35516" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1795" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d2e493">Frau Präsidentin! Hohes Haus! Von neuem politischem Stil war die Rede. Das, was Sie hier präsentiert haben, Herr Klubobmann von der SPÖ, und Sie, Herr Klubobmann von der ÖVP, ist kein neuer politischer Stil <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1803">Abg. Auer: Auch das nicht, was Sie präsentieren!</note>, das ist alter politischer Stil im wahrsten Sinne des Wortes. <kinesic type="applause" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.kinesic15">
+                     <desc>Beifall bei den Grünen.</desc>
+                  </kinesic>
+            Herr Klubobmann Schieder, wie kommen Sie denn überhaupt dazu, uns das Recht abzusprechen, dass wir Tagesordnungspunkte von der Tagesordnung absetzen wollen <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1822">Rufe bei der SPÖ:Zuhören! Ihr horcht ja nicht zu!</note>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1835">Abg. Schieder: nicht abgesprochen! Zuhören!</note>– na selbstverständlich haben Sie das getan! – beziehungsweise uns das Recht abzusprechen, bestimmte Punkte, die auf der Tagesordnung sind, an den Ausschuss rückzuverweisen? Das ist doch absurd, Herr Kollege Schieder! Das ist kein neuer politischer Stil! <kinesic type="applause" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.kinesic16">
+                     <desc>Beifall bei den Grünen.</desc>
+                  </kinesic>
+            Und nun zu Herrn Abgeordnetem Lopatka: Sie sagen, Sie haben ein Budget nach bestem Wissen und Gewissen erstellt. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1855">Abg. Lopatka: Ja! Was sonst?</note>Das ist ja wohl lächerlich. Das kann ich so nicht nachvollziehen. Sie haben uns – und wir waren da die Gutgläubigen – zunächst einmal am 29. April ein Budget präsentiert. Wir haben das analysiert und haben gedacht, Sie legen uns – nach den schlechten Erfahrungen, die wir mit dem Vorgänger von Herrn Spindelegger gemacht haben – endlich wieder einmal ein seriöses Budget vor. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1868">Abg. Kogler: Das haben wir sogar noch gelobt!</note>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1881">Abg. Glawischnig-Piesczek: Das haben wir gelobt, ja! konstruktiv!</note>Dann gab es die erste Lesung, und am 8. Mai begannen die Budgetberatungen mit den Expertinnen und Experten. Und da habe ich den Herrn Spindelegger gefragt: Wird es Änderungen beim Finanzrahmen geben oder nicht? Und der Herr Spindelegger hat diesen Brief, der am 12. Mai gekommen ist, dort in keiner Weise ausführlich erläutert! <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1894">Abg. Lopatka: Und was hat er gesagt?</note>Und jetzt lese ich Ihnen vor, was in der „Parlamentskorrespondenz“ steht: Er – nämlich Spindelegger – „sah aber Möglichkeiten, im Verordnungsweg Nachschärfungen zu treffen,“ <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1908">Abg. Lopatka: Und? Weiter!</note>„so etwa durch Schließung von Steuerlücken“ <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1921">Abg. Lopatka: Weiter!</note>– ja, ich kann schon lesen, so weit bin ich schon! – „bei der Auslegung des Körperschaftsteuergesetzes, aber auch bei der Steuerbetrugsbekämpfung.“ <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1934">Abg. Lopatka: Sind Sie dagegen? Sind Sie da dagegen?</note>„Handlungsbedarf besteht nach Meinung des Vizekanzlers ferner bei den Pensionen in ausgegliederten Bereichen.“ <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1947">Abg. Lopatka: Da sind Sie dagegen?!</note>
+                  <pb n="11"/>
+            Wir führen jetzt keine inhaltliche Debatte, sondern wir führen jetzt die Debatte darüber, ob uns der Herr Finanzminister informiert hat <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1963">Abg. Lopatka: Ja, hat er!</note>oder nicht informiert hat. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e1976">Abg. Lopatka: Hat er! Hat er!</note>Und er hat es nicht getan! Er hat es aber auch am 16. Mai nicht getan! <kinesic type="applause" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.kinesic17">
+                     <desc>Beifall bei Grünen, FPÖ und NEOS.</desc>
+                  </kinesic>
+            Am 16. Mai, am Morgen dieses Tages, habe ich diesen Brief, nachdem ich ihn zuvor am Abend im Internet gefunden habe, an die Tageszeitung „Der Standard“ weitergegeben <vocal type="interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.vocal4">
+                     <desc>Oh-Rufe bei der ÖVP</desc>
+                  </vocal>
+            , und dort wurde um 15.39 Uhr dieser Brief veröffentlicht. Und die Budgetberatungen mit Herrn Spindelegger haben um 16.15 Uhr im Ausschuss begonnen. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e2004">Abg. Kogler: So ist es!</note>Und Sie stellen sich hierher und sagen, dass uns der Herr Finanzminister ausführlich über diese massiven Änderungen, die in diesen Briefen enthalten gewesen sind, informiert hat?! <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e2018">Abg. Lopatka: Ja! Lesen Sie die „Parlamentskorrespondenz“ vom 16. vor!</note>Er hat es nicht getan! <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e2034">Abg. Lopatka: Doch!</note>Er hat uns nicht in Kenntnis darüber gesetzt <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e2047">Abg. Lopatka: Doch!</note>, dass bis zu einer Milliarde an Einsparungen vorgesehen sind <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e2060">Abg. Lopatka: Das ist ja falsch, „bis zu einer Milliarde“! – 620! – Das ist ja unwahr!</note>,die er nach der Kritik der Euro-Gruppe an den Herrn Kommissar Kallas geschickt hat. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e2074">Abg. Lopatka: Das ist unwahr!</note>Der Herr Kommissar Kallas antwortet im Übrigen nicht mit 600 oder 620 Millionen, sondern er bezieht sich auf 700 Millionen <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e2087">Abg. Lopatka: 630!</note>, der Rest sind konjunkturelle Maßnahmen. Aber diese zusätzlichen Maßnahmen – und das steht auch in den Schlussfolgerungen und der Antwort von Herrn Kallas drinnen – sind notwendig, damit Österreich seine Commitments gegenüber der Europäischen Kommission erfüllt. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e2100">Abg. Lopatka: Im Vollzug!</note>Nein, nicht im Vollzug! Nein, das steht nicht drinnen! Es geht nicht um den Vollzug! Wenn Sie hier Maßnahmen setzen wollen, wie Einsparungen bei den Doppelförderungen, dann bedarf das einer Vereinbarung mit den Ländern, die hier beschlossen werden muss! <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e2116">Abg. Lopatka: Überhaupt nicht! Bei den Förderungen überhaupt nicht! Das ist falsch! Bei Förderungen braucht man überhaupt nichts!</note>Wenn Sie Änderungen bei den Selbstanzeigen in Bezug auf die Straffreiheit herbeiführen wollen, dann brauchen Sie dazu ein Gesetz, das Sie hier diskutieren müssen. Alles andere, was Sie hier wollen, entspricht nicht der Wahrheit. Was wir schlicht und einfach brauchen, ist, da sich die Voraussetzungen massiv geändert haben, eine neue Debatte, eine ausführliche Debatte über diese Maßnahmen <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e2133">Abg. Auer: Das kennen wir seit Jahren! Seit Jahren !</note> , die am Parlament vorbei der Kommission, dem Kommissar Kallas zugesagt worden sind. Und daher kann ich der Rückverweisung dieses Tagesordnungspunktes an den Ausschuss durchaus einiges abgewinnen. – Vielen Dank.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.kinesic18">
+               <desc>Beifall bei Grünen, FPÖ und NEOS sowie der Abg. Dietrich.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note90">
+               <time when="2014-05-20T22:27:00+02:00">22:27</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note91">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e2159" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d2e593">Bevor ich nun Herrn Abgeordnetem Dr. Vetter das Wort erteile, nur zur Information: Bei Einwendungsdebatten – und nicht nur bei Einwendungsdebatten – gibt es keine tatsächlichen Berichtigungen. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e2164">Ruf:Arg</note>Ja, die Geschäftsordnung ist die Geschäftsordnung. Wenn man sie anders haben will, muss man sie ändern. Zu Wort gelangt Herr Abgeordneter Dr. Vetter. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note93">
+               <time when="2014-05-20T22:28:13+02:00">22:28:13</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note94">Abgeordneter Dr. Georg Vetter (STRONACH)</note>
+            <u who="#PAD_83143" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e2188" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d2e604">Meine Damen und Herren! Gegen Verurteilungen wegen schlechten Stils gibt es bekanntlich kein Rechtsmittel. Daher ist nichts leichter, als einen anderen des schlechten Stils oder des schlechten Tons zu <pb n="12"/>
+            zeihen. Das haben in ungewöhnlich heftiger Weise die beiden Klubobleute der Regierungsparteien gemacht, nämlich mit dem Klubobmann der NEOS, der diesen Antrag gestellt hat. Dabei: Was hat er denn getan? – Er hat in einem Konditionalsatz das Wort „Ehre“ im Zusammenhang mit einem allfälligen Abstimmungsverhalten anderer Parteien verwendet. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e2198">Abg. Prinz: Mich wundert nicht, dass der Stronach, bei solchen Kollegen!</note>Wenn Sie daraus, e contrario, auf Ihr eigenes unehrenhaftes Verhalten schließen, dann gehen Sie sehr weit und offenbaren ein offensichtlich schlechtes Gewissen, das nämlich mit der Sache selbst zu tun hat, meine Damen und Herren! <vocal type="laughter" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.vocal5">
+                     <desc>Heiterkeit und Beifall bei Team Stronach, FPÖ und NEOS.</desc>
+                  </vocal>
+            Und dieses schlechte Gewissen kommt offensichtlich von einer völlig geänderten Budgetlage, denn seit Neuestem ist es ja so, dass man einfach ein Wochenende abwarten kann und plötzlich eine Milliarde mehr im Budget findet <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e2214">Ruf bei der ÖVP:Herr Oberlehrer!</note> ,zumindest 300 Millionen – 300 Millionen aus verbesserter Konjunktur! Meine Damen und Herren, wenn wir noch ein Wochenende warten, dann sind langsam unsere Budgetprobleme gelöst! <kinesic type="applause" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.kinesic19">
+                     <desc>Beifall bei Team Stronach, FPÖ und NEOS.</desc>
+                  </kinesic>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e2233">Abg. Strache: Dann haben wir bald Überschüsse im Budget!</note>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e2247">Abg. Tamandl: Aber Sie haben schon mitgekriegt, dass der Vollzug besser war als der Voranschlag?</note>In der Bildungsdebatte haben uns 60 Millionen gefehlt – und da haben wir stundenlang diskutiert –, im Verteidigungsbudget haben 40 Millionen gefehlt, das sind zusammen 100 Millionen. Das ist ein Drittel dessen, was wir konjunkturbedingt über das Wochenende hereingebracht haben. Also vielleicht sollten wir wirklich noch ein bisschen warten. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e2260">Abg. Tamandl: Das haben Sie aber schon mitgekriegt, dass der Vollzug besser war als der Voranschlag?</note>Frau Kollegin Tamandl, Sie haben sich mit diesem ganzen Budgetprozess enorm bemüht. Wir haben uns schon vor Monaten getroffen, Sie haben das vorbesprochen. Finden Sie nicht auch, dass das etwas seltsam ist: Wir machen uns die größte Mühe <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e2273">Abg. Wöginger: Jetzt macht nicht so einen Zirkus!</note>, und plötzlich kommen über das Wochenende ganz andere Daten!? – Wir, wenn ich das einmal so sagen darf, wir vom Team Stronach und die NEOS sind neu hier im Haus und kennen diesen Stil der plötzlichen Änderung nicht! Wir haben uns schon bemüht mit diesem Berg. Sie erinnern sich, es war etwa ein Meter an Papier, den wir bekommen haben. Wir haben das studiert, haben uns das angeschaut <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e2287">Abg. Wöginger: Ja, wir tun das schon länger!</note>, haben das Ganze ernst genommen. Und dann haben wir plötzlich nach dem Wochenende gehört: Das ist alles ganz anders! Da kann es schon einmal sein, dass man sich da seine eigenen Gedanken macht. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e2300">Abg. Wöginger: Das habt ihr euch anders vorgestellt!</note> Daher finde ich es gar nicht so schlecht, das ein bisschen neu aufzurollen, und unterstütze den Antrag. – Danke.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.kinesic20">
+               <desc>Beifall bei Team Stronach, FPÖ und NEOS sowie des Abg. Köchl.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note103">
+               <time when="2014-05-20T22:31:00+02:00">22:31</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note104">
+               <time when="2014-05-20T22:31:10+02:00">22:31:10</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note105">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e2328" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d2e651">Zu Wort ist niemand mehr gemeldet. Die Debatte ist geschlossen. Wir gelangen zur Abstimmung. Ich ersuche jene Abgeordneten, die den Einwendungen Rechnung tragen, um ein Zeichen der Zustimmung. – Das ist die Minderheit. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e2339">Ruf bei der SPÖ:Des is a weng z’weng!</note>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026_d7e2350">Gegenruf bei der FPÖ:Das werdet ihr euch nach der nächsten Wahl auch denken!</note>
+                  <pb n="13"/>
+            Somit bleibt es bei der im Saal verteilten Tagesordnung für die nächste Sitzung, die ich für morgen, Mittwoch, 21. Mai 2014, um 9 Uhr einberufe. Diese Sitzung ist geschlossen.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note108">
+               <time when="2014-05-20T22:32:04+02:00">22:32:04</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2014-05-20-025-XXV-NRSITZ-00026.note109">Schluss der Sitzung:<time when="2014-05-20T22:32:00+02:00">22:32</time>Uhr</note>
+         </div>
+      </body>
+   </text>
+</TEI>

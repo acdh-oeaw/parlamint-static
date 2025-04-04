@@ -1,0 +1,368 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" ana="#parla.sitting #reference" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.xml" xml:base="https://parlamint-at.acdh.oeaw.ac.at" prev="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00104.xml" next="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2005-04-12-022-XXII-NRSITZ-00106.xml">
+   <teiHeader xml:lang="en">
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="de">Österreichisches Parlamentskorpus ParlaMint-AT, Stenographische Protokolle der Plenarsitzungen des Österreichischen Nationalrats, XXII. Gesetzgebungsperiode [ParlaMint]</title>
+            <title type="sub" xml:lang="de">105. Sitzung des Nationalrates der Republik Österreich, XXII. Gesetzgebungsperiode, Donnerstag, 7. April 2005</title>
+            <title type="main" xml:lang="en">Austrian parliamentary corpus ParlaMint-AT, Shorthand records of the National Council of the Austrian Parliament, Legislative period XXII [ParlaMint]</title>
+            <title type="sub" xml:lang="en">Sitting Number 105, Legislative period XXII, Thursday, 7. April 2005</title>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.sitting" n="105">105. Sitzung</meeting>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.term #NR.XXII" n="22">XXII. Gesetzgebungsperiode</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.sitting" n="105">Sitting 105</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.term #NR.XXII" n="22">Legislative period XXII</meeting>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0002-8111-5584">Hannes Pirker</persName>
+               <persName ref="https://orcid.org/0000-0003-2436-0361">Daniel Schopper</persName>
+               <persName ref="https://orcid.org/0000-0002-1631-4560">Tanja Wissik</persName>
+               <resp xml:lang="de">Projektplanung und Methode</resp>
+               <resp xml:lang="en">Project set-up and methodology</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hannes Pirker</persName>
+               <resp xml:lang="de">Datenbeschaffung, Korpuskodierung in TEI und automatische linguistische Annotation</resp>
+               <resp xml:lang="en">Data retrieval, TEI corpus encoding and automatic linguistic annotation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Schopper</persName>
+               <resp xml:lang="de">XSLT Transformationen</resp>
+               <resp xml:lang="en">XSLT transformations</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Martin Kirnbauer</persName>
+               <resp xml:lang="de">Einige der manuellen Korrekturen</resp>
+               <resp xml:lang="en">Some of the manual curation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Tanja Wissik</persName>
+               <resp xml:lang="de">Metadaten und Übersetzung</resp>
+               <resp xml:lang="en">Metadata and translation</resp>
+            </respStmt>
+            <funder>
+               <orgName xml:lang="de">CLARIN-ERIC</orgName>
+               <orgName xml:lang="en">CLARIN-ERIC (Common Language Resources and Technology Infrastructure—European Research Infrastructure Consortium)</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </funder>
+            <funder>
+               <orgName xml:lang="de">ÖAW (Österreichische Akademie der Wissenschaften)</orgName>
+               <orgName xml:lang="en">ÖAW (Austrian Academy of Sciences)</orgName>
+               <ref target="https://www.oeaw.ac.at/">www.oeaw.ac.at</ref>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>4.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="19" xml:lang="de">19 Äußerungen</measure>
+            <measure unit="speeches" quantity="19" xml:lang="en">19 speeches</measure>
+            <measure unit="words" quantity="2095" xml:lang="de">2,095 Wörter</measure>
+            <measure unit="words" quantity="2095" xml:lang="en">2,095 words</measure>
+         </extent>
+         <publicationStmt>
+            <publisher>
+               <orgName xml:lang="de">Die CLARIN Forschungsinfrastruktur</orgName>
+               <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </publisher>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/1912</idno>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="de">Dieses Werk ist lizensiert unter der <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz (CC BY 4.0)</ref>.</p>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+            </availability>
+            <date when="2024-05-14">2024-05-14</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main" xml:lang="de">Stenographische Protokolle der Plenarsitzungen des Nationalrats der Republik Österreich</title>
+               <title type="sub" xml:lang="de">Stenographisches Protokoll, 105. Sitzung des Nationalrates der Republik Österreich, XXII. Gesetzgebungsperiode, Donnerstag, 7. April 2005</title>
+               <title type="main" xml:lang="en">Shorthand records of the plenary sittings of the National Council of the Austrian parliament</title>
+               <title type="sub" xml:lang="en">Shorthand record, Sitting Number 105, Legislative period XXII, Thursday, 7. April 2005</title>
+               <publisher>Parlamentsdirektion</publisher>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/PAKT/VHG/XXII/NRSITZ/NRSITZ_00105/fnameorig_044483.html</idno>
+               <date when="2005-04-07">2005-04-07</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p xml:lang="en"><ref target="https://www.clarin.eu/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://clarin-eric.github.io/ParlaMint/">ParlaMint encoding guidelines</ref>, covering the period from 2015 to mid-2022; (2) add linguistic annotations to the corpora and machine-translate them to English; (3) make the corpora available through concordancers; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.</p>
+            <p xml:lang="de"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+            </p>
+         </projectDesc>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="desc" occurs="23"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="kinesic" occurs="11"/>
+               <tagUsage gi="note" occurs="68"/>
+               <tagUsage gi="pb" occurs="5"/>
+               <tagUsage gi="seg" occurs="46"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="time" occurs="19"/>
+               <tagUsage gi="u" occurs="19"/>
+               <tagUsage gi="vocal" occurs="8"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <name type="city" xml:lang="de">Wien</name>
+               <name type="city" xml:lang="en">Vienna</name>
+               <name type="country" key="AT" xml:lang="en">Austria</name>
+               <name type="country" key="AT" xml:lang="de">Österreich</name>
+               <date ana="#parla.sitting" when="2005-04-07">2005-04-07</date>
+            </setting>
+         </settingDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2022-12-13">
+            <name>Hannes Pirker</name> : Converted from source HTML to TEI.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text ana="#reference">
+      <body>
+         <div xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e178" type="debateSection">
+            <gap reason="editorial" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.gap1">
+               <desc xml:lang="en">Frontmatters and table of content removed</desc>
+               <desc xml:lang="de">Titelseite und Inhaltsangabe entfernt</desc>
+            </gap>
+            <note type="time" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note1">Beginn der Sitzung:<time when="2005-04-07T19:00:00+02:00">19:00</time>Uhr</note>
+            <note type="chairpersons" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note2">Zweite Präsidentin Mag. Barbara Prammer</note>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note3">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e534" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e194">Ich eröffne die 105. Sitzung des Nationalrates.</seg>
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e196">Als verhindert gemeldet sind die Abgeordneten Dr. Fasslabend, Schieder sowie Dr. Gabriela Moser.</seg>
+               <note type="time" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note4">
+                  <time when="2005-04-07T19:01:00+02:00">19:01:00</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e201">Einlauf und Zuweisungen</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note5">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e568" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e206">Hinsichtlich der eingelangten Verhandlungsgegenstände und deren Zuweisungen verweise ich gemäß § 23 Abs. 4 der Geschäftsordnung auf die im Sitzungssaal verteilte Mitteilung.</seg>
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e208">Die schriftliche Mitteilung hat folgenden Wortlaut:</seg>
+               <gap reason="editorial" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.gap2">
+                  <desc xml:lang="en">Quoted printed matter omited</desc>
+                  <desc xml:lang="de">Zitierte Druckfassung entfernt</desc>
+               </gap>
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e215">Behandlung der Tagesordnung</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note6">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e696" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e220">Es ist vorgeschlagen, die Debatte über die Punkte 2 und 3 der Tagesordnung zusammenzufassen.</seg>
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e222">Wird dagegen eine Einwendung erhoben? – Das ist nicht der Fall. Wir gehen so vor.</seg>
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e224">Wir gehen nun in die Tagesordnung ein.</seg>
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e226">Redezeitbeschränkung</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note7">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e720" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e231">In der Präsidialkonferenz wurde Konsens über Dauer und Gestaltung der Debatte erzielt.</seg>
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e233">Demgemäß besteht Einvernehmen, dass zum Tagesordnungspunkt 1 je ein Redner pro Fraktion eine sehr kurze Wortmeldung abgibt. Weiters wird von den Fraktionen auf Wortmeldungen zu den Tagesordnungspunkten 2 und 3 verzichtet.</seg>
+               <note type="time" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note8">
+                  <time when="2005-04-07T19:01:14+02:00">19:01:14</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e238">1. Punkt</seg>
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e240">Erste Lesung: Antrag der Abgeordneten Dr. Andreas Khol, Mag. Barbara Prammer, Dipl.-Ing. Thomas Prinzhorn, Dr. Alexander Van der Bellen, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Bundesgesetz über die Geschäftsordnung des Nationalrates (Geschäftsordnungsgesetz 1975) geändert wird (588/A)</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note9">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e763" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e246">Wir gelangen zum 1. Punkt der Tagesordnung.</seg>
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e248">Wir gehen in die Debatte ein.</seg>
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e250">Als Erster zu Wort gemeldet ist Herr Klubobmann Mag. Molterer. – Bitte, Herr Abgeordneter.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note10">
+               <time when="2005-04-07T19:02:00+02:00">19:02:00</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note11">Abgeordneter Mag. Wilhelm Molterer (ÖVP)</note>
+            <u who="#PAD_01226" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e790" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e258">Frau Präsidentin! Meine sehr geehrten Damen und Herren! Die vier Parlamentsfraktionen haben heute einen gemeinsamen Initiativantrag zur Veränderung der Geschäftsordnung des Nationalrates eingebracht. Gemäß Bedingungen der Geschäftsordnung ist darüber eine erste Lesung abzuhalten. Dieser Initiativantrag zur Novelle des Geschäftsordnungsgesetzes sieht vor, dass wir in Zukunft hier im Hohen Haus eine bessere Möglichkeit, eine intensivere Möglichkeit haben, uns auch mit europäischen Themen zu beschäftigen. Jede der Fraktionen wird bei diesem Europatag ein Thema zu definieren haben, und ich denke, das es ein gutes Beispiel und Zeichen ist, dass sich auch nationale Parlamente verstärkt mit europäischen Anliegen beschäftigen, weil Europaanliegen selbstverständlich auch Teil der Innenpolitik sind und nicht ausschließlich Brüssel berühren. Wir begrüßen daher diesen Antrag und werden ihm auch zustimmen. Ich mache aber auf etwas aufmerksam und sage das mit einer durchaus auch persönlichen Betroffenheit im Sinne der Fairness und der Verlässlichkeit der Zusammenarbeit der Fraktionen hier im Hohen Haus: Wir haben jetzt das Budget für das Jahr <pb n="5"/>
+            2006 abgestimmt – ohne Anwesenheit von Klubobmann Gusenbauer und geschäftsführendem Klubobmann Cap. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e800">Abg. Dr. Jarolim: Wo ist Khol? Der ist schon in Rom!</note>Wir haben jetzt eine erste Lesung, hinsichtlich der vereinbart ist, dass eine Stellungnahme abgegeben wird – ohne Abgeordneten Gusenbauer und ohne Abgeordneten Cap. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e814">Abg. Dr. Jarolim: Wo ist Khol?</note>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e827">Abg. Krainer: Wo ist Präsident Khol?</note>
+                  <vocal type="interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.vocal1">
+                     <desc>Weitere Zwischenrufe bei der SPÖ.</desc>
+                  </vocal>
+            Auch für uns wäre es wichtig gewesen, an anderen Ereignissen teilzunehmen. Wir haben diese Möglichkeit leider nicht. Wir bekennen uns dazu, dass wir die Arbeit hier ernst nehmen. Aber ich bin persönlich enttäuscht, dass Absprachen nicht jene Haltbarkeit haben, von der ich ausgehe, dass sie in der Politik gelten sollte. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e846">Abg. Krainer: Wo ist Präsident Khol?</note> Das wird für uns und für mich persönlich auch eine Lehre sein.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.kinesic1">
+               <desc>Beifall bei der ÖVP und den Freiheitlichen.</desc>
+            </kinesic>
+            <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e865">Abg. Dr. Jarolim: Das war ziemlich mies!</note>
+            <note type="time" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note17">
+               <time when="2005-04-07T19:04:00+02:00">19:04</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note18">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e886" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e287">Als Nächster zu Wort gelangt Herr Abgeordneter Dr. Einem. – Bitte, Herr Abgeordneter.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note19">
+               <time when="2005-04-07T19:04:00+02:00">19:04:00</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note20">Abgeordneter Dr. Caspar Einem (SPÖ)</note>
+            <u who="#PAD_02873" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e907" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e296">Frau Präsidentin! Hohes Haus! Auch wir von der SPÖ begrüßen diesen Gesetzentwurf zur Änderung des Geschäftsordnungsgesetzes, weil er ein wichtiger Schritt ist, Europa den Stellenwert zu geben, auch im Plenum des Nationalrates, der Europa in der Politik in Österreich zukommt. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e915">Abg. Zweytick: Das ist so ein Schwachsinn, was Sie da sagen!</note>Wir haben das Problem ... <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e929">Abg. Zweytick: So ein Schwachsinn!</note>Sie sind der Meinung, das ist Schwachsinn? Sagen Sie es laut genug, dann ist es vielleicht für einen Ordnungsruf gut genug, Herr Kollege Zweytick. Wir sind der Überzeugung, dass es darum geht, das wir Europaangelegenheiten nicht nur im Hauptausschuss besprechen, dass er darum geht, auch im Plenum den europäischen Fragen das notwendige Interesse zuzuwenden und bei der Gelegenheit auch die Chance zu schaffen, dass auch eine weitere Öffentlichkeit an diesen Debatten teilnehmen kann. Wir stimmen daher vollen Herzens diesem Gesetzentwurf zu. Wir werden ihn natürlich mittragen. Herr Klubobmann Molterer, ich möchte nur eines auch noch bemerken, von wegen Vereinbarungen: Erstunterzeichner des Antrages, über den wir jetzt sprechen, ist Präsident Khol. Er ist nicht hier. Ich denke, wir sollten nicht den allzu großen Aufwand treiben, anderen irgendeine moralische Schuld zuzuweisen. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e942">Abg. Mag. Molterer: Das war mit Ihren Klubobmännern vereinbart! Das können Sie nicht wissen, denn sie sind nicht einmal da!</note> Es ist eine bestimmte Redzeit heute vereinbart worden. Diese Redezeit ist ausgeschöpft worden, und jetzt sind wir erst am Ende der Tagung. So ist es. Das können Sie ruhig zur Kenntnis nehmen!</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.kinesic2">
+               <desc>Beifall bei der SPÖ.</desc>
+            </kinesic>
+            <vocal type="interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.vocal2">
+               <desc>Lebhafte Zwischenrufe bei der SPÖ.</desc>
+            </vocal>
+            <note type="time" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note24">
+               <time when="2005-04-07T19:05:00+02:00">19:05</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note25">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e974" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e319">Als Nächster zu Wort gelangt Herr Abgeordneter Scheibner. – Herr Klubobmann, bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note26">
+               <time when="2005-04-07T19:06:00+02:00">19:06:00</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note27">Abgeordneter Herbert Scheibner (Freiheitliche)</note>
+            <u who="#PAD_01604" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e996" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e327">Frau Präsidentin! Meine Damen und Herren! Auch meine Fraktion unterstützt selbstverständlich diesen Antrag. Ich glaube, es ist gut und notwendig, dass man nach zehn Jahren Mitgliedschaft Österreichs in der Europäischen Union und in einer Zeit der Erweiterung und Vertiefung auch signalisiert, <pb n="6"/>
+            dass sich der österreichische Nationalrat mehr als bisher mit den Fragen der Europäischen Union befasst und sich durchaus auch aktuell mit Vorlagen und Materien der Europäischen Institutionen auseinander setzen kann. Viermal im Jahr werden wir hier in strukturierten Sitzungen zusammentreffen, und es wird an uns liegen, dass diese Sitzungen auch entsprechend lebhaft, und zwar lebhaft im Sinne von inhaltsvoll, gestaltet und umgesetzt werden. In diesem Sinne selbstverständlich Zustimmung, aber ich gehe davon aus, dass das auch bei den anderen Fraktionen so sein wird. Zu dem anderen Punkt bezüglich der Vereinbarungen muss ich leider schon auch noch zwei, drei Sätze sagen, denn in diesem Sinn ist heute in dieser Debatte sehr viel kaputtgegangen. Es steht jeder Fraktion frei, hier politische Debatten zu führen, auch harte Debatten zu führen, selbstverständlich auch sozusagen den Daumen auf die Wunde anderer Fraktionen zu legen. Das ist unser politisches Geschäft, auch unsere Aufgabe. Ich habe auch schon andere Zeiten hier in diesem Hohen Haus erlebt, aber ich war bis jetzt sehr stolz darauf, dass wir ... <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1006">Abg. Dr. Puswald: Sie werden nicht mehr viele Zeiten hier erleben!</note>Ja, lieber Kollege Puswald, einmal still sein und zuhören, bevor man irgendwelche merkwürdigen Zwischenrufe macht, würde auch dir gut anstehen. <kinesic type="applause" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.kinesic3">
+                     <desc>Beifall bei den Freiheitlichen und der ÖVP.</desc>
+                  </kinesic>
+                  <vocal type="interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.vocal3">
+                     <desc>Lebhafte Zwischenrufe bei der SPÖ.</desc>
+                  </vocal>
+            Im Gegensatz zu dir meine ich das, was ich hier am Rednerpult sage. Ich sage Ihnen, meine Damen und Herren, ich habe andere Zeiten hier erlebt. Aber in den letzten Jahren war ich stolz darauf, dass wir abseits aller politischen Differenzen und harten Debatten in der Präsidiale ein Klima der Zusammenarbeit gehabt haben, von dem wir alle profitiert haben. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1031">Abg. Dr. Matznetter: Und warum ist dieses Klima verschlechtert worden?</note> Es war immer so, lieber Kollege Matzenetter, dass Vereinbarungen gehalten haben. <vocal type="interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.vocal4">
+                     <desc>Anhaltende Zwischenrufe bei der SPÖ.</desc>
+                  </vocal>
+                  <kinesic type="signal" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.kinesic4">
+                     <desc>Präsidentin Mag. Prammer gibt das Glockenzeichen.</desc>
+                  </kinesic>
+            Wenn sie nicht eingehalten werden konnten, dann haben wir das vorweg abgesprochen und haben die Vereinbarungen geändert. Heute sind mehrere Vereinbarungen nicht eingehalten worden. Wenn Sie sagen: Präsident Khol ist auch nicht da!, so darf ich Ihnen sagen: Das war in der Präsidiale vereinbart; die Frau Präsidentin ist Zeugin dieser Vereinbarung. Es war weiters vereinbart, dass wir neben all den Sonderaktionen, die auch ursprünglich anders vereinbart gewesen sind, darauf achten werden, dass alle Abgeordneten in diesem Hause, die das möchten, am Requiem heute im Stephansdom teilnehmen können. Und es war wieder die sozialdemokratische Fraktion, die sich nicht an die Kürzungsvereinbarungen bezüglich Redezeit gehalten haben, meine Damen und Herren! <vocal type="interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.vocal5">
+                     <desc>Zwischenrufe bei der SPÖ.</desc>
+                  </vocal>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1062">Abg. Bures: Das stimmt nicht! Das stimmt überhaupt nicht!</note>Auch in Ordnung, denn man kann noch immer sagen: Es ist unsere Aufgabe, hier zu diskutieren und auch Abstimmungen abzuführen! Und dieser Aufgabe haben wir uns selbstverständlich auch gestellt. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1076">Abg. Bures: Sie sagen die Unwahrheit!</note>Und es nicht pietätlos, wie ich das gehört habe, wenn man kritisiert <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1089">Abg. Dr. Jarolim: Das ist hinterfotzig!</note>
+                  <vocal type="interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.vocal6">
+                     <desc>Zwischenrufe bei der ÖVP und den Freiheitlichen.</desc>
+                  </vocal>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1108">Abg. Neudeck: „Hinterfotzig“ – da ist ein Ordnungsruf angebracht!</note>, dass die beiden Klubobleute zwar Vereinbarungen treffen <vocal type="interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.vocal7">
+                     <desc>anhaltende Zwischenrufe</desc>
+                  </vocal>
+                  <kinesic type="signal" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.kinesic5">
+                     <desc>Präsidentin Mag. Prammer gibt das Glockenzeichen</desc>
+                  </kinesic>
+            ,aber dann dafür sorgen, dass diese Vereinbarungen nicht eingehalten werden, und dann trotzdem nicht bei den Schlussabstimmungen und bei den Debatten hier anwesend sind. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1133">Abg. Bures: Sie reden die Unwahrheit!</note> Das ist nicht pietätlos, aber das ist nicht kameradschaftlich, das ist ganz einfach eine schlechte Verhaltensweise. Und das ist auch ein schlechter Tag für die Zusam- <pb n="7"/>
+            menarbeit aller Fraktionen in der Präsidiale.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.kinesic6">
+               <desc>Beifall bei den Freiheitlichen und der ÖVP.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note35">
+               <time when="2005-04-07T19:09:00+02:00">19:09</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note36">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1162" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e392">Zur Geschäftsbehandlung hat sich Herr Abgeordneter Mag. Molterer zu Wort gemeldet. – Bitte, Herr Klubobmann.</seg>
+            </u>
+            <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1170">Abg. Parnigoni: Das ist der Richtige!</note>
+            <note type="time" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note38">
+               <time when="2005-04-07T19:09:50+02:00">19:09:50</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note39">Abgeordneter Mag. Wilhelm Molterer (ÖVP)</note>
+            <note type="procedural" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note40">zur Geschäftsbehandlung</note>
+            <u who="#PAD_01226" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1196" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e404">Frau Präsidentin! Bei der Wortmeldung des Kollegen Scheibner ist ein Zwischenruf gefallen. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1205">Abg. Scheibner: Vom Jarolim!</note> Ich habe vom Kollegen Jarolim das Wort „hinterfotzig“ gehört. Ich ersuche, dafür einen Ordnungsruf zu geben.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.kinesic7">
+               <desc>Beifall bei der ÖVP und den Freiheitlichen.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note42">
+               <time when="2005-04-07T19:10:00+02:00">19:10</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note43">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1231" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e419">Herr Klubobmann! Ich habe das Wort nicht gehört, aber nachdem der Herr ... <vocal type="interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.vocal8">
+                     <desc>Lebhafte Zwischenrufe bei der ÖVP und den Freiheitlichen.</desc>
+                  </vocal>
+            Langsam! Ich würde auch Sie auffordern, mich ausreden zu lassen! Nachdem aber sogar Herr Abgeordneter Jarolim das bestätigt, erteile ich ihm natürlich einen Ordnungsruf, würde aber wirklich bitten, dass die angeheizte Stimmung sich jetzt sofort abkühlt und wir die Debatte dementsprechend zu Ende führen. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1248">Abg. Dr. Wittmann: Aber Recht hat er schon!</note>Herr Klubobmann Van der Bellen, ich erteile Ihnen das Wort.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note45">
+               <time when="2005-04-07T19:10:42+02:00">19:10:42</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note46">Abgeordneter Dr. Alexander Van der Bellen (Grüne)</note>
+            <u who="#PAD_02856" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1272" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e434">Frau Präsidentin! Meine Damen und Herren! Namens der Grünen begrüße ich ausdrücklich die Geschäftsordnungsgesetz-Novelle, die wir jetzt in erster Lesung behandeln – eine gemeinsame Initiative des Präsidiums und der vier Klubs in diesem Haus. Damit möchte ich es zu diesem Punkt schon bewenden lassen, schließe mich den Ausführungen meiner Vorredner, soweit sie diesen Punkt, die Geschäftsordnungsgesetz-Novelle, betreffen, durchaus an. Was den Verlauf der heutigen Sitzung betrifft, Herr Kollege Molterer, so wissen Sie, dass wir durchaus bereit waren, auch in letzter Sekunde noch irgendwie zu versuchen, dafür zu sorgen, dass man rechtzeitig um 19 Uhr im Stephansdom sein kann. Ich muss Ihnen allerdings schon sagen, bevor wir uns hier alle gegenseitig moralisch ent- und aufrüsten, dass nach unserer Durchzählung heute 46 Redner und Rednerinnen der ÖVP am Wort waren – inklusive der Redner bei der Dringlichen und inklusive aller Redner bei tatsächlichen Berichtigungen und so weiter – und elf von den Grünen. Also ein bisschen ... <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1280">Abg. Dr. Fekter: Aber nur jeweils drei Minuten!</note>Na, es ist Ihr gutes Recht. Es können sich auch 70 – ich weiß nicht, wie viele Abgeordnete Sie haben – melden. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1295">Abg. Mag. Molterer: (auf die Plätze der Abgeordneten Dr. Gusenbauer und Dr. Cap weisend) Aber wo sind die zwei? Das ist ja die Schweinerei!</note>Dazu kann ich nicht Stellung nehmen, das ist nicht mein Klub und nicht meine Partei. <kinesic type="applause" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.kinesic8">
+                     <desc>Beifall bei den Grünen.</desc>
+                  </kinesic>
+            Ich würde glauben, Herr Kollege Scheibner, wenn wir das nächste Mal so ein Zeitproblem haben ... <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1317">Abg. Scheibner: Sie waren nicht angesprochen!</note>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1331">Abg. Mag. Molterer: Sind Sie der Pflichtverteidiger der SPÖ? Das ist aber sehr komisch: Sie hier als Pflichtverteidiger!</note>
+                  <kinesic type="signal" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.kinesic9">
+                     <desc>Präsidentin Mag. Prammer gibt das Glockenzeichen.</desc>
+                  </kinesic>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1350">Abg. Mag. Molterer: Fühlen Sie sich angesprochen?</note> Nein, ich bin ja hier.– Wenn wir das nächste Mal so ein Zeitproblem haben, Herr Kollege Molterer und meine anderen <pb n="8"/>
+            Kollegen von den Klubs, dann müssen wir eben bei den „Wiener Stunden“ entsprechend heruntergehen, um die entsprechende Zeit zu haben. Die sieben waren zu viel, wenn wir sechs vereinbart hätten, dann wären wir vor einer Stunde in etwa fertig gewesen und es wäre sich ausgegangen. Also insofern: Nehmen wir uns alle ein bisschen an der Nase! Diese Zeitplanung ist leider schief gegangen. Das nächste Mal wird es besser gehen.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.kinesic10">
+               <desc>Beifall bei den Grünen.</desc>
+            </kinesic>
+            <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1371">Abg. Steibl: Wo ist der Gusenbauer?</note>
+            <note type="time" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note53">
+               <time when="2005-04-07T19:13:00+02:00">19:13</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note54">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1392" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e470">Ich möchte, bevor ich Herrn Abgeordnetem Dr. Einem zur Geschäftsbehandlung das Wort erteile, feststellen: Es hat keine der Fraktionen die gesamte Redezeit ausgenützt, bei weitem nicht. Die Zeit ist nicht überzogen worden. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1403">Abg. Neudeck: Es geht darum, dass die beiden nicht da sind!</note>Es haben die Regierungsmitglieder relativ lange gesprochen. Ich denke, es wird wichtig sein, dass wir uns das in der Präsidiale in Zukunft anschauen, um die Redezeit der Regierungsmitglieder auch dementsprechend mit zu berücksichtigen. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1416">Abg. Neudeck: Nicht einmal ein Klubobmann ist da! Jetzt haben sie schon ein Tandem und keiner ist da!</note>Herr Klubobmann-Stellvertreter Einem, ich erteile Ihnen das Wort.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note57">
+               <time when="2005-04-07T19:13:28+02:00">19:13:28</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note58">Abgeordneter Dr. Caspar Einem (SPÖ)</note>
+            <note type="procedural" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note59">zur Geschäftsbehandlung</note>
+            <u who="#PAD_02873" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1442" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e487">Frau Präsidentin! Ich möchte nur darauf hinweisen: Herr Klubobmann Molterer, der es notwendig gefunden hat, wegen „Hinterfotzigkeit“ einen Ordnungsruf zu begehren, hat jetzt gerade selbst „Schweinerei!“ hineingerufen, und auch Herr Abgeordneter Zweytick hat dafür, dass er mir zweimal vorgeworfen hat, dass das, was ich sage, Schwachsinn ist, keinerlei Reaktionen gehabt. – Ich halte das für unausgewogen.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.kinesic11">
+               <desc>Beifall bei der SPÖ und bei Abgeordneten der Grünen.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note60">
+               <time when="2005-04-07T19:14:00+02:00">19:14</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note61">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1467" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e498">Nachdem auch Sie, Herr Klubobmann Mag. Molterer, den Zwischenruf bestätigen, erteile ich Ihnen einen Ordnungsruf. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1478">Abg. Mag. Molterer: Ich danke dafür! Aber das ist die Realität!</note>Ich möchte dazu keine weiteren Ausführungen machen. Zum Wort ist dazu niemand mehr gemeldet. Die Debatte ist geschlossen. <note type="time" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note63">
+                     <time when="2005-04-07T19:14:28+02:00">19:14:28</time>
+                  </note>2. Punkt Bericht des Immunitätsausschusses über das Ersuchen des Landesgerichtes für Strafsachen Wien (094 Hv 7/05 w) um Zustimmung zur behördlichen Verfolgung des Abgeordneten zum Nationalrat Dr. Peter Pilz(849 d.B.) 3. Punkt Bericht des Immunitätsausschusses über das Ersuchen des Landesgerichtes Klagenfurt (19 Hv 2/05 t) um Zustimmung zur behördlichen Verfolgung der Abgeordneten zum Nationalrat Marialuise Mittermüller(850 d.B.)</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note64">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1511" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e510">Wir gelangen nun zu den Punkten 2 und 3 der Tagesordnung.</seg>
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e512">Auf eine mündliche Berichterstattung wurde verzichtet.</seg>
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e514">Zu Wort ist niemand gemeldet.</seg>
+               <pb n="9"/>
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e517">Wir gelangen nun zur Abstimmung, die ich über jeden Ausschussantrag getrennt vornehme.</seg>
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e519">Zunächst kommen wir zur Abstimmung über den Antrag des Immunitätsausschusses in 849 der Beilagen, Folgendes zu beschließen:</seg>
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e521">In Behandlung des Ersuchens des Landesgerichtes für Strafsachen Wien um Zustimmung zur behördlichen Verfolgung des Abgeordneten zum Nationalrat Dr. Peter Pilzwird im Sinne des Artikels 57 Abs. 3 B-VG festgestellt, dass ein Zusammenhang zwischen der vom Privatankläger behaupteten strafbaren Handlung und der politischen Tätigkeit des Abgeordneten zum Nationalrat Dr. Peter Pilzbesteht.</seg>
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e523">Daher wird einer behördlichen Verfolgung des Abgeordneten zum Nationalrat Dr. Peter Pilznicht zugestimmt.</seg>
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e525">Ich bitte jene Damen und Herren, die sich diesem Antrag anschließen, um ein entsprechendes Zeichen. – Das ist einstimmig, und damit ist dieser Antrag angenommen.</seg>
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e527">Wir gelangen nun zur Abstimmung über den Antrag des Immunitätsausschusses in 850 der Beilagen, Folgendes zu beschließen:</seg>
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e529">In Behandlung des Ersuchens des Landesgerichtes Klagenfurt um Zustimmung zur behördlichen Verfolgung der Abgeordneten zum Nationalrat Marialuise Mittermüllerwird festgestellt, dass die inkriminierte Handlung zu einem Zeitpunkt begangen worden ist, zu dem die Beschuldigte kein Mandat innehatte.</seg>
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e532">Daher wird einer behördlichen Verfolgung der Abgeordneten zum Nationalrat Marialuise Mittermüllerzugestimmt.</seg>
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e534">Ich bitte jene Damen und Herren, die sich diesem Antrag anschließen, um ein Zeichen der Zustimmung. – Das ist einstimmig, und damit ist dieser Antrag angenommen.</seg>
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e536">Die Tagesordnung ist erschöpft.</seg>
+               <note type="time" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note65">
+                  <time when="2005-04-07T19:16:56+02:00">19:16:56</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e541">Zuweisung</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note66">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d7e1603" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e546">Ich weise den Antrag 588/A dem Geschäftsordnungsausschuss zu.</seg>
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e548">Die nächste Sitzung des Nationalrates berufe ich auf Grund eines Verlangens auf Sondersitzung für Dienstag, den 12. April 2005, 12 Uhr, ein.</seg>
+               <seg xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105_d2e550">Diese Sitzung ist geschlossen.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note67">
+               <time when="2005-04-07T19:17:17+02:00">19:17:17</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2005-04-07-022-XXII-NRSITZ-00105.note68">Schluss der Sitzung:<time when="2005-04-07T19:17:00+02:00">19:17</time>Uhr</note>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,475 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" ana="#parla.sitting #reference" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.xml" xml:base="https://parlamint-at.acdh.oeaw.ac.at" prev="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2016-04-27-025-XXV-NRSITZ-00124.xml" next="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00126.xml">
+   <teiHeader xml:lang="en">
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="de">Österreichisches Parlamentskorpus ParlaMint-AT, Stenographische Protokolle der Plenarsitzungen des Österreichischen Nationalrats, XXV. Gesetzgebungsperiode [ParlaMint]</title>
+            <title type="sub" xml:lang="de">125. Sitzung des Nationalrates der Republik Österreich, XXV. Gesetzgebungsperiode, Donnerstag, 28. April 2016</title>
+            <title type="main" xml:lang="en">Austrian parliamentary corpus ParlaMint-AT, Shorthand records of the National Council of the Austrian Parliament, Legislative period XXV [ParlaMint]</title>
+            <title type="sub" xml:lang="en">Sitting Number 125, Legislative period XXV, Thursday, 28. April 2016</title>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.sitting" n="125">125. Sitzung</meeting>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.term #NR.XXV" n="25">XXV. Gesetzgebungsperiode</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.sitting" n="125">Sitting 125</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.term #NR.XXV" n="25">Legislative period XXV</meeting>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0002-8111-5584">Hannes Pirker</persName>
+               <persName ref="https://orcid.org/0000-0003-2436-0361">Daniel Schopper</persName>
+               <persName ref="https://orcid.org/0000-0002-1631-4560">Tanja Wissik</persName>
+               <resp xml:lang="de">Projektplanung und Methode</resp>
+               <resp xml:lang="en">Project set-up and methodology</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hannes Pirker</persName>
+               <resp xml:lang="de">Datenbeschaffung, Korpuskodierung in TEI und automatische linguistische Annotation</resp>
+               <resp xml:lang="en">Data retrieval, TEI corpus encoding and automatic linguistic annotation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Schopper</persName>
+               <resp xml:lang="de">XSLT Transformationen</resp>
+               <resp xml:lang="en">XSLT transformations</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Martin Kirnbauer</persName>
+               <resp xml:lang="de">Einige der manuellen Korrekturen</resp>
+               <resp xml:lang="en">Some of the manual curation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Tanja Wissik</persName>
+               <resp xml:lang="de">Metadaten und Übersetzung</resp>
+               <resp xml:lang="en">Metadata and translation</resp>
+            </respStmt>
+            <funder>
+               <orgName xml:lang="de">CLARIN-ERIC</orgName>
+               <orgName xml:lang="en">CLARIN-ERIC (Common Language Resources and Technology Infrastructure—European Research Infrastructure Consortium)</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </funder>
+            <funder>
+               <orgName xml:lang="de">ÖAW (Österreichische Akademie der Wissenschaften)</orgName>
+               <orgName xml:lang="en">ÖAW (Austrian Academy of Sciences)</orgName>
+               <ref target="https://www.oeaw.ac.at/">www.oeaw.ac.at</ref>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>4.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="20" xml:lang="de">20 Äußerungen</measure>
+            <measure unit="speeches" quantity="20" xml:lang="en">20 speeches</measure>
+            <measure unit="words" quantity="6776" xml:lang="de">6,776 Wörter</measure>
+            <measure unit="words" quantity="6776" xml:lang="en">6,776 words</measure>
+         </extent>
+         <publicationStmt>
+            <publisher>
+               <orgName xml:lang="de">Die CLARIN Forschungsinfrastruktur</orgName>
+               <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </publisher>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/1912</idno>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="de">Dieses Werk ist lizensiert unter der <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz (CC BY 4.0)</ref>.</p>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+            </availability>
+            <date when="2024-05-14">2024-05-14</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main" xml:lang="de">Stenographische Protokolle der Plenarsitzungen des Nationalrats der Republik Österreich</title>
+               <title type="sub" xml:lang="de">Stenographisches Protokoll, 125. Sitzung des Nationalrates der Republik Österreich, XXV. Gesetzgebungsperiode, Donnerstag, 28. April 2016</title>
+               <title type="main" xml:lang="en">Shorthand records of the plenary sittings of the National Council of the Austrian parliament</title>
+               <title type="sub" xml:lang="en">Shorthand record, Sitting Number 125, Legislative period XXV, Thursday, 28. April 2016</title>
+               <publisher>Parlamentsdirektion</publisher>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/PAKT/VHG/XXV/NRSITZ/NRSITZ_00125/fnameorig_562456.html</idno>
+               <date when="2016-04-28">2016-04-28</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p xml:lang="en"><ref target="https://www.clarin.eu/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://clarin-eric.github.io/ParlaMint/">ParlaMint encoding guidelines</ref>, covering the period from 2015 to mid-2022; (2) add linguistic annotations to the corpora and machine-translate them to English; (3) make the corpora available through concordancers; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.</p>
+            <p xml:lang="de"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+            </p>
+         </projectDesc>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="desc" occurs="31"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="kinesic" occurs="23"/>
+               <tagUsage gi="note" occurs="46"/>
+               <tagUsage gi="pb" occurs="13"/>
+               <tagUsage gi="seg" occurs="120"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="time" occurs="21"/>
+               <tagUsage gi="u" occurs="20"/>
+               <tagUsage gi="vocal" occurs="4"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <name type="city" xml:lang="de">Wien</name>
+               <name type="city" xml:lang="en">Vienna</name>
+               <name type="country" key="AT" xml:lang="en">Austria</name>
+               <name type="country" key="AT" xml:lang="de">Österreich</name>
+               <date ana="#parla.sitting" when="2016-04-28">2016-04-28</date>
+            </setting>
+         </settingDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2022-12-13">
+            <name>Hannes Pirker</name> : Converted from source HTML to TEI.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text ana="#reference">
+      <body>
+         <div xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e178" type="debateSection">
+            <gap reason="editorial" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.gap1">
+               <desc xml:lang="en">Frontmatters and table of content removed</desc>
+               <desc xml:lang="de">Titelseite und Inhaltsangabe entfernt</desc>
+            </gap>
+            <note type="time" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note1">
+               <time when="2016-04-28T09:06:16+02:00">09:06:16</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note2">Beginn der Sitzung:<time when="2016-04-28T09:06:00+02:00">9:06</time>Uhr</note>
+            <note type="chairpersons" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note3">Präsidentin Doris Bures</note>
+            <note type="speaker" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note4">Präsidentin Doris Bures</note>
+            <u who="#PAD_00145" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d7e956" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e197">Meine sehr geehrten Damen und Herren Abgeordnete! Ich eröffne die 125. Sitzung des Nationalrates.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e199">Als verhindert gemeldet sind die Abgeordneten Bacher, Mag. Greiner, Krist, Mag. Schönegger, Ing. Hackl, Hafenecker, MA, Mag. Schrangl, Zanger, Mag. Rossmann und Dr. Hable.</seg>
+               <note type="time" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note5">
+                  <time when="2016-04-28T09:06:44+02:00">09:06:44</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e204">Einlauf</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note6">Präsidentin Doris Bures</note>
+            <u who="#PAD_00145" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d7e987" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e209">Hinsichtlich der eingelangten parlamentarischen Anfragen verweise ich auf die im Sitzungssaal verteilte Mitteilung.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e211">Die schriftliche Mitteilung hat folgenden Wortlaut:</seg>
+               <gap reason="editorial" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.gap2">
+                  <desc xml:lang="en">Quoted printed matter omited</desc>
+                  <desc xml:lang="de">Zitierte Druckfassung entfernt</desc>
+               </gap>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note7">Präsidentin Doris Bures</note>
+            <u who="#PAD_00145" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d7e1020" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e221">Diese Sitzung wird von ORF 2 und ORF III live übertragen und simultan übersetzt. Die deutsche Übersetzung der Erklärung des UN-Generalsekretärs hören Sie auf Kanal 1 des Empfangsgeräts, die Übersetzung ins Englische erfolgt auf Kanal 2.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e223">Damit gehen wir in die Tagesordnung ein.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e225">Begrüßungsworte der Präsidentin</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note8">
+               <time when="2016-04-28T09:07:27+02:00">9:07:27</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note9">Präsidentin Doris Bures</note>
+            <u who="#PAD_00145" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d7e1047" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e234">Sehr geehrter Herr Bundespräsident Dr. Heinz Fischer! Liebe Margit Fischer! Sehr geehrter Herr Bundeskanzler Werner Faymann! Sehr geehrter Herr Vizekanzler! Mitglieder der Bundesregierung und liebe Gäste! Sie alle erleben heute im Parlament eine Premiere. Erstmals dürfen wir in einer Sitzung des österreichischen Nationalrates eine hochrangige internationale Persönlichkeit als Gast begrüßen. Es ist mir eine große Ehre und persönliche Freude, dass der Generalsekretär der wohl wichtigsten internationalen Organisation heute bei uns zu Gast ist. Wir heißen Sie, sehr geschätzter Herr Generalsekretär Ban Ki-moon, und Ihre Gattin herzlich willkommen!</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.kinesic1">
+                  <desc>Allgemeiner Beifall.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e239">Die Weltgemeinschaft – und Österreich ist ein Teil von ihr – ist mit immensen Herausforderungen konfrontiert. Wir haben die Situation im gesamten arabischen Raum, wir haben den Krieg in Syrien mit all seinen Folgen. Wir erleben Terror, Klimawandel und eine immer mehr wachsende Kluft zwischen Arm und Reich.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e241">Kein Land dieser Welt kann auch nur eines dieser Probleme alleine lösen, und dennoch müssen wir ein doch paradoxes Phänomen beobachten: Je komplexer die Probleme werden, desto stärker wirken die zentrifugalen Kräfte – Kräfte, die Gemeinschaften auseinanderdriften lassen und die sie schwächen. Die Folgen sind wiedererstarkende Nationalismen und Tendenzen der Entsolidarisierung. Dem müssen wir durch Dialog entgegentreten, indem wir einander zuhören und auch über den Tellerrand blicken.</seg>
+               <pb n="7"/>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e244">Diesem Anspruch und unserer österreichischen Tradition folgt eben dieses neue parlamentarische Instrument des internationalen Dialogs, das wir heute mit Leben erfüllen werden.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e246">Sehr geehrter Herr Generalsekretär Ban Ki-moon! Mit den Augen der UNO sieht die Welt größer aus. Die gewählten Abgeordneten des österreichischen Parlaments, die österreichische Bundesregierung und mit ihnen Tausende Österreicherinnen und Österreicher vor den Bildschirmen schenken Ihnen nun ihre volle Aufmerksamkeit. Herzlich willkommen!</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.kinesic2">
+                  <desc>Allgemeiner Beifall.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e251">Ich lade Sie nun ein, Ihre Erklärung abzugeben.</seg>
+               <note type="time" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note10">
+                  <time when="2016-04-28T09:07:16+02:00">09:07:16</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e256">Erklärung des Generalsekretärs der Vereinten Nationen Ban Ki-moon gemäß § 19a der Geschäftsordnung des Nationalrates</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note11">
+               <time when="2016-04-28T09:11:34+02:00">9:11:34</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note12">Generalsekretär der Vereinten Nationen Ban Ki-moon</note>
+            <u who="#Q1253" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d7e1104" ana="#guest">
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e264">Ihre Exzellenz, Herr Bundespräsident Heinz Fischer! Sehr geehrte Frau Doris Bures, Präsidentin des Nationalrates! Sehr geehrter Herr Bundeskanzler Werner Faymann! Sehr geehrte Mitglieder der Bundesregierung! Sehr geehrter Herr Josef Saller, Präsident des Bundesrates! Ehrwürdige Mitglieder des Parlaments! Meine Damen und Herren! Es ist mir eine große Ehre, als erster internationaler Gast eine Ansprache in diesem Parlament halten zu dürfen. Ich danke Ihnen für Österreichs wichtigen Beitrag zur Arbeit der Vereinten Nationen und dafür, dass Sie ein so großzügiges Gastland sind.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e266">Ehrwürdige Abgeordnete! Im Sprachgebrauch der internationalen Gemeinschaft sind Wien und Österreich gleichbedeutend mit globalem Handeln. Hier wurden die Wiener Menschenrechtserklärung, das Wiener Übereinkommen zum Schutz der Ozonschicht, ja sogar ein Pakt über Pakte – das Wiener Übereinkommen über das Recht der Verträge – sowie viele andere internationale Übereinkünfte ausgehandelt, die heute für die ganze Welt von Bedeutung sind. (In deutscher Simultandolmetschung:)</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e268">Hier veranstalten die Vereinten Nationen große Konferenzen zu Themen, die auf der globalen Tagesordnung ganz oben stehen. Wien ist Dreh- und Angelpunkt für die Tätigkeit der Vereinten Nationen in Bereichen wie der Kernenergie, der Drogen- und Verbrechensbekämpfung, der industriellen Entwicklung und in vielen anderen Bereichen.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e270">In dieser Woche ist Wien Gastgeber für den Koordinierungsrat der Leiter der Organisationen des gesamten Systems der Vereinten Nationen, der hier zu seiner halbjährlichen Tagung zusammenkommt. Vielen Dank für Ihre herzliche Unterstützung!</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e272">Erst gestern haben wir den 20. Jahrestag des Bestehens der Organisation des Vertrags über das umfassende Verbot von Nuklearversuchen begangen. Für mich war dieser Anlass eine Heimkehr – 17 Jahre, nachdem ich den Vorsitz in der Vorbereitungskommission der Organisation führte. Damals war ich Botschafter meines Landes hier. Wie sich herausstellte, sollte das mein erster und letzter Botschafterposten sein. Obwohl dieser Einsatz eher kurz war, trugen Wiener Leidenschaft und Energie dazu bei, meinen zukünftigen Lebenslauf zu bestimmen, und waren der Anlass für mich, in den Dienst der Vereinten Nationen, dieser großartigen Organisation, zu treten.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e274">Ich ließ mich insbesondere von der pulsierenden Wiener Kunstszene inspirieren. Eine meiner Initiativen war die Organisation der ersten Österreichisch-Koreanischen Philharmonie hier in Wien. Sie steht für die Harmonie zwischen den beiden Ländern. Ich bin sehr stolz darauf, dass ich dieses Orchester gründen durfte. Wien wird immer einen be-</seg>
+               <pb n="8"/>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e277">sonderen Platz in meinem Herzen einnehmen. Meine Frau und ich sind immer noch eng mit unseren Freunden von damals verbunden.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e279">Meine Damen und Herren! Es ist für mich eine große Ehre, dass Herr Bundespräsident Fischer und seine Gattin heute hier anwesend sind. Ich habe die Bekanntschaft von Bundespräsident Fischer in seiner Zeit als Präsident des Nationalrates gemacht. Seitdem ist er mir ein unerschöpflicher Ratgeber und wunderbarer Freund. Nun, vor der Vollendung seiner zweiten Amtszeit als Bundespräsident dieses großartigen Landes, möchte ich ihm meine Anerkennung für die inspirierende Art und Weise aussprechen, in der er Österreich als Staatsoberhaupt nach innen und außen vertreten hat.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e281">Meine Frau und ich verbrachten zum vergangenen Jahreswechsel einen unserer seltenen Urlaube in dieser Stadt und läuteten das Jahr 2016 im Kreise unserer österreichischen Freunde und als Gäste beim einzigartigen Wiener Neujahrskonzert ein. Ich danke Ihnen für die herausragenden Beiträge, die Wien zu den Vereinten Nationen und Österreich zu unserer Welt geleistet haben.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e283">Österreich ist ein unverzichtbares Mitglied der Weltgemeinschaft, angefangen von der führenden Rolle in wichtigen Organen der Vereinten Nationen bis zu seinen friedenserhaltenden Kräften im Feld, von der Entwicklungszusammenarbeit bis zu seinem Eintreten für die Menschenrechte.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e286">Ich danke Ihnen für Österreichs wichtigen Beitrag zur Arbeit der Vereinten Nationen. <kinesic type="applause" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.kinesic3">
+                     <desc>Allgemeiner Beifall.</desc>
+                  </kinesic>
+            – Danke schön. (In deutscher Sprache:)</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e292">Exzellenzen! Ehrwürdige Mitglieder des Parlaments! Meine Damen und Herren! Wir brauchen dringend ein weltbürgerschaftliches Engagement, um die Vielzahl der Bedrohungen anzugehen, mit denen die Welt konfrontiert ist. Unsicherheit breitet sich in der ganzen Welt aus. Die Ungleichheit zwischen Menschen, zwischen Nationen nimmt zu. Frauen und Mädchen leiden unter schrecklicher Diskriminierung. Zu viele Menschen werden an zu vielen Orten ausgeschlossen, aufgrund ihrer Rasse, ihrer Religion, ihrer sexuellen Orientierung, ihrer geschlechtlichen Identität und anderer oberflächlicher Unterschiede ausgegrenzt. (In deutscher Simultandolmetschung:)</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e294">Gewalttätige Extremisten begehen Gräueltaten, die Gemeinschaften spalten und zerstören sollen. Darauf müssen wir umfassend, aber mit Bedacht reagieren. Der Aktionsplan der Vereinten Nationen zur Verhütung des gewalttätigen Extremismus ist darauf gerichtet, gegen die Triebkräfte dieser Bedrohung anzugehen. Kein Land, keine Region, egal, wie groß oder stark sie ist, kann globale Probleme alleine lösen. Die Vereinten Nationen bemühen sich um gemeinsame Lösungen. Wir müssen globale Solidarität zeigen.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e296">Exzellenzen! Ehrwürdige Abgeordnete! Im Laufe meiner gesamten Amtszeit als Generalsekretär habe ich betont, wie wichtig globale Problemlösungen sind und wie notwendig eine stärkere internationale Solidarität ist. Ich habe Wert darauf gelegt, den Menschen, die sich an den Frontlinien menschlichen Leids befinden, Gehör zu schenken.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e298">Vor allem rühren mich die Kinder, die zur Flucht aus ihrer Heimat gezwungen sind. Sie erinnern mich an die Zeit, als ich als Sechsjähriger während des Koreakriegs mit meiner Familie ins entlegene Gebirge fliehen musste. Die Flüchtlingskinder von heute sind in den Wirren der größten Vertreibungskrise unserer Zeit gefangen.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e300">Ich habe überall, insbesondere in Europa, die führenden Verantwortlichen dazu aufgerufen, mit Mitgefühl und unter Achtung der Menschenrechte zu reagieren.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e302">Österreich hat durch alle Jahre hindurch seine Solidarität unter Beweis gestellt. 1956 öffnete dieses Land seine Grenzen für die Ungarn, die vor den sowjetischen Unterdrückungsmaßnahmen flohen. Während der Balkankriege in den 1990er-Jahren war Österreich Zufluchtsort für Tausende traumatisierter Flüchtlinge.</seg>
+               <pb n="9"/>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e305">Und als im vergangenen Herbst eine neue Welle von Ankömmlingen aus Syrien und anderen Teilen des Nahen und Mittleren Ostens kam, mobilisierten sich Österreicherinnen und Österreicher, um an den Bahnhöfen eine helfende Hand auszustrecken. Davon war ich ungeheuer beeindruckt. Ich rief Bundeskanzler Faymann an, um ihm meine Anerkennung für die mitfühlende Art und Weise auszusprechen, mit der er die Situation lenkte.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e307">Wir haben eine moralische und rechtliche Pflicht, jenen zu helfen, die vor Krieg, Menschenrechtsverletzungen und Verfolgung fliehen. Unser Bekenntnis zur Menschenwürde wird mit Sinn erfüllt, wenn wir den Familien, die auf der Suche nach Frieden ihr Leben riskiert haben, ein warmherziges Willkommen bereiten und ihnen Unterkunft und Nahrung geben.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e309">Ich möchte die Großzügigkeit anerkennen, die die Menschen und Regierungen Europas bisher gegenüber Migranten und Flüchtlingen gezeigt haben, nicht zuletzt hier in Österreich. Aber es bereitet mir Sorge, dass europäische Länder nun eine zunehmend restriktive Einwanderungs- und Flüchtlingspolitik verfolgen. Solche Politikkonzepte und Maßnahmen senden eine sehr negative Botschaft in Bezug auf die Verpflichtungen der Mitgliedstaaten nach dem humanitären Völkerrecht und dem europäischen Recht aus.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e312">Ich begrüße die offenen Diskussionen, die in Europa – auch in Österreich – zur Frage der Integration geführt werden. Aber ich bin auch über die Fremdenfeindlichkeit, die inner- und außerhalb Österreichs zunimmt, höchst beunruhigt. Alle führenden Verantwortlichen Europas sollten den Grundsätzen gerecht werden, die bisher die Union geleitet haben.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e314">Spaltung und Marginalisierung verletzen Menschen und untergraben die Sicherheit. Wenn der Ankunftsprozess gut gesteuert wird, ist die Aufnahme von Flüchtlingen ein Gewinn für alle. Diese Menschen sind tapfer, widerstandsfähig und zukunftsorientiert. Sie bringen benötigte Fähigkeiten und Energien in ihre neue Gesellschaft mit ein.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.kinesic4">
+                  <desc>Beifall bei den Grünen sowie bei Abgeordneten von SPÖ und ÖVP.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e319">Ich verstehe die Schwierigkeiten und Herausforderungen und habe volles Verständnis dafür, wie herausfordernd diese Dinge sind. Österreich hat einen Ansatz gewählt, der zu einem gemeinsamen Handeln führt, und die Vereinten Nationen bemühen sich um die Herbeiführung umfassender Lösungen. Am 19. September dieses Jahres wird die Generalversammlung der Vereinten Nationen ein wichtiges Gipfeltreffen abhalten, um die Frage der Migration und der Flüchtlinge weltweit anzugehen und auf die gemeinsame Verantwortung hinzuweisen. Ich habe Herrn Bundeskanzler Faymann eingeladen, an diesem Gipfel im September teilzunehmen.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e321">Nächsten Monat, am 23. und 24. Mai, werden wir den ersten Weltgipfel für humanitäre Hilfe in Istanbul einberufen, aus dem ein globales Bekenntnis zur Beendigung der Angriffe auf unschuldige Menschen und zu gemeinsamen Werten hervorgehen wird. Von dem Weltgipfel für humanitäre Hilfe soll eine Botschaft der Unterstützung für die 125 Millionen Menschen auf der Welt ausgehen, die unmittelbar von Krisen betroffen sind. Ich vertraue darauf, dass sich Österreich aktiv an diesen wichtigen Ereignissen beteiligen und dass es seine stolze Tradition der Offenheit und Solidarität bekräftigen wird.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e323">Dazu gehört die öffentliche Entwicklungszusammenarbeit. Ich war ermutigt, als ich von Außenminister Kurz hörte, dass die österreichische Regierung eine drastische Erhöhung der Mittel für ihre wertvolle öffentliche Entwicklungszusammenarbeit plant. Vielen herzlichen Dank.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.kinesic5">
+                  <desc>Beifall bei ÖVP, SPÖ und NEOS.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e328">Ehrwürdige Abgeordnete! Meine Damen und Herren! Vor dem Hintergrund schweren Leids sehen wir Beweise dafür, dass Multilateralismus funktioniert. In der vergangenen Woche, am Internationalen Tag der Mutter Erde, haben wir einen Rekord gebrochen. 175 Länder haben am Amtssitz der Vereinten Nationen in New York das Pariser Klima-</seg>
+               <pb n="10"/>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e331">schutzübereinkommen unterzeichnet. Das war die höchste Zahl von Ländern, die je an einem einzigen Tag einen Vertrag unterzeichnet haben.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e333">Dies baut auf der historischen Vision der Agenda 2030 für nachhaltige Entwicklung auf, die mit 17 Zielen dafür sorgen soll, dass alle Menschen ein Leben in Würde führen können und niemand zurückgelassen wird. Das ist ein universales Projekt. Selbst in den reichsten Ländern gibt es noch immer Bevölkerungsgruppen, die in tiefster Armut leben. Selbst die technologisch am weitesten fortgeschrittenen Länder können die Umwelt ausbeuten. Und selbst die stabilsten Demokratien kämpfen gegen Rassismus, religiöse Intoleranz und andere Formen der Unterdrückung.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e336">Ich vertraue darauf, dass Österreich einen nationalen Plan für die Ziele für nachhaltige Entwicklung aufstellen und international tätig werden wird, um dazu beizutragen, anderen einen Weg in eine bessere Zukunft zu bahnen. Die hier in Wien ansässigen Organe der Vereinten Nationen werden Sie alle dabei unterstützen. Ich bitte Sie um eine rasche Ratifizierung des Klimaschutzabkommens.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.kinesic6">
+                  <desc>Allgemeiner Beifall.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e341">Herr Bundespräsident Fischer! Verehrte Parlamentspräsidenten und Abgeordnete! Exzellenzen! Meine Damen und Herren! Um diese ehrgeizigen Pläne in echten Fortschritt umzusetzen, brauchen wir Ihre Hilfe. Sie hier im Parlament sind die Stimme des Volkes. Sie sind die Vertreter und die Stimme des Volkes. Sie können diese Anliegen bei den Vereinten Nationen zur Sprache bringen. Und als Gesetzgeber können Sie Ihre Gesellschaft und den Einfluss Österreichs in der Welt gestalten.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e343">Ich hoffe, Sie werden die Ziele für nachhaltige Entwicklung zur Grundlage der österreichischen Entwicklungspolitik machen. Nochmals dränge ich Sie, das Übereinkommen von Paris so bald wie möglich zu ratifizieren. 15 Länder haben es bereits am Tag der Unterzeichnung ratifiziert. Es hat mich sehr ermutigt, dass viele Länder ihre Absicht bekundeten, das Abkommen bis Jahresende zu ratifizieren. Wir brauchen 55 Länder, auf die 55 Prozent der Treibhausgasemissionen entfallen, um dieses Abkommen wirklich in Kraft treten zu lassen. Wir können keine Zeit verschwenden. Ich zähle auf Ihre Unterstützung als Abgeordnete des Parlaments.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.kinesic7">
+                  <desc>Allgemeiner Beifall.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e348">Meine Damen und Herren! Als Parlamentarier können Sie eine entscheidende Rolle dabei spielen, gefährlichen fremdenfeindlichen Diskursen zu begegnen und Vertrauen zwischen Bevölkerungsgruppen zu schaffen. Sie können auch einen Beitrag zur Stärkung der Frauen leisten. Das ist eine der obersten Prioritäten in meinem Amt als Generalsekretär sowie der UNO. Ohne dass wir 50 Prozent der Bevölkerung stärken, können wir nicht erwarten, dass wir unser Potenzial voll ausschöpfen können.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.kinesic8">
+                  <desc>Beifall bei SPÖ, ÖVP, Grünen und NEOS sowie bei Abgeordneten von FPÖ und Team Stronach.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e353">Ich bin hocherfreut, gerade am Töchtertag bei Ihnen zu sein – dem Tag, an dem Sie Ihre Töchter zur Arbeit mitbringen. <kinesic type="applause" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.kinesic9">
+                     <desc>Beifall bei Abgeordneten der SPÖ.</desc>
+                  </kinesic>
+            Ich habe eine Botschaft für die Mädchen in diesem Publikum und in aller Welt: Seid Weltbürgerinnen! Jede Einzelne von euch kann einen Unterschied bewirken. Also nochmals: Seid Weltbürgerinnen! Ich zähle auf euren Einsatz und euer Engagement.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.kinesic10">
+                  <desc>Beifall bei SPÖ, ÖVP, Grünen und NEOS sowie bei Abgeordneten von FPÖ und Team Stronach.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e362">Sehr geehrte Abgeordnete! Werte Redner! Herr Bundespräsident! Meine Damen und Herren! Als ich in Österreich lebte, habe ich sehr hart gearbeitet, aber ich hatte auch immer ein Gefühl der Leichtigkeit, der Behaglichkeit, was daran liegt, dass die Österreicher eben so angenehm sind. Ich habe nie perfekt Deutsch gelernt, aber es gibt ein Wort, das ich gemeistert habe und das dieses Gefühl treffend beschreibt Gemütlichkeit. <vocal type="laughter" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.vocal1">
+                     <desc>Allgemeine Heiterkeit und Beifall.</desc>
+                  </vocal>
+            (in deutscher Sprache:)</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e368">Es ist schwierig, dieses Wort in andere Sprachen zu übersetzen, aber Sie alle verstehen, dass es einem Gefühl der Akzeptanz, der Wärme, der Freundlichkeit in den sozialen Beziehungen Ausdruck verleiht. Für mich liegt (In deutscher Simultandolmetschung:)</seg>
+               <pb n="11"/>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e372">darin das Wesen Österreichs. Ich vertraue darauf, dass Sie auf Ihren Beziehungen zu den Vereinten Nationen und zu Ihren Nachbarn nah und fern aufbauen werden und unsere globale Chance auf eine bessere Zukunft ergreifen werden. Das ist unsere moralische und politische Pflicht: diese Welt besser zu machen, für alle Menschen, egal, woher sie kommen, egal, welcher Religion sie angehören, egal, welche Unterschiede es gibt. Wir möchten menschliche Würde schaffen, und dafür setzen sich die Vereinten Nationen ein.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e374">Ich bin mir durchaus der Kritik an der Effizienz oder Wirksamkeit der Vereinten Nationen bewusst, aber es ist dies die einzige universale internationale Organisation – sie baut auf der Charta der UNO auf –, in der es um Menschenwürde, Frieden und Sicherheit in der Welt geht und durch die eine nachhaltige Entwicklung für alle Menschen geschaffen werden soll. Das ist die Organisation, die Sie unterstützen müssen und sollten. Als Generalsekretär der Vereinten Nationen setze ich mich dafür ein und verpflichte mich bis zu meinem letzten Amtstag, diesen Weg gemeinsam mit Ihnen für die Menschen in der Welt zu beschreiten, um diese Welt besser zu machen. Ich danke Ihnen für Ihr Leadership, Ihre Führerschaft. – Danke schön. <kinesic type="applause" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.kinesic11">
+                     <desc>Allgemeiner Beifall.</desc>
+                  </kinesic>
+            (In deutscher Sprache:)</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note13">
+               <time when="2016-04-28T09:34:00+02:00">9:34</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note14">Präsidentin Doris Bures</note>
+            <u who="#PAD_00145" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d7e1344" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e386">Herr Generalsekretär, ich bedanke mich bei Ihnen für Ihre Ausführungen.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e388">Wir haben in der Präsidialkonferenz vereinbart, eine Debatte durchzuführen. Alle sechs Klubobleute kommen nach Fraktionsstärke mit einer Redezeit von je 5 Minuten zu Wort.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e390">In diesem Sinne: Herr Klubobmann Mag. Schieder. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note15">
+               <time when="2016-04-28T09:35:39+02:00">9:35:39</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note16">Abgeordneter Mag. Andreas Schieder (SPÖ)</note>
+            <u who="#PAD_35504" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d7e1371" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e398">Frau Präsidentin! Werte Mitglieder der Bundesregierung! Dear Secretary-General, welcome to the Parliament! We are extremely pleased that this reform of our Rules of Procedure is inaugurated with your speech. I think this is the idea, why we introduced this reform of our Rules of Procedure.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e400">Einer Ihrer Vorgänger, Herr Generalsekretär, Dag Hammarskjöld, hat einmal gesagt: „Die Vereinten Nationen sind ein zugegebenermaßen nicht perfektes, aber unersetzliches Instrument für die gemeinsame Arbeit der Nationen an einer gerechteren und sichereren Weltordnung.“</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e402">Wie wahr ist das – denn die Vereinten Nationen sind wahrlich alles andere als perfekt, aber sie sind unser Instrument, unser wichtiges Instrument, um die Welt friedlicher zu gestalten! Gerade Sie, Herr Generalsekretär, haben auch die vielfältigen Konventionen und Arbeiten der Vereinten Nationen aufgezählt, und Sie persönlich haben ja auch immer diese Arbeit der Vereinten Nationen verbessert. Sie fanden klare Worte, auch zu Entscheidungen im Sicherheitsrat, die zu kritisieren waren, und Sie haben sich auch konsequent für eine friedliche Lösung des Konfliktes in Syrien eingesetzt, denn nur eine politische Lösung kann eine Lösung sein, die den Interessen der Menschen vor Ort gerecht wird – der Menschen in ihrem Alltag, der Frauen, der Kinder, die verfolgt sind, der ethnischen Gruppen wie etwa der Kurden, die dort dem Völkermord ausgesetzt sind. Es kann auch nur eine politische Lösung im Kampf gegen den Terror des „Islamischen Staates“ geben.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e404">Wenn ich sage, die Vereinten Nationen sind leider nicht perfekt, dann geht es auch um eine Reform der Vereinten Nationen. Es geht um die Frage, ob Vetorechte im 21. Jahrhundert wirklich das richtige Instrument sind. Es geht darum, wie wir die Vereinten Nationen transparenter machen können. Gerade Österreich als neutrales Land möchte da auch einen massiven Beitrag leisten, denn die Neutralität Österreichs ist der Boden unserer aktiven Außenpolitik. Deswegen sind wir auch sehr froh und stolz, dass Wien UNO-</seg>
+               <pb n="12"/>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e407">Sitz ist und auch UNO-Sitz bleiben wird und dass Sie einmal, als Sie ein Ehrenzeichen der Stadt Wien entgegengenommen haben, gesagt haben: Schön, zu Hause zu sein!</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e409">Die Vereinten Nationen haben letztes Jahr 70. Geburtstag gefeiert, und wir müssen leider festhalten, dass auch nach dem 70. Geburtstag der Vereinten Nationen 800 Millionen Menschen täglich hungrig zu Bett gehen, 700 Millionen Menschen keinen Zugang zu sauberem Wasser haben, 60 Millionen Kinder keine Bildung erhalten, weil sie keine Schule haben, in die sie gehen können, und 2,5 Milliarden Menschen keine angemessene Gesundheitsversorgung haben.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e411">Wenn wir uns das anschauen, dann wissen wir auch, dass die aktuelle Frage der Fluchtbewegungen in den Ursachen bekämpft werden muss. Da sind die SDGs, die Sustainable Development Goals, ein Thema, genauso wie auch das Paris-Abkommen mit dem Ziel, den Klimawandel zu bekämpfen, das wir – das verspreche ich Ihnen – rechtzeitig ratifizieren werden, und wir werden es – noch viel wichtiger – nicht nur ratifizieren, sondern auch die notwendigen Maßnahmen setzen, um diese Bedrohungsszenarien für unser Weltklima nicht Realität werden zu lassen.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e413">Mister Secretary-General, I wish you personally all the best, but even more: I wish the United Nations all the best, because they are our tool. You said we should be global citizens. I think we are global citizens, and even more: I think we have to work hard also to be global politicians who make wise global decisions every day. Thank you for being here, Mister Secretary-General!</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.kinesic12">
+               <desc>Beifall bei SPÖ, ÖVP, Grünen und NEOS sowie bei Abgeordneten von FPÖ und Team Stronach.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note17">
+               <time when="2016-04-28T09:39:00+02:00">9:39</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note18">Präsidentin Doris Bures</note>
+            <u who="#PAD_00145" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d7e1426" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e425">Nächster Redner: Herr Klubobmann Dr. Lopatka. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note19">
+               <time when="2016-04-28T09:40:01+02:00">9:40:01</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note20">Abgeordneter Dr. Reinhold Lopatka (ÖVP)</note>
+            <u who="#PAD_15526" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d7e1447" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e433">Sehr geehrte Frau Präsidentin! Geschätzte Mitglieder der Bundesregierung! Hohes Haus! Excellency! We are deeply honoured that you addressed our Parliament.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e435">Wir haben ja letztes Jahr die Möglichkeit geschaffen, dass herausragende Persönlichkeiten hier im Plenum des Nationalrates das Wort ergreifen können. Dass Sie der Erste waren, ist eine große Auszeichnung für das österreichische Parlament. Danke, dass Sie trotz Ihres engen Zeitkorsetts Zeit für uns gefunden haben!</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e437">Ich bin überzeugt davon, dass es in diesen Tagen keine Organisation gibt, die unersetzbarer, notwendiger und bedeutender ist, als es die Vereinten Nationen sind. Die Arbeit der Vereinten Nationen wird auch von Österreich entsprechend unterstützt. Die Bundeshauptstadt Wien hat auf der Weltkarte einen ganz wichtigen Platz. Wien ist eine Drehscheibe der internationalen Diplomatie, hier wird oft Weltpolitik gemacht – das haben Sie, Herr Generalsekretär, 2007, am Beginn Ihrer Amtszeit, gesagt, als Sie damals Wien besucht haben. Damit haben Sie die diplomatischen Bemühungen unseres Landes gewürdigt und betont, dass auch ein Land von der Größe Österreichs, ein kleineres Land Großes für die Staatengemeinschaft leisten kann.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e439">Es ist Tradition Österreichs seit dem Zweiten Weltkrieg, eine Brückenfunktion wahrzunehmen und sich als konstruktiver Verhandlungspartner in die Staatengemeinschaft einzubringen. Es ist uns gelungen, dass Wien eine Stadt geworden ist, in der Dialog stattfindet, in der internationale Organisationen ihren Sitz haben, und es ist auch immer wieder gelungen, dass in Wien für den Frieden dieser Welt entscheidende Gespräche stattgefunden haben. Wir hoffen, dass nach den erfolgreichen Atomverhandlungen betreffend den Iran nun bei den Syriengesprächen ein Ergebnis erreicht wird, sodass es den Menschen wieder ermöglicht wird, in ihr Land zurückzukehren.</seg>
+               <pb n="13"/>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e442">Wir haben eine Rolle, die wir gerne einnehmen: Wien ist einer der vier Amtssitze der UNO. Neben New York, Genf und Nairobi haben wir hier als Amtssitz der Vereinten Nationen eine ganz wichtige Aufgabe, wenn es um Frieden geht, wenn es um bessere Lebensbedingungen geht, wenn es darum geht, dass sich die Humanität auf diesem Planeten durchsetzt.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e444">Gerade in schwierigen Zeiten wie jenen, die wir jetzt erleben – die Flüchtlingskrise, schwelende Konflikte auch vor den Toren Europas –, ist es wichtig, dass jene Organisation, die für Friedenserhaltung, für Konfliktprävention und, was ganz besonders wichtig ist, für den Schutz der Menschenrechte und somit für die Hoffnung von Millionen von Menschen steht, von Österreich entsprechend unterstützt wird.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e446">Die Vereinten Nationen, oft finanziell nicht so ausgestattet, wie es notwendig wäre, versorgen Millionen von Flüchtlingen, versuchen, in Krisenregionen zu vermitteln, haben eine Agenda 2030 für nachhaltige Entwicklung. Österreich hat immer wieder einen fairen Anteil geleistet, wenn es um den Einsatz der Blauhelme gegangen ist. Mehr als 100 000 Blauhelme sind zurzeit bei 16 Friedensoperationen weltweit unterwegs.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e448">Die Charta der Vereinten Nationen ist nach wie vor der Kompass für internationale Zusammenarbeit, der Kompass für weltweite Lösungen. Wir stehen vor einer Unzahl an schwerwiegenden weltpolitischen Herausforderungen, die wir nur gemeinsam lösen können: Gescheiterte Staaten, Terrorismus, Klimawandel – das alles ist unmittelbar spürbar und hat auch Auswirkungen auf uns, aber wir gehören zu jenen, die frei entscheiden können. Bei uns kann das Parlament entscheiden, welchen Beitrag Österreich leistet, damit die Vereinten Nationen starke Vereinte Nationen sind.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e450">Wir sollten unseren Beitrag zu folgenden Bereichen leisten: Förderung der Menschenrechte, Rechtsstaatlichkeit, Ausbau der internationalen Beziehungen, auch Bemühungen im Bereich der nuklearen und konventionellen Abrüstung. – Das sind alles Punkte, für die Österreich seit dem 14. Dezember 1955 eine wesentliche Säule ist.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e452">Herr UNO-Generalsekretär, Sie haben einmal gesagt: „Österreich ist mein zweites Heimatland geworden.“ „Ich habe mein halbes Herz in Wien gelassen und komme jetzt wieder nachschauen, ob es noch da ist.“ – Ich wünsche mir, dass Sie oft nachschauen kommen. Ihnen alles Gute! Thank you very much for your leadership!</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.kinesic13">
+               <desc>Beifall bei ÖVP, SPÖ, Grünen und NEOS sowie bei Abgeordneten von FPÖ und Team Stronach.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note21">
+               <time when="2016-04-28T09:45:00+02:00">9:45</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note22">Präsidentin Doris Bures</note>
+            <u who="#PAD_00145" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d7e1502" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e463">Nächster Redner: Herr Klubobmann Strache. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note23">
+               <time when="2016-04-28T09:45:34+02:00">9:45:34</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note24">Abgeordneter Heinz-Christian Strache (FPÖ)</note>
+            <u who="#PAD_35518" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d7e1524" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e472">Sehr geehrte Frau Präsidentin! Meine sehr geschätzten Damen und Herren auf der Regierungsbank! Sehr geehrter Herr UNO-Generalsekretär! Ich darf Ihnen versichern, dass es auch für uns eine Ehre ist, dass Sie heute hier bei uns im Hohen Haus, im österreichischen Parlament, zu Gast sind, und dass es gerade für uns als wesentliches und wichtiges Mitglied der Vereinten Nationen notwendig und wichtig ist, diese friedensbringende Arbeit auch weiterhin zu unterstützen. Wir haben als Republik Österreich die grundsätzliche Tradition, ein neutrales Land zu sein. Diese Neutralität ist uns immer wichtig, und wir sind als Vermittler in Krisen und Konfliktherden tätig.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e474">Nicht umsonst ist Wien, wie heute angesprochen wurde, einer der Amtssitze der UNO, und nicht umsonst haben wir Österreicher uns immer wieder bei Blauhelmeinsätzen, bei Friedensmissionen internationaler Art vonseiten des österreichischen Bundesheeres, aber auch vonseiten der Exekutivkräfte eingebracht.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e476">Im Gegensatz zu ihrem glücklosen Vorgänger, dem Völkerbund in der Zwischenkriegszeit, hat die UNO nach dem dramatischen Zweiten Weltkrieg bis heute letztlich eine sehr</seg>
+               <pb n="14"/>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e479">erfolgreiche Geschichte, und es ist wichtig, dass es diese Vereinten Nationen gibt, angesichts all der Konfliktherde und leider Gottes kriegerischen Entwicklungen in dieser Welt, bei denen es notwendig ist, friedensschaffend einzugreifen.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e481">Zahlreiche internationale Konflikte und Krisensituationen konnten auch dank der UNO abgeschwächt werden, aber in vielen Regionen dieser Welt herrschen Konflikte und herrscht Krieg. Auch in der Zeit des Kalten Kriegs war die UNO letztlich ein ganz wichtiger Faktor, aber wir erleben leider auch aktuell eine neue Zuspitzung eines, wenn man so will, Kalten Kriegs oder eines neuen Kalten Konflikts in Europa, wenn wir die Entwicklung in der Ukraine bewerten, wenn wir bewerten, dass die NATO mit massivem militärischen Gerät an den osteuropäischen Grenzen auffährt, dass 700 Kilometer von Österreichs Grenze entfernt in der Ukraine heute ein Bürgerkrieg herrscht, von dem man kaum mehr etwas in den Zeitungen liest, und dass auch eine Zuspitzung eines Kalten Konflikts zwischen Russland und der westlichen Welt der Fall ist.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e483">Daher ist es umso notwendiger und wichtiger, diesen Krisenherd und auch diese Konfliktsituation im Auge zu behalten und sich da auch vermittelnd einzubringen.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e485">Und natürlich hat die UNO mit ihrer Bedeutung auch eine ganz wichtige Aufgabe in der Konfliktregion des Nahen Ostens. Dort gibt es viele Konfliktherde. Wir haben bis heute eine Konfliktsituation im Nahen Osten, wenn wir auch an den Staat Israel denken, der bis heute erleben muss, dass viele arabische Länder sein Existenzrecht nicht anzuerkennen bereit sind und bis heute die Vernichtung des Staates zum Teil auch proklamieren und ausrufen. Daher steht uns noch viel Arbeit bevor, auch die Konflikte in diesen Regionen hoffentlich nachhaltig zu überwinden und nachhaltigen Frieden mit gegenseitiger Anerkennung und mit gegenseitigem Respekt voreinander sicherzustellen.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e487">Weltweit ist die UNO im Einsatz, um friedensstiftend und friedenssichernd tätig zu sein. Gewiss dauert es oft lange, bis man Erfolge erzielt, aber auch hier gilt, was der berühmte deutsche Soziologe und Ökonom Max Weber einmal so treffend formuliert hat: ein starkes, langsames Bohren von harten Brettern, mit Leidenschaft und Augenmaß zugleich, damit man dann irgendwann einmal auch den entsprechenden Erfolg erzielen kann.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e489">Wir Österreicher haben, das haben Sie heute auch angesprochen, wenn es um die Konfliktsituationen und Krisen in unserer Nachbarschaft gegangen ist, Großartiges geleistet. Wir waren, wenn es um Nachbarschaftshilfe gegangen ist, immer ein glühendes Vorbild in dieser Welt, sei es in der Tschechenkrise, sei es in der Ungarnkrise oder auch in dem Konflikt im ehemaligen Jugoslawien, als dieser Staat in einem grausamen Bürgerkrieg auseinandergebrochen ist. Wir haben immer geholfen, bis an unsere Belastungsgrenze, und waren immer ein sehr hilfreiches Volk.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e491">Wenn es darum geht, dass wir aktuelle Krisen zu überwinden haben, dann wollen wir auch hilfreich sein, keine Frage, aber wir können natürlich nicht die Konflikte oder auch die Völkerwanderungswellen dieser Welt, die von verschiedenen Kontinenten ausgehen, ob von Afrika oder dem Nahen Osten, bewältigen, indem wir diese Probleme in Europa lösen.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e494">Wir müssen die Ursachen vor Ort in Angriff nehmen, und es ist daher wichtig, dass die UNHCR-Aufnahmezentren vor Ort durch die Europäische Union entsprechend unterstützt werden und dass wir die Ursachen vor Ort beseitigen, die Konflikte vor Ort lösen und den Menschen vor Ort Perspektiven geben, damit sie dann, wenn die Konflikte überwunden sind, auch vor Ort in der Region ihr Land letztlich wieder aufbauen können.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e496">Kriegerische Konflikte, Terrorismus, massenhafte Wanderungsbewegungen, das sind die Entwicklungen der heutigen Zeit, aber ich sage bewusst: Wir müssen letztlich diese Probleme vor Ort in den Regionen in Angriff nehmen. <kinesic type="signal" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.kinesic14">
+                     <desc>Präsidentin Bures gibt das Glockenzeichen.</desc>
+                  </kinesic>
+            Es ist daher auch traurig, wenn wir aktuell erleben, dass es ja auch part-</seg>
+               <pb n="15"/>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e503">nerschaftliche Entwicklungen vonseiten der Europäischen Union mit der Türkei gibt und man leider auch ein Schweigen vernimmt, wenn die türkische Armee gegen die dortige Minderheit der Kurden brutalst mit Gewalt vorgeht.</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note25">Präsidentin Doris Bures</note>
+            <u who="#PAD_00145" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d7e1587" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e508">Herr Klubobmann, Sie müssen zum Schlusssatz kommen.</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note26">Abgeordneter Heinz-Christian Strache</note>
+            <note type="procedural" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note27">fortsetzend</note>
+            <u who="#PAD_35518" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d7e1602" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e515">Ich komme zum Schluss:</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e517">Wir werden diese wichtige Rolle innerhalb der UNO selbstverständlich auch weiterhin voll mittragen und unterstützen, haben da oder dort aber natürlich auch kritische andere Meinungen, und es ist auch ganz besonders wichtig, gerade in der Vielfalt der parlamentarischen Demokratien unterschiedliche Meinungen, unterschiedliche Positionen zuzulassen und die Meinungsfreiheit zu gewährleisten. Ich denke, diese Vielfalt ist auch ein ganz wesentlicher Faktor.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.kinesic15">
+               <desc>Beifall bei der FPÖ.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note28">
+               <time when="2016-04-28T09:51:00+02:00">9:51</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note29">Präsidentin Doris Bures</note>
+            <u who="#PAD_00145" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d7e1633" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e529">Nächste Rednerin: Frau Klubvorsitzende Dr. Glawischnig-Piesczek. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note30">
+               <time when="2016-04-28T09:51:56+02:00">9:51:56</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note31">Abgeordnete Dr. Eva Glawischnig-Piesczek (Grüne)</note>
+            <u who="#PAD_08240" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d7e1654" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e537">Dear Excellency! Mr. Secretary-General, I would like to start with some personal words. I was really deeply impressed by your speech, by your touching engagement, your sense of humour. Now I can understand a little bit better what made the commitment of Paris come true. It is also your personal success. Thank you so much for that.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.kinesic16">
+                  <desc>Beifall bei Grünen, SPÖ, ÖVP und NEOS.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e542">Geschätzte Mitglieder der Bundesregierung! Frau Präsidentin! Meine geschätzten KollegInnen Abgeordneten! Ich möchte gerne zwei Aspekte aus dieser beeindruckenden Rede aufgreifen, und zwar einerseits vor allem die Problematik, die Flüchtlingssituation, aber andererseits auch die hoffnungsgebende Thematik, nämlich Klimaschutz und das internationale Abkommen von Paris.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e544">Seit zwei Jahren ist die Anzahl der Konflikte und die daraus resultierende Anzahl von Menschen, die vertrieben sind und Schutz suchen, weltweit dramatisch angestiegen. Es sind jetzt über 60 Millionen Menschen. Die dramatische Lage von vielen dieser Menschen zeigt uns, mit welcher Dringlichkeit sich die gesamte Welt der globalen humanitären Frage stellen muss, auch finanziell. Der ökonomische Bedarf an humanitären Hilfeleistungen steigt jährlich an. Ich glaube, seit 2012 hat sich der Bedarf verdoppelt. Das ist ein Thema, das uns als Staatengemeinschaft alle betrifft, und eine Thematik, der wir uns auch widmen sollten.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e546">Wir als Vertreter der grünen Fraktion begrüßen ausdrücklich den für Mai geplanten und erstmals stattfindenden humanitären Weltgipfel in Istanbul. Das ist sehr wichtig als globaler Aufruf zum Handeln, sowohl an die Staaten als auch an die Zivilgesellschaft. Wir haben große Hoffnungen in diesen Gipfel, wir hoffen auf neue weltweite Ansätze zum Umgang mit Flucht, Flüchtlingen und Binnenvertriebenen und auch auf neue Ansätze, auf länger anhaltende Konflikte zu reagieren, aber auch bereits in Prävention zu investieren, humanitäre Hilfe und Entwicklungszusammenarbeit besser zu koordinieren und vor allem länger planbare, vorhersehbare Finanzierung in den Vordergrund zu stellen. Für uns als grüne Fraktion ist der Schutz der Menschen in den Vordergrund zu stellen und das internationale humanitäre Recht ganz entscheidend zu verstärken, und da hoffen wir sehr auf diesen Gipfel.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.kinesic17">
+                  <desc>Beifall bei den Grünen und bei Abgeordneten der SPÖ.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e551">Ganz ausdrücklich möchte ich auch betonen, dass es mir sehr gut gefallen hat, dass Sie sich auch gestern bei uns im österreichischen Fernsehen dazu geäußert haben und für mehr Solidarität in den europäischen Staaten geworben haben. Mittlerweile ist die Frage der Flüchtlinge auch eine Solidaritätsfrage geworden, eine europäische Soli-</seg>
+               <pb n="16"/>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e554">daritätsfrage, und da haben Sie uns nicht nur als Fraktion hier im österreichischen Parlament, sondern als grüne Familie in allen europäischen Parlamenten als ganz starke Verbündete. Wir setzen uns ganz massiv für eine europäische Lösung ein, möchten gerne auch das Dublin-System überarbeiten und ein solidarisches und verantwortungsvolles System etabliert wissen.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.kinesic18">
+                  <desc>Beifall bei den Grünen und bei Abgeordneten der NEOS.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e559">Österreich hat da bereits einiges geleistet, auch als Austragungsort von Außen- und Friedenspolitik auf mehreren Ebenen. Das ist auch ein ganz wichtiger Beitrag zu Friedensbemühungen.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e562">Ich möchte aber trotzdem drei kritische Punkte ansprechen, die immer wieder Ansatzpunkte für Auseinandersetzungen hier im Hohen Haus sind. Leider spielt Österreich immer noch eine bescheidene Rolle, was die Entwicklungszusammenarbeit betrifft. Da sind wir einen kleinen Schritt weitergekommen, aber wir sind nach wie vor noch weit von dem entfernt, was die Vereinten Nationen den Staaten als Ziel vorgegeben haben. Das wird immer wieder auch hier im Hause diskutiert, und ich denke, wir sollten eingedenk Ihres Besuches heute diese Frage noch einmal eingehend erörtern, auch für die zukünftigen Finanzpläne der Republik Österreich.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e564">Auch die Hilfe vor Ort ist aus österreichischer Sicht verbesserungswürdig. Zum World Food Programme haben wir in den letzten Jahren aus unserer Sicht zwar etwas beigetragen, aber wir können in diesem Bereich noch deutlich mehr machen. Auch die Beiträge zum Kinderhilfswerk und zum Flüchtlingshilfswerk der UNO sind aus unserer Sicht – aus meiner Sicht – jedenfalls verbesserungswürdig, was den österreichischen Beitrag betrifft.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e566">Aber eines gibt Hoffnung – darauf möchte ich zum Abschluss noch kurz zu sprechen kommen –, und zwar das Klimaabkommen von Paris. Man muss sich das vorstellen: Diese 20 Jahre dauernden Verhandlungen, diese schwierige Ausgangssituation – und dann wird es tatsächlich geschafft! Das ist der Wendepunkt zu einer neuen Epoche und hat auch gezeigt, dass dieses multilaterale System der Vereinten Nationen funktionieren kann, obwohl es oft kritisiert und schon totgesagt wurde. Das Abkommen von Paris ist ein Erfolg für den Klimaschutz, aber auch für das multinationale Zusammenarbeiten. So viele Vertragsparteien sind dort zusammengesessen – und jetzt dieser Wendepunkt zu einer neuen Politik, die die Lebensgrundlagen für viele Millionen Menschen weltweit verbessern kann!</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e568">Wir haben bereits gestern einen Antrag hier im Hause eingebracht und hoffen auf die baldige Ratifizierung auch seitens Österreichs; wir möchten nicht auf die Europäische Union warten. Und auch diesbezüglich möchte ich eingedenk Ihrer heutigen Rede alle dazu aufrufen, dass wir hier einmal eine Vorreiterrolle einnehmen und dieses Paris Agreement of hope auch tatsächlich ratifizieren. – Herzlichen Dank.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.kinesic19">
+               <desc>Beifall bei Grünen, SPÖ und NEOS sowie bei Abgeordneten der ÖVP.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note32">
+               <time when="2016-04-28T09:57:00+02:00">9:57</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note33">Präsidentin Doris Bures</note>
+            <u who="#PAD_00145" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d7e1730" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e579">Nächster Redner: Herr Klubobmann Dr. Strolz. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note34">
+               <time when="2016-04-28T09:57:34+02:00">9:57:34</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note35">Abgeordneter Mag. Dr. Matthias Strolz (NEOS)</note>
+            <u who="#PAD_10304" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d7e1752" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e587">Dear Secretary-General! It’s great to have you here. You are my mayor, you are our mayor. If we are global citizens, you are our mayor – and I think it is tremendously important to have a mayor. Sehr geehrte Präsidentin! Geschätzte Mitglieder der Regierung! Liebe Kolleginnen und Kollegen! Liebe Bürgerinnen und Bürger! Ich halte es für wichtig, dass wir in unserem globalen Dorf einen Bürgermeister haben, weil ein Bürgermeister natürlich mehr als nur eine Funktion ist: Das ist ein Symbol! Es ist ein Symbol, dass wir zusammengehören, dass wir miteinander sind, dass wir hier verbunden sind. Ich glaube, das zu begreifen, ist die Grundvoraussetzung für alles, was dann an guter Politik folgen kann, die wir in <pb n="17"/>
+            nationalen Parlamenten, in internationalen Organisationen, in den Vereinten Nationen machen können und machen sollen. Ich stehe am Abend gerne am Balkon, schaue in den Himmel <vocal type="laughter" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.vocal2">
+                     <desc>Heiterkeit bei der ÖVP</desc>
+                  </vocal>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d7e1768">Abg. Fekter: Umarme Bäume!</note> und denke dann oft: Wir sind ja wirklich nur ein Tropfen Zeit. Da oben sind Millionen von Galaxien mit jeweils Milliarden von Planeten – und wir können diesen unseren nicht verlassen. Wir haben nur diesen einen Planeten, und wir sind hier zur Gemeinsamkeit verpflichtet. Das ist unsere Pflicht, das ist unsere Chance. Da kommt mir dann immer die Rocky Horror Picture Show in den Sinn. – Ich weiß nicht <note type="comment" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note37">in Richtung von Generalsekretär Ban Ki-moon</note> , kennen Sie die Rocky Horror Picture Show? <vocal type="laughter" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.vocal3">
+                     <desc>Allgemeine Heiterkeit.</desc>
+                  </vocal>
+            Das ist ein Musical, eigentlich eines der Generation meiner Eltern, nicht meiner Generation. Da gibt es den Criminologist, das ist der Erzähler, und der analysiert: „And crawling on the planet’s face, some insects called the human race. Lost in time, and lost in space … and meaning.“ Ich denke, wenn ich mich dann hochbeame auf einen dieser Planeten und auf die Erde runterschaue <vocal type="laughter" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.vocal4">
+                     <desc>allgemeine Heiterkeit</desc>
+                  </vocal>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d7e1796">Abg. Schieder: „There’s a light“!</note> , dann ist es tatsächlich so, dass diese Analyse von außen betrachtet wahrscheinlich stimmt: Wir bewegen uns hier als menschliche Rasse auf dem Planeten, lost in time, lost in space, lost in meaning. Wir hauen uns, wir schlagen uns, wir ermorden uns gegenseitig. Im letzten Jahrhundert: 120 Millionen Ermordete, von Menschenhand getötet. – 120 Millionen Menschen im letzten Jahrhundert von Menschenhand getötet! Natürlich ist die UNO, sind die Vereinten Nationen ein Erbe dieses schrecklichen Jahrhunderts. Die Ideen gab es vorher schon. Ein Vordenker des liberalen Staates, der liberalen Demokratie ist Immanuel Kant, er formulierte dies schon im 18. Jahrhundert in seiner Schrift „Zum ewigen Frieden“. Er hat vom ewigen Frieden geträumt, er hat von völkerrechtlicher Verständigung geträumt. Das war ja auch eine der Grundlagen für die Charta der Vereinten Nationen. Die Frage ist: Können wir etwas tun, wenn sich die Menschen schlagen, hauen, ermorden? Ab und zu verzweifelt man auch in diesen Tagen, in diesen Jahren, und ab und zu schöpft man Hoffnung, so wie in Paris. Ich glaube, lost in meaning ist der Ausgangspunkt. Wenn wir meaning herstellen können, wenn wir gemeinsamen Sinn herstellen können, dann können wir auch handeln. Gemeinsamer Sinn heißt: die Menschenwürde. Wir sind frei und gleich an Menschenwürde geboren. Wenn wir das alle teilen als Menschen, dann haben wir gewonnen. Ich war 1998 bei den indonesischen Studenten. Wir haben gemeinsam gegen den Diktator demonstriert. An diesem Tag sind Studenten verschwunden. Sie wurden Haifischen gefüttert, haben wir im Nachhinein erfahren. Ich habe damals verstanden, dass eben nicht überall auf dem Planeten gemeinsames meaning ist. Wir müssen die Menschenwürde schützen, und dann können wir auch gute Lösungen finden. Ich war 1997 in Sarajevo beim U2-Konzert, gemeinsam mit 20 000 Soldaten, mit der Friedenstruppe im Stadion. Bono Vox hat „Miss Sarajevo“ gesungen. Ja: Etwas geht immer! Und das ist mein Wunsch: Dass auch in Syrien etwas geht. Mister Secretary-General, ich verstehe nicht, dass wir da nicht mehr zusammenbringen, gemeinsam mit der UNO, mit der Europäischen Union, mit anderen Institutionen. Wir brauchen eine Flugverbotszone. Es sind sieben Millionen Flüchtlinge im Land, es sind fünf Millionen Flüchtlinge außerhalb des Landes. Wir brauchen einen Rückzugsort, wir brauchen Zuversicht, einen Marshallplan, Wiederaufbau für den Nahen Osten. <kinesic type="signal" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.kinesic20">
+                     <desc>Präsidentin Bures gibt das Glockenzeichen.</desc>
+                  </kinesic>
+            – Ich komme zum Schluss, Frau Präsidentin. Wir müssen meaning herstellen für diese Menschen, damit sie vor Ort auch eine Perspektive haben. Das ist mein dringender Wunsch, und Ihnen als meinem Bürgermeis- <pb n="18"/>
+            ter wünsche ich dafür alles Gute.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.kinesic21">
+               <desc>Beifall bei NEOS, SPÖ, ÖVP und Grünen sowie bei Abgeordneten des Teams Stronach und des Abg. Haider.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note39">
+               <time when="2016-04-28T10:03:00+02:00">10:03</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note40">Präsidentin Doris Bures</note>
+            <u who="#PAD_00145" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d7e1831" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e627">Nächster Redner: Herr Klubobmann Ing. Lugar. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note41">
+               <time when="2016-04-28T10:03:07+02:00">10:03:07</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note42">Abgeordneter Ing. Robert Lugar (STRONACH)</note>
+            <u who="#PAD_51579" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d7e1852" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e635">Frau Präsidentin! Herr Generalsekretär! Werte Bundesregierung! Hohes Haus! Meine sehr geehrten Damen und Herren! Wenn wir die Bilanz der UNO Revue passieren lassen, dann, glaube ich, sind wir uns alle über etwas einig, und zwar: Wir wollen mehr!</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e637">Die UNO hat selbstverständlich große Erfolge errungen, und auch Ihre Bemühungen waren sehr oft von Erfolg gekrönt, aber letztlich wollen wir mehr! Wir wollen deshalb mehr, weil man, wenn man sich die Welt so ansieht, bemerkt, dass die Weltgemeinschaft noch mehr können muss. Wir haben eine Situation, wo 60 Millionen Menschen vor über hundert kriegerischen Konflikten auf der Flucht sind. Wir haben eine Situation, wo 500 Millionen Menschen aus ihrer Heimat weggehen wollen, weil sie einfach vor Ort katastrophale Lebensbedingungen vorfinden. Und wir haben die Situation – und das ist aus meiner Sicht das Allerschlimmste –, dass jedes Jahr 6 Millionen Kinder auf der Welt verhungern, und zwar unter den Augen der UNO, unter den Augen der Weltgemeinschaft – und das ist nicht hinzunehmen!</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e639">Wenn wir uns vor Augen führen, was wir von der UNO erwarten, ist Folgendes wichtig: Die UNO sind wir alle. Die UNO ist die Weltgemeinschaft, und wir gehören zu dieser Weltgemeinschaft. Deshalb ist jede Forderung, die wir an die UNO stellen, ja gleichzeitig auch eine Forderung an uns selbst.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e641">Wenn es um Konflikte in der Welt geht, gerade jetzt in Syrien oder auch im Irak, in Libyen und in vielen anderen Regionen, dann sehen wir, dass viele in dieser Weltgemeinschaft nicht nach den Regeln spielen, die wir uns gemeinsam gegeben haben. Wir haben in dieser Weltgemeinschaft die Regel aufgestellt, dass wir gemeinsam gegen Hunger und vor allem gegen Krieg vorgehen wollen.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e643">Leider gibt es einige – und da gehören die USA leider auch dazu –, die sich nicht an die Regeln halten, die die ganze Welt als ihren Hinterhof betrachten und mit der Macht, die sie haben, auch über die UNO, tun, was immer sie tun wollen. Die Konflikte im Irak, in Libyen, in Syrien und in vielen anderen Teilen der Welt sind dadurch entstanden, dass große Mächte ihren Einfluss geltend gemacht haben, um sich Vorteile vor Ort zu verschaffen. Die 100 000 Toten, die dadurch entstanden sind, waren leider jenen, die da die Entscheidungen getroffen haben, egal.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e645">Da müsste die UNO, müsste die Weltgemeinschaft, müssten wir alle auf den Plan treten und sagen: Bis hierher und nicht weiter!, denn Krieg ist nicht die Fortführung der Politik mit anderen Mitteln. Das glauben leider viele, das ist aber nicht der Fall.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e647">Was wir wollen, ist Politik ohne Krieg. Wir wollen nicht, wenn politische Verhandlungen scheitern, wenn ein Regime vor Ort jemandem nicht passt, dass man dann einmarschiert, Bomben wirft und all diese Probleme einfach in Kauf nimmt, die wir jetzt erleben, denn wenn man sich die Flüchtlingsströme ansieht, dann kommen die ja genau aus solchen Konflikten.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e649">Syrien ist in Wirklichkeit ein Weltkrieg, nur dass nicht die ganze Welt dort kämpft, sondern es ein Stellvertreterkrieg der ganzen Welt ist. Jeder hat dort seine Einflussbereiche, jeder hat dort seine Interessen. Ein Militärberater hat mir einmal gesagt: Ein Konflikt, wo man drei Monate keine Munition liefert, ist automatisch beendet. Gerade in Syrien wäre der Konflikt nach drei Monaten beendet, würden nicht von der Türkei angefangen alle möglichen Länder dort ihre Interessen wahren, indem sie die einen oder die anderen mit Waffen versorgen.</seg>
+               <pb n="19"/>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e652">Da sind wir beim Terrorismus. Es heißt immer, wir müssen gegen den Terrorismus kämpfen. – Ja, das müssen wir, aber gegen den Terrorismus auf jeder Seite. Es gibt keine guten Terroristen. Deshalb ist es auch nicht hinzunehmen, auch nicht von der UNO, dass die USA ganz gezielt Terroristen vor Ort ausrüsten, schulen, um sie für ihre Zwecke einzusetzen. Das ist nicht in Ordnung.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e654">Deshalb: Die UNO ist wichtig, die UNO hat Großes geleistet, aber wir wollen mehr. Da wir alle Teil der UNO sind, da wir alle Teil dieser Weltgemeinschaft sind, müssen wir auch von uns mehr verlangen. Deshalb müssen auch wir Klartext sprechen, und wir müssen all jenen, die gegen die Regeln spielen, die ihre Interessen auf dem Rücken anderer umsetzen und ausüben, sagen: Bis hierher und nicht weiter! Wir wollen in einer Welt leben, wo Frieden herrscht und wo die Probleme, die wir alle gemeinsam haben, gelöst werden. Das erwarte ich mir von der UNO, das erwarte ich mir von uns allen.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.kinesic22">
+               <desc>Beifall bei Team Stronach, ÖVP, FPÖ und NEOS.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note43">
+               <time when="2016-04-28T10:08:00+02:00">10:08</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note44">Präsidentin Doris Bures</note>
+            <u who="#PAD_00145" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d7e1907" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e665">Ich danke allen Klubvorsitzenden für ihre Redebeiträge. Ich bedanke mich bei Ihnen, Herr Generalsekretär Ban Ki-moon, für Ihre Ausführungen.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e667">Die Tagesordnung ist erschöpft.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e669">Die nächste Sitzung des Nationalrates findet um 10.15 Uhr statt. Die Mitteilung und die Tagesordnung liegen auf. – Herzlichen Dank.</seg>
+               <seg xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125_d2e671">Diese Sitzung ist geschlossen.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.kinesic23">
+               <desc>Allgemeiner Beifall.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note45">
+               <time when="2016-04-28T10:08:27+02:00">10:08:27</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2016-04-28-025-XXV-NRSITZ-00125.note46">Schluss der Sitzung:<time when="2016-04-28T10:08:00+02:00">10:08</time>Uhr</note>
+         </div>
+      </body>
+   </text>
+</TEI>

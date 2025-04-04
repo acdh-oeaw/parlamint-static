@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" ana="#parla.sitting #reference" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005.xml" xml:base="https://parlamint-at.acdh.oeaw.ac.at" prev="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00004.xml" next="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2013-12-03-025-XXV-NRSITZ-00006.xml">
+   <teiHeader xml:lang="en">
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="de">Österreichisches Parlamentskorpus ParlaMint-AT, Stenographische Protokolle der Plenarsitzungen des Österreichischen Nationalrats, XXV. Gesetzgebungsperiode [ParlaMint]</title>
+            <title type="sub" xml:lang="de">5. Sitzung des Nationalrates der Republik Österreich, XXV. Gesetzgebungsperiode, Mittwoch, 20. November 2013</title>
+            <title type="main" xml:lang="en">Austrian parliamentary corpus ParlaMint-AT, Shorthand records of the National Council of the Austrian Parliament, Legislative period XXV [ParlaMint]</title>
+            <title type="sub" xml:lang="en">Sitting Number 5, Legislative period XXV, Wednesday, 20. November 2013</title>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.sitting" n="5">5. Sitzung</meeting>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.term #NR.XXV" n="25">XXV. Gesetzgebungsperiode</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.sitting" n="5">Sitting 5</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.term #NR.XXV" n="25">Legislative period XXV</meeting>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0002-8111-5584">Hannes Pirker</persName>
+               <persName ref="https://orcid.org/0000-0003-2436-0361">Daniel Schopper</persName>
+               <persName ref="https://orcid.org/0000-0002-1631-4560">Tanja Wissik</persName>
+               <resp xml:lang="de">Projektplanung und Methode</resp>
+               <resp xml:lang="en">Project set-up and methodology</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hannes Pirker</persName>
+               <resp xml:lang="de">Datenbeschaffung, Korpuskodierung in TEI und automatische linguistische Annotation</resp>
+               <resp xml:lang="en">Data retrieval, TEI corpus encoding and automatic linguistic annotation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Schopper</persName>
+               <resp xml:lang="de">XSLT Transformationen</resp>
+               <resp xml:lang="en">XSLT transformations</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Martin Kirnbauer</persName>
+               <resp xml:lang="de">Einige der manuellen Korrekturen</resp>
+               <resp xml:lang="en">Some of the manual curation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Tanja Wissik</persName>
+               <resp xml:lang="de">Metadaten und Übersetzung</resp>
+               <resp xml:lang="en">Metadata and translation</resp>
+            </respStmt>
+            <funder>
+               <orgName xml:lang="de">CLARIN-ERIC</orgName>
+               <orgName xml:lang="en">CLARIN-ERIC (Common Language Resources and Technology Infrastructure—European Research Infrastructure Consortium)</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </funder>
+            <funder>
+               <orgName xml:lang="de">ÖAW (Österreichische Akademie der Wissenschaften)</orgName>
+               <orgName xml:lang="en">ÖAW (Austrian Academy of Sciences)</orgName>
+               <ref target="https://www.oeaw.ac.at/">www.oeaw.ac.at</ref>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>4.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="9" xml:lang="de">9 Äußerungen</measure>
+            <measure unit="speeches" quantity="9" xml:lang="en">9 speeches</measure>
+            <measure unit="words" quantity="748" xml:lang="de">748 Wörter</measure>
+            <measure unit="words" quantity="748" xml:lang="en">748 words</measure>
+         </extent>
+         <publicationStmt>
+            <publisher>
+               <orgName xml:lang="de">Die CLARIN Forschungsinfrastruktur</orgName>
+               <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </publisher>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/1912</idno>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="de">Dieses Werk ist lizensiert unter der <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz (CC BY 4.0)</ref>.</p>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+            </availability>
+            <date when="2024-05-14">2024-05-14</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main" xml:lang="de">Stenographische Protokolle der Plenarsitzungen des Nationalrats der Republik Österreich</title>
+               <title type="sub" xml:lang="de">Stenographisches Protokoll, 5. Sitzung des Nationalrates der Republik Österreich, XXV. Gesetzgebungsperiode, Mittwoch, 20. November 2013</title>
+               <title type="main" xml:lang="en">Shorthand records of the plenary sittings of the National Council of the Austrian parliament</title>
+               <title type="sub" xml:lang="en">Shorthand record, Sitting Number 5, Legislative period XXV, Wednesday, 20. November 2013</title>
+               <publisher>Parlamentsdirektion</publisher>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/PAKT/VHG/XXV/NRSITZ/NRSITZ_00005/fnameorig_335017.html</idno>
+               <date when="2013-11-20">2013-11-20</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p xml:lang="en"><ref target="https://www.clarin.eu/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://clarin-eric.github.io/ParlaMint/">ParlaMint encoding guidelines</ref>, covering the period from 2015 to mid-2022; (2) add linguistic annotations to the corpora and machine-translate them to English; (3) make the corpora available through concordancers; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.</p>
+            <p xml:lang="de"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+            </p>
+         </projectDesc>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="desc" occurs="5"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="1"/>
+               <tagUsage gi="kinesic" occurs="3"/>
+               <tagUsage gi="note" occurs="21"/>
+               <tagUsage gi="pb" occurs="3"/>
+               <tagUsage gi="seg" occurs="29"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="time" occurs="11"/>
+               <tagUsage gi="u" occurs="9"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <name type="city" xml:lang="de">Wien</name>
+               <name type="city" xml:lang="en">Vienna</name>
+               <name type="country" key="AT" xml:lang="en">Austria</name>
+               <name type="country" key="AT" xml:lang="de">Österreich</name>
+               <date ana="#parla.sitting" when="2013-11-20">2013-11-20</date>
+            </setting>
+         </settingDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2022-12-13">
+            <name>Hannes Pirker</name> : Converted from source HTML to TEI.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text ana="#reference">
+      <body>
+         <div xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e178" type="debateSection">
+            <gap reason="editorial" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005.gap1">
+               <desc xml:lang="en">Frontmatters and table of content removed</desc>
+               <desc xml:lang="de">Titelseite und Inhaltsangabe entfernt</desc>
+            </gap>
+            <pb n="2"/>
+            <note type="time" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005.note1">
+               <time when="2013-11-20T19:24:02+01:00">19:24:02</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005.note2">Beginn der Sitzung:<time when="2013-11-20T19:24:00+01:00">19:24</time>Uhr</note>
+            <note type="chairpersons" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005.note3">Dritter Präsident Ing. Norbert Hofer</note>
+            <note type="speaker" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005.note4">Präsident Ing. Norbert Hofer</note>
+            <u who="#PAD_35521" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d7e435" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e198">Die Sitzung ist eröffnet.</seg>
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e200">Als verhindert gemeldet sind die Abgeordneten Weninger, Mag. Lettenbichler, Mag. Darmann, Doppler, Neubauer, Mag. Brunner, Stronach und Dr. Eder-Lindner.</seg>
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e202">Wir gehen in die Tagesordnung ein.</seg>
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e204">Redezeitbeschränkung</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005.note5">Präsident Ing. Norbert Hofer</note>
+            <u who="#PAD_35521" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d7e466" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e209">In der Präsidialkonferenz wurde Konsens über Gestaltung und Dauer der Debatte der Tagesordnung erzielt.</seg>
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e211">Einvernehmlich wird festgelegt, für die Erste Lesung je Fraktion eine Rednerin beziehungsweise einen Redner mit 5 Minuten Redezeit vorzusehen.</seg>
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e213">Wir kommen sogleich zur Abstimmung.</seg>
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e215">Ich bitte jene Damen und Herren, die diesem Vorschlag zustimmen, um ein diesbezügliches Zeichen. – Das ist einstimmig angenommen.</seg>
+               <note type="time" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005.note6">
+                  <time when="2013-11-20T19:24:41+01:00">19:24:41</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e220">Erste Lesung: Antrag der Abgeordneten Mag. Andreas Schieder, Karlheinz Kopf, Ing. Norbert Hofer, Dieter Brosz, MSc, Dr. Kathrin Nachbaur, Mag. Dr. Matthias Strolz, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Bundesgesetz über die Geschäftsordnung des Nationalrates (Geschäftsordnungsgesetz 1975) geändert wird (42/A)</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005.note7">Präsident Ing. Norbert Hofer</note>
+            <u who="#PAD_35521" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d7e523" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e225">Wir kommen zum ersten und einzigen Punkt der Tagesordnung und gehen sogleich in die Debatte ein.</seg>
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e227">Zu Wort gemeldet hat sich Herr Abgeordneter Pendl. Ich erteile es ihm.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005.note8">
+               <time when="2013-11-20T19:25:18+01:00">19:25:18</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005.note9">Abgeordneter Otto Pendl (SPÖ)</note>
+            <u who="#PAD_05375" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d7e547" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e236">Herr Präsident! Meine sehr geehrten Damen und Herren! Hohes Haus! Ich glaube, über diesen All-Parteien-Antrag brauchen wir heute in erster Lesung nicht wirklich viel zu debattieren. Ich glaube, wir alle wissen, um was es geht, nämlich darum, uns selbst ein bisschen das Leben hier zu erleichtern. Und ich lade Sie alle ein, dass wir versuchen, was die Redezeiten betrifft, eine Lösung herbeizuführen, mit der alle Fraktionen leben können, damit wir da nicht jedes Mal ein Aha-Erlebnis haben. Ich glaube, dass alle Kolleginnen und Kollegen ein Interesse an einer effizienten und planbaren Plenarsitzung haben. Es soll jeder hier gerecht seine Redezeit bekommen.</seg>
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e238">Ich glaube, ohne das zu strukturieren und ohne das gemeinsam zu klären, werden wir zu keiner positiven Lösung kommen.</seg>
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e240">Ich freue mich schon auf die Diskussion im Geschäftsordnungsausschuss und wünsche uns viel Erfolg, dass wir das in unserem eigenen Interesse und im Interesse des Hauses auch dementsprechend schnell schaffen.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005.kinesic1">
+               <desc>Beifall bei der SPÖ und bei Abgeordneten der ÖVP.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005.note10">
+               <time when="2013-11-20T19:26:00+01:00">19:26</time>
+            </note>
+            <pb n="3"/>
+            <note type="speaker" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005.note11">Präsident Ing. Norbert Hofer</note>
+            <u who="#PAD_35521" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d7e583" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e252">Zu Wort gemeldet hat sich nun Herr Abgeordneter Auer. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005.note12">
+               <time when="2013-11-20T19:26:38+01:00">19:26:38</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005.note13">Abgeordneter Jakob Auer (ÖVP)</note>
+            <u who="#PAD_00039" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d7e604" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e260">Sehr geehrter Herr Präsident! Meine sehr verehrten Damen und Herren! Ich unterstreiche alles, was der Kollege Pendl gesagt hat. Es ist tatsächlich so: Wir sollten uns überlegen, über die Effizienz, über die praktische Durchführung der Debatten hier zu einem Konsens zu kommen. Und es ist zumindest ein positives Zeichen, wenn am Beginn einer neuen parlamentarischen Periode ein gemeinsamer Antrag eingebracht werden konnte.</seg>
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e262">Ich hoffe auf eine vernünftige Debatte, auf ein Miteinander in der Diskussion und auf ein positives Ergebnis.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005.kinesic2">
+               <desc>Beifall bei der ÖVP und bei Abgeordneten der SPÖ.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005.note14">
+               <time when="2013-11-20T19:27:00+01:00">19:27</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005.note15">Präsident Ing. Norbert Hofer</note>
+            <u who="#PAD_35521" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d7e631" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e274">Als vorläufig letzter Redner hat sich Herr Abgeordneter Brosz zu Wort gemeldet. – Bitte, Herr Abgeordneter.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005.note16">
+               <time when="2013-11-20T19:27:00+01:00">19:27:00</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005.note17">Abgeordneter Dieter Brosz, MSc (Grüne)</note>
+            <u who="#PAD_08239" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d7e653" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e282">Danke, Herr Präsident! – Kurz zum Inhalt insofern, als es natürlich Sinn macht, dass man, gerade wenn jetzt zwei kleine Fraktionen im Haus sind, auch das Verhältnis von sogenannten wilden Abgeordneten zu denen der kleinen Fraktionen mit regelt. In der vergangenen Legislaturperiode war es ja zum Teil schon so, dass wilde Abgeordnete mehr Redezeit allein an einem Tag in Anspruch nehmen hätten können als eine ganze Fraktion. Das entspricht ja wohl auch nicht der Intention.</seg>
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e284">Ich würde zum Schluss nur auf einen Punkt aufmerksam machen wollen: Diese Möglichkeit eröffnet uns jetzt auch die Chance, kürzere Sitzungen zu haben. Also wir müssen nicht mehr bis Mitternacht hier sitzen. Ich würde sehr appellieren, dass wir diese Chance auch nutzen. Es hat keinen Sinn, um neun zu beginnen und bis um halb zwei da zu sitzen. Es macht Sinn, Materien auf mehrere Tage zu verteilen, zu schauen, dass wir Arbeitssitzungen haben, die auch vernünftig nachvollzogen werden können, und diese endlosen Marathonsitzungen der Vergangenheit angehören zu lassen. Das wird erfordern, dass es halt mehr Sitzungstermine gibt, aber das wird ja bei bezahlten Abgeordneten grundsätzlich möglich sein.</seg>
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e286">Also vielleicht gelingt uns auch diese Übung im Sinne eines arbeitsfähigen und konzentrierten Parlamentarismus.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005.kinesic3">
+               <desc>Beifall bei den Grünen.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005.note18">
+               <time when="2013-11-20T19:28:00+01:00">19:28</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005.note19">Präsident Ing. Norbert Hofer</note>
+            <u who="#PAD_35521" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d7e683" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e297">Zu Wort ist niemand mehr gemeldet. Die Debatte ist geschlossen.</seg>
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e299">Ich weise den Antrag 42/A dem Geschäftsordnungsausschuss zu.</seg>
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e301">Die Tagesordnung ist erschöpft.</seg>
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e303">Die nächste Sitzung des Nationalrates wird auf schriftlichem Wege einberufen werden.</seg>
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e305">Bevor ich diese Sitzung schließe, gebe ich noch bekannt, dass im Anschluss hier im Nationalratssitzungssaal die Konstituierung des Verfassungsausschusses, des Rechnungshofausschusses, des Ausschusses für innere Angelegenheiten und des Landesverteidigungsausschusses sowie die Wahl der ständigen Unterausschüsse des Ausschusses für innere Angelegenheiten und des Landesverteidigungsausschusses stattfinden.</seg>
+               <pb n="4"/>
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e308">Da es sich hiebei um nicht öffentliche Sitzungen handelt, ersuche ich Besucherinnen und Besucher sowie Medienvertreterinnen und Medienvertreter, den Saal zu verlassen, und die Ausschussmitglieder beziehungsweise deren Vertreterinnen und Vertreter, im Sitzungssaal zu bleiben.</seg>
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e310">Weiters weise ich darauf hin, dass nach Schluss der konstituierenden Sitzungen der neu gewählten Ausschüsse eine Sitzung des Hauptausschusses im Bundesratssitzungssaal stattfinden wird.</seg>
+               <seg xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005_d2e312">Diese Sitzung ist geschlossen.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005.note20">
+               <time when="2013-11-20T19:29:46+01:00">19:29:46</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005.note21">Schluss der Sitzung:<time when="2013-11-20T19:30:00+01:00">19:30</time>Uhr</note>
+         </div>
+      </body>
+   </text>
+</TEI>

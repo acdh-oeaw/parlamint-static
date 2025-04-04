@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" ana="#parla.sitting #reference" xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134.xml" xml:base="https://parlamint-at.acdh.oeaw.ac.at" prev="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00133.xml" next="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2006-01-25-022-XXII-NRSITZ-00135.xml">
+   <teiHeader xml:lang="en">
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="de">Österreichisches Parlamentskorpus ParlaMint-AT, Stenographische Protokolle der Plenarsitzungen des Österreichischen Nationalrats, XXII. Gesetzgebungsperiode [ParlaMint]</title>
+            <title type="sub" xml:lang="de">134. Sitzung des Nationalrates der Republik Österreich, XXII. Gesetzgebungsperiode, Mittwoch, 21. Dezember 2005</title>
+            <title type="main" xml:lang="en">Austrian parliamentary corpus ParlaMint-AT, Shorthand records of the National Council of the Austrian Parliament, Legislative period XXII [ParlaMint]</title>
+            <title type="sub" xml:lang="en">Sitting Number 134, Legislative period XXII, Wednesday, 21. December 2005</title>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.sitting" n="134">134. Sitzung</meeting>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.term #NR.XXII" n="22">XXII. Gesetzgebungsperiode</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.sitting" n="134">Sitting 134</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.term #NR.XXII" n="22">Legislative period XXII</meeting>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0002-8111-5584">Hannes Pirker</persName>
+               <persName ref="https://orcid.org/0000-0003-2436-0361">Daniel Schopper</persName>
+               <persName ref="https://orcid.org/0000-0002-1631-4560">Tanja Wissik</persName>
+               <resp xml:lang="de">Projektplanung und Methode</resp>
+               <resp xml:lang="en">Project set-up and methodology</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hannes Pirker</persName>
+               <resp xml:lang="de">Datenbeschaffung, Korpuskodierung in TEI und automatische linguistische Annotation</resp>
+               <resp xml:lang="en">Data retrieval, TEI corpus encoding and automatic linguistic annotation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Schopper</persName>
+               <resp xml:lang="de">XSLT Transformationen</resp>
+               <resp xml:lang="en">XSLT transformations</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Martin Kirnbauer</persName>
+               <resp xml:lang="de">Einige der manuellen Korrekturen</resp>
+               <resp xml:lang="en">Some of the manual curation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Tanja Wissik</persName>
+               <resp xml:lang="de">Metadaten und Übersetzung</resp>
+               <resp xml:lang="en">Metadata and translation</resp>
+            </respStmt>
+            <funder>
+               <orgName xml:lang="de">CLARIN-ERIC</orgName>
+               <orgName xml:lang="en">CLARIN-ERIC (Common Language Resources and Technology Infrastructure—European Research Infrastructure Consortium)</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </funder>
+            <funder>
+               <orgName xml:lang="de">ÖAW (Österreichische Akademie der Wissenschaften)</orgName>
+               <orgName xml:lang="en">ÖAW (Austrian Academy of Sciences)</orgName>
+               <ref target="https://www.oeaw.ac.at/">www.oeaw.ac.at</ref>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>4.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="4" xml:lang="de">4 Äußerungen</measure>
+            <measure unit="speeches" quantity="4" xml:lang="en">4 speeches</measure>
+            <measure unit="words" quantity="973" xml:lang="de">973 Wörter</measure>
+            <measure unit="words" quantity="973" xml:lang="en">973 words</measure>
+         </extent>
+         <publicationStmt>
+            <publisher>
+               <orgName xml:lang="de">Die CLARIN Forschungsinfrastruktur</orgName>
+               <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </publisher>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/1912</idno>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="de">Dieses Werk ist lizensiert unter der <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz (CC BY 4.0)</ref>.</p>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+            </availability>
+            <date when="2024-05-14">2024-05-14</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main" xml:lang="de">Stenographische Protokolle der Plenarsitzungen des Nationalrats der Republik Österreich</title>
+               <title type="sub" xml:lang="de">Stenographisches Protokoll, 134. Sitzung des Nationalrates der Republik Österreich, XXII. Gesetzgebungsperiode, Mittwoch, 21. Dezember 2005</title>
+               <title type="main" xml:lang="en">Shorthand records of the plenary sittings of the National Council of the Austrian parliament</title>
+               <title type="sub" xml:lang="en">Shorthand record, Sitting Number 134, Legislative period XXII, Wednesday, 21. December 2005</title>
+               <publisher>Parlamentsdirektion</publisher>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/PAKT/VHG/XXII/NRSITZ/NRSITZ_00134/fnameorig_058162.html</idno>
+               <date when="2005-12-21">2005-12-21</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p xml:lang="en"><ref target="https://www.clarin.eu/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://clarin-eric.github.io/ParlaMint/">ParlaMint encoding guidelines</ref>, covering the period from 2015 to mid-2022; (2) add linguistic annotations to the corpora and machine-translate them to English; (3) make the corpora available through concordancers; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.</p>
+            <p xml:lang="de"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+            </p>
+         </projectDesc>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="desc" occurs="9"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="kinesic" occurs="5"/>
+               <tagUsage gi="note" occurs="12"/>
+               <tagUsage gi="pb" occurs="3"/>
+               <tagUsage gi="seg" occurs="29"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="time" occurs="7"/>
+               <tagUsage gi="u" occurs="4"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <name type="city" xml:lang="de">Wien</name>
+               <name type="city" xml:lang="en">Vienna</name>
+               <name type="country" key="AT" xml:lang="en">Austria</name>
+               <name type="country" key="AT" xml:lang="de">Österreich</name>
+               <date ana="#parla.sitting" when="2005-12-21">2005-12-21</date>
+            </setting>
+         </settingDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2022-12-13">
+            <name>Hannes Pirker</name> : Converted from source HTML to TEI.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text ana="#reference">
+      <body>
+         <div xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e178" type="debateSection">
+            <gap reason="editorial" xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134.gap1">
+               <desc xml:lang="en">Frontmatters and table of content removed</desc>
+               <desc xml:lang="de">Titelseite und Inhaltsangabe entfernt</desc>
+            </gap>
+            <pb n="2"/>
+            <note type="time" xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134.note1">
+               <time when="2005-12-21T16:43:19+01:00">16:43:19</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134.note2">Beginn der Sitzung:<time when="2005-12-21T16:43:00+01:00">16:43</time>Uhr</note>
+            <note type="chairpersons" xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134.note3">Präsident Dr. Andreas Khol</note>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134.note4">Präsident Dr. Andreas Khol</note>
+            <u who="#PAD_00799" xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d7e373" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e198">Ich eröffne die 134. Sitzung des Nationalrates.</seg>
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e200">Als verhindert gemeldet sind die Abgeordneten Jakob Auer, Haubner, Bures, Wimmer, Rossmann, Dr. Glawischnig-Piesczek.</seg>
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e202">Einlauf und Zuweisungen</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134.note5">Präsident Dr. Andreas Khol</note>
+            <u who="#PAD_00799" xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d7e404" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e207">Hinsichtlich der eingelangten Verhandlungsgegenstände und deren Zuweisungen verweise ich gemäß § 23 Abs. 4 der Geschäftsordnung auf die im Sitzungssaal verteilte Mitteilung.</seg>
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e209">Die schriftliche Mitteilung hat folgenden Wortlaut:</seg>
+               <gap reason="editorial" xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134.gap2">
+                  <desc xml:lang="en">Quoted printed matter omited</desc>
+                  <desc xml:lang="de">Zitierte Druckfassung entfernt</desc>
+               </gap>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134.note6">Präsident Dr. Andreas Khol</note>
+            <u who="#PAD_00799" xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d7e556" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e219">Es sind vier Selbständige Anträge eingebracht worden, die ich jetzt verlesen und zuweisen werde, und zwar im Sinne der Antragsteller.</seg>
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e221">Darüber hinaus weise ich den Antrag 764/A betreffend Novellierung des Zivildienstgesetzes dem Ausschuss für innere Angelegenheiten,</seg>
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e223">den Antrag 763/A betreffend Internationale Konvention zum Schutz der Rechte der Wanderarbeitnehmer und ihrer Familienangehörigen dem Ausschuss für Menschenrechte,</seg>
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e225">den Antrag 762/A betreffend Import- und Handelsverbot von Hunde- und Katzenfellen dem Gesundheitsausschuss und</seg>
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e227">den Antrag 761/A betreffend Festlegung von wirksamen Klimaschutzzielen dem Umweltausschuss zu.</seg>
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e229">Die nächste Sitzung des Nationalrates, die für Mittwoch, dem 25. Jänner 2006, 9 Uhr, in Aussicht genommen ist, wird auf schriftlichem Wege einberufen.</seg>
+               <note type="time" xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134.note7">
+                  <time when="2005-12-21T16:44:50+01:00">16:44:50</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e234">Ansprache des Präsidenten</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134.note8">
+               <time when="2005-12-21T16:44:51+01:00">16:44:51</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134.note9">Präsident Dr. Andreas Khol</note>
+            <u who="#PAD_00799" xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d7e619" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e243">Meine Damen und Herren! Das Jahr 2005 war ein Jahr voll von Arbeit: Wir haben 42 Plenarsitzungen und fünf Sondersitzungen abgehalten. Wir haben160 Gesetze beschlossen, 63 Staatsverträge genehmigt, ein Budget beschlossen, neun Rechnungshofberichte und einen Bericht der Volksanwaltschaft angenommen, zwei Europatage abgehalten – ein Experiment, das das erste Mal nicht gelungen ist, das zweite Mal schon besser. Wir haben elf Aktuelle Stunden und vier Fragestunden absolviert, 139 Ausschusssitzungen und 27 Unterausschusssitzungen abgehalten, 46 Berichte beraten und angenommen, 15 Dringliche Anträge und Dringliche Anfragen behandelt, 20 Kurzdebatten durchgeführt, und bis jetzt, um 16.45 Uhr, wurden 12 036 Anfragen an die Verwaltung beziehungsweise an den Präsidenten des Nationalrates eingebracht und beantwortet.</seg>
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e245">Zahlreiche internationale Aufgaben wurden vom Hohen Haus wahrgenommen: im Europäischen Parlament, im Europarat, in der OSZE, bei Wahlbeobachtungen, bei Delegationsbesuchen.</seg>
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e247">Ich möchte Ihnen allen, meine Damen und Herren, für die Zusammenarbeit in diesem arbeitsreichen Jahr herzlich danken.</seg>
+               <pb n="4"/>
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e250">Ich zähle nicht die Reden auf, die Sie gehalten haben, denn die Anzahl der Reden hat sich vervielfacht. Das ist nicht gut so!</seg>
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e252">Warum hat sich das vervielfacht? Und warum zähle ich es nicht auf? – Weil meiner Überzeugung nach die Anzahl der Reden kein Maßstab für die Tätigkeit des Abgeordneten, für das Benchmarking der Abgeordneten sein kann. Alle Damen und Herren Abgeordneten wollen immer reden und haben zu allen Fragen immer wieder etwas zu sagen. Die Redezeit ist begrenzt, es können nicht alle zu Wort kommen. Daher kann das Reden kein Maßstab sein.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134.kinesic1">
+                  <desc>Beifall bei ÖVP, SPÖ und den Freiheitlichen.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e257">Ich richte von hier aus einen Appell und eine Bitte an die Medien, mit den unsäglichen Stricherllisten aufzuhören.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134.kinesic2">
+                  <desc>Neuerlicher Beifall bei ÖVP, SPÖ und den Freiheitlichen.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e262">Meine Damen und Herren! Ich werde mich auch zu Ihrem Sprecher und Agenten machen, indem ich mit den Chefredakteuren persönlich reden werde.</seg>
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e264">Wenn man wirklich ein Benchmarking machen wollte, dann müsste man die umfangreiche Tätigkeit der Abgeordneten sehen. Es ist nicht nur das Reden, es ist die Anwesenheit im Plenum, es ist die Ausschussarbeit, es sind die Tausenden Anfragen, es ist die internationale Vertretung, es sind die Delegationen, denen man angehört, es ist die Tätigkeit im Nationalfonds, im General Settlement Fund, im Allgemeinen Entschädigungsfonds, wo viele unserer Damen und Herren ständig und mit Hingabe arbeiten, aber es ist auch die Arbeit im Wahlkreis, es sind die Informationsveranstaltungen, die Informationsschriften, die man verteilt, die Sitzungen, die man abhält, und die Tausenden Interventionen, wo sich unsere Abgeordneten zur Sprecherin und zum Sprecher von vielen, vielen Bürgerinnen und Bürgern machen, um die Lücke zwischen Verwaltung und Menschen zu schließen: Das sind wichtige Tätigkeiten! Und wollte man ein Benchmarking einführen, dann müsste man all das berücksichtigen.</seg>
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e267">Meine Damen und Herren! Ich möchte Ihnen auch mitteilen, dass ich zu meiner großen Zufriedenheit vor einer Stunde die ersten Anweisungen für den Allgemeinen Entschädigungsfonds freigegeben habe. Das heißt, nachdem Rechtsfrieden eingetreten ist, nachdem dieses Hohe Haus einstimmig Vorauszahlungen beschlossen hat, können wir noch heuer, im Gedenkjahr, die ersten Zahlungen leisten.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134.kinesic3">
+                  <desc>Allgemeiner Beifall.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e272">Meine Damen und Herren! Im vergangenen Jahr hat sich mit Ihrer Mitwirkung das Parlament in ein offenes, in ein offeneres Parlament verwandelt. Am „Tag der offenen Tür“ waren 13 500 Menschen hier im Haus. Die Nachfrage ist sehr, sehr groß. Die Präsidialkonferenz hat beschlossen, dass wir in Zukunft jedes Jahr einen „Tag der offenen Tür“ abhalten, und zwar mehr Stunden offen halten als bisher.</seg>
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e274">Wir haben einen starken Besucheranstieg zu verzeichnen. Im Jahr 2004 hatten wir 63 000 Besucher, im Jahr 2005 gab es bereits in den zwei Monaten, in welchen das Haus neu zugänglich war, einen Anstieg auf 74 000 Besucher. Ich bin überzeugt davon, dass sich im nächsten Jahr die Besucherzahl verdoppeln wird.</seg>
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e276">Wir vom Präsidium haben mit Ihrer Hilfe – mit den Klubs, mit einzelnen Abgeordneten – 101 Veranstaltungen in diesem Hause durchgeführt, und meiner Kollegin, Frau Mag. Barbara Prammer, und meinem Kollegen, Herrn Dipl.-Ing. Thomas Prinzhorn, möchte ich sehr herzlich für ihre Arbeit danken.</seg>
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e278">Das heißt: Faktisch jeden zweiten Arbeitstag hat es hier entweder eine Buchpräsentation oder eine politische Diskussion oder eine Enquete eines Klubs oder eine Bilderausstellung oder ein Jugendparlament gegeben. Zu diesen Veranstaltungen sind 12 000 Menschen in dieses Haus gekommen.</seg>
+               <pb n="5"/>
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e281">Das zeigt – alle Umfragen, die wir machen, bestätigen das –, dass das Parlament in der Bevölkerung in hohem Ansehen steht. Das ist Ihrem Fleiß und Ihrer Offenheit gegenüber allen zu verdanken – nicht zuletzt auch unseren Mitarbeitern.</seg>
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e283">Ich möchte Ihnen bei dieser Gelegenheit sagen, dass wir erstklassige Mitarbeiterinnen und Mitarbeiter haben, begeisterte Damen und Herren, die nicht auf die Uhr schauen. Es gibt Damen und Herren hier – ich will keine Namen nennen –, die wirklich ununterbrochen im Dienst sind und loyal zu ihrem Dienstgeber, loyal zum Parlament stehen. Ihnen und ihren Familien möchte ich jetzt in Ihrem Namen alles Gute für die Weihnachtsfeiertage wünschen und ihnen danken und sie auch unserer Loyalität versichern.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134.kinesic4">
+                  <desc>Allgemeiner lebhafter Beifall.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e288">Ihnen allen, meine Damen und Herren, wünsche ich nach einem arbeitsreichen Jahr ein gesegnetes und fröhliches Weihnachtsfest und ein gutes neues Jahr! Alles Gute Ihnen und Ihren Familien!</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134.kinesic5">
+                  <desc>Neuerlicher allgemeiner Beifall.</desc>
+               </kinesic>
+               <note type="time" xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134.note10">
+                  <time when="2005-12-21T16:52:00+01:00">16:52</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134_d2e297">Die Sitzung ist geschlossen.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134.note11">
+               <time when="2005-12-21T16:52:33+01:00">16:52:33</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2005-12-21-022-XXII-NRSITZ-00134.note12">Schluss der Sitzung:<time when="2005-12-21T16:52:00+01:00">16:52</time>Uhr</note>
+         </div>
+      </body>
+   </text>
+</TEI>

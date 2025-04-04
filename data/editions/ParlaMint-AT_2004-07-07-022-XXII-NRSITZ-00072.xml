@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" ana="#parla.sitting #reference" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.xml" xml:base="https://parlamint-at.acdh.oeaw.ac.at" prev="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00071.xml" next="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2004-07-09-022-XXII-NRSITZ-00073.xml">
+   <teiHeader xml:lang="en">
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="de">Österreichisches Parlamentskorpus ParlaMint-AT, Stenographische Protokolle der Plenarsitzungen des Österreichischen Nationalrats, XXII. Gesetzgebungsperiode [ParlaMint]</title>
+            <title type="sub" xml:lang="de">72. Sitzung des Nationalrates der Republik Österreich, XXII. Gesetzgebungsperiode, Mittwoch, 7. Juli 2004</title>
+            <title type="main" xml:lang="en">Austrian parliamentary corpus ParlaMint-AT, Shorthand records of the National Council of the Austrian Parliament, Legislative period XXII [ParlaMint]</title>
+            <title type="sub" xml:lang="en">Sitting Number 72, Legislative period XXII, Wednesday, 7. July 2004</title>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.sitting" n="72">72. Sitzung</meeting>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.term #NR.XXII" n="22">XXII. Gesetzgebungsperiode</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.sitting" n="72">Sitting 72</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.term #NR.XXII" n="22">Legislative period XXII</meeting>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0002-8111-5584">Hannes Pirker</persName>
+               <persName ref="https://orcid.org/0000-0003-2436-0361">Daniel Schopper</persName>
+               <persName ref="https://orcid.org/0000-0002-1631-4560">Tanja Wissik</persName>
+               <resp xml:lang="de">Projektplanung und Methode</resp>
+               <resp xml:lang="en">Project set-up and methodology</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hannes Pirker</persName>
+               <resp xml:lang="de">Datenbeschaffung, Korpuskodierung in TEI und automatische linguistische Annotation</resp>
+               <resp xml:lang="en">Data retrieval, TEI corpus encoding and automatic linguistic annotation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Schopper</persName>
+               <resp xml:lang="de">XSLT Transformationen</resp>
+               <resp xml:lang="en">XSLT transformations</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Martin Kirnbauer</persName>
+               <resp xml:lang="de">Einige der manuellen Korrekturen</resp>
+               <resp xml:lang="en">Some of the manual curation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Tanja Wissik</persName>
+               <resp xml:lang="de">Metadaten und Übersetzung</resp>
+               <resp xml:lang="en">Metadata and translation</resp>
+            </respStmt>
+            <funder>
+               <orgName xml:lang="de">CLARIN-ERIC</orgName>
+               <orgName xml:lang="en">CLARIN-ERIC (Common Language Resources and Technology Infrastructure—European Research Infrastructure Consortium)</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </funder>
+            <funder>
+               <orgName xml:lang="de">ÖAW (Österreichische Akademie der Wissenschaften)</orgName>
+               <orgName xml:lang="en">ÖAW (Austrian Academy of Sciences)</orgName>
+               <ref target="https://www.oeaw.ac.at/">www.oeaw.ac.at</ref>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>4.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="15" xml:lang="de">15 Äußerungen</measure>
+            <measure unit="speeches" quantity="15" xml:lang="en">15 speeches</measure>
+            <measure unit="words" quantity="3499" xml:lang="de">3,499 Wörter</measure>
+            <measure unit="words" quantity="3499" xml:lang="en">3,499 words</measure>
+         </extent>
+         <publicationStmt>
+            <publisher>
+               <orgName xml:lang="de">Die CLARIN Forschungsinfrastruktur</orgName>
+               <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </publisher>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/1912</idno>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="de">Dieses Werk ist lizensiert unter der <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz (CC BY 4.0)</ref>.</p>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+            </availability>
+            <date when="2024-05-14">2024-05-14</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main" xml:lang="de">Stenographische Protokolle der Plenarsitzungen des Nationalrats der Republik Österreich</title>
+               <title type="sub" xml:lang="de">Stenographisches Protokoll, 72. Sitzung des Nationalrates der Republik Österreich, XXII. Gesetzgebungsperiode, Mittwoch, 7. Juli 2004</title>
+               <title type="main" xml:lang="en">Shorthand records of the plenary sittings of the National Council of the Austrian parliament</title>
+               <title type="sub" xml:lang="en">Shorthand record, Sitting Number 72, Legislative period XXII, Wednesday, 7. July 2004</title>
+               <publisher>Parlamentsdirektion</publisher>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/PAKT/VHG/XXII/NRSITZ/NRSITZ_00072/fnameorig_026375.html</idno>
+               <date when="2004-07-07">2004-07-07</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p xml:lang="en"><ref target="https://www.clarin.eu/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://clarin-eric.github.io/ParlaMint/">ParlaMint encoding guidelines</ref>, covering the period from 2015 to mid-2022; (2) add linguistic annotations to the corpora and machine-translate them to English; (3) make the corpora available through concordancers; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.</p>
+            <p xml:lang="de"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+            </p>
+         </projectDesc>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="desc" occurs="18"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="kinesic" occurs="10"/>
+               <tagUsage gi="note" occurs="43"/>
+               <tagUsage gi="pb" occurs="8"/>
+               <tagUsage gi="seg" occurs="39"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="time" occurs="12"/>
+               <tagUsage gi="u" occurs="15"/>
+               <tagUsage gi="vocal" occurs="4"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <name type="city" xml:lang="de">Wien</name>
+               <name type="city" xml:lang="en">Vienna</name>
+               <name type="country" key="AT" xml:lang="en">Austria</name>
+               <name type="country" key="AT" xml:lang="de">Österreich</name>
+               <date ana="#parla.sitting" when="2004-07-07">2004-07-07</date>
+            </setting>
+         </settingDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2022-12-13">
+            <name>Hannes Pirker</name> : Converted from source HTML to TEI.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text ana="#reference">
+      <body>
+         <div xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e178" type="debateSection">
+            <gap reason="editorial" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.gap1">
+               <desc xml:lang="en">Frontmatters and table of content removed</desc>
+               <desc xml:lang="de">Titelseite und Inhaltsangabe entfernt</desc>
+            </gap>
+            <note type="time" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note1">Beginn der Sitzung:<time when="2004-07-07T16:38:00+02:00">16:38</time>Uhr</note>
+            <note type="chairpersons" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note2">Präsident Dr. Andreas Khol</note>
+            <note type="speaker" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note3">Präsident Dr. Andreas Khol</note>
+            <u who="#PAD_00799" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e473" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e194">Ich eröffne die 72. Sitzung des Nationalrates.</seg>
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e196">Als verhindert gemeldet sind die Abgeordneten Großruck, Mag. Lunacek, Mag. Posch, Schiefermair und Mag. Weinzinger.</seg>
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e198">Einlauf und Zuweisungen</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note4">Präsident Dr. Andreas Khol</note>
+            <u who="#PAD_00799" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e501" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e203">Hinsichtlich der eingelangten Verhandlungsgegenstände und deren Zuweisungen verweise ich gemäß § 23 Abs. 4 der Geschäftsordnung auf die im Sitzungssaal verteilte Mitteilung.</seg>
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e205">Die schriftliche Mitteilung hat folgenden Wortlaut:</seg>
+               <gap reason="editorial" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.gap2">
+                  <desc xml:lang="en">Quoted printed matter omited</desc>
+                  <desc xml:lang="de">Zitierte Druckfassung entfernt</desc>
+               </gap>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note5">Präsident Dr. Andreas Khol</note>
+            <u who="#PAD_00799" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e580" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e215">Weiters weise ich den Antrag 434/A der Abgeordneten Mag. Tancsits, Dolinschek, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Allgemeine Sozialversicherungsgesetz und weitere Gesetze geändert werden, Sozialrechts-Änderungsgesetz 2004, dem Ausschuss für Arbeit und Soziales zu.</seg>
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e217">Kurze Debatte über einen Fristsetzungsantrag</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note6">Präsident Dr. Andreas Khol</note>
+            <u who="#PAD_00799" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e604" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e222">Vor Eingang in die Tagesordnung teile ich mit, dass die Abgeordneten Mag. Tancsits und Dolinschek beantragt haben, dem Ausschuss für Arbeit und Soziales zur Berichterstattung über den Antrag 434/A der Abgeordneten Mag. Tancsits, Dolinschek, Kolleginnen und Kollegen betreffend ein Sozialrechts-Änderungsgesetz 2004 eine Frist bis 8. Juli 2004 zu setzen.</seg>
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e224">Ferner liegt das von fünf Abgeordneten gemäß § 43 Abs. 3 der Geschäftsordnung gestellte Verlangen vor, eine kurze Debatte über diesen Fristsetzungsantrag durchzuführen. Diese kurze Debatte wird jetzt stattfinden.</seg>
+               <pb n="4"/>
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e227">Wir gehen in die Debatte ein.</seg>
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e229">Zu Wort gemeldet ist Herr Abgeordneter Mag. Tancsits. Er hat eine geschäftsordnungsmäßige Redezeit von 10 Minuten. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note7">
+               <time when="2004-07-07T16:39:00+02:00">16:39</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note8">Abgeordneter Mag. Walter Tancsits(ÖVP)</note>
+            <u who="#PAD_08237" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e635" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e238">Herr Präsident! Hohes Haus! Meine Damen und Herren! Ich habe mich in dieser Debatte über diesen Fristsetzungsantrag zu Wort gemeldet, weil mir durchaus bewusst ist, dass die Vorgangsweise bei einem derart wichtigen Sozialversicherungsgesetz – Paket, möchte ich fast sagen – zu begründen ist, warum wir diesen Zeitpunkt ausnützen wollen, um noch vor der Sommerpause des Nationalrates wesentliche Verbesserungen für unsere Versicherten und zur Erhaltung des Sozialversicherungssystems zu beschließen. Ich bitte daher gleich von Anfang an um Zustimmung für dieses Paket beziehungsweise um Zustimmung zu der von uns beantragten Fristsetzung. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e643">Abg. Öllinger: Das meinen Sie nicht ernst, oder?</note>– Selbstverständlich meine ich das ernst, Herr Kollege! <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e656">Abg. Dr. Van der Bellen: Wo ist der Antrag?</note>In der gebotenen Kürze, was dieses Paket umfasst: erstens einmal die Sanierung des Ausgleichsfonds der Krankenversicherungsträger. Bis zum gestrigen Tag wurde innerhalb der Träger und wurde mit der Bundesministerin für Gesundheit und mit dem Sozialminister verhandelt. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e669">Abg. Dr. Van der Bellen: Wo ist der Antrag? Wir wollen das Paket sehen!</note>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e683">Abg. Schieder: Wo ist der Antrag?</note> Es hat glücklicherweise eine Einigung darüber gegeben. Ich denke, dass wir angesichts unseres komplexen Systems des Zusammenwirkens von Sozialversicherungsträgern, von Selbstverwaltungskörpern und Gesetzgeber die Verpflichtung haben, diese Einigung umzusetzen, um Sicherheit für die Versicherten und für die Krankenversicherung in Österreich nicht wieder herzustellen, sondern keine Minute lang aus den Augen zu lassen. <kinesic type="applause" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.kinesic1">
+                     <desc>Beifall bei der ÖVP und bei Abgeordneten der Freiheitlichen.</desc>
+                  </kinesic>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e702">Abg. Öllinger: Jetzt auf einmal!</note>Es gibt darüber hinaus eine wesentliche Erleichterung für die Versicherten, was die Chefarztpflicht betrifft. Ich werde das jetzt nicht näher begründen, wir haben das schon einige Male auch mit Maria Rauch-Kallathier andiskutiert, nur: Ich halte es für einen ganz wesentlichen Punkt, nicht nur preisdämpfende Maßnahmen zu setzen, sondern auch entsprechende Erleichterungen in Bezug auf diesen zwangsweisen „Botengang“ des Patienten oder seines Angehörigen zwischen den Krankenversicherungsträgern und ihren Vertragspartnern zu schaffen. Es gibt drittens – und da, glaube ich, können wir auf unser österreichisches System der Selbstverwaltung stolz sein – einen Konsolidierungsvorschlag aus der Sozialversicherung der Bauern heraus für ihre Versicherungsanstalt. Das ist aus gutem Grund notwendig, weil ja dieses Erkenntnis des Verfassungsgerichtshofes den Ausgleichsfonds betreffend den finanziellen Ausgleich für die Bauern nicht möglich gemacht hat – Sanierungsschritt 1. Daher war ein anderer Sanierungsschritt, von der bäuerlichen Versicherungsanstalt selbst vorgeschlagen, notwendig, und dieser liegt nun vor. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e718">Abg. Öllinger: Das war alles Pfusch!</note> Auch da haben wir das Zusammenwirken von Sozialversicherungsträger, Selbstverwaltungskörper, Interessenvertretung und Gesetzgeber. Zur Abrundung des Ganzen wollen wir die Mittel aus der Tabaksteuer für den Ausgleichsfonds der Krankenversicherungsträger erhöhen und auch die Zuweisung von Mitteln für einzelne Krankenversicherungen ermöglichen. Auch das, meine Damen und Herren, ist, glaube ich, ein solider und auch ein logischer Schritt, denn wenn unsere präventiven Maßnahmen zur Gesundheitsvorsorge greifen, müssen zwangsläufig die Einnahmen für die Krankenversicherung aus der Tabaksteuer, weil die Menschen dann weniger rauchen werden, sinken. Folglich ist da eine entsprechende Mittelzufuhr auch in Zukunft sicherzustellen. <pb n="5"/>
+            Ich appelliere daher noch einmal daran, im Interesse unseres soliden und vorbildlichen Krankenversicherungssystems diesem Fristsetzungsantrag zuzustimmen und positiv in die dann kommenden Freitag, wie ich annehme, stattfindende Debatte einzutreten.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.kinesic2">
+               <desc>Beifall bei der ÖVP und bei Abgeordneten der Freiheitlichen.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note15">
+               <time when="2004-07-07T16:44:00+02:00">16:44</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note16">Präsident Dr. Andreas Khol</note>
+            <u who="#PAD_00799" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e747" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e272">Alle weiteren Debattenredner haben eine gesetzliche Redezeit von 5 Minuten. Erster Redner ist Herr Abgeordneter Donabauer. 5 Minuten Redezeit. – Bitte, Sie sind am Wort.</seg>
+            </u>
+            <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e757">Abg. Gradwohl: (in Richtung des sich zum Rednerpult begebenden Abg. Donabauer) Jetzt geht es um die ...!</note>
+            <note type="time" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note18">
+               <time when="2004-07-07T16:45:00+02:00">16:45</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note19">Abgeordneter Karl Donabauer(ÖVP)</note>
+            <u who="#PAD_02821" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e780" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e282">Sehr geehrter Herr Präsident! Meine Damen und Herren! Hohes Haus! Es geht um gar nichts anderes, Herr Kollege Gradwohl, als um einige wichtige Gesetzesmaterien, die mit der Fristsetzung heute hier vorgelegt wurden, weil wir glauben, dass einige wichtige Maßnahmen zu treffen sind, die wir noch vor dem Sommer beschließen sollten.</seg>
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e284">Es geht zum Ersten um die große Frage der Chefarztpflicht. Jeder, der in der Sozialversicherung arbeitet, die Entwicklung dort beobachtet, weiß, dass wir in diesem Bereich eine enorme Kostenentwicklung haben, die so nicht weitergehen kann, weil sonst auf Dauer eine Finanzierung nicht machbar ist. Das sagen Ihnen die Gebietskrankenkassen genauso wie alle anderen. Das ist ein Thema für alle, ein Thema der Gesundheits- und Sozialpolitik in Österreich.</seg>
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e286">Es ist Frau Bundesminister Rauch-Kallat gelungen, gemeinsam mit der Ärztekammer, mit dem Hauptverband und vielen anderen diese Thematik neu zu strukturieren, und es werden damit zwei Dinge neu geregelt.</seg>
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e288">Erstens: Es wird einen strukturierten Zugang zu den Medikamenten geben, und es wird diese peinliche Bewilligung durch den Chefarzt, das heißt die Chefarztpflicht, der Vergangenheit angehören. Das Ganze wird einfacher gemacht. Die Frau Minister pflegt zu sagen: Es läuft das Papier und nicht der Patient! – Das ist ein ganz entscheidender Punkt.</seg>
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e290">Zweitens: Es wird in diesem Gesetz geregelt, dass es in Zukunft eine 2-prozentige Rückerstattung vom Umsatz geben wird. Wer weiß, welche Schwierigkeiten, welche Problematik das beinhaltet, aus den Umsätzen heraus eine Rückfinanzierung zu bekommen, der kann nur sagen: Das ist eine ganz gute Vorlage!</seg>
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e292">Drittens: Es geht natürlich auch um Maßnahmen im Bereich der gewerblichen Sozialversicherung, um verschiedene Ausnahmeregelungen, und es geht auch um Maßnahmen im BSVG, weil wir da seit Jahren vor Finanzschwierigkeiten stehen, das wissen Sie. Wenn ich sage „wir“, dann deshalb, weil ich dieser Gruppe angehöre und dafür auch einzustehen habe. – Es gibt zwei Gründe dafür: Zum Ersten haben wir eine dramatische Überalterung, und zum Zweiten sind bei uns jene Gruppen von Familien versichert, die die meisten Kinder haben. Und wie Sie wissen, sind Kinder überwiegend beitragsfrei mitversichert. Wir haben deshalb ein akutes Finanzproblem.</seg>
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e294">Wir wollen dieses Problem a) mit Beitragsmaßnahmen in der eigenen Gruppe lösen und erwarten uns auch b), dass wir den aliquoten Anteil aus der Tabaksteuer für diese Gruppe reklamieren können. Das wird mit diesem Gesetz auch so geregelt und ist, glaube ich, eine Sache, die einmalig und auch richtig ist; das betrifft Artikel 4 der Änderung des Gesundheits- und Sozialbereich-Beihilfengesetzes.</seg>
+               <pb n="6"/>
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e297">Ich schließe meine Ausführungen mit der letzten Betrachtung ab. Es ist vorgestern nach dem Erkenntnis des Verfassungsgerichtshofes den Ausgleichsfonds betreffend gelungen, diese schwierige Materie wirklich konsensual zu regeln. Es haben die Sozialversicherungsträger zugestimmt, dass die neuen Ausgleichszulagen-Bereiche neu geregelt werden, dass die Darlehen, die gegeben wurden, mit korrekten Rückzahlungsfristen versehen werden; da geht es um die Abwicklung von vielen Millionen Euro. Weiters ist es um die Frage gegangen, ob über das Jahr 1999 hinaus, hinunter bis zum Jahr 1977, noch eine Neuabrechnung stattfinden soll. Das wird es nicht geben.</seg>
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e299">Es haben alle konsensual erklärt, dass sie mit dieser Regelung einverstanden sind. Daher glaube ich, dass diese Neuordnung in einer sehr, sehr schwierigen Materie grundsätzlich zu bejahen ist, und wir sind froh, dass wir das so weit entwickeln konnten, dass die Verhandlungen geglückt sind. Deshalb wollen wir das auch mit Fristsetzung in den nächsten Tagen erledigen. – Herzlichen Dank.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.kinesic3">
+               <desc>Beifall bei der ÖVP und bei Abgeordneten der Freiheitlichen.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note20">
+               <time when="2004-07-07T16:49:00+02:00">16:49</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note21">Präsident Dr. Andreas Khol</note>
+            <u who="#PAD_00799" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e832" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e311">Nächste Rednerin ist Frau Abgeordnete Silhavy. 5 Minuten Redezeit. – Frau Kollegin, Sie sind am Wort.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note22">
+               <time when="2004-07-07T16:49:00+02:00">16:49</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note23">Abgeordnete Heidrun Silhavy(SPÖ)</note>
+            <u who="#PAD_02763" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e850" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e319">Herr Präsident! Meine Damen und Herren! Es ist schon etwas merkwürdig, dass wir heute in einer Zuweisungssitzung eine Debatte über eine Fristsetzung führen. Es geht dabei um einen Antrag, über den wir bereits in der letzten Plenarsitzung diskutiert haben, der eigentlich im Sozialausschuss am 8. Juni hätte behandelt werden sollen, hätten sich die Koalitionsparteien darauf einigen können. Damals haben Sie hier gesagt, dass dieser Antrag nicht eingebracht worden wäre, weil Sie dem Sozialausschuss eine faire Chance der Diskussion über Inhalte geben wollten. Meine Damen und Herren! Wenn wir heute über eine Fristsetzung bis Freitag diskutieren, einen Antrag betreffend, den die meisten Ihrer eigenen Abgeordneten vermutlich nicht kennen, weil er nicht einmal im Haus hier verteilt worden ist, dann frage ich mich ... <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e858">Abg. Wittauer: Nur nicht unterschätze ...!</note> – Bitte, zeigen Sie mir Ihren Antrag! Haben Sie ihn bekommen? Dann haben Sie eine Sonderstellung hier im Haus. Verteilt worden ist der Antrag hier im Hause nicht! Sie diskutieren hier über ein Thema, das Ihnen so wichtig ist, obwohl die Abgeordneten dieses Hauses nicht einmal in der Lage sind, zu beurteilen, was inhaltlich in diesem Antrag enthalten ist, weil er nicht verteilt wurde. Glauben Sie, dass das wirklich ein geeigneter Umgang mit Sachthemen ist? Glauben Sie, dass Ihnen irgendein Mensch abnimmt, dass Ihnen das wirklich ein Anliegen ist, hier mit uns darüber zu diskutieren? Oder sind Sie einfach in einer Notsituation, weil Sie wissen, dass ein Krankenversicherungsträger, der Ihnen politisch besonders nahe steht, in einer besonders schwierigen Situation ist? Was ist mit den anderen Krankenversicherungsträgern? Was ist mit dem Schuldenkarussell, das Sie durch Ihre Beschlussfassung hier im Haus ausgelöst haben, was den Ausgleichsfonds anlangt, ein Gesetz, das aufgehoben worden ist, wie wir alle wissen? Was ist mit den Krankenversicherungsträgern, bei denen alle unselbständig Erwerbstätigen sonst versichert sind? Sind Ihnen die Gebietskrankenkassen völlig gleich? Es sieht so aus, denn Finanzsanierungsprojekte sehe ich beim Überfliegen des einen Antrags, den ich mir organisiert habe, nicht. Darüber würde ich schon gerne mit Ihnen diskutieren, auch über die Ernsthaftigkeit, mit der Sie an die Sache herangehen. Wenn Sie heute noch darauf kommen – noch dazu <pb n="7"/>
+            bei einer Stimmung, die einen doch aus dem normalen Alltag etwas herausholt –, diese Angelegenheit mittels Fristsetzungsantrag bis Freitag erledigen zu wollen, obwohl morgen ein Tag ist, der uns vermutlich alle besonders berühren wird, dann halte ich das schon für sehr eigenartig. <kinesic type="applause" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.kinesic4">
+                     <desc>Beifall bei der SPÖ und den Grünen.</desc>
+                  </kinesic>
+            Ich möchte jetzt ganz bewusst nicht qualitativ auf inhaltliche Dinge eingehen, wie zum Beispiel auf die Chefarztpflicht, wo Sie zu keiner Lösung gekommen sind. Die „Lösung“ ist jetzt eine Verordnungsermächtigung. Das ist doch bitte keine Lösung! Wenn Sie nicht auf gleich kommen, machen Sie halt alles über den Verordnungsweg, was einen Freibrief für die Ministerien darstellt, in diesem Fall für die Frau Ministerin, die offensichtlich auf dem Verhandlungsweg nichts zustande gebracht hat. Das ist ein Versagen Ihrer Politik! Weil Sie dieses Versagen Ihrer Politik offensichtlich zu vertuschen versuchen, versuchen Sie jetzt auf diese wirklich unseriöse Art und Weise mit einem Fristsetzungsantrag – wie gesagt: es geht um einen Antrag, der nicht einmal noch aufliegt! – das kommenden Freitag zu beschließen, schnell, schnell vor der Sommerpause, husch-pfusch, damit ja niemand die Möglichkeit hat zu fragen: Na was steckt denn da genau drinnen? <vocal type="interruption" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.vocal1">
+                     <desc>Zwischenruf des Abg. Wittauer.</desc>
+                  </vocal>
+            Herr Kollege Wittauer, Sie waren nicht im Sozialausschuss! Wir haben über die ganzen Themen diskutiert. Großartig wurde gesagt: Wir werden dieser Sache einen breiten Raum einräumen, damit man das ordentlich behandeln kann! – Das ist der „breite Raum“, den Sie diesem Thema einräumen, das Ihnen nach Ihren eigenen Aussagen angeblich so wichtig ist? Ja, Gesundheitspolitik ist uns wichtig. Die Sicherung der Gesundheitsversorgung ist uns wichtig in Österreich. Ob die Menschen zum Chefarzt gehen müssen, also ob der Mensch oder das Papier läuft, das ist uns wichtig. Das sind Themen, mit denen wir uns auseinandersetzen müssen. Es ist uns wichtig, wie die Gebietskrankenkassen finanziell dastehen – und nicht nur, wie die bäuerliche Sozialversicherung dasteht, aber auch das ist uns wichtig. Das sind Themen, die wichtig sind, die die Menschen berühren, die die Menschen betreffen. Aber das, was Sie hier machen, ist unseriös, ist unsachlich, und es ist auch – das sage ich ganz offen – undemokratisch. Es ist undemokratisch, wenn Sie hier unter einem solchen Zeitdruck und unter solchen Rahmenbedingungen einen Fristsetzungsantrag stellen, der uns die Möglichkeit einer ausführlichen Diskussion nicht gibt, der uns nicht die Möglichkeit bietet, mit Expertinnen und Experten ausführliche Diskussionen darüber zu führen, ob das wieder ein Husch-Pfusch ist, ob das wieder ein Gesetz ist, das vom Verfassungsgerichtshof aufgehoben werden wird, weil es wieder einmal nicht verfassungskonform ist, ob diese Regelungen überhaupt dazu angetan sind, die Zukunft der Gesundheitsversorgung zu sichern. Ich finde diese Ihre Vorgangsweise empörend und möchte sie wirklich mit aller Entschiedenheit zurückweisen.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.kinesic5">
+               <desc>Beifall bei der SPÖ und den Grünen.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note25">
+               <time when="2004-07-07T16:54:00+02:00">16:54</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note26">Präsident Dr. Andreas Khol</note>
+            <u who="#PAD_00799" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e903" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e343">Nächster Redner ist Herr Abgeordneter Scheibner. 5 Minuten Redezeit. – Bitte, Sie sind am Wort, Herr Klubobmann.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note27">
+               <time when="2004-07-07T16:54:00+02:00">16:54</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note28">Abgeordneter Herbert Scheibner(Freiheitliche)</note>
+            <u who="#PAD_01604" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e921" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e352">Herr Präsident! Meine Damen und Herren! Frau Kollegin Silhavy, „undemokratisch“ ist diese Vorgangsweise nicht <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e926">Rufe bei der SPÖ:Doch! Doch!</note> , denn sie ist in der Geschäftsordnung so vorgesehen. Eigenartig ist sie, das gebe ich zu. Auch ich hätte mir eine andere Vorgangsweise für diese Materie gewünscht, auch eine umfassende Behandlung im Ausschuss. <pb n="8"/>
+            Wir haben nur leider wieder einmal eine Situation wie so oft bei Sitzungen vor der Sommerpause ... <vocal type="interruption" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.vocal2">
+                     <desc>Zwischenruf des Abg. Dr. Pirklhuber.</desc>
+                  </vocal>
+            – Hören Sie vielleicht einmal zu, Sie können sich ja dann auch zu Wort melden – wenn ich ohnedies bereits zugestehe, dass diese Vorgangsweise auch für mich keine glückliche und keine günstige ist. Aber, meine Damen und Herren, vor allem von der Sozialdemokratie, Sie werden sich daran erinnern, dass wir eigentlich immer in den letzten Jahren hier solche eigenartigen Zustände gehabt haben – egal, welche Bundesregierung am Werk war, egal, wie sie zusammengesetzt war: Alles musste noch vor der Sommerpause beschlossen werden. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e948">Abg. Öllinger: So nicht!</note>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e961">Abg. Schieder: In der Zuweisungssitzung nicht!</note>Wir hatten damals, Herr Kollege Schieder, oft noch in zweiter Lesung solche Abänderungsanträge, die von niemandem mehr gelesen werden konnten. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e977">Abg. Schieder: Einmal! In der Geschichte einmal!</note> Wenigstens geben Sie´s zu. Wir hatten x-mal Tagesordnungen, die uns bis in die frühen Morgenstunden hier im Hohen Haus beschäftigt haben. Ich sage Ihnen, wir haben auch voriges Jahr noch Situationen gehabt, die nicht dem entsprochen haben, was wir uns vorgestellt haben. Wir haben weitestgehend versucht, das abzuändern. In diesem Fall, bei dieser Fristsetzung ist das leider nicht gelungen, weil wir bis zum Schluss – das sage ich hier ganz offen – Verhandlungen geführt haben, etwa was die Bauern-Sozialversicherung betrifft, weil es gerade für uns als Freiheitliche wichtig gewesen ist, gleichzeitig sicherzustellen, dass die geplante Zusammenlegung der Sozialversicherung der Bauern mit der Sozialversicherungsanstalt der gewerblichen Wirtschaft fixiert wird und wirklich auch kommen wird, und zwar in einem überschaubaren Zeitraum. <kinesic type="applause" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.kinesic6">
+                     <desc>Beifall bei den Freiheitlichen.</desc>
+                  </kinesic>
+            Es war auch notwendig – und das ist auch sehr knapp gekommen –, die Neuregelung der Ausgleichsfonds entsprechend darzustellen. Deshalb diese Sondersituation. Ich sage noch einmal: Ich bin nicht glücklich mit dieser Vorgangsweise, und wir werden alle, die Regierungsparteien in erster Linie, daran zu arbeiten haben, dass sich so etwas in Zukunft nicht wiederholt.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.kinesic7">
+               <desc>Beifall bei den Freiheitlichen und bei Abgeordneten der ÖVP.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note33">
+               <time when="2004-07-07T16:56:00+02:00">16:56</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note34">Präsident Dr. Andreas Khol</note>
+            <u who="#PAD_00799" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e1010" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e385">Letzter Redner ist Herr Abgeordneter Dr. Van der Bellen. 5 Minuten Redezeit. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note35">
+               <time when="2004-07-07T16:57:00+02:00">16:57</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note36">Abgeordneter Dr. Alexander Van der Bellen(Grüne)</note>
+            <u who="#PAD_02856" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e1028" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e393">Herr Kollege Scheibner, immerhin hat man auf Grund Ihrer Ausführungen den Eindruck bekommen, dass Sie dieses Procedere nicht nur merkwürdig finden, sondern dass Sie deshalb auch ein schlechtes Gewissen haben. Meine Damen und Herren von den Regierungsfraktionen, ich sage Ihnen ganz offen: Ich finde das nicht merkwürdig, was hier passiert ist, sondern ich finde das schlicht und ergreifend skandalös. <kinesic type="applause" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.kinesic8">
+                     <desc>Beifall bei den Grünen und bei Abgeordneten der SPÖ.</desc>
+                  </kinesic>
+            Dieser Vorwurf richtet sich im Wesentlichen an die ÖVP und nicht an die FPÖ. Warum? Kollege Tancsits geht hier heraus und erzählt uns salbungsvoll irgendetwas von einem „Paket“, das hier vorliegt. Wir haben weder ein Deckblatt gesehen, wie es Kollege Böhmdorfer neulich so treffend geschildert hat, noch ein „Paket“, sondern gar schlicht gar nichts! Kollege Öllinger hat durch seinen akribisch-detektivischen Ehrgeiz vor zehn Minuten Erfolg gehabt und sich die acht Seiten Gesetzestext – das ist offenbar das „Paket“ – besorgen können. Ich bin überzeugt davon, dass 175 Abgeordnete von den 183 keinen <pb n="9"/>
+            blassen Schimmer haben, was in diesem „Paket“ drinnen ist. Aber Kollege Tancsits geht hier heraus und sagt, das ist ein ganz tolles Paket, und das müssen wir am Freitag beschließen. – Ich finde, das ist eine Unverschämtheit, Herr Kollege Molterer! Ich finde das skandalös! <kinesic type="applause" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.kinesic9">
+                     <desc>Beifall bei den Grünen und der SPÖ.</desc>
+                  </kinesic>
+            Kollege Donabauer, auch von der ÖVP, in der gleichen Tonlage: eine ganz wichtige Gesetzesmaterie. Und dann versucht er, uns noch einzureden, dass das ohnedies bereits akkordiert worden sei, gestern, wenn ich mich nicht irre. – Halten Sie uns für blöd?! Jetzt ist es 16.58 Uhr, und zwischen 16.20 Uhr und 16.25 Uhr dürfte meiner Beobachtung nach dieses „Paket“ oben beim Präsidium eingelangt sein. Warum so spät? Kollege Scheibner sagt es ja ganz offen, und da gibt es ja auch nichts zu verheimlichen: weil Sie sich früher nicht einig geworden sind! Das nennen Sie Parlamentarismus?! Wofür haben wir denn einen Ausschuss? Sie bringen am Mittwoch Abend einen Fristsetzungsantrag, einen inhaltlichen Antrag ein, der übermorgen beschlossen werden soll! Na schaffen wir doch die Ausschüsse gleich ab! Ist das Ihre Philosophie? <vocal type="interruption" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.vocal3">
+                     <desc>Zwischenruf der Abg. Dr. Brinek.</desc>
+                  </vocal>
+            – Ah, das geht rechtlich nicht. Aber das, was Sie heute machen, das geht rechtlich. Und das ist ja nicht der erste Fall. In der vorigen Sitzung, in der 71. Sitzung des Nationalrates, hatten wir einen genau analogen Fall, nämlich die KommAustria-Novelle, 430/A. Ich lese Ihnen einmal etwas vor. Ich habe gestern an die Kollegen Molterer und Scheibner einen Brief geschrieben. In der Präsidialkonferenz wurde das besprochen, und dazu gibt es ein Protokoll. Und solange es gegen das Protokoll keinen Einspruch gibt, halte ich mich an die Richtigkeit dieses Protokolls. In diesem Protokoll der Präsidialkonferenz steht Folgendes – ich zitiere –: „Der Antrag 430/A (Mediengesetze) wird für den Fall seiner allfälligen rechtzeitigen Erledigung in einer Sitzung des Verfassungsausschusses als Punkt 1 auf die Tagesordnung gestellt werden, wobei der Präsident dafür eintritt, dass derart wichtige Anträge im Ausschuss vorberaten werden sollen.“ Doch was machen Sie? – Es gibt entgegen diesem Präsidialprotokoll keinen Verfassungsausschuss! Na, macht ja nichts, meinen Sie vielleicht, obwohl es heißt, dass der Präsident dafür eingetreten ist, dass derart wichtige Anträge im Ausschuss vorberaten werden sollen. – Na soll er sich „brausen gehen“, der Herr Präsident? <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e1063">Abg. Mag. Molterer: Sie kennen anscheinend meine Protokollergänzung nicht!</note> Ich nehme das zur Kenntnis, aber ich warne Sie, meine Kollegen Molterer und Scheibner: Die Geschäftsordnung gibt auch der Opposition gewisse Rechte, und wenn Sie es darauf anlegen, die Präsidiale zu einem „Schießbudentreffen“ zu degradieren und in dieser Form fortzufahren, dann werden auch wir uns zu überlegen haben, in welcher Form wir das unterlaufen – aber nicht aus Spaß, sondern weil wir überzeugte Parlamentarier sind! – Danke schön.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.kinesic10">
+               <desc>Lebhafter Beifall bei den Grünen und der SPÖ.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note38">
+               <time when="2004-07-07T17:01:00+02:00">17:01</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note39">Präsident Dr. Andreas Khol</note>
+            <u who="#PAD_00799" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e1093" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e422">Herr Kollege Van der Bellen, Sie haben mich richtig zitiert. Es hat allerdings nach dieser Stellungnahme, die protokolliert wurde, Klubobmann Molterer das Wort ergriffen und gesagt, das schließe geschäftsordnungsmäßige andere parlamentarische Mittel nicht aus. Und es haben alle Anwesenden in der Präsidialkonferenz genau verstanden, was das heißt. Ich habe das nicht protokolliert, und Klubobmann Molterer hat dann eine Protokollergänzung, in welcher genau das drinnen stand, in Umlauf gebracht – vorgestern, glaube ich –, und diese habe ich allen Fraktionen zustellen lassen. – Das nur, damit der Sachverhalt, den ich vom Präsidium her nicht bewerten möchte, vollständig dargestellt ist. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e1110">Abg. Schieder: Die Schande bleibt!</note>
+                  <vocal type="laughter" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.vocal4">
+                     <desc>Ironische Heiterkeit bei der ÖVP.</desc>
+                  </vocal>
+                  <pb n="10"/>
+            Zum Wort ist niemand mehr gemeldet. Die Debatte ist geschlossen. Wir kommen nun zur Abstimmung über den Antrag der Abgeordneten Mag. Tancsits, Dolinschek, Kolleginnen und Kollegen, dem Ausschuss für Arbeit und Soziales zur Berichterstattung über den Antrag 434/A betreffend ein Sozialrechts-Änderungsgesetz 2004 eine Frist bis 8. Juli 2004 zu setzen. Ich bitte jene Damen und Herren, die für diesen Fristsetzungsantrag sind, um ein Zeichen der Zustimmung. – Der Antrag findet die Mehrheit und ist daher angenommen. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e1137">Rufe bei der SPÖ:Eine Schande!</note> Damit ist auch die Tagesordnung der Zuweisungssitzung erledigt. Ich danke dem Hohen Haus dafür, dass diese sehr schwierige Sitzung heute in einer würdigen und für den Parlamentarismus sicher exemplarischen Weise abgelaufen ist. Die nächste Sitzung des Nationalrates berufe ich für Freitag, den 9. Juli 2004, 9 Uhr, ein. Die Tagesordnung wird im Wege der Klubs zugestellt werden. Diese Sitzung wird mit einer Fragestunde beginnen. Mitteilung des Präsidenten betreffend Bundesversammlung sowie Gemeinsame Trauersitzung</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note42">Präsident Dr. Andreas Khol</note>
+            <u who="#PAD_00799" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d7e1167" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e437">Meine Damen und Herren! Morgen wird um 10.15 Uhr im Historischen Sitzungssaal die Angelobung des neu gewählten Bundespräsidenten Dr. Heinz Fischer stattfinden. Wir haben dazu einen unerwarteten Besucherandrang von über 1 000 Teilnehmern, und ich empfehle Ihnen, rechtzeitig, also schon etwas früher, im Hohen Haus zu sein.</seg>
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e439">Um 11 Uhr findet im Anschluss an die Angelobung des neu gewählten Bundespräsidenten eine Gemeinsame Trauersitzung des Nationalrates und des Bundesrates statt, in der wir des verstorbenen Bundespräsidenten Dr. Thomas Klestil gedenken werden.</seg>
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e441">Dort werden das Wort ergreifen nach dem den Vorsitz führenden Nationalratspräsidenten die Präsidentin des Bundesrates, dann Bundeskanzler Wolfgang Schüssel, dann – über Wunsch der Familie – Kardinal Schönborn und dann der neu gewählte Bundespräsident. Das Ganze wird gegen 12 Uhr zu Ende sein.</seg>
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e443">Im Anschluss daran haben die Mitglieder des Nationalrates und des Bundesrates die Möglichkeit – die Präsidialkonferenz wird von dieser Möglichkeit geschlossen Gebrauch machen –, dem in der Hofburg-Kapelle aufgebahrten verstorbenen Bundespräsident Dr. Thomas Klestil die letzte Ehre zu erweisen.</seg>
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e445">Die Flaggenparade beginnt um 15 Uhr, sie ist auf das Minimale eingeschränkt und wird nur 10 Minuten dauern.</seg>
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e447">Das Begräbnis von Bundespräsident Dr. Thomas Klestil ist am Samstag um 11 Uhr; es beginnt mit einem Requiem im Stephansdom. Es wird zwei Stunden dauern, und</seg>
+               <pb n="11"/>
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e450">dann ist die Einsegnung. Das Ganze wird sich wahrscheinlich den ganzen Nachmittag über hinziehen, einschließlich der Beisetzung in der Präsidentengruft am Wiener Zentralfriedhof. Anschließend wird es dann auch noch ein weiteres Ereignis, glaube ich, geben.</seg>
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e452">Meine Damen und Herren! Sie werden das alles genauestens in schriftlicher Form erhalten. Ich wollte nur jetzt schon das Hohe Haus darüber ausführlich und umfangreich informieren, damit Sie ihre Zeiteinteilung treffen können.</seg>
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e454">Bevor ich die Sitzung nun endgültig schließe, teile ich mit, dass gleich im Anschluss an diese Sitzung der Ständige Unterausschuss des Hauptausschusses im Lokal VI zusammentreten wird.</seg>
+               <seg xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072_d2e456">Die Sitzung ist geschlossen.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2004-07-07-022-XXII-NRSITZ-00072.note43">Schluss der Sitzung:<time when="2004-07-07T17:05:00+02:00">17:05</time>Uhr</note>
+         </div>
+      </body>
+   </text>
+</TEI>

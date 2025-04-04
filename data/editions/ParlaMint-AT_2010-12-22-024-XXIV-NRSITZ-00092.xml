@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" ana="#parla.sitting #reference" xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092.xml" xml:base="https://parlamint-at.acdh.oeaw.ac.at" prev="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2010-12-21-024-XXIV-NRSITZ-00091.xml" next="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2011-01-20-024-XXIV-NRSITZ-00093.xml">
+   <teiHeader xml:lang="en">
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="de">Österreichisches Parlamentskorpus ParlaMint-AT, Stenographische Protokolle der Plenarsitzungen des Österreichischen Nationalrats, XXIV. Gesetzgebungsperiode [ParlaMint]</title>
+            <title type="sub" xml:lang="de">92. Sitzung des Nationalrates der Republik Österreich, XXIV. Gesetzgebungsperiode, Mittwoch, 22. Dezember 2010</title>
+            <title type="main" xml:lang="en">Austrian parliamentary corpus ParlaMint-AT, Shorthand records of the National Council of the Austrian Parliament, Legislative period XXIV [ParlaMint]</title>
+            <title type="sub" xml:lang="en">Sitting Number 92, Legislative period XXIV, Wednesday, 22. December 2010</title>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.sitting" n="92">92. Sitzung</meeting>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.term #NR.XXIV" n="24">XXIV. Gesetzgebungsperiode</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.sitting" n="92">Sitting 92</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.term #NR.XXIV" n="24">Legislative period XXIV</meeting>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0002-8111-5584">Hannes Pirker</persName>
+               <persName ref="https://orcid.org/0000-0003-2436-0361">Daniel Schopper</persName>
+               <persName ref="https://orcid.org/0000-0002-1631-4560">Tanja Wissik</persName>
+               <resp xml:lang="de">Projektplanung und Methode</resp>
+               <resp xml:lang="en">Project set-up and methodology</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hannes Pirker</persName>
+               <resp xml:lang="de">Datenbeschaffung, Korpuskodierung in TEI und automatische linguistische Annotation</resp>
+               <resp xml:lang="en">Data retrieval, TEI corpus encoding and automatic linguistic annotation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Schopper</persName>
+               <resp xml:lang="de">XSLT Transformationen</resp>
+               <resp xml:lang="en">XSLT transformations</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Martin Kirnbauer</persName>
+               <resp xml:lang="de">Einige der manuellen Korrekturen</resp>
+               <resp xml:lang="en">Some of the manual curation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Tanja Wissik</persName>
+               <resp xml:lang="de">Metadaten und Übersetzung</resp>
+               <resp xml:lang="en">Metadata and translation</resp>
+            </respStmt>
+            <funder>
+               <orgName xml:lang="de">CLARIN-ERIC</orgName>
+               <orgName xml:lang="en">CLARIN-ERIC (Common Language Resources and Technology Infrastructure—European Research Infrastructure Consortium)</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </funder>
+            <funder>
+               <orgName xml:lang="de">ÖAW (Österreichische Akademie der Wissenschaften)</orgName>
+               <orgName xml:lang="en">ÖAW (Austrian Academy of Sciences)</orgName>
+               <ref target="https://www.oeaw.ac.at/">www.oeaw.ac.at</ref>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>4.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="4" xml:lang="de">4 Äußerungen</measure>
+            <measure unit="speeches" quantity="4" xml:lang="en">4 speeches</measure>
+            <measure unit="words" quantity="303" xml:lang="de">303 Wörter</measure>
+            <measure unit="words" quantity="303" xml:lang="en">303 words</measure>
+         </extent>
+         <publicationStmt>
+            <publisher>
+               <orgName xml:lang="de">Die CLARIN Forschungsinfrastruktur</orgName>
+               <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </publisher>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/1912</idno>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="de">Dieses Werk ist lizensiert unter der <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz (CC BY 4.0)</ref>.</p>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+            </availability>
+            <date when="2024-05-14">2024-05-14</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main" xml:lang="de">Stenographische Protokolle der Plenarsitzungen des Nationalrats der Republik Österreich</title>
+               <title type="sub" xml:lang="de">Stenographisches Protokoll, 92. Sitzung des Nationalrates der Republik Österreich, XXIV. Gesetzgebungsperiode, Mittwoch, 22. Dezember 2010</title>
+               <title type="main" xml:lang="en">Shorthand records of the plenary sittings of the National Council of the Austrian parliament</title>
+               <title type="sub" xml:lang="en">Shorthand record, Sitting Number 92, Legislative period XXIV, Wednesday, 22. December 2010</title>
+               <publisher>Parlamentsdirektion</publisher>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/PAKT/VHG/XXIV/NRSITZ/NRSITZ_00092/fnameorig_208677.html</idno>
+               <date when="2010-12-22">2010-12-22</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p xml:lang="en"><ref target="https://www.clarin.eu/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://clarin-eric.github.io/ParlaMint/">ParlaMint encoding guidelines</ref>, covering the period from 2015 to mid-2022; (2) add linguistic annotations to the corpora and machine-translate them to English; (3) make the corpora available through concordancers; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.</p>
+            <p xml:lang="de"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+            </p>
+         </projectDesc>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="desc" occurs="7"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="kinesic" occurs="3"/>
+               <tagUsage gi="note" occurs="12"/>
+               <tagUsage gi="pb" occurs="2"/>
+               <tagUsage gi="seg" occurs="8"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="time" occurs="6"/>
+               <tagUsage gi="u" occurs="4"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <name type="city" xml:lang="de">Wien</name>
+               <name type="city" xml:lang="en">Vienna</name>
+               <name type="country" key="AT" xml:lang="en">Austria</name>
+               <name type="country" key="AT" xml:lang="de">Österreich</name>
+               <date ana="#parla.sitting" when="2010-12-22">2010-12-22</date>
+            </setting>
+         </settingDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2022-12-13">
+            <name>Hannes Pirker</name> : Converted from source HTML to TEI.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text ana="#reference">
+      <body>
+         <div xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092_d2e178" type="debateSection">
+            <gap reason="editorial" xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092.gap1">
+               <desc xml:lang="en">Frontmatters and table of content removed</desc>
+               <desc xml:lang="de">Titelseite und Inhaltsangabe entfernt</desc>
+            </gap>
+            <pb n="6"/>
+            <note type="time" xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092.note1">
+               <time when="2010-12-22T19:10:05+01:00">19:10:05</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092.note2">Beginn der Sitzung:<time when="2010-12-22T19:10:00+01:00">19:10</time>Uhr</note>
+            <note type="chairpersons" xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092.note3">Präsidentin Mag. Barbara Prammer</note>
+            <note type="speaker" xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092.note4">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092_d7e1115" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092_d2e198">Ich eröffne die 92. Sitzung des Nationalrates.</seg>
+               <seg xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092_d2e200">Als verhindert gemeldet sind die Abgeordneten Katzian, Dr. Schüssel und Ing. Hofer.</seg>
+               <note type="time" xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092.note5">
+                  <time when="2010-12-22T19:10:10+01:00">19:10:10</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092_d2e205">Einlauf und Zuweisungen</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092.note6">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092_d7e1146" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092_d2e210">Hinsichtlich der eingelangten Verhandlungsgegenstände und deren Zuweisungen verweise ich gemäß § 23 Abs. 4 der Geschäftsordnung auf die im Sitzungssaal verteilte Mitteilung.</seg>
+               <seg xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092_d2e212">Die schriftliche Mitteilung hat folgenden Wortlaut:</seg>
+               <gap reason="editorial" xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092.gap2">
+                  <desc xml:lang="en">Quoted printed matter omited</desc>
+                  <desc xml:lang="de">Zitierte Druckfassung entfernt</desc>
+               </gap>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092.note7">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092_d7e1458" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092_d2e222">Die nächste Sitzung des Nationalrates, die für Donnerstag, den 20. Jänner 2011, in Aussicht genommen ist, wird auf schriftlichem Weg einberufen werden.</seg>
+               <note type="time" xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092.note8">
+                  <time when="2010-12-22T19:10:30+01:00">19:10:30</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092_d2e227">Schlussworte der Präsidentin</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092.note9">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092_d7e1482" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092_d2e233">Meine Damen und Herren, Sie wissen, was an dieser Stelle kommt. Ich kann Ihnen versprechen, ich mache es heute ganz kurz. Ich habe es letztes Mal schon kurz gemacht, ich mache es heute auch kurz. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092_d7e1488">Rufe bei ÖVP und BZÖ:Frohe Weihnachten!</note> Zwei Dinge: Erstens – und ich glaube, da spreche ich im Namen von Ihnen allen –: Es ist durchaus Zeit und Anlass, uns herzlich bei den Mitarbeiterinnen und Mitarbeitern der Parlamentsdirektion und der Fraktionen zu bedanken. <kinesic type="applause" xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092.kinesic1">
+                     <desc>Allgemeiner Beifall.</desc>
+                  </kinesic>
+            In gleicher Weise bedanke ich mich auch in Ihrem Namen bei den Mitarbeiterinnen und Mitarbeitern der Klubs und den parlamentarischen Mitarbeiterinnen und Mitarbeitern. Sie haben im Jahr 2010 gute Arbeit geleistet. <kinesic type="applause" xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092.kinesic2">
+                     <desc>Allgemeiner Beifall.</desc>
+                  </kinesic>
+            Die ansonsten übliche Statistik wird logischerweise von mir nicht dargebracht. Ich mache darauf aufmerksam, dass im neuen Jahr, im Jänner – wie bereits dieses Jahr –, der Jahresbericht 2010 kommen wird, in dem auch die Statistik beinhaltet sein wird. Ich darf Ihnen auf diesem Weg noch schöne Feiertage, einen guten Rutsch ins neue Jahr und ein weiteres gutes – hoffentlich gutes – Zusammenarbeiten im neuen Jahr 2011 wünschen. Alles Gute! Vielen Dank an die Mitglieder der Präsidialkonferenz! <kinesic type="applause" xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092.kinesic3">
+                     <desc>Allgemeiner Beifall.</desc>
+                  </kinesic>
+            Meine Damen und Herren, ein letztes Wort: Herzlichen Dank auch für die Kooperation, was die Bundesregierung angeht! Es ist so selten, dass bei Schluss einer Sitzung die Mitglieder der Bundesregierung anwesend sind, sodass ich mich natürlich an dieser Stelle auch bei Ihnen sehr herzlich bedanke. <pb n="9"/>
+            Die Sitzung ist geschlossen.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092.note11">
+               <time when="2010-12-22T19:12:44+01:00">19:12:44</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2010-12-22-024-XXIV-NRSITZ-00092.note12">Schluss der Sitzung:<time when="2010-12-22T19:13:00+01:00">19:13</time>Uhr</note>
+         </div>
+      </body>
+   </text>
+</TEI>

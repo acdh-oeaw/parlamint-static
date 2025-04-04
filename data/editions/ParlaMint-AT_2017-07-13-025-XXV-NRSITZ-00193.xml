@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" ana="#parla.sitting #reference" xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193.xml" xml:base="https://parlamint-at.acdh.oeaw.ac.at" prev="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00192.xml" next="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2017-09-20-025-XXV-NRSITZ-00194.xml">
+   <teiHeader xml:lang="en">
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="de">Österreichisches Parlamentskorpus ParlaMint-AT, Stenographische Protokolle der Plenarsitzungen des Österreichischen Nationalrats, XXV. Gesetzgebungsperiode [ParlaMint]</title>
+            <title type="sub" xml:lang="de">193. Sitzung des Nationalrates der Republik Österreich, XXV. Gesetzgebungsperiode, Donnerstag, 13. Juli 2017</title>
+            <title type="main" xml:lang="en">Austrian parliamentary corpus ParlaMint-AT, Shorthand records of the National Council of the Austrian Parliament, Legislative period XXV [ParlaMint]</title>
+            <title type="sub" xml:lang="en">Sitting Number 193, Legislative period XXV, Thursday, 13. July 2017</title>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.sitting" n="193">193. Sitzung</meeting>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.term #NR.XXV" n="25">XXV. Gesetzgebungsperiode</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.sitting" n="193">Sitting 193</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.term #NR.XXV" n="25">Legislative period XXV</meeting>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0002-8111-5584">Hannes Pirker</persName>
+               <persName ref="https://orcid.org/0000-0003-2436-0361">Daniel Schopper</persName>
+               <persName ref="https://orcid.org/0000-0002-1631-4560">Tanja Wissik</persName>
+               <resp xml:lang="de">Projektplanung und Methode</resp>
+               <resp xml:lang="en">Project set-up and methodology</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hannes Pirker</persName>
+               <resp xml:lang="de">Datenbeschaffung, Korpuskodierung in TEI und automatische linguistische Annotation</resp>
+               <resp xml:lang="en">Data retrieval, TEI corpus encoding and automatic linguistic annotation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Schopper</persName>
+               <resp xml:lang="de">XSLT Transformationen</resp>
+               <resp xml:lang="en">XSLT transformations</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Martin Kirnbauer</persName>
+               <resp xml:lang="de">Einige der manuellen Korrekturen</resp>
+               <resp xml:lang="en">Some of the manual curation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Tanja Wissik</persName>
+               <resp xml:lang="de">Metadaten und Übersetzung</resp>
+               <resp xml:lang="en">Metadata and translation</resp>
+            </respStmt>
+            <funder>
+               <orgName xml:lang="de">CLARIN-ERIC</orgName>
+               <orgName xml:lang="en">CLARIN-ERIC (Common Language Resources and Technology Infrastructure—European Research Infrastructure Consortium)</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </funder>
+            <funder>
+               <orgName xml:lang="de">ÖAW (Österreichische Akademie der Wissenschaften)</orgName>
+               <orgName xml:lang="en">ÖAW (Austrian Academy of Sciences)</orgName>
+               <ref target="https://www.oeaw.ac.at/">www.oeaw.ac.at</ref>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>4.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="4" xml:lang="de">4 Äußerungen</measure>
+            <measure unit="speeches" quantity="4" xml:lang="en">4 speeches</measure>
+            <measure unit="words" quantity="1063" xml:lang="de">1,063 Wörter</measure>
+            <measure unit="words" quantity="1063" xml:lang="en">1,063 words</measure>
+         </extent>
+         <publicationStmt>
+            <publisher>
+               <orgName xml:lang="de">Die CLARIN Forschungsinfrastruktur</orgName>
+               <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </publisher>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/1912</idno>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="de">Dieses Werk ist lizensiert unter der <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz (CC BY 4.0)</ref>.</p>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+            </availability>
+            <date when="2024-05-14">2024-05-14</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main" xml:lang="de">Stenographische Protokolle der Plenarsitzungen des Nationalrats der Republik Österreich</title>
+               <title type="sub" xml:lang="de">Stenographisches Protokoll, 193. Sitzung des Nationalrates der Republik Österreich, XXV. Gesetzgebungsperiode, Donnerstag, 13. Juli 2017</title>
+               <title type="main" xml:lang="en">Shorthand records of the plenary sittings of the National Council of the Austrian parliament</title>
+               <title type="sub" xml:lang="en">Shorthand record, Sitting Number 193, Legislative period XXV, Thursday, 13. July 2017</title>
+               <publisher>Parlamentsdirektion</publisher>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/PAKT/VHG/XXV/NRSITZ/NRSITZ_00193/fnameorig_676231.html</idno>
+               <date when="2017-07-13">2017-07-13</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p xml:lang="en"><ref target="https://www.clarin.eu/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://clarin-eric.github.io/ParlaMint/">ParlaMint encoding guidelines</ref>, covering the period from 2015 to mid-2022; (2) add linguistic annotations to the corpora and machine-translate them to English; (3) make the corpora available through concordancers; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.</p>
+            <p xml:lang="de"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+            </p>
+         </projectDesc>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="desc" occurs="8"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="kinesic" occurs="4"/>
+               <tagUsage gi="note" occurs="13"/>
+               <tagUsage gi="pb" occurs="2"/>
+               <tagUsage gi="seg" occurs="27"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="time" occurs="8"/>
+               <tagUsage gi="u" occurs="4"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <name type="city" xml:lang="de">Wien</name>
+               <name type="city" xml:lang="en">Vienna</name>
+               <name type="country" key="AT" xml:lang="en">Austria</name>
+               <name type="country" key="AT" xml:lang="de">Österreich</name>
+               <date ana="#parla.sitting" when="2017-07-13">2017-07-13</date>
+            </setting>
+         </settingDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2022-12-13">
+            <name>Hannes Pirker</name> : Converted from source HTML to TEI.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text ana="#reference">
+      <body>
+         <div xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e178" type="debateSection">
+            <gap reason="editorial" xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193.gap1">
+               <desc xml:lang="en">Frontmatters and table of content removed</desc>
+               <desc xml:lang="de">Titelseite und Inhaltsangabe entfernt</desc>
+            </gap>
+            <note type="time" xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193.note1">
+               <time when="2017-07-13T13:13:05+02:00">13:13:05</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193.note2">Beginn der Sitzung:<time when="2017-07-13T13:13:00+02:00">13:13</time>Uhr</note>
+            <note type="chairpersons" xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193.note3">Präsidentin Doris Bures</note>
+            <note type="speaker" xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193.note4">Präsidentin Doris Bures</note>
+            <u who="#PAD_00145" xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d7e395" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e197">Ich eröffne die 193. Sitzung des Nationalrates.</seg>
+               <seg xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e199">Als verhindert gemeldet sind die Abgeordneten Katzian, Mag. Groiß, Haubner, Dr. Töchterle, Jannach, Kitzmüller, Lausch, Neubauer, Brosz, Dr. Lichtenecker, Dr. Walser, Gamon, Schellhorn, Dr. Winter und Doppler.</seg>
+               <note type="time" xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193.note5">
+                  <time when="2017-07-13T13:13:20+02:00">13:13:20</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e204">Einlauf und Zuweisungen</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193.note6">Präsidentin Doris Bures</note>
+            <u who="#PAD_00145" xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d7e426" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e209">Hinsichtlich der eingelangten Verhandlungsgegenstände und deren Zuweisungen verweise ich gemäß § 23 Abs. 4 der Geschäftsordnung auf die im Sitzungssaal verteilte Mitteilung.</seg>
+               <seg xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e211">Die schriftliche Mitteilung hat folgenden Wortlaut:</seg>
+               <gap reason="editorial" xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193.gap2">
+                  <desc xml:lang="en">Quoted printed matter omited</desc>
+                  <desc xml:lang="de">Zitierte Druckfassung entfernt</desc>
+               </gap>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193.note7">Präsidentin Doris Bures</note>
+            <u who="#PAD_00145" xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d7e559" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e221">Weiters weise ich die eingelangten Entschließungsanträge 2281/A(E) der Abgeordneten Peter Wurm, Kolleginnen und Kollegen betreffend Wahlfreiheit für Konsumenten bei Smart Meter dem Ausschuss für Arbeit und Soziales und 2282/A(E) der Abgeordneten Angerer, Kolleginnen und Kollegen betreffend Schülerfreifahrt bei Schulkooperationen dem Unterrichtsausschuss zu.</seg>
+               <note type="time" xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193.note8">
+                  <time when="2017-07-13T13:13:59+02:00">13:13:59</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e226">Schlussansprache der Präsidentin</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193.note9">
+               <time when="2017-07-13T13:14:01+02:00">13:14:01</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193.note10">Präsidentin Doris Bures</note>
+            <u who="#PAD_00145" xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d7e595" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e235">Meine sehr geehrten Damen und Herren! Hohes Haus! Liebe Kolleginnen und Kollegen! Die letzte reguläre Sitzung der Tagung 2016/2017 geht nun zu Ende. Es ist heuer kein Ende wie jedes Jahr vor Beginn einer tagungsfreien Zeit, sondern es ist ein wirklich ganz außergewöhnliches Ende.</seg>
+               <seg xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e237">Sie haben soeben mit weit überwiegender Mehrheit die Weichen für eine vorgezogene Nationalratswahl gestellt. Und: Wir haben uns heute das letzte Mal zu einer regulären Sitzung, bevor der Nationalrat in die Hofburg übersiedelt, hier versammelt.</seg>
+               <seg xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e239">Diese Übersiedlung: Das sind nur 750 Meter Fußweg – und doch ist es ein großer Schritt in der Geschichte der Republik. Zum ersten Mal in der gesamten Geschichte der Republik werden Gesetze im Nationalrat außerhalb dieses Hauses beschlossen!</seg>
+               <seg xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e241">Vor 72 Jahren, am 29. April 1945, spazierte der frisch angelobte Staatskanzler Dr. Karl Renner vom Wiener Rathaus hierher zum Parlamentsgebäude am Ring, wo er die Wiedergeburt der Republik Österreich verkündete. Die Nazis hatten das Parlament als Gauhaus missbraucht. Die Hälfte der Bausubstanz war zerbombt und verbrannt, und die Demokratie war elf lange Jahre ausgeschaltet. Karl Renner versprach, das Parlament „zum herrlichen griechischen Tempel der Freiheit neu einzuweihen“.</seg>
+               <seg xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e243">Ein Schaulustiger sagte damals, 1945, zu einer Zeitung: „ [...] die demokratische Tradition ist natürlich nicht an ein Gebäude gebunden, sie ist vielmehr im Geist und in den Herzen der Menschen verankert.“ – Ich denke, das ist richtig. Es genügt nicht, wenn wir die Demokratie einfach hier in dieses Parlamentsgebäude hineinsetzen. Die Demokratie muss im Geist, in unserem Geist und in unserem Herzen sein, um zu leben.</seg>
+               <seg xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e245">Es stimmt auch: Unser Parlamentarismus ist natürlich nicht an ein Haus ge bunden, aber unser Parlamentarismus ist eng mit diesem Haus hier am Ring ver bunden. Die Demokratie ist auch heute im Geist und im Herzen verankert. Aber so wie jede abstrakte Idee braucht sie auch einen physischen Anker, damit man ihn sehen, hören, riechen, anfassen kann und damit Geist und Herz wissen, dass diese Idee eine reale ist, dass es diese Idee auch gibt. Dieser Anker ist zweifelsohne dieses Parlamentsgebäude und dieses Haus.</seg>
+               <seg xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e247">Es hat sich nach 134 Jahren diese Sanierung auch redlich verdient, denke ich. Bis heute hat es 4 564 Parlamentarierinnen und Parlamentarier ein und aus gehen gesehen. Es hat die Monarchie und den Übergang zur Demokratie gesehen. Es hat den Faschismus überstanden und ist mit der Republik wiederauferstanden. Und heute können wir sagen: Der Parlamentarismus steht besser da als unser Parlamentsgebäude.</seg>
+               <pb n="4"/>
+               <seg xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e250">Meine sehr geehrten Damen und Herren! Im vorangegangenen Parlamentsjahr 2016/ 2017, das wir nun regulär beenden, haben wir 153 Gesetze beschlossen und davon 53, jedes dritte, auch einstimmig. Es sind Gesetze, die den Menschen in unserem Land ganz konkrete Verbesserungen gebracht haben. Hier möchte ich nur drei dieser Gesetze beispielhaft für die vielen erwähnen: Wir haben den Pflegeregress abgeschafft, wir haben Renten für Opfer von Gewalt und Missbrauch in kirchlichen und staatlichen Kinderheimen beschlossen, und wir haben eine Ökostromgesetz-Novelle verabschiedet, damit Österreich auch die Energieversorgung nachhaltig sichern kann.</seg>
+               <seg xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e252">Nun, am Ende dieser Tagung, ziehen wir eben um, damit wir dieses Parlamentsgebäude auch für kommende Generationen bewahren können. Wir verbinden dabei das Notwendige mit dem Nützlichen und machen dieses Haus fit für die Zukunft, hoffentlich für die nächsten 130 Jahre. So ein Jahrhundertvorhaben stellt alle Beteiligten vor ganz, ganz große Herausforderungen. Das gilt auch aktuell für das ausklingende Parlamentsjahr, das, wie gesagt, ein wirklich ereignisreiches war und mit dem neben wichtigen alltäglichen Aufgaben auch allerlei außergewöhnliche, außerordentliche Aufgaben verbunden waren.</seg>
+               <seg xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e254">Ich denke an die Sedisvakanz des Bundespräsidenten und an die Tatsache, dass die drei Präsidenten des Hauses 201 Tage die Geschäfte geführt haben – und auch einen Wahlkampf geführt haben. Ich denke daran, dass wir dann anschließend im historischen Sitzungssaal ein neues Staatsoberhaupt angeloben konnten.</seg>
+               <seg xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e257">Ich denke an den 26. Oktober, unseren Nationalfeiertag, an den Tag der offenen Tür, an dem 15 000 Menschen das österreichische Parlament besucht haben, so viele wie noch niemals zuvor. Und ich denke natürlich an die „Geste der Verantwortung“ gegenüber den ehemaligen Heimkindern.</seg>
+               <seg xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e259">Bei all jenen, die ermöglicht haben, dass wir das so professionell und erfolgreich diskutiert und abgearbeitet haben, bedanke ich mich persönlich sehr, sehr herzlich.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193.kinesic1">
+                  <desc>Allgemeiner Beifall.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e264">Ich bedanke mich bei allen Mitarbeiterinnen und Mitarbeitern der Parlamentsdirektion, ohne die wir unsere Aufgaben nicht erfüllen könnten, stellvertretend für alle beim Parlamentsdirektor Dr. Harald Dossi, beim Vizedirektor Mag. Alexis Wintoniak und bei der Vizedirektorin Dr. Susanne Janistyn-Novák.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193.kinesic2">
+                  <desc>Allgemeiner Beifall.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e269">Ich bedanke mich bei allen Mitarbeiterinnen und Mitarbeitern der sechs im Parlament vertretenen Klubs – so viele Klubs wie noch in keiner Gesetzgebungsperiode zuvor –, auch bei deren Klubdirektoren und Klubobleuten ganz persönlich.</seg>
+               <seg xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e271">Ich bedanke mich hiermit bei den Mitgliedern der Präsidialkonferenz und ganz im Besonderen bei den beiden Kollegen im Präsidium, vielen Dank an den Zweiten Präsidenten des Nationalrates Karlheinz Kopfund an den Dritten Präsidenten des Nationalrates Nobert Hofer. Ich bedanke mich für die gute und kollegiale Zusammenarbeit.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193.kinesic3">
+                  <desc>Allgemeiner Beifall.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e276">Und, meine sehr geehrten Damen und Herren, ich bedanke mich natürlich bei Ihnen allen und Ihren Mitarbeiterinnen und Mitarbeitern.</seg>
+               <seg xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e278">Erlauben Sie mir abschließend, einen Appell an uns alle zu richten, nämlich dass wir trotz der auf uns zukommenden Wahlauseinandersetzung nicht vergessen, dass wir als Abgeordnete des Parlaments Vorbilder in dieser Republik zu sein haben und wir uns diese Vorbildwirkung auch bei jeder Form der Auseinandersetzung immer vor Augen zu führen haben. Wir sind nämlich gefordert, diesen bevorstehenden Wahlkampf als demokratischen Wettstreit der besten Ideen und der besten Konzepte für die Menschen in unserem Land zu sehen und einander mit Anstand, Fairness und Respekt zu begegnen.</seg>
+               <pb n="5"/>
+               <seg xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e282">Meine sehr geehrten Damen und Herren! Ich wünsche Ihnen alles erdenklich Gute und ein paar wenige schöne, erholsame Tage im Sommer. – Alles Gute!</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193.kinesic4">
+                  <desc>Allgemeiner Beifall.</desc>
+               </kinesic>
+               <note type="time" xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193.note11">
+                  <time when="2017-07-13T13:23:00+02:00">13:23</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e290">Die nächste Sitzung des Nationalrates, die für Mittwoch, den 20. September 2017, um 9 Uhr in Aussicht genommen ist, wird auf schriftlichem Wege einberufen werden.</seg>
+               <seg xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193_d2e292">Diese Sitzung ist geschlossen.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193.note12">
+               <time when="2017-07-13T13:23:47+02:00">13:23:47</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2017-07-13-025-XXV-NRSITZ-00193.note13">Schluss der Sitzung:<time when="2017-07-13T13:23:00+02:00">13:23</time>Uhr</note>
+         </div>
+      </body>
+   </text>
+</TEI>

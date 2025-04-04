@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" ana="#parla.sitting #reference" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069.xml" xml:base="https://parlamint-at.acdh.oeaw.ac.at" prev="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00068.xml" next="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2008-09-12-023-XXIII-NRSITZ-00070.xml">
+   <teiHeader xml:lang="en">
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="de">Österreichisches Parlamentskorpus ParlaMint-AT, Stenographische Protokolle der Plenarsitzungen des Österreichischen Nationalrats, XXIII. Gesetzgebungsperiode [ParlaMint]</title>
+            <title type="sub" xml:lang="de">69. Sitzung des Nationalrates der Republik Österreich, XXIII. Gesetzgebungsperiode, Donnerstag, 10. Juli 2008</title>
+            <title type="main" xml:lang="en">Austrian parliamentary corpus ParlaMint-AT, Shorthand records of the National Council of the Austrian Parliament, Legislative period XXIII [ParlaMint]</title>
+            <title type="sub" xml:lang="en">Sitting Number 69, Legislative period XXIII, Thursday, 10. July 2008</title>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.sitting" n="69">69. Sitzung</meeting>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.term #NR.XXIII" n="23">XXIII. Gesetzgebungsperiode</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.sitting" n="69">Sitting 69</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.term #NR.XXIII" n="23">Legislative period XXIII</meeting>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0002-8111-5584">Hannes Pirker</persName>
+               <persName ref="https://orcid.org/0000-0003-2436-0361">Daniel Schopper</persName>
+               <persName ref="https://orcid.org/0000-0002-1631-4560">Tanja Wissik</persName>
+               <resp xml:lang="de">Projektplanung und Methode</resp>
+               <resp xml:lang="en">Project set-up and methodology</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hannes Pirker</persName>
+               <resp xml:lang="de">Datenbeschaffung, Korpuskodierung in TEI und automatische linguistische Annotation</resp>
+               <resp xml:lang="en">Data retrieval, TEI corpus encoding and automatic linguistic annotation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Schopper</persName>
+               <resp xml:lang="de">XSLT Transformationen</resp>
+               <resp xml:lang="en">XSLT transformations</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Martin Kirnbauer</persName>
+               <resp xml:lang="de">Einige der manuellen Korrekturen</resp>
+               <resp xml:lang="en">Some of the manual curation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Tanja Wissik</persName>
+               <resp xml:lang="de">Metadaten und Übersetzung</resp>
+               <resp xml:lang="en">Metadata and translation</resp>
+            </respStmt>
+            <funder>
+               <orgName xml:lang="de">CLARIN-ERIC</orgName>
+               <orgName xml:lang="en">CLARIN-ERIC (Common Language Resources and Technology Infrastructure—European Research Infrastructure Consortium)</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </funder>
+            <funder>
+               <orgName xml:lang="de">ÖAW (Österreichische Akademie der Wissenschaften)</orgName>
+               <orgName xml:lang="en">ÖAW (Austrian Academy of Sciences)</orgName>
+               <ref target="https://www.oeaw.ac.at/">www.oeaw.ac.at</ref>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>4.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="5" xml:lang="de">5 Äußerungen</measure>
+            <measure unit="speeches" quantity="5" xml:lang="en">5 speeches</measure>
+            <measure unit="words" quantity="1367" xml:lang="de">1,367 Wörter</measure>
+            <measure unit="words" quantity="1367" xml:lang="en">1,367 words</measure>
+         </extent>
+         <publicationStmt>
+            <publisher>
+               <orgName xml:lang="de">Die CLARIN Forschungsinfrastruktur</orgName>
+               <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </publisher>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/1912</idno>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="de">Dieses Werk ist lizensiert unter der <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz (CC BY 4.0)</ref>.</p>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+            </availability>
+            <date when="2024-05-14">2024-05-14</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main" xml:lang="de">Stenographische Protokolle der Plenarsitzungen des Nationalrats der Republik Österreich</title>
+               <title type="sub" xml:lang="de">Stenographisches Protokoll, 69. Sitzung des Nationalrates der Republik Österreich, XXIII. Gesetzgebungsperiode, Donnerstag, 10. Juli 2008</title>
+               <title type="main" xml:lang="en">Shorthand records of the plenary sittings of the National Council of the Austrian parliament</title>
+               <title type="sub" xml:lang="en">Shorthand record, Sitting Number 69, Legislative period XXIII, Thursday, 10. July 2008</title>
+               <publisher>Parlamentsdirektion</publisher>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/PAKT/VHG/XXIII/NRSITZ/NRSITZ_00069/fnameorig_143452.html</idno>
+               <date when="2008-07-10">2008-07-10</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p xml:lang="en"><ref target="https://www.clarin.eu/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://clarin-eric.github.io/ParlaMint/">ParlaMint encoding guidelines</ref>, covering the period from 2015 to mid-2022; (2) add linguistic annotations to the corpora and machine-translate them to English; (3) make the corpora available through concordancers; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.</p>
+            <p xml:lang="de"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+            </p>
+         </projectDesc>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="desc" occurs="13"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="kinesic" occurs="9"/>
+               <tagUsage gi="note" occurs="12"/>
+               <tagUsage gi="pb" occurs="3"/>
+               <tagUsage gi="seg" occurs="33"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="time" occurs="6"/>
+               <tagUsage gi="u" occurs="5"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <name type="city" xml:lang="de">Wien</name>
+               <name type="city" xml:lang="en">Vienna</name>
+               <name type="country" key="AT" xml:lang="en">Austria</name>
+               <name type="country" key="AT" xml:lang="de">Österreich</name>
+               <date ana="#parla.sitting" when="2008-07-10">2008-07-10</date>
+            </setting>
+         </settingDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2022-12-13">
+            <name>Hannes Pirker</name> : Converted from source HTML to TEI.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text ana="#reference">
+      <body>
+         <div xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e178" type="debateSection">
+            <gap reason="editorial" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069.gap1">
+               <desc xml:lang="en">Frontmatters and table of content removed</desc>
+               <desc xml:lang="de">Titelseite und Inhaltsangabe entfernt</desc>
+            </gap>
+            <note type="time" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069.note1">Beginn der Sitzung:<time when="2008-07-10T18:59:00+02:00">18:59</time>Uhr</note>
+            <note type="chairpersons" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069.note2">Präsidentin Mag. Barbara Prammer</note>
+            <note type="speaker" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069.note3">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d7e449" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e194">Die Sitzung ist eröffnet.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e196">Als verhindert gemeldet ist Herr Abgeordneter Dobnigg.</seg>
+               <note type="time" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069.note4">
+                  <time when="2008-07-10T18:59:08+02:00">18:59:08</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e201">Einlauf und Zuweisungen</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069.note5">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d7e480" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e206">Hinsichtlich der eingelangten Verhandlungsgegenstände und deren Zuweisungen verweise ich gemäß § 23 Abs. 4 der Geschäftsordnung auf die im Sitzungssaal verteilte Mitteilung.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e208">Die schriftliche Mitteilung hat folgenden Wortlaut:</seg>
+               <gap reason="editorial" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069.gap2">
+                  <desc xml:lang="en">Quoted printed matter omited</desc>
+                  <desc xml:lang="de">Zitierte Druckfassung entfernt</desc>
+               </gap>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069.note6">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d7e716" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e218">Ferner weise ich den Antrag 883/A dem Verkehrsausschuss zu.</seg>
+               <pb n="5"/>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e221">Weiters weise ich den Antrag 884/A dem Finanzausschuss, den Antrag 885/A dem Kulturausschuss, 886/A(E) dem Ausschuss für Konsumentenschutz und den Entschließungsantrag 887/A(E) dem Ausschuss für Arbeit und Soziales zu.</seg>
+               <note type="time" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069.note7">
+                  <time when="2008-07-10T18:59:48+02:00">18:59:48</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e226">Fristsetzungsantrag</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069.note8">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d7e754" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e231">Ich gebe bekannt, dass Herr Abgeordneter Öllinger beantragt hat, dem Ausschuss für Arbeit und Soziales zur Berichterstattung über den Antrag 861/A der Abgeordneten Mag. Christine Lapp, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Bundespflegegeldgesetz geändert wird, eine Frist bis 23.9.2008 zu setzen.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e233">Wir kommen nunmehr zur Abstimmung über diesen Antrag.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e235">Ich bitte jene Damen und Herren, die für diesen Fristsetzungsantrag sind, um ein Zeichen der Zustimmung. – Das ist die Minderheit. Der Antrag ist abgelehnt.</seg>
+               <note type="time" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069.note9">
+                  <time when="2008-07-10T19:00:28+02:00">19:00:28</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e240">Schlussansprache der Präsidentin</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069.note10">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d7e800" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e246">Meine Damen und Herren! Es ist Tradition im Haus, dass von dieser Stelle aus zu Tagungsende der Präsident – seit zwei Jahren die Präsidentin – einige Worte an Sie richtet. Ich kann Ihnen versichern, ich werde es nicht sehr ausführlich tun, aber lassen Sie mich einige Bemerkungen machen.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e248">Zum Ersten, und das ist mir wichtig, auch in der Kürze zu sagen: Es war im letzten Jahr so oft wie wohl noch nie in der Vergangenheit, dass wir uns selber – aber auch viele andere mit uns – beschäftigt haben mit der Art und Weise, wie wir arbeiten, mit dem Arbeitsumfang und vielem mehr.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e250">Ich denke, die Abgeordneten dieses Hauses – und so verstehe ich auch mein Amt – haben ein Recht darauf, sich auch dementsprechend zu präsentieren, ihre Arbeit nicht unter den Scheffel zu stellen, sondern vielmehr alle Unterstützung zu erhalten, die sie brauchen. Und da bemühe ich mich wirklich redlich, und ich denke, Sie genauso. Wir haben vieles zuwege gebracht. Ich möchte nur in Erinnerung rufen, dass wir nunmehr drei Fragestunden hinter uns haben, die wir nach einem neue Modus machen. Dieser findet sich noch nicht in der Geschäftsordnung wieder, aber ich glaube, wir sind auf gutem Weg, einiges an Veränderungen in die Geschäftsordnung, in unseren Ablauf, in unseren Tagesablauf, Wochenablauf, Monatsablauf, hineinzubringen.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e252">Ich würde mir sehr wünschen, dass in der XXIV. Gesetzgebungsperiode vieles von dem, was bereits auf den Weg geschickt wurde, über das schon sehr viele Diskussionen stattgefunden haben, nicht verschütt geht, sondern vielmehr aufgegriffen und zu Ende geführt wird.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e254">Ich bedanke mich an dieser Stelle, weil viele der Diskussionen, wo es darum geht, wie wir unsere Ausschusstermine planen, und um vieles andere mehr, ja in der Präsidiale stattfinden. Ich bedanke mich bei den Mitgliedern der Präsidiale für die gute Zusammenarbeit, in erster Linie beim Zweiten Präsidenten Dr. Michael Spindeleggerund bei der Dritten Präsidentin Dr. Eva Glawischnig-Piesczek. Ich glaube, wir haben uns immer wieder gut ergänzt. Herzlichen Dank dafür.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e256">Ich bedanke mich bei den fünf Klubobleuten. Wir haben in der Präsidiale einen Stil gefunden, wo ich denke, dass am Ende der Diskussionen immer wieder eine gute Entscheidung stattfand.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e258">Ich darf aber noch zwei Bemerkungen machen, bevor ich noch meine Dankesworte anschließe.</seg>
+               <pb n="6"/>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e261">Meine Damen und Herren, wir haben es gemeinsam zustande gebracht, das Haus und Sie, dass wir in dieses Haus ganz unaufgeregt eine Initiative hereingetragen haben, die mittlerweile von Europa groß beachtet wird: die Demokratiewerkstatt. Wir haben den jungen Menschen, nämlich bereits den 16-Jährigen, das Wählen ermöglicht und bereiten sie – wie kaum eine andere Institution – darauf vor. Und ich danke Ihnen für die Kooperation in der Demokratiewerkstatt. Wir haben sie vergangenes Jahr am 25. Oktober eröffnet. Ich kann Ihnen sagen: Wir haben bereits 7 100 Kinder in der „Demokratiewerkstatt“ gehabt.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069.kinesic1">
+                  <desc>Allgemeiner Beifall.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e266">Wir sollten diesen Weg auch in der nächsten Gesetzgebungsperiode fortsetzen. Es liegen auch hier noch viele Verfeinerungs-, Verbesserungsvorschläge vor. Ich glaube, es ist gut investiertes Geld, wenn wir uns im Parlament dieser Demokratiewerkstatt auch in Zukunft annehmen. Und ich bedanke mich sehr herzlich bei den Mitarbeiterinnen und Mitarbeitern dieser Einrichtung, die wirklich sehr Hervorragendes leistet.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e269">Ich darf Ihnen noch ganz kurz berichten: Die Öffnung des Hauses setzt sich weiter fort. Auch da nur ein einziges Highlight: Während viele gejammert und sich auf die EURO gefürchtet haben, hat sich das Parlament aktiv darauf vorbereitet. Wir haben während der drei Wochen der EURO viermal so viele Besucherinnen und Besucher im Rahmen von Führungen gehabt. Das heißt, auch hier hat sich das Engagement gelohnt, das wir gemeinsam dort hineingelegt haben, und die Menschen sind sehr zufrieden wieder hinausgegangen. Ich habe auch sehr nette Briefe erhalten aus Hamburg, aus verschiedensten Gegenden Europas, von Menschen, die sich sehr gefreut haben, dass wir sie so offen empfangen haben. Ich glaube, auch das ist ein gutes Omen und ein gutes Prestige, das wir hier auch herzeigen.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e271">Meine Damen und Herren, ich darf mich abschließend bei den Mitarbeiterinnen und Mitarbeitern des Hauses sehr herzlich bedanken.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069.kinesic2">
+                  <desc>Allgemeiner Beifall.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e276">Ich bedanke mich beim Parlamentsdirektor, bei Herrn Dr. Posch, sehr herzlich für seine Umsicht, manchmal auch Nachsicht. Ich danke für die gute Kooperation; es ist hervorragend, mit ihm zu arbeiten.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069.kinesic3">
+                  <desc>Allgemeiner Beifall.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e281">Ich bedanke mich bei den beiden Vizedirektoren, bei Dr. Klausgraber und Dr. Bauer. Und ich bedanke mich an dieser Stelle bereits doppelt bei den beiden, denn Sie wissen alle, dass beide noch im Laufe dieses Jahres in den Ruhestand treten werden. Wir werden noch genug Gelegenheit im Herbst haben, uns auch dementsprechend noch einmal zu bedanken, aber ich möchte es auch an dieser Stelle tun: Vielen Dank den beiden Herren für ihre langjährige – nicht nur für das letzte Jahr – Arbeit hier im Haus.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069.kinesic4">
+                  <desc>Allgemeiner Beifall.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e286">Damit komme ich nahtlos zu zwei DienstleiterInnen, die ich sehr, sehr schätzen gelernt habe, die Sie auch alle schätzen: Frau Dr. Janistyn und Herrn Mag. Wintoniak, denn die beiden werden in Zukunft die Funktionen der stellvertretenden ParlamentsdirektorInnen innehaben. Als Frau darf ich mich mir erlauben, dazuzusagen: Es wird das erste Mal in der Geschichte dieses Hauses sein, dass wir auch eine Vizedirektorin haben. Auch das ist ein wichtiges Signal, glaube ich.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069.kinesic5">
+                  <desc>Allgemeiner Beifall.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e291">Ich bedanke mich bei den Dienstleitern Dr. Müller, Dr. Wirrer, Dr. Marckhgott und Dr. Siess-Scherz. Mit Frau Dr. Siess-Scherz haben wir im Laufe dieses Jahres die dritte Frau auf der Ebene der Dienstleiter bekommen. Natürlich bedanke ich mich auch bei Frau Dr. Bachmann, mit der wir viel weniger zu tun haben, da sie für den Bundesratsdienst zuständig ist. Aber auch hier bin ich sehr glücklich darüber und auch ein wenig stolz, dass es uns in der Parlamentsdirektion gelungen ist, unter den sieben Dienstleitern drei Frauen zu haben – denn wenn wir es nicht tun, von wem sollten wir es sonst verlangen, Frauenförderung aktiv zu betreiben?</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069.kinesic6">
+                  <desc>Allgemeiner Beifall.</desc>
+               </kinesic>
+               <pb n="7"/>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e298">Ich ersuche alle sieben Dienstleiter und Dienstleiterinnen, unseren Dank weiterzugeben an ihre Mitarbeiterinnen und Mitarbeiter, von den exzellenten Juristinnen und Juristen bis hin zu den Hausarbeiterinnen und Hausarbeitern, die – ich sage es manches Mal – bei Feiern, bei Veranstaltungen, wo es um Auszeichnungen et cetera geht, wirklich oft Brillantes und Unglaubliches leisten müssen, sehr vieles, was die Abgeordneten nicht sehen. Und ich spreche aus eigener Erfahrung; würde ich nicht Präsidentin sein, hätte ich vieles nicht kennen gelernt. Was alles dahintersteckt, dass alles so funktioniert, wie es funktioniert, würden die Abgeordneten nur sehen, wenn es nicht funktionieren würde. Und für diese abwechslungsreiche Tätigkeit, diese große Herausforderung jeder einzelnen Person, nicht nur an einer Stelle zu stehen, sondern an vielen verschiedenen Stellen zu arbeiten und dort immer wieder das Beste zustande zu bringen, dafür gebührt den Mitarbeiterinnen und Mitarbeitern wirklich herzlicher Dank.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069.kinesic7">
+                  <desc>Allgemeiner Beifall.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e303">Meine Damen und Herren, ich bedanke mich bei den Mitarbeiterinnen und Mitarbeitern der Klubs, bei den parlamentarischen Mitarbeiterinnen und Mitarbeitern.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069.kinesic8">
+                  <desc>Allgemeiner Beifall.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e308">Die kommenden Wochen und Monate werden für uns alle sehr intensiv. Ich bin schon gefragt worden: Was werden denn die Abgeordneten in der tagungsfreien Zeit machen? Ich konnte es einfach beantworten: Sie werden sich auf Wahlkampf befinden. Ich hoffe auf eine faire Auseinandersetzung in diesem Wahlkampf. Viele von uns werden sich ja nach diesem Wahlkampf hier herinnen wieder einfinden, und wir sollten uns auch dann noch in die Augen sehen können.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e310">In diesem Sinne alles Gute!</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069.kinesic9">
+                  <desc>Allgemeiner Beifall.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e315">Wir sehen uns am 24. September wieder, denn da findet, nach Beginn der nächsten Tagung, eine weitere Sitzung des Nationalrates statt.</seg>
+               <seg xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069_d2e317">Diese Sitzung ist geschlossen.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069.note11">
+               <time when="2008-07-10T19:10:30+02:00">19:10:30</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2008-07-10-023-XXIII-NRSITZ-00069.note12">Schluss der Sitzung:<time when="2008-07-10T19:10:00+02:00">19:10</time>Uhr</note>
+         </div>
+      </body>
+   </text>
+</TEI>

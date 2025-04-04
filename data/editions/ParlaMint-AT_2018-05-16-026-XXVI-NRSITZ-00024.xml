@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" ana="#parla.sitting #reference" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.xml" xml:base="https://parlamint-at.acdh.oeaw.ac.at" prev="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00023.xml" next="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2018-05-17-026-XXVI-NRSITZ-00025.xml">
+   <teiHeader xml:lang="en">
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="de">Österreichisches Parlamentskorpus ParlaMint-AT, Stenographische Protokolle der Plenarsitzungen des Österreichischen Nationalrats, XXVI. Gesetzgebungsperiode [ParlaMint]</title>
+            <title type="sub" xml:lang="de">24. Sitzung des Nationalrates der Republik Österreich, XXVI. Gesetzgebungsperiode, Mittwoch, 16. Mai 2018</title>
+            <title type="main" xml:lang="en">Austrian parliamentary corpus ParlaMint-AT, Shorthand records of the National Council of the Austrian Parliament, Legislative period XXVI [ParlaMint]</title>
+            <title type="sub" xml:lang="en">Sitting Number 24, Legislative period XXVI, Wednesday, 16. May 2018</title>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.sitting" n="24">24. Sitzung</meeting>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.term #NR.XXVI" n="26">XXVI. Gesetzgebungsperiode</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.sitting" n="24">Sitting 24</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.term #NR.XXVI" n="26">Legislative period XXVI</meeting>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0002-8111-5584">Hannes Pirker</persName>
+               <persName ref="https://orcid.org/0000-0003-2436-0361">Daniel Schopper</persName>
+               <persName ref="https://orcid.org/0000-0002-1631-4560">Tanja Wissik</persName>
+               <resp xml:lang="de">Projektplanung und Methode</resp>
+               <resp xml:lang="en">Project set-up and methodology</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hannes Pirker</persName>
+               <resp xml:lang="de">Datenbeschaffung, Korpuskodierung in TEI und automatische linguistische Annotation</resp>
+               <resp xml:lang="en">Data retrieval, TEI corpus encoding and automatic linguistic annotation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Schopper</persName>
+               <resp xml:lang="de">XSLT Transformationen</resp>
+               <resp xml:lang="en">XSLT transformations</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Martin Kirnbauer</persName>
+               <resp xml:lang="de">Einige der manuellen Korrekturen</resp>
+               <resp xml:lang="en">Some of the manual curation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Tanja Wissik</persName>
+               <resp xml:lang="de">Metadaten und Übersetzung</resp>
+               <resp xml:lang="en">Metadata and translation</resp>
+            </respStmt>
+            <funder>
+               <orgName xml:lang="de">CLARIN-ERIC</orgName>
+               <orgName xml:lang="en">CLARIN-ERIC (Common Language Resources and Technology Infrastructure—European Research Infrastructure Consortium)</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </funder>
+            <funder>
+               <orgName xml:lang="de">ÖAW (Österreichische Akademie der Wissenschaften)</orgName>
+               <orgName xml:lang="en">ÖAW (Austrian Academy of Sciences)</orgName>
+               <ref target="https://www.oeaw.ac.at/">www.oeaw.ac.at</ref>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>4.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="10" xml:lang="de">10 Äußerungen</measure>
+            <measure unit="speeches" quantity="10" xml:lang="en">10 speeches</measure>
+            <measure unit="words" quantity="574" xml:lang="de">574 Wörter</measure>
+            <measure unit="words" quantity="574" xml:lang="en">574 words</measure>
+         </extent>
+         <publicationStmt>
+            <publisher>
+               <orgName xml:lang="de">Die CLARIN Forschungsinfrastruktur</orgName>
+               <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </publisher>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/1912</idno>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="de">Dieses Werk ist lizensiert unter der <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz (CC BY 4.0)</ref>.</p>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+            </availability>
+            <date when="2024-05-14">2024-05-14</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main" xml:lang="de">Stenographische Protokolle der Plenarsitzungen des Nationalrats der Republik Österreich</title>
+               <title type="sub" xml:lang="de">Stenographisches Protokoll, 24. Sitzung des Nationalrates der Republik Österreich, XXVI. Gesetzgebungsperiode, Mittwoch, 16. Mai 2018</title>
+               <title type="main" xml:lang="en">Shorthand records of the plenary sittings of the National Council of the Austrian parliament</title>
+               <title type="sub" xml:lang="en">Shorthand record, Sitting Number 24, Legislative period XXVI, Wednesday, 16. May 2018</title>
+               <publisher>Parlamentsdirektion</publisher>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/PAKT/VHG/XXVI/NRSITZ/NRSITZ_00024/fnameorig_717825.html</idno>
+               <date when="2018-05-16">2018-05-16</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p xml:lang="en"><ref target="https://www.clarin.eu/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://clarin-eric.github.io/ParlaMint/">ParlaMint encoding guidelines</ref>, covering the period from 2015 to mid-2022; (2) add linguistic annotations to the corpora and machine-translate them to English; (3) make the corpora available through concordancers; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.</p>
+            <p xml:lang="de"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+            </p>
+         </projectDesc>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="desc" occurs="11"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="kinesic" occurs="4"/>
+               <tagUsage gi="note" occurs="35"/>
+               <tagUsage gi="pb" occurs="2"/>
+               <tagUsage gi="seg" occurs="16"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="time" occurs="11"/>
+               <tagUsage gi="u" occurs="10"/>
+               <tagUsage gi="vocal" occurs="3"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <name type="city" xml:lang="de">Wien</name>
+               <name type="city" xml:lang="en">Vienna</name>
+               <name type="country" key="AT" xml:lang="en">Austria</name>
+               <name type="country" key="AT" xml:lang="de">Österreich</name>
+               <date ana="#parla.sitting" when="2018-05-16">2018-05-16</date>
+            </setting>
+         </settingDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2022-12-13">
+            <name>Hannes Pirker</name> : Converted from source HTML to TEI.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text ana="#reference">
+      <body>
+         <div xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d2e178" type="debateSection">
+            <gap reason="editorial" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.gap1">
+               <desc xml:lang="en">Frontmatters and table of content removed</desc>
+               <desc xml:lang="de">Titelseite und Inhaltsangabe entfernt</desc>
+            </gap>
+            <note type="time" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.note1">
+               <time when="2018-05-16T21:27:35+02:00">21:27:35</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.note2">Beginn der Sitzung:<time when="2018-05-16T21:27:00+02:00">21:27</time>Uhr</note>
+            <note type="chairpersons" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.note3">Präsident Mag. Wolfgang Sobotka</note>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.note4">Präsident Mag. Wolfgang Sobotka</note>
+            <u who="#PAD_88386" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d7e449" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d2e197">Ich eröffne die 24. Sitzung des Nationalrates.</seg>
+               <seg xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d2e199">Als verhindert gemeldet sind die Abgeordneten Petra Stegerund Josef Schellhorn.</seg>
+               <note type="time" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.note5">
+                  <time when="2018-05-16T21:27:47+02:00">21:27:47</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d2e204">Einlauf und Zuweisungen</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.note6">Präsident Mag. Wolfgang Sobotka</note>
+            <u who="#PAD_88386" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d7e486" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d2e209">Hinsichtlich der eingelangten Verhandlungsgegenstände und deren Zuweisungen verweise ich gemäß § 23 Abs. 4 der Geschäftsordnung auf die im Sitzungssaal verteilte Mitteilung.</seg>
+               <seg xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d2e211">Die schriftliche Mitteilung hat folgenden Wortlaut:</seg>
+               <gap reason="editorial" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.gap2">
+                  <desc xml:lang="en">Quoted printed matter omited</desc>
+                  <desc xml:lang="de">Zitierte Druckfassung entfernt</desc>
+               </gap>
+               <note type="time" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.note7">
+                  <time when="2018-05-16T21:27:56+02:00">21:27:56</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d2e221">Fristsetzungsantrag</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.note8">Präsident Mag. Wolfgang Sobotka</note>
+            <u who="#PAD_88386" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d7e820" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d2e226">Ich teile mit, dass die Abgeordneten Wöginger und Dr. Rosenkranz beantragt haben, dem Ausschuss für Wirtschaft, Industrie und Energie zur Berichterstattung über die Regierungsvorlage: Umfassendes Wirtschafts- und Handelsabkommen (CETA) zwischen der Europäischen Union und ihren Mit- <pb n="6"/>
+            gliedstaaten einerseits und Kanada andererseits samt Gemeinsamer Auslegungserklärung (152 der Beilagen), eine Frist bis zum 13. Juni 2018 zu setzen.</seg>
+            </u>
+            <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d7e827">Ruf bei der SPÖ:Durchpeitschen!</note>
+            <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d7e841">Abg. Schieder: Zur Geschäftsbehandlung!</note>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.note11">Präsident Mag. Wolfgang Sobotka</note>
+            <u who="#PAD_88386" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d7e860" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d2e238">Abgeordneter Schieder meldet sich zur Geschäftsbehandlung zu Wort. – Bitte.</seg>
+            </u>
+            <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d7e865">Rufe bei der FPÖ:Der Herr Klubobmann braucht Aufmerksamkeit! Na dann!</note>
+            <vocal type="interruption" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.vocal1">
+               <desc>Zwischenruf des Abg. Gudenus.</desc>
+            </vocal>
+            <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d7e886">Abg. Schieder: (auf dem Weg zum Rednerpult) Ob es wichtig ist oder nicht, das entscheidet ja nicht der Gudenus!</note>
+            <note type="time" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.note14">
+               <time when="2018-05-16T21:28:30+02:00">21:28:30</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.note15">Abgeordneter Mag. Andreas Schieder (SPÖ)</note>
+            <note type="procedural" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.note16">zur Geschäftsbehandlung</note>
+            <u who="#PAD_35504" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d7e916" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d2e255">Sehr geehrter Herr Präsident! Sehr geehrte Damen und Herren! <vocal type="interruption" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.vocal2">
+                     <desc>Zwischenrufe bei ÖVP und FPÖ.</desc>
+                  </vocal>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d7e927">Ruf:Der Herr Klubobmann braucht Aufmerksamkeit</note>– Von euch an sich nicht, aber ihr braucht nicht immer von hinten reinzubrüllen.</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.note18">Präsident Mag. Wolfgang Sobotka</note>
+            <u who="#PAD_88386" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d7e946" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d2e267">Ich bitte wirklich, dass wir diese letzten Minuten einigermaßen ruhig über die Bühne bringen.</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.note19">Abgeordneter Mag. Andreas Schieder</note>
+            <note type="procedural" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.note20">fortsetzend</note>
+            <u who="#PAD_35504" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d7e961" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d2e274">Das ist, wie ich jetzt in der Mitteilung gesehen habe, eine recht hinterfragenswerte Zuweisungspraxis. Bisher sind alle internationalen Abkommen, die seitens der Europäischen Union – auch mit anderen Staaten – geschlossen worden sind, im Außenpolitischen Ausschuss behandelt worden.</seg>
+               <seg xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d2e276">Ich darf diesbezüglich zum Beispiel auf die Nummer 1458 der Beilagen verweisen; das war im März 2017, da ging es um ein Abkommen über eine Partnerschaft zwischen der Europäischen Union und der Republik Kasachstan. Gleiches Datum mit anderer Nummer, nämlich 1367 der Beilagen: Partnerschaftsabkommen zwischen der Europäischen Union einerseits und Neuseeland andererseits. Ich könnte diese Aufzählung weiterführen.</seg>
+               <seg xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d2e278">Alle diese internationalen Abkommen sind im Außenpolitischen Ausschuss behandelt worden. Ich kann daher nicht nachvollziehen, warum ein Abgehen von dieser Praxis plötzlich und ohne vorherige Absprache in der Präsidiale so vorgenommen wird. Ich würde das erstens gerne wissen und es zweitens gegebenenfalls in der Präsidiale noch einmal nachberaten.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.kinesic1">
+               <desc>Beifall bei SPÖ und Liste Pilz.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.note21">
+               <time when="2018-05-16T21:29:00+02:00">21:29</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.note22">Präsident Mag. Wolfgang Sobotka</note>
+            <u who="#PAD_88386" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d7e994" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d2e289">Zur Geschäftsbehandlung hat sich Herr Abgeordneter Wöginger zu Wort gemeldet. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.note23">
+               <time when="2018-05-16T21:30:03+02:00">21:30:03</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.note24">Abgeordneter August Wöginger (ÖVP)</note>
+            <note type="procedural" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.note25">zur Geschäftsbehandlung</note>
+            <u who="#PAD_14795" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d7e1019" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d2e300">Herr Präsident! Es wurden in der letzten Zeit viele Freihandelsabkommen auch im Wirtschaftsausschuss abgehandelt, einige auch in anderen, das ist korrekt, aber zum Beispiel wurden Doppelbesteuerungsabkommen im Finanzausschuss abgehandelt. Daher gibt es aus meiner Sicht keinen Grund - - <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d7e1027">Abg. Schieder: Es ist kein Doppelbesteuerungsabkommen!</note>– Ich habe ja nur gesagt, dass auch mit anderen Ländern abgeschlossen wird. Wir haben Ihnen zugehört, Herr Kollege Schieder, daher erwarte ich auch von Ihnen, dass jetzt zugehört wird. <kinesic type="applause" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.kinesic2">
+                     <desc>Beifall bei ÖVP und FPÖ.</desc>
+                  </kinesic>
+            Faktum ist, dass <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d7e1046">Abg. Krainer: Äpfel und Birnen darf man nicht vergleichen!</note>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d7e1056">Rufe bei ÖVP und FPÖ:Ruhe!</note>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d7e1067">Rufe:Krainer, heast! Käse-Krainer</note> zahlreiche Freihan- <pb n="7"/>
+            delsabkommen in der Vergangenheit auch im Wirtschaftsausschuss abgehandelt wurden. Daher stehen wir dazu, dass das auch jetzt der Fall sein soll. Dieser Redebeitrag, Herr Kollege Schieder, ist so Kern-los, wie Ihr Redebeitrag am heutigen Morgen war. Er ist unnötig, und der Herr Kollege Kern ist wieder nicht da, auch bei dieser Geschäftsordnungsdebatte. <kinesic type="applause" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.kinesic3">
+                     <desc>Beifall und Bravorufe bei ÖVP und FPÖ.</desc>
+                  </kinesic>
+                  <note type="time" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.note30">
+                     <time when="2018-05-16T21:31:00+02:00">21:31</time>
+                  </note>
+                  <note type="time" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.note31">
+                     <time when="2018-05-16T21:31:06+02:00">21:31:06</time>
+                  </note> Abstimmung über Fristsetzungsantrag</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.note32">Präsident Mag. Wolfgang Sobotka</note>
+            <u who="#PAD_88386" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d7e1099" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d2e332">Wir kommen nunmehr zur Abstimmung über den Antrag - - <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024_d7e1107">Abg. Schieder: Was sagen Sie dazu, Herr Präsident?</note> – Wir stimmen jetzt einmal darüber ab, weil der Antrag so vorliegt. Wir können dann in der Präsidiale noch einmal darüber diskutieren. <kinesic type="applause" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.kinesic4">
+                     <desc>Beifall bei Abgeordneten von ÖVP und FPÖ.</desc>
+                  </kinesic>
+                  <vocal type="interruption" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.vocal3">
+                     <desc>Zwischenrufe bei SPÖ und Liste Pilz.</desc>
+                  </vocal>
+            Wir kommen nunmehr zur Abstimmung über den Antrag, dem Ausschuss für Wirtschaft, Industrie und Energie zur Berichterstattung über die Regierungsvorlage: Umfassendes Wirtschafts- und Handelsabkommen (CETA) zwischen der Europäischen Union und ihren Mitgliedstaaten einerseits und Kanada andererseits samt Gemeinsamer Auslegungserklärung (152 der Beilagen), eine Frist bis zum 13. Juni 2018 zu setzen. Ich bitte jene Damen und Herren, die für den Fristsetzungsantrag sind, um ein Zeichen der Zustimmung. – Das ist die Mehrheit, daher ist der Antrag angenommen. Die nächste Sitzung des Nationalrates berufe ich für den 17. Mai um 9 Uhr ein. Die Tagesordnung ist der im Saal verteilten schriftlichen Mitteilung zu entnehmen. Ich danke schön. Die Sitzung ist geschlossen.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.note34">
+               <time when="2018-05-16T21:32:47+02:00">21:32:47</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2018-05-16-026-XXVI-NRSITZ-00024.note35">Schluss der Sitzung:<time when="2018-05-16T21:32:00+02:00">21:32</time>Uhr</note>
+         </div>
+      </body>
+   </text>
+</TEI>

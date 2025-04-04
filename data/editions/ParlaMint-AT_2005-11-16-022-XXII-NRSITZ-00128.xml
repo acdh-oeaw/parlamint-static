@@ -1,0 +1,405 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" ana="#parla.sitting #reference" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.xml" xml:base="https://parlamint-at.acdh.oeaw.ac.at" prev="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00127.xml" next="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2005-12-06-022-XXII-NRSITZ-00129.xml">
+   <teiHeader xml:lang="en">
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="de">Österreichisches Parlamentskorpus ParlaMint-AT, Stenographische Protokolle der Plenarsitzungen des Österreichischen Nationalrats, XXII. Gesetzgebungsperiode [ParlaMint]</title>
+            <title type="sub" xml:lang="de">128. Sitzung des Nationalrates der Republik Österreich, XXII. Gesetzgebungsperiode, Mittwoch, 16. November 2005</title>
+            <title type="main" xml:lang="en">Austrian parliamentary corpus ParlaMint-AT, Shorthand records of the National Council of the Austrian Parliament, Legislative period XXII [ParlaMint]</title>
+            <title type="sub" xml:lang="en">Sitting Number 128, Legislative period XXII, Wednesday, 16. November 2005</title>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.sitting" n="128">128. Sitzung</meeting>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.term #NR.XXII" n="22">XXII. Gesetzgebungsperiode</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.sitting" n="128">Sitting 128</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.term #NR.XXII" n="22">Legislative period XXII</meeting>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0002-8111-5584">Hannes Pirker</persName>
+               <persName ref="https://orcid.org/0000-0003-2436-0361">Daniel Schopper</persName>
+               <persName ref="https://orcid.org/0000-0002-1631-4560">Tanja Wissik</persName>
+               <resp xml:lang="de">Projektplanung und Methode</resp>
+               <resp xml:lang="en">Project set-up and methodology</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hannes Pirker</persName>
+               <resp xml:lang="de">Datenbeschaffung, Korpuskodierung in TEI und automatische linguistische Annotation</resp>
+               <resp xml:lang="en">Data retrieval, TEI corpus encoding and automatic linguistic annotation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Schopper</persName>
+               <resp xml:lang="de">XSLT Transformationen</resp>
+               <resp xml:lang="en">XSLT transformations</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Martin Kirnbauer</persName>
+               <resp xml:lang="de">Einige der manuellen Korrekturen</resp>
+               <resp xml:lang="en">Some of the manual curation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Tanja Wissik</persName>
+               <resp xml:lang="de">Metadaten und Übersetzung</resp>
+               <resp xml:lang="en">Metadata and translation</resp>
+            </respStmt>
+            <funder>
+               <orgName xml:lang="de">CLARIN-ERIC</orgName>
+               <orgName xml:lang="en">CLARIN-ERIC (Common Language Resources and Technology Infrastructure—European Research Infrastructure Consortium)</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </funder>
+            <funder>
+               <orgName xml:lang="de">ÖAW (Österreichische Akademie der Wissenschaften)</orgName>
+               <orgName xml:lang="en">ÖAW (Austrian Academy of Sciences)</orgName>
+               <ref target="https://www.oeaw.ac.at/">www.oeaw.ac.at</ref>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>4.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="17" xml:lang="de">17 Äußerungen</measure>
+            <measure unit="speeches" quantity="17" xml:lang="en">17 speeches</measure>
+            <measure unit="words" quantity="3579" xml:lang="de">3,579 Wörter</measure>
+            <measure unit="words" quantity="3579" xml:lang="en">3,579 words</measure>
+         </extent>
+         <publicationStmt>
+            <publisher>
+               <orgName xml:lang="de">Die CLARIN Forschungsinfrastruktur</orgName>
+               <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </publisher>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/1912</idno>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="de">Dieses Werk ist lizensiert unter der <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz (CC BY 4.0)</ref>.</p>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+            </availability>
+            <date when="2024-05-14">2024-05-14</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main" xml:lang="de">Stenographische Protokolle der Plenarsitzungen des Nationalrats der Republik Österreich</title>
+               <title type="sub" xml:lang="de">Stenographisches Protokoll, 128. Sitzung des Nationalrates der Republik Österreich, XXII. Gesetzgebungsperiode, Mittwoch, 16. November 2005</title>
+               <title type="main" xml:lang="en">Shorthand records of the plenary sittings of the National Council of the Austrian parliament</title>
+               <title type="sub" xml:lang="en">Shorthand record, Sitting Number 128, Legislative period XXII, Wednesday, 16. November 2005</title>
+               <publisher>Parlamentsdirektion</publisher>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/PAKT/VHG/XXII/NRSITZ/NRSITZ_00128/fnameorig_056461.html</idno>
+               <date when="2005-11-16">2005-11-16</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p xml:lang="en"><ref target="https://www.clarin.eu/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://clarin-eric.github.io/ParlaMint/">ParlaMint encoding guidelines</ref>, covering the period from 2015 to mid-2022; (2) add linguistic annotations to the corpora and machine-translate them to English; (3) make the corpora available through concordancers; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.</p>
+            <p xml:lang="de"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+            </p>
+         </projectDesc>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="desc" occurs="43"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="kinesic" occurs="27"/>
+               <tagUsage gi="note" occurs="72"/>
+               <tagUsage gi="pb" occurs="9"/>
+               <tagUsage gi="seg" occurs="38"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="time" occurs="15"/>
+               <tagUsage gi="u" occurs="17"/>
+               <tagUsage gi="vocal" occurs="12"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <name type="city" xml:lang="de">Wien</name>
+               <name type="city" xml:lang="en">Vienna</name>
+               <name type="country" key="AT" xml:lang="en">Austria</name>
+               <name type="country" key="AT" xml:lang="de">Österreich</name>
+               <date ana="#parla.sitting" when="2005-11-16">2005-11-16</date>
+            </setting>
+         </settingDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2022-12-13">
+            <name>Hannes Pirker</name> : Converted from source HTML to TEI.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text ana="#reference">
+      <body>
+         <div xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e178" type="debateSection">
+            <gap reason="editorial" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.gap1">
+               <desc xml:lang="en">Frontmatters and table of content removed</desc>
+               <desc xml:lang="de">Titelseite und Inhaltsangabe entfernt</desc>
+            </gap>
+            <note type="time" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note1">Beginn der Sitzung:<time when="2005-11-16T22:19:00+01:00">22:19</time>Uhr</note>
+            <note type="chairpersons" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note2">Zweite Präsidentin Mag. Barbara Prammer</note>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note3">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e480" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e194">Die Sitzung ist eröffnet.</seg>
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e196">Als verhindert gemeldet sind die Abgeordneten Mag. Scheucher-Pichler, Dr. Wittmann, Parnigoni, Lackner und Broukal.</seg>
+               <note type="time" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note4">
+                  <time when="2005-11-16T22:19:58+01:00">22:19:58</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e201">Einlauf und Zuweisungen</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note5">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e511" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e206">Hinsichtlich der eingelangten Verhandlungsgegenstände und deren Zuweisungen verweise ich gemäß § 23 Abs. 4 der Geschäftsordnung auf die im Sitzungssaal verteilte Mitteilung.</seg>
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e208">Die schriftliche Mitteilung hat folgenden Wortlaut:</seg>
+               <gap reason="editorial" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.gap2">
+                  <desc xml:lang="en">Quoted printed matter omited</desc>
+                  <desc xml:lang="de">Zitierte Druckfassung entfernt</desc>
+               </gap>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note6">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e830" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e218">Weiters weise ich zu:</seg>
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e220">dem Menschenrechtsausschuss den Antrag 740/A (E) der Abgeordneten Ellmauer, Mag. Posch, Dipl.-Ing. Achleitner, Mag. Lunacek, Kolleginnen und Kollegen betreffend Maßnahmen gegen Folter und unmenschliche Behandlung;</seg>
+               <pb n="6"/>
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e223">dem Justizausschuss den Antrag 741/A der Abgeordneten Neudeck, Großruck, Kolleginnen und Kollegen betreffend ein Bundesgesetz, mit dem das Wohnungsgemeinnützigkeitsgesetz geändert wird.</seg>
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e225">Fristsetzungsanträge</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note7">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e868" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e230">Vor Eingang in die Tagesordnung teile ich mit, dass die Abgeordneten Mag. Molterer, Scheibner beantragt haben, dem Ausschuss für innere Angelegenheiten zur Berichterstattung über die Regierungsvorlage 1189 der Beilagen betreffend Staatsbürgerschaftsrechts-Novelle 2005 eine Frist bis 5. Dezember 2005 zu setzen.</seg>
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e232">Ferner liegt das von den Abgeordneten Mag. Stoisits, Kolleginnen und Kollegen gemäß § 43 Abs. 3 der Geschäftsordnung gestellte Verlangen vor, eine kurze Debatte über diesen Fristsetzungsantrag durchzuführen.</seg>
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e234">Diese kurze Debatte wird sogleich stattfinden. Die Abstimmung über den Fristsetzungsantrag wird nach Schluss dieser Debatte stattfinden.</seg>
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e236">Vor Eingang in die Tagesordnung teile ich weiters mit, dass die Abgeordneten Mag. Molterer, Scheibner beantragt haben, dem Ausschuss für innere Angelegenheiten zur Berichterstattung über die Regierungsvorlage 1188 der Beilagen betreffend Sicherheitspolizeigesetz eine Frist bis 5. Dezember 2005 zu setzen.</seg>
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e238">Für diesen Antrag wurde keine Debatte verlangt. Die Abstimmung über diesen Antrag erfolgt nach der Abstimmung über den ersten Fristsetzungsantrag.</seg>
+               <note type="time" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note8">
+                  <time when="2005-11-16T22:22:12+01:00">22:22:12</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e243">Kurze Debatte über einen Fristsetzungsantrag</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note9">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e903" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e249">Wir kommen nun zur kurzen Debatte über den Antrag der Abgeordneten Mag. Molterer, Scheibner, dem Ausschuss für innere Angelegenheiten zur Berichterstattung über die Regierungsvorlage 1189 der Beilagen betreffend Staatsbürgerschaftsrechts-Novelle 2005 eine Frist bis 5. Dezember 2005 zu setzen. Nach Schluss dieser Debatte wird die Abstimmung über den gegenständlichen Fristsetzungsantrag stattfinden.</seg>
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e251">Wir gehen in die Debatte ein.</seg>
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e253">Ich mache darauf aufmerksam, dass gemäß § 57a Abs. 1 der Geschäftsordnung kein Redner länger als 5 Minuten sprechen darf, wobei der Erstredner oder die Erstrednerin zur Begründung über eine Redezeit von 10 Minuten verfügt. Stellungnahmen von Mitgliedern der Bundesregierung oder zu Wort gemeldeten Staatssekretären sollen nicht länger als 10 Minuten dauern.</seg>
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e255">Das Wort erhält zunächst die Antragstellerin, Frau Abgeordnete Mag. Stoisits. 10 Minuten Redezeit. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note10">
+               <time when="2005-11-16T22:23:14+01:00">22:23:14</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note11">Abgeordnete Mag. Terezija Stoisits (Grüne)</note>
+            <u who="#PAD_01902" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e933" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e263">Dobar vecer, poštovane dame i gospodo! Sehr geehrte Frau Präsidentin! Sehr geehrter Herr Klubobmann Molterer, ich bin im Jahre 1990 Abgeordnete zum Nationalrat geworden. Wenn ich mich recht erinnere, waren Sie damals Minister. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e941">Abg. Mag. Molterer: Nein!</note>Nein? <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e955">Abg. Mag. Molterer: Ich bin mit Ihnen Abgeordneter geworden!</note>Abgeordneter, okay. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e968">Abg. Scheibner: Aber er war es nicht lang!</note> Sehen Sie, Sie sind mir damals, 1990, nicht so aufgefallen, dass ich das noch in Erinnerung hätte. Ich habe gedacht, Sie waren Minister. <pb n="7"/>
+                  <kinesic type="applause" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.kinesic1">
+                     <desc>Beifall bei den Grünen und bei Abgeordneten der SPÖ.</desc>
+                  </kinesic>
+            Als solcher sind Sie mir aufgefallen, so und so, positiv, negativ, verschieden. <vocal type="interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.vocal1">
+                     <desc>Zwischenrufe bei der ÖVP.</desc>
+                  </vocal>
+            Ich weiß aber jetzt nicht, Herr Minister außer Dienst und Klubobmann Molterer, ob Sie vor 1990 Abgeordneter hier im Nationalrat waren. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e998">Abg. Jakob Auer: So ist das, ja!</note>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1011">Abg. Scheibner: Geh, redet euch das nachher aus!</note>
+                  <vocal type="interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.vocal2">
+                     <desc>Weitere Zwischenrufe.</desc>
+                  </vocal>
+            – Nein, ich frage Sie, ob Sie vor 1990 schon Abgeordneter zum Nationalrat waren, weil ich mich nicht erinnere. Herr Klubobmann Molterer, ich weiß nicht alles. <note type="inquietude" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note17">Unruhe im Saal.</note>
+                  <kinesic type="signal" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.kinesic2">
+                     <desc>Präsidentin Mag. Prammer gibt das Glockenzeichen.</desc>
+                  </kinesic>
+            Aber zugegeben, in manchen Gebieten, mit denen ich mich seit 15 Jahren beschäftige <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1043">Abg. Neudeck: Ist das eine persönliche oder eine Dringliche Anfrage?</note> , weiß ich sehr viel – ich habe das Gefühl, viel mehr als Sie, und dieses Gefühl täuscht mich nicht. <vocal type="interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.vocal3">
+                     <desc>Zwischenrufe bei der ÖVP.</desc>
+                  </vocal>
+            Ich weiß zum Beispiel auch ziemlich viel über Usancen im österreichischen Nationalrat, auch mehr als Sie, denn ich bin sicher insgesamt länger Mitglied des Nationalrates als Sie. Sie waren ja so lange Minister. <vocal type="interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.vocal4">
+                     <desc>Neuerliche Zwischenrufe bei der ÖVP.</desc>
+                  </vocal>
+            Nur weil man Klubobmann einer großen Fraktion ist, braucht man wirklich nicht zu glauben – wir sind hier alle gleich, wir sind alle so genannte frei gewählte Abgeordnete. Die Freiheit des Einzelnen wird aber eingeschränkt durch Menschen wie Klubobmann Molterer. Fast könnte man sagen, das ist Folter.</seg>
+            </u>
+            <vocal type="interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.vocal5">
+               <desc>Anhaltende Zwischenrufe bei der ÖVP.</desc>
+            </vocal>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note19">Präsidentin Mag. Barbara Prammer</note>
+            <kinesic type="signal" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.kinesic3">
+               <desc>das Glockenzeichen gebend</desc>
+            </kinesic>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1079" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e319">Frau Abgeordnete Stoisits, dieses Wort nehmen Sie bitte zurück!</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note20">Abgeordnete Mag. Terezija Stoisits</note>
+            <note type="procedural" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note21">fortsetzend</note>
+            <u who="#PAD_01902" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1100" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e327">Das nehme ich zurück, Frau Präsidentin, sehr gerne, ich möchte Ihnen ja keine Schwierigkeiten machen. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1112">Abg. Dr. Fekter: ... Geschäftsordnung!</note> Ich nehme es gerne zurück: Es ist nicht Folter, es ist aber sicher eine unmenschliche Behandlung. <vocal type="interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.vocal6">
+                     <desc>Anhaltende Zwischenrufe bei der ÖVP.</desc>
+                  </vocal>
+            – Jedenfalls führt sich die ÖVP-Fraktion wie ein Kindergarten auf, das steht fest. <kinesic type="signal" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.kinesic4">
+                     <desc>Präsidentin Mag. Prammer gibt das Glockenzeichen.</desc>
+                  </kinesic>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1134">Ruf bei der ÖVP:Eine Frechheit!</note>Das steht jedenfalls fest. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1147">Abg. Neudeck: Was Sie am Rednerpult tun, ist auch keine korrekte Haltung!</note>
+                  <vocal type="interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.vocal7">
+                     <desc>Weitere Zwischenrufe.</desc>
+                  </vocal>
+                  <kinesic type="signal" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.kinesic5">
+                     <desc>Präsidentin Mag. Prammer gibt neuerlich das Glockenzeichen.</desc>
+                  </kinesic>
+            Ich weiß jetzt nicht, ob das Zustimmungserklärungen für Klubobmann Molterer sind oder ob dieser Aufruhr Frau Präsidentin Prammer gilt. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1172">Abg. Scheibner: Jetzt sagen Sie endlich einmal etwas zum Thema!</note>Frau Präsidentin, sie haben sich schon wieder beruhigt. Jedenfalls seit 15 Jahren, seit ich Angehörige des Hohen Hauses bin, habe ich das, was hier heute passiert ist, noch nicht erlebt, nämlich dass die Regierung ein Gesetz, das eine Ministerialvorlage und ein Ministerialentwurf war, der in Begutachtung gegangen ist – jetzt sage ich einmal ganz unabhängig von der Sympathie, die man Ministerialentwürfen und -vorlagen entgegenbringt: Es wurde über diese Ministerialvorlage, nämlich eine Novelle zum Staatsbürgerschaftsgesetz, ein Begutachtungsverfahren durchgeführt. Dieses Begutachtungsverfahren hat – mir nicht unangenehm <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1186">Abg. Dr. Fekter: Dafür gibt es eine Geschäftsordnung!</note>, Ihnen sicher ziemlich unangenehm – ein desaströses Ende genommen. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1199">Abg. Dr. Fekter: Nehmen Sie die Geschäftsordnung zur Kenntnis!</note> Kaum eine Stellungnahme in diesem Begutachtungsverfahren hat ein gutes Haar an diesem Ministerialentwurf zur Staatsbürgerschaftsrechts-Novelle gefunden. Denn in dieser Republik ist es immer noch üblich, dass sich begutachtende Stellen mit Materien, die ihnen zugewiesen werden, in einem gewissen Ausmaß beschäftigen, die einen intensiver, die anderen weniger intensiv, aber ehrlich und mit einem von Sachverstand geprägten Wissen. Auch in diesem Fall haben sie dieses Gesetz dem Begutachtungs- <pb n="8"/>
+            verfahren unterzogen. Mit der Staatsbürgerschaftsrechts-Novelle, Herr Klubobmann Molterer, ist das passiert. Jetzt muss ich noch einmal in die Geschichte ausholen. Es hat in den 15 Jahren, seit ich im Innenausschuss mitarbeite <vocal type="interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.vocal8">
+                     <desc>Zwischenrufe bei der ÖVP</desc>
+                  </vocal>
+            , ziemlich viele neue Gesetze, Novellen von alten Gesetzen, Novellen von neuen Gesetzen, die dann noch neuer wurden, im Bereich des so genannten Ausländerrechts in Österreich gegeben. Ich erlaube mir jetzt, das Staatsbürgerschaftsgesetz auch zum so genannten Ausländerrecht zu zählen. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1220">Abg. Scheibner: Ist ja Inländerrecht!</note>Diese Rechtsmaterie betrifft kaum österreichische Staatsangehörige, sondern sie betrifft in der Regel Menschen, die schon viele Jahre in Österreich sind. Früher einmal hat es auch welche gegeben, die ganz kurz hier gelebt haben und trotzdem sozusagen dem Staatsbürgerschaftsgesetz unterworfen wurden, durch Einbürgerung in relativ raschem Ausmaß. Das ist 1998 abgestellt worden, zur Gänze abgestellt worden. Im Jahre 1998 gab es hier eine Novelle zum Staatsbürgerschaftsgesetz, mit der sich das Hohe Haus sehr intensiv beschäftigte. Denn dieses Gesetz war seinerzeit, 1998, durch eines gekennzeichnet, was sämtliche anderen Gesetze, die in diesen 15 Jahren im Innenausschuss irgendwie behandelt wurden, mit der Staatsbürgerschaftsgesetz-Novelle gemeinsam hatten: Es hatte auch positive Aspekte. Unter positiven Aspekten verstehe ich Folgendes: Diese Novelle von 1998 enthielt Verbesserungen für die Praxis der Behörden. Sie enthielt Präzisierungen für die Anwendung des Gesetzes <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1234">Abg. Dr. Fekter: Aber ihr wart dagegen!</note>, weil ja die Durchführung dieser Gesetze und die Anwendung in den Ländern erfolgt. Sie enthielt auch Präzisierungen – manche könnten sagen: auch Erleichterungen – beim Erwerb der österreichischen Staatsbürgerschaft. Diese Novelle von 1998 – ich erinnere Sie: große Koalition von Rot-Schwarz – enthielt Bestimmungen, die den Grünen nicht gefallen haben, und wir haben sie abgelehnt, nicht nur in dem Hearing, das es damals im Ausschuss gab. Es war nicht eine Ausschusssitzung, es waren mehrere, nicht nur in parlamentarischen Veranstaltungen, die wir und auch andere Fraktionen durchgeführt haben. Ich erinnere mich sehr gut daran <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1247">Abg. Dr. Mitterlehner: Wieso erzählen Sie uns das?</note>, wie der seinerzeitige Klubobmann Professor Dr. Khol bei einer Veranstaltung der Grünen – sie fand im Abgeordneten-Sprechzimmer statt <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1260">Abg. Scheibner: Ist ja eine Geschichtsvorlesung!</note>– den Standpunkt der einen Regierungspartei vertrat. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1273">Abg. Dr. Mitterlehner: Was wollen Sie uns sagen?</note>Ich will damit zum Ausdruck bringen, dass diese Novelle von 1998 im Hohen Haus und auch außerhalb diskutiert wurde. Für meine damalige und auch heutige Einschätzung war es zu wenig ausreichend, denn bestimmte Punkte, die sie damals enthielt, wurden, und das haben die letzten sechs Jahre auch gezeigt, nicht zufrieden stellend geregelt; es sind jetzt schon fast sieben Jahre. Nicht zufrieden stellend war es für die Praxis, es bedürfte einiger Korrekturen. Das ist jetzt noch keine inhaltliche Bewertung. Jetzt hat sich diese orange-blau-schwarze Regierung als Abschluss des so genannten Fremdenrechtspakets auch eine Novelle zum Staatsbürgerschaftsgesetz überlegt, und jetzt würde ich Sie bitten, geschätzte KollegInnen, diese Beurteilung selbst vorzunehmen <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1287">Abg. Scheibner: Ist die Uhr eingestellt, Frau Präsidentin?</note> , indem Sie einen Blick in das Staatsbürgerschaftsgesetz werfen, eine Novelle, die keinen einzigen Punkt enthält – und das ist nicht meine persönliche Einschätzung, sondern das hat sich durch dieses Begutachtungsverfahren ergeben –, die also keinen einzigen Punkt enthält, von dem man sagen könnte: Das sind jetzt Präzisierungen, das sind Erleichterungen in der Praxis, hier werden sich die Länder freuen, weil sie eher wissen, was der Gesetzgeber bei der Anwendung will, hier gibt es auch einen gewissen europäischen Zug. <pb n="9"/>
+            Das geltende Staatsbürgerschaftsgesetz kann man vom Niveau her durchaus nicht europäisch nennen, weil die Fristen, die in Österreich gelten, im absolut untersten Drittel sind. Aber das wundert mich nicht, weil es ja in den letzten Jahren sozusagen Standard geworden ist, dass sich da niemand Sorgen macht. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1302">Abg. Scheibner: Sind Sie jetzt für oder gegen die Fristsetzung?</note>Nicht ein einziger Punkt ist in dieser Novelle enthalten, Herr Klubobmann Molterer, der Sinn machen würde! Diese Novelle, die hier eingebracht wurde, ist ziemlich dick, und wird jetzt via Frist dem Nationalrat zur Behandlung bis 5. Dezember zugewiesen. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1315">Abg. Dr. Mitterlehner: In dem Gesetz steht mehr drin!</note>Dieses Gesetz, Herr Klubobmann Molterer, strotzt nur so von Bestimmungen, die einen Geist tragen, nämlich gegenüber jenen, die gerne die österreichische Staatsbürgerschaft erwerben möchten und die, zugegeben, nach den jetzigen Bestimmungen einige Hürden zu passieren haben. Wir haben den Integrationsgedanken drinnen, wir haben bestimmte Kenntnisse der deutschen Sprache als Voraussetzung. Menschen müssen hier selbstverständlich auch einen verfestigten Aufenthalt haben, um die Staatsbürgerschaft erwerben zu können, denn – und jetzt spreche ich in der Diktion der heutigen und auch damaligen Regierungspartei ÖVP, das ist nicht meine Diktion – „die österreichische Staatsbürgerschaft ist ein kostbares Gut“. Jetzt gibt es eine Novelle, die überall die Daumenschrauben ansetzt! Sie setzt die Daumenschrauben an gegenüber Kindern ab dem zehnten Lebensjahr, die mit ihren Eltern nach Österreich zugewandert sind, und sie sagt: Wenn du in Deutsch nicht eine positive Note hast, dann wirst du nicht eingebürgert, dann darfst du nicht eingebürgert werden. Herr Klubobmann Molterer! Haben Sie sich schon überlegt, was das für eine Familie heißt – denn Minderjährige werden immer gemeinsam mit ihren Eltern eingebürgert –, was das heißt, wenn Sie Kinder, weil sie in Deutsch keine positive Note haben, sozusagen in Geiselhaft nehmen für die Staatsbürgerschaft einer ganzen Familie? Haben Sie bis jetzt je ernsthaft darüber nachgedacht? <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1331">Abg. Gaál: Unchristlich!</note>Ich meine – und so habe ich Sie als Minister für Landwirtschaft und Umwelt und einiges mehr kennen gelernt, auch als Mediensprecher der ÖVP <kinesic type="signal" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.kinesic6">
+                     <desc>Präsidentin Mag. Prammer gibt das Glockenzeichen</desc>
+                  </kinesic>
+            –, dass Sie bis jetzt immer nachgedacht haben, aber diesmal nicht! Was heute passiert, ist die größte Farce, die ich in den letzten 15 Jahren, seit ich Mitglied des Hohen Hauses bin, erlebt habe. <kinesic type="signal" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.kinesic7">
+                     <desc>Präsidentin Mag. Prammer gibt neuerlich das Glockenzeichen.</desc>
+                  </kinesic>
+            Sie brechen alle Regeln, die es bisher gegeben hat! <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1357">Abg. Scheibner: Was ist mit der Glocke?</note> Und das werde ich Ihnen so schnell nicht vergessen, auch wenn ich noch ...</seg>
+            </u>
+            <vocal type="interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.vocal9">
+               <desc>Oh-Rufe bei der ÖVP.</desc>
+            </vocal>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.kinesic8">
+               <desc>Beifall bei den Grünen und der SPÖ.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note38">
+               <time when="2005-11-16T22:33:00+01:00">22:33</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note39">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1389" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e421">Frau Abgeordnete, Ihre Redezeit ist erschöpft.</seg>
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e423">Als Nächster zu Wort gelangt Herr Klubobmann Mag. Molterer. Seine Redezeit beträgt, so wie die der folgenden Redner, 5 Minuten.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note40">
+               <time when="2005-11-16T22:33:56+01:00">22:33:56</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note41">Abgeordneter Mag. Wilhelm Molterer (ÖVP)</note>
+            <u who="#PAD_01226" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1414" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e431">Meine Damen und Herren! Frau Präsidentin! Manche Stellungnahmen richten sich von selbst; dies war eine solche. <kinesic type="applause" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.kinesic9">
+                     <desc>Beifall bei der ÖVP und bei Abgeordneten der Freiheitlichen.</desc>
+                  </kinesic>
+            Sie hat aber einen Vorteil: Es ist jetzt sehr klar geworden, warum die Fristsetzung notwendig ist. <kinesic type="applause" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.kinesic10">
+                     <desc>Beifall bei der ÖVP.</desc>
+                  </kinesic>
+            Meine Damen und Herren! Dieses neue Staatsbürgerschaftsgesetz ist eine der wichtigsten Gesetzesmaterien, die wir hier zu beraten haben. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1434">Abg. Binder-Maier: Wer glaubt ...!</note> Ich sage es sehr klar: Sie ist so wichtig, dass sie nicht verzögert und nicht <pb n="10"/>
+            verschleppt werden darf! <kinesic type="applause" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.kinesic11">
+                     <desc>Beifall bei der ÖVP und bei Abgeordneten der Freiheitlichen.</desc>
+                  </kinesic>
+            Das ist auch in der Geschäftsordnung so geregelt, Frau Abgeordnete Stoisits, die Sie offensichtlich nicht kennen. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1455">Abg. Krainer: Sie haben die Regierung ...!</note> Es geht um die Frage, dass eine Einbürgerung nur möglich ist und möglich sein soll bei entsprechenden Sprachkenntnissen. Ich stehe dazu, das ist richtig! <kinesic type="applause" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.kinesic12">
+                     <desc>Beifall bei der ÖVP und bei Abgeordneten der Freiheitlichen.</desc>
+                  </kinesic>
+            Es ist eine Einbürgerung in Zukunft nur möglich, wenn die demokratische Ordnung und die Geschichte Österreichs und der Bundesländer gekannt wird. Ich stehe dazu, das ist richtig! <kinesic type="applause" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.kinesic13">
+                     <desc>Beifall bei der ÖVP.</desc>
+                  </kinesic>
+            Es ist eine Vereinheitlichung der Fristen vorgesehen. Meine Damen und Herren, ich stehe dazu, und auch das ist richtig! <kinesic type="applause" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.kinesic14">
+                     <desc>Beifall bei der ÖVP.</desc>
+                  </kinesic>
+            Es ist vorgesehen, dass nicht nur ein Aufenthalt, sondern die Rechtmäßigkeit des Aufenthaltes nachgewiesen werden muss. Ich stehe dazu, weil es richtig ist, meine Damen und Herren! <kinesic type="applause" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.kinesic15">
+                     <desc>Beifall bei der ÖVP und bei Abgeordneten der Freiheitlichen.</desc>
+                  </kinesic>
+            Nun zur Vorgangsweise, Frau Kollegin: Wir haben uns am 10. November in der Präsidiale darüber unterhalten. Die Klubdirektoren wurden gebeten, einen Konsens zu erzielen. Am 15. November hat es diesen Termin gegeben, hier wurden vier Ausschusstermine – vier Ausschusstermine! – festgehalten und festgelegt. Hier steht: Seitens der SPÖ besteht gegen diesen Vorschlag kein Einwand. Das war eine sehr gute Gesprächsebene. Und dann steht hier: Die Grünen sprechen sich grundsätzlich gegen die vorgeschlagenen Termine aus. Es hat heute noch einen weiteren Versuch gegeben – dass das alle Kolleginnen und Kollegen wissen! –, es hat heute noch einen Versuch gegeben, und es war klar, dass die Grünen neuerlich die Termine abgelehnt und gesagt haben, sie wollen eigentlich im Jänner und im Feber weiterreden. Damit war für uns klar: Verschleppen und verzögern war das Ziel. Dem werden wir nicht zustimmen! <kinesic type="applause" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.kinesic16">
+                     <desc>Beifall und Bravorufe bei der ÖVP und bei Abgeordneten der Freiheitlichen.</desc>
+                  </kinesic>
+            Daher nehmen wir selbstverständlich, meine Damen und Herren, das Recht in Anspruch, das uns die Geschäftsordnung gibt! Das Recht, das im Übrigen allen hier im Haus zur Verfügung steht, und selbstverständlich auch der Mehrheit dieses Hauses.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.kinesic17">
+               <desc>Beifall bei der ÖVP und bei Abgeordneten der Freiheitlichen.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note44">
+               <time when="2005-11-16T22:36:00+01:00">22:36</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note45">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1515" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e484">Als Nächster zu Wort gelangt Herr Klubobmann Dr. Cap. 5 Minuten Redezeit. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note46">
+               <time when="2005-11-16T22:36:49+01:00">22:36:49</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note47">Abgeordneter Dr. Josef Cap (SPÖ)</note>
+            <u who="#PAD_00178" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1537" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e492">Herr Klubobmann Molterer! Wir haben verstanden: Mehrheit ist Mehrheit! Das ist Ihre Philosophie, die Sie hier dargestellt haben. <kinesic type="applause" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.kinesic18">
+                     <desc>Beifall bei der SPÖ.</desc>
+                  </kinesic>
+                  <vocal type="interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.vocal10">
+                     <desc>Zwischenrufe bei der ÖVP.</desc>
+                  </vocal>
+            Aber ich sage Ihnen etwas: Es geht auch noch um andere Werte als um die arithmetische Richtigkeit, dass eine Mehrheit eine Mehrheit ist. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1557">Abg. Mag. Molterer: Wie ist das im Bundesrat?</note>Ja, und das ist die Art und Weise, wie man hier in diesem Haus miteinander umgeht. Immer, wenn hier Sonntagsreden entwickelt werden, dann wird über die Umgangsformen philosophiert. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1570">Abg. Scheibner: Bundesrat!</note>Sie wissen ganz genau, am Freitag gibt es eine Präsidiale, die extra deswegen angesetzt wurde, damit ein Innenausschusstermin gefunden wird. Daher verstehe ich nicht, warum heute hier ein Fristsetzungsantrag gestellt wird, wenn wir am Freitag eine Präsidiale haben, damit es einen ordentlichen Innenausschuss gibt und damit Sie dort dieses Gesetz mit Ihrer „Mehrheit ist Mehrheit“-Mehrheit beschließen können. Ich verstehe das also nicht. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1583">Abg. Neudeck: Warum machen Sie das ...?</note>
+                  <pb n="11"/>
+            Ich sage Ihnen etwas: Es ist heute nicht der Moment, um darüber eine substanzielle Debatte zu führen. Aber lassen Sie mich trotzdem zwei Gedanken vorbringen. Selten hat ein Gesetz so negative Begutachtungsergebnisse gefunden! Eigentlich dürfte dieses Gesetz hier überhaupt nicht beschlossen werden. Das ist nämlich die Wahrheit. <kinesic type="applause" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.kinesic19">
+                     <desc>Beifall bei der SPÖ und den Grünen.</desc>
+                  </kinesic>
+            Das müssen Sie dann den Österreichern und Österreicherinnen weismachen, was Sie hier beschließen. Es ist dann Ihre Sache. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1605">Abg. Scheibner: Gerne!</note>– Ja, gerne. Jetzt komme ich gleich zu einem zweiten Punkt: Nicht hier lamentieren über Sprachkenntnisse, oder noch besser darüber, dass von denen, die nach Österreich kommen, endlich Deutsch gesprochen wird! Wenn Sie Hunderte Lehrerarbeitsplätze einsparen und es gar nicht möglich ist, dass durch Begleitlehrer Deutsch gelernt werden kann, und wenn Sie dann noch einen Wahlkampf darüber führen, ist das überhaupt der größte Skandal! <kinesic type="applause" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.kinesic20">
+                     <desc>Beifall bei der SPÖ und den Grünen.</desc>
+                  </kinesic>
+                  <vocal type="interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.vocal11">
+                     <desc>Zwischenrufe bei der ÖVP.</desc>
+                  </vocal>
+            Das ist überhaupt der größte Skandal. Ja, ich sage „Sie“, weil das in diesem Mischmasch zwischen Freiheitlichen und BZÖ-lern in dem Sektor irgendwie drinnen ist. Herr Scheuch vielleicht nicht, aber alle anderen, es ist in dem Sektor drinnen. Das muss hie und da kritisch aufgearbeitet werden, wenn das auch noch als Begründung eingebracht wird, dass man hier mit einer Fristsetzung vorzugehen hat. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1630">Abg. Scheibner: Jetzt reden Sie sich in einen Wirbel hinein!</note>Es ist dies also keine saubere Vorgangsweise! <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1643">Abg. Neudeck: Wieso? Werdet ihr erst um zehn munter?</note> Zum letzten Punkt noch: Na klar, die Geschichte Österreichs lernen lassen – aber am besten die letzten fünfeinhalb Jahre seit dem Jahr 2000! Es wäre das Allerwichtigste, das nicht zu vergessen. Das haben Sie sicher nicht drinnen. <kinesic type="applause" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.kinesic21">
+                     <desc>Beifall bei der SPÖ und den Grünen.</desc>
+                  </kinesic>
+            Daher: nein zu diesem Fristsetzungsantrag!</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.kinesic22">
+               <desc>Beifall bei der SPÖ und den Grünen.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note54">
+               <time when="2005-11-16T22:39:00+01:00">22:39</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note55">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1676" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e546">Als Nächste zu Wort gelangt Frau Abgeordnete Dr. Partik-Pablé. 5 Minuten Redezeit. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note56">
+               <time when="2005-11-16T22:39:41+01:00">22:39:41</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note57">Abgeordnete Dr. Helene Partik-Pablé (Freiheitliche)</note>
+            <u who="#PAD_01158" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1697" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e555">Sehr geehrte Damen und Herren! Frau Stoisits hat Betrachtungen darüber angestellt, wer mehr weiß, weil er länger im Parlament ist. Ich möchte sagen, von dem Standpunkt aus gesehen weiß ich mehr und habe mehr Erfahrung, weil ich schon 23 Jahre im Parlament bin, Frau Abgeordnete Stoisits. <kinesic type="applause" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.kinesic23">
+                     <desc>Beifall bei den Freiheitlichen und bei Abgeordneten der ÖVP.</desc>
+                  </kinesic>
+            Aber so etwas habe ich eigentlich noch selten erlebt, dass es nicht gelingt, einen Termin für einen Innenausschuss, der ungemein wichtig ist, zustande zu bringen. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1711">Abg. Scheibner: Uns hat man damals in der Opposition gar nicht gefragt!</note> Frau Abgeordnete Stoisits, Ihre Empörung ist eigentlich nur eine gespielte Empörung, denn Sie wissen ganz genau, dass Sie verhindert haben, dass es einen Innenausschuss gibt. Vier Termine! Herr Dr. Epp und Herr Dr. Zögernitz rennen seit Wochen von einem Klub zum anderen, um einen Termin zustande zu bringen. Endlich hatten wir eine Drei-Parteien-Einigung mit der SPÖ. War alles in Ordnung? – Nein, die Grünen sagen nein. Sie sagen deshalb nein, weil Sie mit der Materie nicht einverstanden sind. Das ist ja ganz klar! Sie wollen ganz einfach diese Gesetze, vor allem das Staatsbürgerschaftsgesetz verhindern und deshalb haben Sie sich gedacht: Wir machen das mit der Verzögerungstaktik. Herr Abgeordneter Cap, Sie sagen, am Freitag ist eine Präsidiale wegen dieses Termins. Warum machen wir dann heute den Fristsetzungsantrag? – Wir haben ja keine <pb n="12"/>
+            andere Möglichkeit, als heute den Fristsetzungsantrag einzubringen, denn wir wissen ja nicht, ob es nicht am Freitag wieder keinen Termin gibt, wenn die Grünen diesen Fundamentalstandpunkt haben: Nein, es gibt in diesem Jahr keinen Innenausschuss. Also das war ganz einfach eine dringende Lösung. <kinesic type="applause" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.kinesic24">
+                     <desc>Beifall bei den Freiheitlichen und der ÖVP.</desc>
+                  </kinesic>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1733">Abg. Öllinger: Gefahr im Verzug, oder was? Wo brennt es denn? Herrscht Staatsnotstand?</note>Und im Übrigen brauchen sich die Grünen, Frau Abgeordnete Stoisits, Sie brauchen sich überhaupt nicht aufzuregen über den Fristsetzungsantrag an und für sich, denn in der letzten Sitzung des Bundesrates hat die grüne Fraktion acht Fristsetzungsanträge gestellt und hat das überhaupt nicht problematisiert. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1743">Rufe bei den Freiheitlichen und der ÖVP:Oho! So schaut es also aus! Aha!</note>Zum Inhalt möchte ich auch noch etwas sagen: Ja, wir bekennen uns dazu, dass das Staatsbürgerschaftsgesetz verschärft wird. Es gab in den letzten fünf bis zehn Jahren eine zunehmende Zahl von Einbürgerungen, zuletzt waren es über 40 000 Einbürgerungen, und viele Menschen waren überhaupt nicht integriert, konnten nicht einmal einen Satz Deutsch sprechen. Das waren Leute, die schon 30 Jahre im Land sind. Da hat es noch Stützlehrer gegeben und alles, da hat es überhaupt keine Einschränkung gegeben, sondern es war ganz einfach nicht die Voraussetzung da, dass man integriert ist, wenn man die Staatsbürgerschaft erreichen möchte, meine sehr geehrten Damen und Herren! <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1756">Abg. Dipl.-Ing. Scheuch: Van der Bellen schämt sich! Er ist schon gegangen!</note>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1769">Abg. Öllinger: Herrscht Staatsnotstand?</note>Wir jedenfalls stimmen diesem Fristsetzungsantrag zu, weil wir ihn dringend brauchen, um diese Materie zu erledigen.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.kinesic25">
+               <desc>Beifall bei den Freiheitlichen und der ÖVP.</desc>
+            </kinesic>
+            <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1791">Abg. Mag. Molterer: (in Richtung Grüne) Wie ist das nun mit den Fristsetzungen im Bundesrat?</note>
+            <note type="time" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note64">
+               <time when="2005-11-16T22:42:00+01:00">22:42</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note65">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1814" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e592">Als nächster Redner gelangt Herr Abgeordneter Brosz zu Wort. 5 Minuten Redezeit. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note66">
+               <time when="2005-11-16T22:42:58+01:00">22:42:58</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note67">Abgeordneter Dieter Brosz (Grüne)</note>
+            <u who="#PAD_08239" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1835" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e600">Frau Präsidentin! Sehr geehrte Damen und Herren! Herr Klubobmann Molterer, Sie begeben sich auf ziemlich dünnes Eis. <vocal type="laughter" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.vocal12">
+                     <desc>Ironische Heiterkeit bei der ÖVP.</desc>
+                  </vocal>
+            Wir haben in der Präsidiale einen Vorschlag der Klubdirektoren diskutiert, der zumindest in dieser Periode einzigartig war, wo nämlich ein Terminvorschlag für die Sitzungen des Innenausschusses ohne Akkordierung mit einem der Parlamentsklubs zustande gekommen ist. Ohne Akkordierung! Das ist eine völlig unübliche Vorgangsweise, und normalerweise werden Termine der Ausschüsse in einem Rundlauf akkordiert. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1850">Abg. Scheibner: Das haben Vorschläge so an sich!</note> Sie haben genau gewusst, dass es keinen Akkordierungsversuch mit dem grünen Klub gegeben hat. – Punkt eins. Punkt zwei, heute, unser heutiger Vorschlag für die Ausschüsse: Frau Kollegin Partik-Pablé, kein Ausschuss in diesem Jahr? Der Vorschlag des grünen Klubs hat heute gelautet: 22. November halbtägiger Ausschuss. 29. November sogar bewusst ohne Kollegin Stoisits – da haben wir gewusst, dass Kollegin Stoisits nicht teilnehmen kann –, um dort das Sicherheitspolizeigesetz zu diskutieren, und am 30. November, um das Staatsbürgerschaftsrecht zu diskutieren. Mit diesem Vorschlag sind wir heute in die Verhandlungen gegangen, und ich kann Ihnen auch noch sagen, warum der 29. November für uns nicht gegangen ist, um das Staatsbürgerschaftsrecht zu diskutieren. Sie werden vielleicht selbst wissen, dass an diesem Vormittag das Kuratorium das Nationalfonds tagt. Und wollen Sie uns jetzt sa- <pb n="13"/>
+            gen, dass Frau Kollegin Stoisits an dieser Sitzung nicht teilnehmen soll, wo seit Jahren die Sitzungen akkordiert sind, nur weil Sie sich justament einbilden, dass da die Sitzung des Ausschusses stattfinden soll? Zwei Stunden später, um 13:30 Uhr beginnt der Justizausschuss. Es wird Ihnen wohl bekannt sein, dass Kollegin Stoisits im Justizausschuss als Justizsprecherin der Grünen vertreten ist. Und dann kommt von Ihnen noch ein Vorschlag für einen Termin für den 2. Dezember. Das war heute die Alternative. Wissen Sie, dass wir seit vier Monaten einen Termin für den Menschenrechtsausschuss zu akkordieren versucht haben? Und wissen Sie zufälligerweise, wer die Vorsitzende des Menschenrechtsausschusses ist? – Die Frau Kollegin Stoisits. Zu diesem Zeitpunkt schlagen Sie also vor, den Innenausschuss zu machen. Dann kommen Sie her und sagen, dass wir uns weigern, einen Termin zu vereinbaren. Das ist extrem dünnes Eis, auf das Sie sich da begeben. <kinesic type="applause" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.kinesic26">
+                     <desc>Beifall bei den Grünen und der SPÖ.</desc>
+                  </kinesic>
+            Zu Ihrer Fristsetzung: Das Einzige, was wir Ihnen angeboten haben und gewünscht hätten, dass Sie es verändern an Ihrem Vorschlag der Klubdirektoren von der vorigen Woche, dass wir statt dem 29. November, an dem Frau Kollegin Stoisits im Nationalfonds ist, am 30. November, also einen Tag später, das Staatsbürgerschaftrecht in Diskussion nehmen. Und so wie der Vorschlag der Klubdirektoren – Ihr akkordierter, SPÖ, ÖVP und Freiheitliche! – gelautet hat, dass nämlich beabsichtigt ist, das Staatsbürgerschaftsrecht in Diskussion zu nehmen und anschließend, nach Führung des Hearings sollen die Beratungen der Staatsbürgerschaftsrechtsnovelle auf 2006 vertagt werden. Das war Ihr gemeinsamer Vorschlag vorige Woche! Und jetzt gehen Sie her und beantragen eine Fristsetzung, wo von einer Vertagung überhaupt nicht mehr die Rede ist und wo Sie hier ohne eine vernünftige parlamentarische Diskussion durchgehen wollen. Und dann kommen Sie her und sagen, die Grünen verhindern irgendetwas. Am 5. Dezember, das haben Sie übrigens äußerst günstig gewählt, ist Krampus und das hat es sich wirklich verdient, dass Sie am Krampustag diese Vorgangsweise wählen.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.kinesic27">
+               <desc>Beifall bei den Grünen und der SPÖ.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note69">
+               <time when="2005-11-16T22:46:00+01:00">22:46</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note70">Präsidentin Mag. Barbara Prammer</note>
+            <u who="#PAD_04476" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d7e1891" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e625">Zu Wort ist niemand mehr gemeldet. Die Debatte ist geschlossen.</seg>
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e627">Wir kommen nunmehr zur Abstimmung über den Antrag der Abgeordneten Mag. Molterer und Scheibner, dem Ausschuss für innere Angelegenheiten zur Berichterstattung über die Regierungsvorlage 1189 der Beilagen betreffend Staatsbürgerschaftsrechtsnovelle 2005 eine Frist bis 5. Dezember 2005 zu setzen.</seg>
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e629">Ich bitte jene Damen und Herren, die für den Fristsetzungsantrag sind, um ein Zeichen der Zustimmung. – Das ist mit Mehrheit angenommen.</seg>
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e631">Wir kommen nunmehr zur Abstimmung über den Antrag der Abgeordneten Mag. Molterer und Scheibner, dem Ausschuss für innere Angelegenheiten zur Berichterstattung über die Regierungsvorlage 1188 der Beilagen betreffend Sicherheitspolizeigesetz eine Frist bis 5. Dezember 2005 zu setzen.</seg>
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e633">Ich bitte jene Damen und Herren, die für den Fristsetzungsantrag sind, um ein Zeichen der Zustimmung. – Das ist mit Mehrheit angenommen.</seg>
+               <pb n="14"/>
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e636">Die nächste Sitzung des Nationalrates, die für Dienstag, den 6. Dezember 2005, 10 Uhr in Aussicht genommen ist, wird auf schriftlichem Wege einberufen.</seg>
+               <seg xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128_d2e638">Die Sitzung ist geschlossen.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note71">
+               <time when="2005-11-16T22:47:45+01:00">22:47:45</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2005-11-16-022-XXII-NRSITZ-00128.note72">Schluss der Sitzung:<time when="2005-11-16T22:47:00+01:00">22:47</time>Uhr</note>
+         </div>
+      </body>
+   </text>
+</TEI>

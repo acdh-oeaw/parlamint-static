@@ -1,0 +1,241 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" ana="#parla.sitting #reference" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038.xml" xml:base="https://parlamint-at.acdh.oeaw.ac.at" prev="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00037.xml" next="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2014-09-02-025-XXV-NRSITZ-00039.xml">
+   <teiHeader xml:lang="en">
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="de">Österreichisches Parlamentskorpus ParlaMint-AT, Stenographische Protokolle der Plenarsitzungen des Österreichischen Nationalrats, XXV. Gesetzgebungsperiode [ParlaMint]</title>
+            <title type="sub" xml:lang="de">38. Sitzung des Nationalrates der Republik Österreich, XXV. Gesetzgebungsperiode, Donnerstag, 10. Juli 2014</title>
+            <title type="main" xml:lang="en">Austrian parliamentary corpus ParlaMint-AT, Shorthand records of the National Council of the Austrian Parliament, Legislative period XXV [ParlaMint]</title>
+            <title type="sub" xml:lang="en">Sitting Number 38, Legislative period XXV, Thursday, 10. July 2014</title>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.sitting" n="38">38. Sitzung</meeting>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.term #NR.XXV" n="25">XXV. Gesetzgebungsperiode</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.sitting" n="38">Sitting 38</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.term #NR.XXV" n="25">Legislative period XXV</meeting>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0002-8111-5584">Hannes Pirker</persName>
+               <persName ref="https://orcid.org/0000-0003-2436-0361">Daniel Schopper</persName>
+               <persName ref="https://orcid.org/0000-0002-1631-4560">Tanja Wissik</persName>
+               <resp xml:lang="de">Projektplanung und Methode</resp>
+               <resp xml:lang="en">Project set-up and methodology</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hannes Pirker</persName>
+               <resp xml:lang="de">Datenbeschaffung, Korpuskodierung in TEI und automatische linguistische Annotation</resp>
+               <resp xml:lang="en">Data retrieval, TEI corpus encoding and automatic linguistic annotation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Schopper</persName>
+               <resp xml:lang="de">XSLT Transformationen</resp>
+               <resp xml:lang="en">XSLT transformations</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Martin Kirnbauer</persName>
+               <resp xml:lang="de">Einige der manuellen Korrekturen</resp>
+               <resp xml:lang="en">Some of the manual curation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Tanja Wissik</persName>
+               <resp xml:lang="de">Metadaten und Übersetzung</resp>
+               <resp xml:lang="en">Metadata and translation</resp>
+            </respStmt>
+            <funder>
+               <orgName xml:lang="de">CLARIN-ERIC</orgName>
+               <orgName xml:lang="en">CLARIN-ERIC (Common Language Resources and Technology Infrastructure—European Research Infrastructure Consortium)</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </funder>
+            <funder>
+               <orgName xml:lang="de">ÖAW (Österreichische Akademie der Wissenschaften)</orgName>
+               <orgName xml:lang="en">ÖAW (Austrian Academy of Sciences)</orgName>
+               <ref target="https://www.oeaw.ac.at/">www.oeaw.ac.at</ref>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>4.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="6" xml:lang="de">6 Äußerungen</measure>
+            <measure unit="speeches" quantity="6" xml:lang="en">6 speeches</measure>
+            <measure unit="words" quantity="931" xml:lang="de">931 Wörter</measure>
+            <measure unit="words" quantity="931" xml:lang="en">931 words</measure>
+         </extent>
+         <publicationStmt>
+            <publisher>
+               <orgName xml:lang="de">Die CLARIN Forschungsinfrastruktur</orgName>
+               <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </publisher>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/1912</idno>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="de">Dieses Werk ist lizensiert unter der <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz (CC BY 4.0)</ref>.</p>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+            </availability>
+            <date when="2024-05-14">2024-05-14</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main" xml:lang="de">Stenographische Protokolle der Plenarsitzungen des Nationalrats der Republik Österreich</title>
+               <title type="sub" xml:lang="de">Stenographisches Protokoll, 38. Sitzung des Nationalrates der Republik Österreich, XXV. Gesetzgebungsperiode, Donnerstag, 10. Juli 2014</title>
+               <title type="main" xml:lang="en">Shorthand records of the plenary sittings of the National Council of the Austrian parliament</title>
+               <title type="sub" xml:lang="en">Shorthand record, Sitting Number 38, Legislative period XXV, Thursday, 10. July 2014</title>
+               <publisher>Parlamentsdirektion</publisher>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/PAKT/VHG/XXV/NRSITZ/NRSITZ_00038/fnameorig_368108.html</idno>
+               <date when="2014-07-10">2014-07-10</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p xml:lang="en"><ref target="https://www.clarin.eu/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://clarin-eric.github.io/ParlaMint/">ParlaMint encoding guidelines</ref>, covering the period from 2015 to mid-2022; (2) add linguistic annotations to the corpora and machine-translate them to English; (3) make the corpora available through concordancers; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.</p>
+            <p xml:lang="de"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+            </p>
+         </projectDesc>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="desc" occurs="10"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="kinesic" occurs="6"/>
+               <tagUsage gi="note" occurs="17"/>
+               <tagUsage gi="pb" occurs="2"/>
+               <tagUsage gi="seg" occurs="37"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="time" occurs="10"/>
+               <tagUsage gi="u" occurs="6"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <name type="city" xml:lang="de">Wien</name>
+               <name type="city" xml:lang="en">Vienna</name>
+               <name type="country" key="AT" xml:lang="en">Austria</name>
+               <name type="country" key="AT" xml:lang="de">Österreich</name>
+               <date ana="#parla.sitting" when="2014-07-10">2014-07-10</date>
+            </setting>
+         </settingDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2022-12-13">
+            <name>Hannes Pirker</name> : Converted from source HTML to TEI.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text ana="#reference">
+      <body>
+         <div xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e178" type="debateSection">
+            <gap reason="editorial" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038.gap1">
+               <desc xml:lang="en">Frontmatters and table of content removed</desc>
+               <desc xml:lang="de">Titelseite und Inhaltsangabe entfernt</desc>
+            </gap>
+            <note type="time" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038.note1">
+               <time when="2014-07-10T17:39:00+02:00">17:39:00</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038.note2">Beginn der Sitzung:<time when="2014-07-10T17:39:00+02:00">17:39</time>Uhr</note>
+            <note type="chairpersons" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038.note3">Zweiter Präsident Karlheinz Kopf</note>
+            <note type="speaker" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038.note4">Präsident Karlheinz Kopf</note>
+            <u who="#PAD_02822" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d7e428" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e197">Ich eröffne die 38. Sitzung des Nationalrates.</seg>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e199">Als verhindert gemeldet sind die Abgeordneten Präsidentin Mag. Prammer, Bayr, Mag. Groiß, Ing. Hackl, Peter Wurmund Zanger.</seg>
+               <note type="time" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038.note5">
+                  <time when="2014-07-10T17:39:03+02:00">17:39:03</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e204">Einlauf und Zuweisungen</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038.note6">Präsident Karlheinz Kopf</note>
+            <u who="#PAD_02822" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d7e462" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e209">Hinsichtlich der eingelangten Verhandlungsgegenstände und deren Zuweisungen verweise ich gemäß § 23 Abs. 4 der Geschäftsordnung auf die im Sitzungssaal verteilte Mitteilung.</seg>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e211">Die schriftliche Mitteilung hat folgenden Wortlaut:</seg>
+               <gap reason="editorial" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038.gap2">
+                  <desc xml:lang="en">Quoted printed matter omited</desc>
+                  <desc xml:lang="de">Zitierte Druckfassung entfernt</desc>
+               </gap>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038.note7">Präsident Karlheinz Kopf</note>
+            <u who="#PAD_02822" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d7e639" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e221">Weiters weise ich den Antrag 587/A/(E) der Abgeordneten Hannes Weninger, Johann Höfinger, Werner Neubauer, Matthias Köchl, Michael Pock, Ulrike Weigerstorfer, Kolleginnen und Kollegen betreffend Zukunft ohne Atomkraft – den europaweiten AKW-Ausstieg voranbringen, dem Umweltausschuss zu.</seg>
+               <note type="time" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038.note8">
+                  <time when="2014-07-10T17:39:50+02:00">17:39:50</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e226">Beschluss auf Beendigung der ordentlichen Tagung 2013/2014</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038.note9">Präsident Karlheinz Kopf</note>
+            <u who="#PAD_02822" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d7e685" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e232">Es liegt mir folgender Antrag vor:</seg>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e234">„Der Herr Bundespräsident wird ersucht, die ordentliche Tagung 2013/2014 der XXV. Gesetzgebungsperiode des Nationalrates mit Ablauf des 14. Juli 2014 für beendet zu erklären.“</seg>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e236">Ich bitte jene Damen und Herren, die diesem Antrag ihre Zustimmung geben, um ein entsprechendes Zeichen. – Das ist einstimmig angenommen.</seg>
+               <note type="time" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038.note10">
+                  <time when="2014-07-10T17:40:01+02:00">17:40:01</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e241">Verlesung eines Teiles des Amtlichen Protokolls</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038.note11">Präsident Karlheinz Kopf</note>
+            <u who="#PAD_02822" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d7e716" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e246">Es liegt mir das schriftliche Verlangen von 20 Abgeordneten vor, das Amtliche Protokoll hinsichtlich des Beschlusses auf Beendigung der ordentlichen Tagung 2013/2014 der XXV. Gesetzgebungsperiode des Nationalrates zu verlesen, damit dieser Teil mit Schluss der Sitzung als genehmigt gilt. Dieser Teil lautet:</seg>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e248">„Es liegt der Antrag Beilage C vor:</seg>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e250">‚Der Herr Bundespräsident wird ersucht, die ordentliche Tagung 2013/2014 der XXV. Gesetzgebungsperiode des Nationalrates mit Ablauf des 14. Juli 2014 für beendet zu erklären.‘</seg>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e252">Dieser Antrag Beilage C wurde einstimmig angenommen.</seg>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e254">Es liegt ein Verlangen gemäß § 51 Abs. 6 GOG auf Verlesung des Teiles des Amtlichen Protokolls hinsichtlich des Beschlusses auf Beendigung der ordentlichen Ta- gung 2013/2014 der XXV. Gesetzgebung vor (Beilage D).“</seg>
+               <pb n="4"/>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e257">Erheben sich Einwendungen gegen diese Fassung dieses Teiles des Amtlichen Protokolls? – Das ist nicht der Fall.</seg>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e259">Dieser Teil des Amtlichen Protokolls gilt daher gemäß § 51 Abs. 6 der Geschäftsordnung mit Schluss der Sitzung als genehmigt.</seg>
+               <note type="time" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038.note12">
+                  <time when="2014-07-10T17:41:19+02:00">17:41:19</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e264">Schlussansprache des Zweiten Präsidenten</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038.note13">
+               <time when="2014-07-10T17:41:20+02:00">17:41:20</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038.note14">Präsident Karlheinz Kopf</note>
+            <u who="#PAD_02822" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d7e772" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e272">Meine sehr geehrten Damen und Herren! Geschätzte Kolleginnen und Kollegen! Üblicherweise wendet sich am Ende eines Sitzungsjahres Frau Präsidentin Mag. Barbara Prammermit Dankesworten an das Hohe Haus. Aus bekanntem Grund mache ich das heute in ihrer Vertretung. Ich tue das zunächst aber nicht, ohne der Frau Präsidentin von dieser Stelle aus noch einmal alles Gute und einen guten Genesungsverlauf zu wünschen.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038.kinesic1">
+                  <desc>Langanhaltender allgemeiner Beifall.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e277">Meine Damen und Herren! Mit dem Ende dieser heutigen Sitzung beschließen wir die aktuelle Tagung.</seg>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e279">Wir haben seit dem 29. Oktober 2013 in 38 Plenarsitzungen, davon fünf Sondersitzungen, und in insgesamt 220 Stunden Sitzungsdauer 62 Gesetze beschlossen, davon fast ein Viertel einstimmig und fast 50 Prozent zumindest mit den Stimmen von drei Parteien.</seg>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e281">Gerade diese drei Sitzungstage, die jetzt zu Ende gehen, meine Damen und Herren, haben einige bedeutsame Beschlüsse und, wie ich denke, auch überwiegend sehr gute Debatten gebracht.</seg>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e283">Wir gehen nun, meine Damen und Herren, in eine zweimonatige sitzungsfreie Zeit des Nationalrates. Wir wissen alle, dass diese sitzungsfreie Zeit nicht gleichzusetzen ist mit zwei Urlaubsmonaten. Aber es war fast unvermeidbar, dass ich vor wenigen Stunden in einem Interview zu diesen zwei Monaten sitzungsfreier Zeit die obligate Frage gestellt bekommen habe.</seg>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e285">Trotzdem, meine Damen und Herren: Ich wünsche allen von uns die Möglichkeit – neben den auch über den Sommer vielfach anstehenden Aufgaben und Verpflichtungen –, sich in dieser Zeit ausreichend erholen zu können und auch Zeit für Privates zu finden.</seg>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e287">Gleichzeitig möchte ich mich bei Ihnen allen, insbesondere aber bei den Mitgliedern der Präsidialkonferenz, für die konstruktive Zusammenarbeit bedanken.</seg>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e289">Bedanken möchte ich mich stellvertretend für alle Mitarbeiterinnen und Mitarbeiter der Parlamentsdirektion beim Herrn Parlamentsdirektor Dr. Harald Dossi, bei seinen beiden Stellvertretern, der Vizedirektorin Dr. Susanne Janistyn-Novák und dem Vizedirektor Dr. Alexis Wintoniak, für die wertvolle Arbeit und Unterstützung während des ganzen Jahres. – Herzlichen Dank!</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038.kinesic2">
+                  <desc>Allgemeiner Beifall.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e294">Ich danke stellvertretend für die Mitarbeiterinnen und Mitarbeiter der Klubs den Damen und Herren Klubdirektoren sowie den parlamentarischen Mitarbeiterinnen und Mitarbeitern für die konstruktive Zusammenarbeit und für die tatkräftige Unterstützung. – Auch euch einen herzlichen Dank!</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038.kinesic3">
+                  <desc>Allgemeiner Beifall.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e300">Einen besonderen Dank richte ich auch an meinen Präsidentenkollegen Ing. Norbert Hoferfür die wirklich exzellente und sehr kollegiale Zusammenarbeit, sowohl zwischen uns beiden persönlich, aber auch zwischen unseren Büros und den Mitarbeitern unserer Büros. – Auch dir herzlichen Dank, Norbert!</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038.kinesic4">
+                  <desc>Beifall bei der FPÖ.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e305">In diesen Dank, meine Damen und Herren, schließe ich aber auch die Mitarbeiterinnen und Mitarbeiter des Büros der Frau Präsidentin unter Leitung von Herrn Helfried Carl</seg>
+               <pb n="5"/>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e308">mit ein, die mich gerade in den letzten Tagen hervorragend unterstützt und die mit meinem Büro ausgezeichnet zusammengearbeitet haben. Aber danke auch für die Arbeit während des ganzen Jahres!</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038.kinesic5">
+                  <desc>Allgemeiner Beifall.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e313">Meine Damen und Herren! Wir alle leben unter dem Eindruck, dass sich zwischen den Bürgerinnen und Bürgern und ihrer politischen Vertretung eine Kluft aufgetan hat. Man hat sogar manchmal den Eindruck, öffentlich geäußerte Parteien- und Politikerverachtung sei in geworden.</seg>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e315">Parteien und Mandatare sind aber aus meiner Sicht unverzichtbare Elemente jeder repräsentativen Demokratie. Wenn deren Akzeptanz, also die Akzeptanz der Parteien und Mandatare, leidet, dann leidet auch die Demokratie.</seg>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e317">Wir werden gegen Jahresende, beginnend in einer Enquete-Kommission, das Thema „Demokratiereform“ ausführlich diskutieren. Vielleicht kann ja tatsächlich die Ergänzung unserer repräsentativen Parteiendemokratie durch das eine oder andere Element der direkten Demokratie mithelfen, die zuvor erwähnte Kluft zu schließen, und die Bürgerinnen und Bürger wieder näher an unsere Entscheidungen und unsere Entscheidungsprozesse heranführen. – Wir werden sehen.</seg>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e319">Jedenfalls freue ich mich diesbezüglich auf spannende Diskussionen mit Ihnen, und ich ersuche Sie alle heute schon im Sinne einer qualitätsvollen Weiterentwicklung der Demokratie um Ihre intensive, konstruktive Mitarbeit und Diskussionsbereitschaft.</seg>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e322">Für heute, meine Damen und Herren, wünsche ich Ihnen noch einen schönen Abend, ein gutes und sicheres Nachhausekommen und uns allen spätestens im September ein Wiedersehen in Gesundheit und voller Tatkraft. – Danke.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038.kinesic6">
+                  <desc>Allgemeiner Beifall.</desc>
+               </kinesic>
+               <note type="time" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038.note15">
+                  <time when="2014-07-10T17:47:00+02:00">17:47</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038_d2e330">Die Sitzung ist geschlossen.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038.note16">
+               <time when="2014-07-10T17:47:00+02:00">17:47:00</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2014-07-10-025-XXV-NRSITZ-00038.note17">Schluss der Sitzung:<time when="2014-07-10T17:47:00+02:00">17:47</time>Uhr</note>
+         </div>
+      </body>
+   </text>
+</TEI>

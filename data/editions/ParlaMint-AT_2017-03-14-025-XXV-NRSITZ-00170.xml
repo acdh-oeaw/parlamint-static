@@ -1,0 +1,395 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de" ana="#parla.sitting #reference" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.xml" xml:base="https://parlamint-at.acdh.oeaw.ac.at" prev="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00169.xml" next="https://parlamint-at.acdh.oeaw.ac.at/ParlaMint-AT_2017-03-29-025-XXV-NRSITZ-00171.xml">
+   <teiHeader xml:lang="en">
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="de">Österreichisches Parlamentskorpus ParlaMint-AT, Stenographische Protokolle der Plenarsitzungen des Österreichischen Nationalrats, XXV. Gesetzgebungsperiode [ParlaMint]</title>
+            <title type="sub" xml:lang="de">170. Sitzung des Nationalrates der Republik Österreich, XXV. Gesetzgebungsperiode, Dienstag, 14. März 2017</title>
+            <title type="main" xml:lang="en">Austrian parliamentary corpus ParlaMint-AT, Shorthand records of the National Council of the Austrian Parliament, Legislative period XXV [ParlaMint]</title>
+            <title type="sub" xml:lang="en">Sitting Number 170, Legislative period XXV, Tuesday, 14. March 2017</title>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.sitting" n="170">170. Sitzung</meeting>
+            <meeting xml:lang="de" corresp="#NR" ana="#parla.lower #parla.term #NR.XXV" n="25">XXV. Gesetzgebungsperiode</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.sitting" n="170">Sitting 170</meeting>
+            <meeting xml:lang="en" corresp="#NR" ana="#parla.lower #parla.term #NR.XXV" n="25">Legislative period XXV</meeting>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0002-8111-5584">Hannes Pirker</persName>
+               <persName ref="https://orcid.org/0000-0003-2436-0361">Daniel Schopper</persName>
+               <persName ref="https://orcid.org/0000-0002-1631-4560">Tanja Wissik</persName>
+               <resp xml:lang="de">Projektplanung und Methode</resp>
+               <resp xml:lang="en">Project set-up and methodology</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Hannes Pirker</persName>
+               <resp xml:lang="de">Datenbeschaffung, Korpuskodierung in TEI und automatische linguistische Annotation</resp>
+               <resp xml:lang="en">Data retrieval, TEI corpus encoding and automatic linguistic annotation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Daniel Schopper</persName>
+               <resp xml:lang="de">XSLT Transformationen</resp>
+               <resp xml:lang="en">XSLT transformations</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Martin Kirnbauer</persName>
+               <resp xml:lang="de">Einige der manuellen Korrekturen</resp>
+               <resp xml:lang="en">Some of the manual curation</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Tanja Wissik</persName>
+               <resp xml:lang="de">Metadaten und Übersetzung</resp>
+               <resp xml:lang="en">Metadata and translation</resp>
+            </respStmt>
+            <funder>
+               <orgName xml:lang="de">CLARIN-ERIC</orgName>
+               <orgName xml:lang="en">CLARIN-ERIC (Common Language Resources and Technology Infrastructure—European Research Infrastructure Consortium)</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </funder>
+            <funder>
+               <orgName xml:lang="de">ÖAW (Österreichische Akademie der Wissenschaften)</orgName>
+               <orgName xml:lang="en">ÖAW (Austrian Academy of Sciences)</orgName>
+               <ref target="https://www.oeaw.ac.at/">www.oeaw.ac.at</ref>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>4.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="18" xml:lang="de">18 Äußerungen</measure>
+            <measure unit="speeches" quantity="18" xml:lang="en">18 speeches</measure>
+            <measure unit="words" quantity="4902" xml:lang="de">4,902 Wörter</measure>
+            <measure unit="words" quantity="4902" xml:lang="en">4,902 words</measure>
+         </extent>
+         <publicationStmt>
+            <publisher>
+               <orgName xml:lang="de">Die CLARIN Forschungsinfrastruktur</orgName>
+               <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </publisher>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/1912</idno>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="de">Dieses Werk ist lizensiert unter der <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz (CC BY 4.0)</ref>.</p>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+            </availability>
+            <date when="2024-05-14">2024-05-14</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main" xml:lang="de">Stenographische Protokolle der Plenarsitzungen des Nationalrats der Republik Österreich</title>
+               <title type="sub" xml:lang="de">Stenographisches Protokoll, 170. Sitzung des Nationalrates der Republik Österreich, XXV. Gesetzgebungsperiode, Dienstag, 14. März 2017</title>
+               <title type="main" xml:lang="en">Shorthand records of the plenary sittings of the National Council of the Austrian parliament</title>
+               <title type="sub" xml:lang="en">Shorthand record, Sitting Number 170, Legislative period XXV, Tuesday, 14. March 2017</title>
+               <publisher>Parlamentsdirektion</publisher>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/PAKT/VHG/XXV/NRSITZ/NRSITZ_00170/fnameorig_642592.html</idno>
+               <date when="2017-03-14">2017-03-14</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p xml:lang="en"><ref target="https://www.clarin.eu/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://clarin-eric.github.io/ParlaMint/">ParlaMint encoding guidelines</ref>, covering the period from 2015 to mid-2022; (2) add linguistic annotations to the corpora and machine-translate them to English; (3) make the corpora available through concordancers; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.</p>
+            <p xml:lang="de"><ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref>
+            </p>
+         </projectDesc>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="desc" occurs="24"/>
+               <tagUsage gi="div" occurs="1"/>
+               <tagUsage gi="gap" occurs="2"/>
+               <tagUsage gi="kinesic" occurs="14"/>
+               <tagUsage gi="note" occurs="60"/>
+               <tagUsage gi="pb" occurs="10"/>
+               <tagUsage gi="seg" occurs="63"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="time" occurs="21"/>
+               <tagUsage gi="u" occurs="18"/>
+               <tagUsage gi="vocal" occurs="6"/>
+            </namespace>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <name type="city" xml:lang="de">Wien</name>
+               <name type="city" xml:lang="en">Vienna</name>
+               <name type="country" key="AT" xml:lang="en">Austria</name>
+               <name type="country" key="AT" xml:lang="de">Österreich</name>
+               <date ana="#parla.sitting" when="2017-03-14">2017-03-14</date>
+            </setting>
+         </settingDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2022-12-13">
+            <name>Hannes Pirker</name> : Converted from source HTML to TEI.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text ana="#reference">
+      <body>
+         <div xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e178" type="debateSection">
+            <gap reason="editorial" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.gap1">
+               <desc xml:lang="en">Frontmatters and table of content removed</desc>
+               <desc xml:lang="de">Titelseite und Inhaltsangabe entfernt</desc>
+            </gap>
+            <note type="time" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note1">
+               <time when="2017-03-14T14:45:46+01:00">14:45:46</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note2">Beginn der Sitzung:<time when="2017-03-14T14:46:00+01:00">14:46</time>Uhr</note>
+            <note type="chairpersons" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note3">Präsidentin Doris Bures Dritter Präsident Ing. Norbert Hofer</note>
+            <note type="speaker" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note4">Präsident Ing. Norbert Hofer</note>
+            <u who="#PAD_35521" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e516" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e197">Ich eröffne die 170. Sitzung des Nationalrates.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e199">Als verhindert gemeldet sind die Abgeordneten Hakel, Kucharowits, Dr. Nachbaur, Walter Rauch, Ing. Schellenbacher, Mag. Schrangl, Zanger und Mag. Schwentner.</seg>
+               <note type="time" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note5">
+                  <time when="2017-03-14T14:45:55+01:00">14:45:55</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e204">Einlauf und Zuweisungen</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note6">Präsident Ing. Norbert Hofer</note>
+            <u who="#PAD_35521" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e550" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e209">Hinsichtlich der eingelangten Verhandlungsgegenstände und deren Zuweisungen verweise ich gemäß § 23 Abs. 4 der Geschäftsordnung auf die im Sitzungssaal verteilte Mitteilung.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e211">Die schriftliche Mitteilung hat folgenden Wortlaut:</seg>
+               <gap reason="editorial" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.gap2">
+                  <desc xml:lang="en">Quoted printed matter omited</desc>
+                  <desc xml:lang="de">Zitierte Druckfassung entfernt</desc>
+               </gap>
+               <note type="time" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note7">
+                  <time when="2017-03-14T14:46:06+01:00">14:46:06</time>
+               </note>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e221">Fristsetzungsantrag</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note8">Präsident Ing. Norbert Hofer</note>
+            <u who="#PAD_35521" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e758" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e226">Ich teile mit, dass die Abgeordneten Dr. Lopatka und Mag. Schieder beantragt haben, dem Budgetausschuss zur Berichterstattung über die Regierungsvorlage betreffend ein Bundesgesetz, mit dem das Bundeshaushaltsgesetz 2013, das Bundesfinanzierungsgesetz, das Allgemeine Sozialversicherungsgesetz sowie weitere Gesetze geändert werden, 1514 der Beilagen, eine Frist bis 28. März 2017 zu setzen.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e228">Ferner liegt das von fünf Abgeordneten gemäß § 43 Abs. 3 der Geschäftsordnung gestellte Verlangen vor, eine kurze Debatte über diesen Fristsetzungsantrag durchzuführen. Diese kurze Debatte wird sogleich stattfinden.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e230">Die Abstimmung über den gegenständlichen Fristsetzungsantrag wird nach Schluss dieser Debatte erfolgen.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e232">Kurze Debatte über den Fristsetzungsantrag</seg>
+            </u>
+            <note type="speaker" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note9">Präsident Ing. Norbert Hofer</note>
+            <u who="#PAD_35521" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e782" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e238">Wir gehen in die Debatte ein.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e240">Ich mache darauf aufmerksam, dass gemäß § 57a Abs. 1 der Geschäftsordnung kein Redner länger als 5 Minuten sprechen darf, wobei dem Erstredner zur Begründung 10 Minuten Redezeit zukommen.</seg>
+               <pb n="5"/>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e243">Stellungnahmen von Mitgliedern der Bundesregierung oder zu Wort gemeldeten Staatssekretären sollen nicht länger als 10 Minuten dauern.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e245">Das Wort erhält zunächst Herr Abgeordneter Mag. Rossmann. – Bitte, Herr Abgeordneter.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note10">
+               <time when="2017-03-14T14:47:10+01:00">14:47:10</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note11">Abgeordneter Mag. Bruno Rossmann (Grüne)</note>
+            <u who="#PAD_35516" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e816" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e253">Herr Präsident! Herr Finanzminister, Sie haben mich gestern zu sich gebeten und mir mitgeteilt, dass es heute einen Fristsetzungsantrag zu einer Regierungsvorlage betreffend das Spekulationsverbot geben würde.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e255">Das Spekulationsverbot ist aber eine Materie, die erst mit 2018 in Kraft treten soll, also gar so große Eile hat diese Materie nicht. Daher stellt sich die Frage: Warum gibt es diesen Fristsetzungsantrag? – Und die Antwort ist ganz einfach: Es gibt eine Änderung des Haushaltsrechts im Zusammenhang mit dem Spekulationsverbot, aber Sie wollen Ihr Hobby, das Sie in den letzten Wochen und Monaten betrieben haben, mit aller Gewalt in diesem Haus umsetzen. Es ist ja schon verwunderlich, dass Sie mir mitgeteilt haben, dass es einen Fristsetzungsantrag geben wird, und nicht die Abgeordneten dieses Hauses.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e257">Worum geht es? – Es geht ganz einfach darum, dass eine gravierende Änderung des Haushaltsrechts stattfinden soll, wonach der Bundesfinanzrahmen, also die mittelfristige Finanzplanung einschließlich der Festlegung der budgetpolitischen Strategie, vom Frühjahr auf den Herbst verschoben werden soll. Und dagegen gibt es aus meiner Sicht eine ganze Reihe gravierender Einwendungen, die in dieser Form eine Verschiebung nicht rechtfertigen.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e259">Herr Finanzminister, nehmen wir einmal Ihre Begründungen her, die Sie vorgetragen haben. Eine der Begründungen lautet: Es führt zu einer Vereinfachung der Budgetplanung und des Budgetprozesses in diesem Hause. – Also darüber, wie wir diese Prozesse in diesem Haus abwickeln sollen, sollten, glaube ich, wir in diesem Hause uns Sorgen machen.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e261">Das zweite Argument, das Sie vorgebracht haben, ist, dass es üblich geworden ist, dass die mittelfristige Finanzplanung vom Frühjahr jedes Mal im Herbst wieder geändert werden muss. – Ja, das ist eine Schwäche, zugegebenermaßen, aber diese Schwäche rechtfertigt noch lange nicht eine Verschiebung vom Frühjahr in den Herbst.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e263">Warum nicht? – Das Ziel bei der Schaffung des neuen Haushaltsrechts war es eben, einen zweistufigen Budgetprozess zu schaffen. Im Frühjahr legen wir die mittelfristigen Finanzrahmen fest, die Ausgabenobergrenzen, definieren aber auch die budgetpolitischen Prioritäten, die Ziele und Strategien, und im Herbst setzen wir dann diese Prioritäten mit ganz spezifischen Maßnahmen um.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e265">Lesen wir einmal nach, was der damalige Sektionschef Steger gemeinsam mit seinem Stellvertreter in einem Kommentar zu dieser mittelfristigen Finanzplanung geschrieben hat: „Damit wird der Strategiebericht gemeinsam mit dem Bundesfinanzrahmengesetz zu einer der wesentlichsten Budgetunterlagen, die für die politische Diskussion über das Budget und die Budgetplanung von zentraler Bedeutung sein werden.“</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e267">Ja, das ist auch so. Wenn aber jetzt der Budgetierungsprozess vom Frühjahr mit dem Budgetierungsprozess für das Folgejahr im Herbst zusammengelegt wird, dann ist die Gefahr natürlich groß, dass diese Strategie- und Zieldebatte völlig untergeht, denn da werden wir zugepflastert mit Informationen, die Tausende von Seiten umfassen, die unübersichtlich sind und bei denen wir schlicht und einfach nicht die Zeit dafür haben, um all das, was dann im Herbst vorgelegt werden soll, ausführlich diskutieren zu können.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e269">Es geht meines Erachtens darum, dass man diesen Prozess, so, wie er ist, beibehalten soll, dass aber diese Schwäche, Herr Minister, die Sie erwähnt haben, nämlich dass</seg>
+               <pb n="6"/>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e272">die Regierung sich nicht selbst an ihr eigenes Commitment in Bezug auf die Planung hält, beseitigt werden muss. Das muss doch das Ziel sein und nicht die Entsorgung des Budgetierungsprozesses vom Frühjahr in den Herbst, wodurch das völlig untergehen würde.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.kinesic1">
+                  <desc>Beifall bei den Grünen.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e278">Das heißt, wir gehen dieser Ziel- und Strategiedebatte in einem Land, in dem wir enorme Strategiedefizite in der Budgetierung haben, verlustig.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e280">Der zweite Punkt: Das neue Haushaltsrecht hat eine Reihe von neuen Mitwirkungsrechten mit sich gebracht, und eines dieser Mitwirkungsrechte war eben der Budgetierungsprozess im Frühjahr. Es hat auch zu mehr Transparenz geführt, und die Transparenz ist ja eines der Ziele, die wir sogar in der Bundesverfassung verankert haben.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e282">Wenn das nun aber in den Herbst entsorgt werden soll, dann bedeutet das, dass die gesamte parlamentarische Debatte, auch die öffentliche Debatte, die hier im Plenum geführt wird, die aber auch im Ausschuss mit einem Hearing geführt wird, schlicht und einfach verloren geht, unwiderruflich, und das ist etwas, was wir als Parlament uns nicht bieten lassen dürfen.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.kinesic2">
+                  <desc>Beifall bei den Grünen.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e287">Das heißt, diese Entdemokratisierung, Herr Finanzminister, die Sie mit der Verschiebung in den Herbst einleiten wollen, ist aus unserer Sicht schlicht und einfach ein No-Go.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e289">Wenn wir einen Blick über die Grenzen werfen, so können wir ganz einfach feststellen, dass es viele Länder gibt, die mittelfristige Budgetplanungen haben, aber die Mehrheit dieser Länder hat ihre mittelfristige Finanzplanung im Frühjahr und nicht im Herbst, gleichzeitig mit der Erstellung des Budgets. Warum also sollen wir davon abgehen? – Da müssen Sie schon bessere Gründe als die, die Sie bislang geliefert haben, liefern.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e291">Sie haben mir gesagt, dass wir dann im Herbst Zeit haben, um all das, was da vorgelegt wird, ausführlich zu diskutieren. Dazu sage ich Nein, denn wenn ich mir die Budgetplanung anschaue, so kann ich im Rahmen der Budgetplanung bislang nicht feststellen, dass eine Ausweitung der Zeit im Herbst um die Zeit, die uns im Frühjahr verloren gehen soll, stattfinden wird. Also in Summe bedeutet das weniger Zeit, weniger Öffentlichkeit, weniger Transparenz – das ist das, was Sie in Wirklichkeit anstreben. Sie haben es ja hemdsärmelig in Ihrer Rede ziemlich deutlich zum Ausdruck gebracht, Sie haben schlicht und einfach gesagt: Ich habe keine Lust, mich zweimal jährlich erpressen zu lassen.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e293">Ihre Aufgabe, Herr Finanzminister, ist es nun einmal, mit den anderen Ministern über die budgetpolitischen Prioritäten zu verhandeln, und Aufgabe der Regierung ist es, sicherzustellen, dass das, was hier ausverhandelt wurde, auch über die gesamte Planungsperiode hält. Eines war nämlich von Anfang an klar, als wir das neue Haushaltsrecht gemacht haben: Wenn sich die Regierung nicht an ihre eigene Planung hält, dann wird das Ganze nicht funktionieren. Dazu gibt es Tausende Publikationen von der OECD, die das mehrfach deutlich gesagt und in vielen Ländern festgestellt hat.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e295">Apropos OECD, ein weiteres No-Go muss ich hier anführen: Wir befinden uns inmitten eines Prozesses der Evaluierung des neuen Haushaltsrechts, und inmitten dieses Evaluierungsprozesses, Herr Finanzminister, wollen Sie eine gravierende Änderung dieses Haushaltsprozesses machen, die unumkehrbar ist. Entschuldigen Sie bitte, aber das ist schlichtweg ein Schildbürgerstreich: Nicht nur, dass da etwas evaluiert werden soll, was es unter Umständen dann gar nicht mehr gibt, wenn das im nächsten Plenum beschlossen werden soll, nein, die Evaluierung ist ja auch mit Kosten verbunden.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e297">Ihre Sektionschefin hat uns im Rahmen des Haushaltsrechtsbeirats mitgeteilt, dass mit dieser Evaluierung durch internationale Organisationen Kosten in Höhe von 200 000 € anfallen würden. Sie reden immer davon, dass wir ein Ausgabenproblem haben, aber Sparen beginnt im Kleinen, Herr Minister <pb n="7"/>
+                  <note type="comment" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note12">Zwischenbemerkung von Bundesminister Schel- ling</note> , und das, was Sie hier betreiben, ist Verschwendung öffentlicher Mittel. Warten wir doch diese Evaluierung ab, bevor wir gravierende Änderungen in Bezug auf das neue Haushaltsrecht vornehmen!</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.kinesic3">
+                  <desc>Beifall bei den Grünen.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e307">Ein weiterer Punkt ist noch anzuführen, nämlich jener, dass diese Verschiebung auch zur Folge hat, dass die Gegenfinanzierung des Regierungsprogramms, das kürzlich beschlossen wurde, Regierungsprogramm Neu, nicht dargestellt werden muss, denn in diesem Regierungsprogramm steht ja drinnen, dass die Finanzierung erst im Herbst präsentiert werden soll. Auch das ist unstatthaft. Wenn Sie ein neues Regierungsprogramm machen, Herr Finanzminister, dann stehen Sie auch Rede und Antwort dazu, wie Sie das finanzieren wollen. Es geht um immerhin 4 Milliarden € für die nächsten vier Jahre; aus meiner Sicht ist das eher eine Untergrenze.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e309">Ich halte es nicht für statthaft, aus diesen und den anderen erwähnten Gründen, dazu überzugehen, diesen Budgetierungsprozess endgültig vom Frühjahr in den Herbst zu entsorgen.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e311">Wenn ich nun eine Schlussfolgerung ziehen darf, so würde ich wohl meinen, dass ein selbstbewusstes Parlament – und ich glaube, wir sollten gerade in einer Kernmaterie als selbstbewusstes Parlament auftreten – diesem Ansinnen entschieden entgegentreten muss. Wir dürfen es nicht zulassen, dass dieses Haushaltsrecht mit einem Streich derart geändert wird, dass Änderungen gemacht werden, die unwiderruflich sind, wobei die derzeitigen Regelungen jedoch Sinn machen.</seg>
+               <kinesic type="signal" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.kinesic4">
+                  <desc>Präsident Hofer gibt das Glockenzeichen.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e316">Ich habe gestern noch Gelegenheit gehabt, mit Herrn Sektionschef Steger, der ja der Vater dieses Haushaltsrechts ist, zu sprechen. Ich habe ihn in Bahrain erwischt, und er hat mir gesagt, Herr Finanzminister: Angesichts dieses Vorhabens kann man nur den Kopf schütteln. – Ich kann ihm da nur zustimmen. – Vielen Dank.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.kinesic5">
+               <desc>Beifall bei den Grünen.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note13">
+               <time when="2017-03-14T14:57:00+01:00">14:57</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note14">Präsident Ing. Norbert Hofer</note>
+            <u who="#PAD_35521" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e956" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e327">Ich darf darauf aufmerksam machen, dass die Redezeit der nunmehr zu Wort gemeldeten Abgeordneten 5 Minuten beträgt. Herr Bundesminister, werden Sie sich im Rahmen der Debatte noch zu Wort melden? <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e964">Bundesminister Schelling: Nein!</note> – Danke, das wollte ich nur wissen. <vocal type="laughter" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.vocal1">
+                     <desc>Heiterkeit bei den Grünen.</desc>
+                  </vocal>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e984">Bundesminister Schelling: Das ist eine Fristsetzungsdebatte! ... im Ausschuss!</note>Damit gelangt Herr Abgeordneter Krainer zu Wort. – Bitte schön.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note17">
+               <time when="2017-03-14T14:58:03+01:00">14:58:03</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note18">Abgeordneter Kai Jan Krainer (SPÖ)</note>
+            <u who="#PAD_14842" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e1007" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e344">Herr Präsident! Meine sehr geehrten Damen und Herren! Vordergründig geht es hier um ein Spekulationsverbot, also etwas, was ja nicht ganz neu ist, was wir teilweise schon umgesetzt haben, und dabei geht es vor allem auch um die Umsetzung im Bereich der Sozialversicherungsträger und eine detaillierte Umsetzung, was die Haushaltsführung aller Organe der Republik betrifft. Laut der einleitenden Stellungnahme des Kollegen Rossmann geht es aber gar nicht so sehr um das eigentliche Gesetz, das hier befristet werden soll, sondern um mögliche Änderungen im Haushaltsrecht. Deswegen darf ich dazu auch ein paar Worte sagen. Der Grund dafür, dass es diesen Fristsetzungsantrag gibt, ist relativ einfach: Es hat den Wunsch gegeben, eine Sitzung des Budgetausschusses zu machen, um die Frage, die Kollege Rossmann angesprochen hat, noch einmal ordentlich zu diskutieren. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e1015">Abg. Brosz: Ist aber nicht eingebracht!</note> Wir haben das im Rahmen des Haushaltsrechtsbeirats beziehungsweise in Budgetsprechersitzungen ja getan, aber wir wollten das auch in einem Ausschuss machen, und dieser Fristsetzungsantrag soll jene Fraktionen, die den Rundlauf, wie das in der Parlamentssprache heißt, noch nicht unterschrieben ha- <pb n="8"/>
+            ben, davon überzeugen, dass wir in zwei Tagen, am 16. März, vielleicht doch eine Sitzung des Budgetausschusses machen. Das Ansinnen ist nicht neu, sondern seit vielen Wochen bekannt. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e1030">Abg. Brosz: Aber nicht eingebracht!</note> Worum geht es da im Detail? – Ja, es geht um die Frage des Haushaltsrechts. Kollege Rossmann hat vollkommen recht: Wir haben damals, als wir das in zwei Stufen über viele Jahre verhandelt haben, auch gleich ins Gesetz hineingeschrieben, dass wir das evaluieren wollen. Nach fünf Jahren soll das evaluiert werden, und wir befinden uns jetzt gerade in diesem Evaluierungsprozess. Es gibt unabhängig davon, glaube ich, in allen Fraktionen bereits Erfahrungen mit dem neuen Haushaltsrecht. Es gibt unterschiedliche Meinungen darüber – also bei uns jedenfalls, was ich weiß, aber in allen Fraktionen –, welcher Teil einem besser gefällt, welcher Teil einem weniger gut gefällt, wo man Verbesserungsbedarf sieht, wo man Änderungsmöglichkeiten sieht. Bei diesen vielen Vorschlägen, die es gibt, hat auch Kollege Rossmann gute Ideen, wie man das noch besser machen kann. Wir haben diese Ideen ja schon öfters auch im Ausschuss gehört, es gab auch Diskussionen darüber. Und es gibt auch die Idee, die mittelfristige und die jährliche Planung zusammenzulegen. Ich halte das jetzige System für gut. Es gibt aber auch Systeme, in denen man das auf einmal macht, und die sind deswegen auch nicht per se schlecht. Die Einwände, die nicht zu Unrecht erhoben wurden, waren: Jetzt haben wir diese Evaluierung, also warten wir doch die Ergebnisse der Evaluierung ab, bevor wir größere Änderungen im Haushaltsrecht machen. – Dem kann ich etwas abgewinnen. <note type="procedural" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note21">Präsidentin Bures übernimmt den Vorsitz.</note> Deswegen haben wir auch am Rande des Haushaltsrechtsbeirats gesagt: Dann könnten wir das durchaus für das eine Jahr ändern. Kollege Rossmann hat ja gesagt, dass es aufgrund des neuen Regierungsprogramms technisch gar nicht möglich ist, jetzt in wenigen Wochen die budgetäre Unterlegung von Maßnahmen festzulegen, die erst in den Monaten danach verhandelt werden. Machen wir das im Herbst! – Das steht ja auch im Regierungsprogramm so drin. Machen wir, sage ich einmal, eine einmalige gesetzliche Regelung, dass wir das BFRG heuer quasi erst im Herbst haben! Schauen wir uns die Debatte an, in der wir darüber gesprochen haben, wie wir trotzdem eine Debatte über die Budgetpolitik anhand des Stabilitätsberichts, der relativ zeitgleich mit dem Bundesfinanzrahmen nach Brüssel abgegeben wird, führen können! Schauen wir, ob wir diese Debatte auch so führen können und ob das dann im Gesamten Sinn macht oder nicht, machen wir so etwas wie einen Probelauf! Das steht nach wie vor zur Diskussion. Das wollen wir im Rahmen des Budgetausschusses in zwei Tagen diskutieren. An und für sich, glaube ich, wollen alle hier im Haus den Weg, den wir in den letzten Jahren beim Haushaltsrecht gegangen sind, nämlich möglichst einen Konsens zu haben, im Prinzip nicht verlassen. Ich hoffe dann auf Konsensfähigkeit. Konsens kommt immer von allen, da bekommt nicht jeder alles, was er will, sondern wir müssen uns gemeinsam auf ein Prozedere einigen, wie das Budget erstellt wird, wie das im Haus behandelt wird, welche Berichte die Regierung zu welchen Zeitpunkten legen muss. Darauf müssen wir uns einigen. Und wir müssen uns im Zuge des Evaluierungsprozesses anschauen: Wie hat das heurige Jahr funktioniert? Hat das Sinn gemacht oder nicht? Was gibt es sonst für Änderungen und Verbesserungen im Haushaltsrecht? Ende dieses Jahres, Anfang des nächsten Jahres können wir uns das genau anschauen, können wird das im Haushaltsrechtsbeirat, im Budgetausschuss, unter den Budgetsprechern debattieren. Dadurch können wir das sehr, sehr gute neue Haushaltsrecht, <pb n="9"/>
+            das wir, glaube ich, in Österreich haben, noch einmal weiter verbessern, und zwar möglichst im Konsensprinzip. Insofern unterstützen wir den Fristsetzungsantrag und stehen auch offen zur Verfügung, um diesen Ablauf einmalig für heuer zu ändern und dann zu schauen, ob das ein Dauerzustand werden sollte und was man sonst am Haushaltsrecht noch ändern sollte. – Danke schön.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.kinesic6">
+               <desc>Beifall bei der SPÖ.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note22">
+               <time when="2017-03-14T15:03:00+01:00">15:03</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note23">Präsidentin Doris Bures</note>
+            <u who="#PAD_00145" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e1062" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e369">Nächster Redner: Herr Abgeordneter Mag. Groiß. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note24">
+               <time when="2017-03-14T15:03:33+01:00">15:03:33</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note25">Abgeordneter Ing. Mag. Werner Groiß (ÖVP)</note>
+            <u who="#PAD_83147" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e1083" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e377">Sehr geehrte Frau Präsidentin! Herr Minister! Liebe Kolleginnen, liebe Kollegen! Liebe Zuhörerinnen, liebe Zuhörer! Wir diskutieren heute den Fristsetzungsantrag betreffend ein Bundesgesetz, mit dem das Bundeshaushaltsgesetz 2013, das Bundesfinanzierungsgesetz und andere Gesetze geändert werden. Damit soll eine Frist bis 28. März 2017 gesetzt werden, sodass wir das im nächsten Plenum beschließen können. Warum wollen wir diese Änderungen? – Kollege Rossmann hat das schon breit ausgeführt: Es geht einerseits um das Spekulationsverbot, andererseits auch um die Änderung des Bundesfinanzrahmengesetzes. Was spricht dafür, dass wir das Bundesfinanzrahmengesetz und das Bundesfinanzgesetz in einem diskutieren und miteinander beschließen? – Das Bundesfinanzrahmengesetz wird im Frühling immer als einer von vielen Brocken im Budgetausschuss diskutiert, es wird kaum wahrgenommen und abgestimmt. Genau dieser Vierjahresplan ist aber eigentlich das Essenzielle, das uns als Abgeordnete besonders interessieren muss. Im Herbst haben wir eine breite Diskussion über das Bundesbudget. Wenn man das Bundesfinanzrahmengesetz dabei miteinschließt, haben wir Abgeordnete die Möglichkeit, mit dem jeweiligen Ressortminister dessen langfristige Planung zu diskutieren, zu diskutieren, wie das langfristig in dem Plan unterzubringen ist. Wir haben aber auch schon andere Vorteile gehört, wie zum Beispiel, dass es eine maßgebliche Vereinfachung sowohl im parlamentarischen als auch im legistischen Ablauf gibt, da nicht wieder so viele Änderungen vorgenommen werden müssen. Auch in der Verwaltung kommt es zu Vereinfachungen. Die unionsrechtlichen Vorschriften werden eingehalten, und wir können auch im Frühling das, was wir nach Brüssel melden müssen, durchführen. Meine Damen und Herren! Die Information über den mittelfristigen Plan ist sehr wichtig. Ich denke mir, wenn wir diese gemeinsam mit einer Budgetwoche, gemeinsam mit einem zwei-, dreitägigen Plenum durchführen, dann geht die Information über die vierjährige Planung wesentlich tiefer und bekommt wesentlich mehr Öffentlichkeit – daher auch dieser Fristsetzungsantrag. Warum es diesen Fristsetzungsantrag gibt? – Ja, wir haben eine Tradition – den sogenannten Umlaufbeschluss –, dass die Tagesordnung einstimmig festgelegt wird, also von allen Fraktionen unterschrieben wird. Das heißt, dass ein Sprecher einer Partei eine Tagesordnung oder einen ganzen Ausschuss blockieren kann. Es gibt jedoch in der Geschäftsordnung die Möglichkeit des Fristsetzungsantrags, damit der Nationalrat sagen kann: Ja, wir wollen über dieses Thema diskutieren, wir stellen uns dieser Diskussion. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e1097">Abg. Loacker: Stellt sich der Minister auch der Diskussion?</note>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e1111">Abg. Lugar: Der Minister sagt aber nichts dazu!</note> Die heutige Debatte zeigt schon, dass wir uns der Diskussion zu stellen haben. Die unterschiedlichen Meinungen sind teilweise schon da. Das wird auch im Budgetausschuss entsprechend diskutiert werden können, und so können wir auch zu einem Ergebnis darüber kommen, wie die Mehrheit in diesem Hause zu diesem Thema steht. <pb n="10"/>
+            Aus diesem Grund ist die Fristsetzung meiner Meinung nach sinnvoll, ist die Fristsetzung wichtig. Ich bitte um breite Unterstützung. – Danke.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.kinesic7">
+               <desc>Beifall bei der ÖVP.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note28">
+               <time when="2017-03-14T15:07:00+01:00">15:07</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note29">Präsidentin Doris Bures</note>
+            <u who="#PAD_00145" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e1139" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e395">Nächster Redner: Herr Abgeordneter Mag. Haider. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note30">
+               <time when="2017-03-14T15:07:25+01:00">15:07:25</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note31">Abgeordneter Mag. Roman Haider (FPÖ)</note>
+            <u who="#PAD_51560" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e1161" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e404">Frau Präsident! Herr Bundesminister! Hohes Haus! Jetzt haben wir, glaube ich, wirklich jeden eventuellen Zuschauer, den wir im ORF oder über Livestream noch gehabt haben, mit dieser Diskussion, die kein Mensch versteht, verjagt. Da jetzt wahrscheinlich auch noch der letzte Zuschauer abgedreht hat, sollten Sie sich wirklich folgende Frage stellen, meine Damen und Herren von SPÖ und ÖVP: Sie bringen hier einen Fristsetzungsantrag ein, sich selbst eine Zweiwochenfrist zu setzen, um endlich tätig zu werden – wir werden uns dem Fristsetzungsantrag nicht verweigern, denn wir wollen die Letzten sein, die Sie am Arbeiten hindern –, aber glauben Sie nicht, dass da ein Neuwahlantrag besser und richtig gewesen wäre?</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.kinesic8">
+               <desc>Beifall bei der FPÖ.</desc>
+            </kinesic>
+            <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e1175">Abg. Matznetter: Das hat aber auch der letzte Zuschauer ...!</note>
+            <note type="time" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note33">
+               <time when="2017-03-14T15:08:00+01:00">15:08</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note34">Präsidentin Doris Bures</note>
+            <u who="#PAD_00145" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e1195" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e417">Nächster Redner: Herr Abgeordneter Mag. Kogler. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note35">
+               <time when="2017-03-14T15:08:00+01:00">15:08:00</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note36">Abgeordneter Mag. Werner Kogler (Grüne)</note>
+            <u who="#PAD_08242" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e1217" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e425">Frau Präsidentin! Ja, das hat natürlich etwas! Eine ehrlichere, lang angekündigte Vorgangsweise wäre vielleicht besser gewesen, was das Prozedere im Haus betrifft. Was ich vernommen habe, hat der Herr Bundesminister, der ja heute anwesend ist – es wäre löblich, wenn das mehr Regierungsmitglieder bei Fristsetzungsanträgen tun würden –, schon länger versucht, einzelne Mitglieder der Fraktionen von seinem Vorhaben zu informieren. Das soll nicht unter den Tisch fallen.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e427">In der Sache selbst kann man ja für alles oder gegen vieles sein, aber zwei Sachen sind schon bemerkenswert: Erstens ist damals dieses System mit einem wirklich sehr, sehr langen – fast hätte ich gesagt: elendslangen – Aufwand, gerade auch unter parlamentarischer Beteiligung aller Fraktionen, mit Blick auf Schweden – vor allem dorthin, und wie toll das alles ist – und auf Vorbilder noch und nöcher ersonnen worden.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e429">Man darf seine Eindrücke und Meinungen auch ändern, auch wir hier im Haus dürfen das. Was aber wirklich seltsam anmutet, ist, gerade weil das so lange eingetaktet wurde, dass man während laufender Evaluierung in dieses System eingreift. Vielleicht würde ich mich ja überzeugen lassen, dass da auch etwas dran sein kann. Mit dieser Methode ist es aber schon methodisch hinfällig, finde ich, denn wozu gibt es dann die Evaluierung? – Das ist das eine.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e431">Das Zweite ist, dass aufs Erste natürlich schon augenscheinlich ist, dass die beiden Dinge getrennt werden. Die Leute haben sich ja damals bei der Festlegung auf die derzeitige Regelung doch einiges gedacht, weil die Gefahr, wenn man das im Herbst zusammenzieht, sehr, sehr groß ist, dass die mittelfristige Planung, der Finanzrahmen, immer in dem kleinteiligen Zahlenhickhack des Budgets untergehen wird, jedenfalls im Verhältnis dazu. Wie das bei der Eigendynamik der parlamentarischen Debatten seriös auseinandergeklaubt werden soll, ist mir noch schleierhaft. Aber, wie gesagt, ich lasse mich ja von vielem überzeugen.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e433">Was die Möglichkeiten oder die Belastungen im Finanzministerium – so wie das ja dargestellt wird – betrifft, bin ich mir nicht sicher, ob das so viel bringt. Ich weiß aber nicht, ob sozusagen das Parlament dazu da ist, die Arbeit im Ministerium zu erleichtern, wenn es eigentlich im Budgetprozess mehr Einfluss gewinnen will – nur von der Grundsatzfrage her. Dem muss man sich, glaube ich, stellen: Ist es so, dass in Österreich der Weg</seg>
+               <pb n="11"/>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e436">eingeschlagen wird, dass man dem Parlament in einer Kern- und, wie manche sagen, Königsdisziplin des Parlaments – Budgetprozess, Budgetbeschluss und vorauslaufender Finanzrahmen – einen höheren Stellenwert beimessen will oder eben nicht, also weniger als früher? Daran wird das zu messen sein.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e438">Wie gesagt, ich bin Ihnen nicht gram, Herr Bundesminister. Sie haben Ihre Argumente, Sie machen das dort. Wir hier aber sind das Parlament! Das wirklich Seltsame ist – da kann ich beim Vorredner anschließen –, wie und mit welcher Methode die Dinge hier hereingekippt werden. Ich meine, dann hätten wir eben einen entsprechenden Antrag hier herinnen! Wo ist er denn überhaupt? – Da muss das Spekulationsverbot – unter Anführungszeichen – „herhalten“, das eigentlich erst 2018 in Kraft tritt, damit das plötzlich dringlich ist. Das ist eine, sagen wir einmal, wenn schon nicht unsaubere, so doch mindestens unseriöse Vorgangsweise. Das sollten Sie sich auch abgewöhnen.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e440">Ein letzter Punkt: Stichwort Spekulationsverbot – wenn wir endlich eines hätten, das bundeseinheitlich und über den Verfassungsweg für alle Einheiten, die hier tätig sind, insbesondere für die Bundesländer, gilt, wenn wir so etwas, für alle Gleichwertiges schaffen würden, dann wäre zumindest dieser Antrag gerechtfertigt. Dann könnten wir endlich – aufpassen: Schwarze aus Niederösterreich, fertig machen zum Zwischenruf! – die Spekulationen, die in Niederösterreich nach wie vor verteidigt, gewürdigt werden und immer noch möglich sind, abdrehen.</seg>
+               <kinesic type="applause" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.kinesic9">
+                  <desc>Beifall bei den Grünen.</desc>
+               </kinesic>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e445">Das wäre doch eine sinnvolle Vorgangsweise. Dafür könnten wir über Nacht alles Mögliche im Parlament beschließen.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.kinesic10">
+               <desc>Beifall bei den Grünen.</desc>
+            </kinesic>
+            <vocal type="interruption" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.vocal2">
+               <desc>Zwischenruf des Abg. Brosz.</desc>
+            </vocal>
+            <note type="time" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note37">
+               <time when="2017-03-14T15:12:00+01:00">15:12</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note38">Präsidentin Doris Bures</note>
+            <u who="#PAD_00145" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e1280" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e460">Nächster Redner: Herr Abgeordneter Dr. Hable. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note39">
+               <time when="2017-03-14T15:12:59+01:00">15:12:59</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note40">Abgeordneter Dr. Rainer Hable (NEOS)</note>
+            <u who="#PAD_83120" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e1301" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e468">Frau Präsidentin! Hohes Haus! Herr Bundesminister! Wir debattieren einen Fristsetzungsantrag der SPÖ- und ÖVP-Fraktionen. Worum geht es in Wirklichkeit? – Es geht um eine Änderung des Haushaltsrechts, die möglichst schnell auf den Weg gebracht werden soll. Das bricht natürlich schon auch mit einer Tradition hier im Hohen Haus, nämlich mit der Tradition, dass das Haushaltsrecht, weil es eine doch sehr sensible Materie ist, einstimmig, im Konsens geändert werden soll. Von diesem Konsens, von dieser Tradition weichen Sie ab! Sie wollen den zweiteiligen Budgetprozess – ein Teil im Frühjahr und einer im Herbst –, der im Übrigen auch internationaler Standard ist, der in den meisten anderen Ländern auch so gehandhabt wird, zusammenlegen. Nun ist der österreichische Nationalrat ohnehin nicht als jenes Parlament bekannt, das sehr stark am Budgetprozess beteiligt ist. Das ist ja insofern schon bemerkenswert, als der Budgetprozess, die Debatte und das Verabschieden eines Budgets – ja, wie soll ich sagen? –, das Grundrecht oder das wichtigste Recht, die wichtigste Kompetenz eines Parlaments ist. Wie ich schon gesagt habe, ist der österreichische Nationalrat daran ohnehin sehr schwach beteiligt, denn in der Praxis kommt der Budgetentwurf ins Parlament und verlässt es fast unverändert wieder. In Wirklichkeit ist das ja ein Entwurf der Bundesregierung, der von den Regierungsfraktionen mehr oder minder unverändert durchgewunken wird. Selbst das ist aber zu viel: Dieser zweiteilige Budgetprozess – ein Teil im Frühjahr, einer im Herbst – soll zusammengelegt werden. Das Argument ist: Das soll für Vereinfachung sorgen. – Dieses Argument ist natürlich schon zutreffend, die Frage ist nur: Für wen wird es einfacher? – Die Antwort ist natürlich klar: Für das Finanzministerium wird es einfacher, für Sie, Herr Bundesminister, wird es einfacher. Es ist natürlich legitim, es sich selbst im Leben einfach zu machen, das Ganze hat jedoch nichts mit einem ordentlichen parlamentarischen Budgetprozess zu tun. Das passt <pb n="12"/>
+            aber insgesamt in das Bild, das man immer wieder mitbekommt, dass Ihnen, Herr Bundesminister, die Auseinandersetzung mit dem Parlament in Budget- und Finanzfragen doch immer wieder lästig zu sein scheint. <note type="comment" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note41">Zwischenbemerkung von Bundesminister Schelling.</note> Insofern passt es ja auch in das Bild, dass Sie sich hier in einer Debatte, die Sie eigentlich betrifft, gar nicht zu Wort melden. <kinesic type="applause" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.kinesic11">
+                     <desc>Beifall bei den NEOS.</desc>
+                  </kinesic>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e1326">Abg. Lopatka: Also wirklich! Es gibt kaum einen Minister, der sich ...!</note>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e1340">Bundesminister Schelling: Das ist ja wirklich eine Unterstellung, die bösartig ...! Ich weiß nicht, nehmen Sie im Budgetausschuss nicht teil? Sind Sie überhaupt ... oder denken Sie mit?</note>
+                  <vocal type="interruption" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.vocal3">
+                     <desc>Zwischenruf der Abg. Fekter.</desc>
+                  </vocal>
+            – Es ist schön, zu sehen, dass man den wunden Punkt getroffen hat. Das tut offensichtlich weh. <kinesic type="applause" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.kinesic12">
+                     <desc>Beifall bei den NEOS.</desc>
+                  </kinesic>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e1365">Bundesminister Schelling: Das ist eine eigenartige Wahrnehmung der Tatsachen!</note>
+                  <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e1378">Abg. Lopatka: Da lobe ich mir den Kogler!</note>
+                  <vocal type="interruption" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.vocal4">
+                     <desc>Zwischenruf der Abg. Fekter.</desc>
+                  </vocal>
+            Das tut offenbar weh. Das passt in das Bild, das Sie bisher gezeigt haben: möglichst wenige Budgetausschüsse <note type="comment" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note46">Zwischenbemerkung von Bundesminister Schelling</note> ; möglichst viele Agendapunkte in möglichst wenig Zeit unterbringen, damit man sich nicht damit auseinandersetzen muss; einen Unterausschuss einrichten, in dem dann Berichte des Finanzministers behandelt werden, in dem Sie aber dann auch nie da sind, sondern Ihre Beamten vorschicken. Das hier ist sozusagen das letzte Beispiel dafür, dass die Auseinandersetzung mit dem Parlament einfach nicht erwünscht ist, dass sie Ihnen lästig ist. <vocal type="interruption" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.vocal5">
+                     <desc>Zwischenrufe bei der ÖVP.</desc>
+                  </vocal>
+            Jetzt können Sie, liebe Abgeordnete von ÖVP und SPÖ, entscheiden: Sind Sie Abgeordnete, vertreten Sie die Interessen dieses Hauses? – Dann können Sie dieser Beschneidung der parlamentarischen Rechte im Budgetprozess nie und nimmer zustimmen! Oder sind Sie schlichtweg Befehlsempfänger der Bundesregierung? Die Abstimmung wird es gleich zeigen. – Danke.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.kinesic13">
+               <desc>Beifall bei den NEOS.</desc>
+            </kinesic>
+            <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e1419">Abg. Wöginger: So wird’s nichts mit den 4 Prozent!</note>
+            <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e1432">Abg. Strolz: Offenbarend!</note>
+            <note type="time" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note49">
+               <time when="2017-03-14T15:16:00+01:00">15:16</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note50">Präsidentin Doris Bures</note>
+            <u who="#PAD_00145" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e1452" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e519">Nächster Redner: Herr Klubobmann Ing. Lugar. – Bitte.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note51">
+               <time when="2017-03-14T15:17:06+01:00">15:17:06</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note52">Abgeordneter Ing. Robert Lugar (STRONACH)</note>
+            <u who="#PAD_51579" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e1474" ana="#regular">
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e527">Frau Präsidentin! Hohes Haus! Worum geht es da heute? – Für alle, die zuschauen und nicht ganz verstehen, worum es da geht: Es ist relativ einfach: Wir haben in Österreich ein Problem, und zwar ein Problem mit der Gewaltenteilung. <vocal type="interruption" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.vocal6">
+                     <desc>Zwischenruf der Abg. Tamandl.</desc>
+                  </vocal>
+            Das heißt, laut Verfassung wäre es so, dass wir als Parlament der Gesetzgeber sind, und die Regierung ist die Exekutive. <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e1485">Ruf bei der ÖVP:Das ist so!</note> Der Herr, der rechts hinter mir auf der Regierungsbank sitzt, sollte normalerweise das exekutieren, was wir im Parlament beschließen – soweit die Theorie. In Wirklichkeit ist es aber so, dass wir hier einfach die Statisten sind. Die Regierungsfraktionen heißen das gut, was vonseiten der Regierung kommt; die Opposition kritisiert natürlich. Wenn wir ein Budget diskutieren, geht es darum, in Zahlen gegossene Politik zu diskutieren, denn genau das ist das Budget. Wenn wir einen Finanzrahmen diskutieren, dann geht es darum, zu erkennen, ob der Minister Ideen hat, wie man Österreich langfristig weiterbringt. Das ist der Finanzrahmen, und darüber sprechen wir. Der Minister will das dann in den Herbst verlegen, dahin, wo diese langfristige Planung nicht mehr so sicher ist, wo es dann wirklich um die Zahlen geht, wie das tatsächlich im Budget ausschaut. Damit versteckt man diese langfristige Planung in diesem Herbsttermin, und darum geht es. Es geht darum, dass es dem Minister unglaublich lästig ist, über die in Zahlen gegossene Politik zu sprechen, nämlich darüber zu sprechen, wo wir in zwei, drei, vier Jahren sein wollen. Darum geht es, darüber will man nicht reden, und zwar, weil man es selbst gar nicht weiß. <pb n="13"/>
+            Schauen wir uns den Plan, den die Regierung gefasst hat, an! Nach mehreren Jahren hat die Regierung den Plan gefasst, dass sie arbeiten will! Weil sie jedoch keine Idee hat, wie sie das finanzieren kann, wird das jetzt auch in den Herbst verlagert. Deshalb ist man bereit, etwas zu opfern, das aus meiner Sicht nicht zu opfern ist, nämlich die Diskussion über grundsätzliche Planungen des Parlaments, die Diskussion darüber, wie Politik sichtbar wird, die Diskussion über die Schwerpunktsetzung. Ist uns die Bildung wichtig? Sind uns die Pensionen wichtig? Ist uns die Gesundheit wichtig? – Das sind die Schwerpunktsetzungen, und das will man jetzt verstecken, denn auf der einen Seite weiß man nicht, wie man das bedecken soll, was man in diesem Plan A vorgestellt hat, und auf der anderen Seite ist man überhaupt nicht bereit, in die Zukunft zu denken. Schauen Sie sich einmal die Budgets der letzten Jahre an: Man hat das einfach fortgeschrieben, man hat einfach das, was man in der Vergangenheit getan hat, plus/minus ein paar Prozent, je nachdem, um wie viel die Kosten gestiegen sind, in die Zukunft fortgeschrieben. Das ist wie ein Schiff auf hoher See, dessen Steuerrad festgebunden ist. So läuft das in Österreich, und das seit Jahrzehnten. Das heißt, in Wirklichkeit passiert gar keine Politik mehr, und jetzt will man das, woran man das sieht, woran man das erkennen kann, nämlich den Finanzrahmen, im Herbsttermin verstecken, wodurch die Bürger dann gar nicht mehr erkennen können, dass in diesem Land in Wirklichkeit nichts mehr passiert, dass in Wirklichkeit gar nicht mehr regiert wird. Und die Regierung, die normalerweise das exekutieren sollte, was wir hier im Parlament beschließen, hebelt das Parlament aus, nimmt uns die Möglichkeit, der Bevölkerung zu zeigen, dass diese Regierung in Wirklichkeit gar nicht regieren will – und das ist der Skandal bei dieser Sache, Herr Minister! <note type="unauthorized_interruption" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e1500">Abg. Brosz: ... Fristsetzung!</note> Der zweite Skandal ist, dass Sie heute hier nicht aufstehen und uns erklären, warum Sie nicht wollen, dass das Parlament über das Budget redet. Warum wollen Sie das nicht, Herr Minister? Warum wollen Sie das Parlament beschneiden, obwohl wir ja ohnehin nur noch Lakaien einer Regierung sind, die das tut, was sie tun will, nämlich die Gewaltenteilung aushebeln, die in unserer Verfassung steht. Dort steht, dass wir hier beschließen und Sie gefälligst exekutieren – und nicht umgekehrt: dass Sie beschließen und wir exekutieren. <note type="comment" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note55">Zwischenbemerkung von Bundesminister Schelling.</note> Genau das machen Sie aber, Herr Minister, und deshalb wäre es wirklich angebracht, dass Sie aufstehen, sich erklären und vor allem uns erklären, warum Sie ein starkes Parlament nicht wollen, wo wir dann nicht nur einmal im Jahr, sondern zweimal im Jahr darüber reden, was Sie Politik nennen. Ich nenne es: einfach nur geradeaus weiter, durchtauchen und keine substanziellen Veränderungen.</seg>
+            </u>
+            <kinesic type="applause" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.kinesic14">
+               <desc>Beifall beim Team Stronach.</desc>
+            </kinesic>
+            <note type="time" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note56">
+               <time when="2017-03-14T15:21:00+01:00">15:21</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note57">
+               <time when="2017-03-14T15:21:59+01:00">15:21:59</time>
+            </note>
+            <note type="speaker" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note58">Präsidentin Doris Bures</note>
+            <u who="#PAD_00145" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d7e1537" ana="#chair">
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e556">Zu Wort ist niemand mehr gemeldet. Die Debatte ist geschlossen.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e558">Wir kommen nunmehr zur Abstimmung über den Antrag, dem Budgetausschuss zur Berichterstattung über die Regierungsvorlage betreffend ein Bundesgesetz, mit dem das Bundeshaushaltsgesetz 2013, das Bundesfinanzierungsgesetz, das Allgemeine Sozialversicherungsgesetz sowie weitere Gesetze geändert werden, 1514 der Beilagen, eine Frist bis 28. März 2017 zu setzen.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e560">Ich bitte jene Damen und Herren, die sich für diese Fristsetzung aussprechen, um ein Zeichen. – Das ist mit Mehrheit angenommen.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e562">Die nächste Sitzung des Nationalrates, die für Mittwoch, den 29. März 2017, 9 Uhr, in Aussicht genommen ist, wird auf schriftlichem Wege einberufen werden.</seg>
+               <pb n="14"/>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e565">Weiters gebe ich bekannt, dass im Anschluss an diese Sitzung folgende Ausschüsse zusammentreten: der Ständige Unterausschuss des Ausschusses für innere Angelegenheiten im Sitzungszimmer des Ständigen Unterausschusses, der Justizausschuss im Lokal VI, der Umweltausschuss im Lokal V sowie der Ausschuss für Wirtschaft und Industrie im Lokal VIII.</seg>
+               <seg xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170_d2e567">Diese Sitzung ist geschlossen.</seg>
+            </u>
+            <note type="time" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note59">
+               <time when="2017-03-14T15:23:11+01:00">15:23:11</time>
+            </note>
+            <note type="time" xml:id="ParlaMint-AT_2017-03-14-025-XXV-NRSITZ-00170.note60">Schluss der Sitzung:<time when="2017-03-14T15:23:00+01:00">15:23</time>Uhr</note>
+         </div>
+      </body>
+   </text>
+</TEI>
