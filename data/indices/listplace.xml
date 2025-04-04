@@ -1,0 +1,1067 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Register der Orte</title>
+            <title type="sub">Österreichisches Parlamentskorpus ParlaMint-AT [ParlaMint]</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace>
+            <place xml:id="place-wels">
+               <placeName>Wels</placeName>
+            </place>
+            <place xml:id="place-znaim-znojmo">
+               <placeName>Znaim/Znojmo</placeName>
+            </place>
+            <place xml:id="place-konigsberg-sudsteiermark">
+               <placeName>Königsberg (Südsteiermark)</placeName>
+            </place>
+            <place xml:id="place-kirchberg-in-tirol-tirol">
+               <placeName>Kirchberg in Tirol (Tirol)</placeName>
+            </place>
+            <place xml:id="place-horstorf">
+               <placeName>Hörstorf</placeName>
+            </place>
+            <place xml:id="place-wagna-steiermark">
+               <placeName>Wagna (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-graz">
+               <placeName>Graz</placeName>
+            </place>
+            <place xml:id="place-scharding-am-inn">
+               <placeName>Schärding am Inn</placeName>
+            </place>
+            <place xml:id="place-hollabrunn">
+               <placeName>Hollabrunn</placeName>
+            </place>
+            <place xml:id="place-eggenburg-niederosterreich">
+               <placeName>Eggenburg (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-roggendorf-bei-melk">
+               <placeName>Roggendorf bei Melk</placeName>
+            </place>
+            <place xml:id="place-hemmerberg-bei-kohlschwarz">
+               <placeName>Hemmerberg bei Kohlschwarz</placeName>
+            </place>
+            <place xml:id="place-wien">
+               <placeName>Wien</placeName>
+            </place>
+            <place xml:id="place-st-valentin">
+               <placeName>St. Valentin</placeName>
+            </place>
+            <place xml:id="place-salzburg">
+               <placeName>Salzburg</placeName>
+            </place>
+            <place xml:id="place-weissenbach-an-der-enns">
+               <placeName>Weißenbach an der Enns</placeName>
+            </place>
+            <place xml:id="place-linz">
+               <placeName>Linz</placeName>
+            </place>
+            <place xml:id="place-kirchberg-am-wechsel">
+               <placeName>Kirchberg am Wechsel</placeName>
+            </place>
+            <place xml:id="place-klagenfurt">
+               <placeName>Klagenfurt</placeName>
+            </place>
+            <place xml:id="place-alfeld-an-der-leine-niedersachsen">
+               <placeName>Alfeld an der Leine (Niedersachsen)</placeName>
+            </place>
+            <place xml:id="place-sausal">
+               <placeName>Sausal</placeName>
+            </place>
+            <place xml:id="place-marchegg">
+               <placeName>Marchegg</placeName>
+            </place>
+            <place xml:id="place-summerau-oberosterreich">
+               <placeName>Summerau (Oberösterreich)</placeName>
+            </place>
+            <place xml:id="place-attnang-puchheim">
+               <placeName>Attnang-Puchheim</placeName>
+            </place>
+            <place xml:id="place-andelsbuch-vorarlberg">
+               <placeName>Andelsbuch (Vorarlberg)</placeName>
+            </place>
+            <place xml:id="place-riegersburg">
+               <placeName>Riegersburg</placeName>
+            </place>
+            <place xml:id="place-sochau-steiermark">
+               <placeName>Söchau (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-trautmannsdorf-niederosterreich">
+               <placeName>Trautmannsdorf (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-grossraming">
+               <placeName>Großraming</placeName>
+            </place>
+            <place xml:id="place-villach">
+               <placeName>Villach</placeName>
+            </place>
+            <place xml:id="place-taufkirchen-pram-oberosterreich">
+               <placeName>Taufkirchen/Pram (Oberösterreich)</placeName>
+            </place>
+            <place xml:id="place-vorderberg-im-gailtal">
+               <placeName>Vorderberg im Gailtal</placeName>
+            </place>
+            <place xml:id="place-neumuhl">
+               <placeName>Neumühl</placeName>
+            </place>
+            <place xml:id="place-wiener-neustadt">
+               <placeName>Wiener Neustadt</placeName>
+            </place>
+            <place xml:id="place-judenburg">
+               <placeName>Judenburg</placeName>
+            </place>
+            <place xml:id="place-bad-goisern-oberosterreich">
+               <placeName>Bad Goisern (Oberösterreich)</placeName>
+            </place>
+            <place xml:id="place-freilassing-bayern">
+               <placeName>Freilassing (Bayern)</placeName>
+            </place>
+            <place xml:id="place-kufstein">
+               <placeName>Kufstein</placeName>
+            </place>
+            <place xml:id="place-seeboden-karnten">
+               <placeName>Seeboden (Kärnten)</placeName>
+            </place>
+            <place xml:id="place-gols-burgenland">
+               <placeName>Gols (Burgenland)</placeName>
+            </place>
+            <place xml:id="place-landeck">
+               <placeName>Landeck</placeName>
+            </place>
+            <place xml:id="place-st-polten">
+               <placeName>St. Pölten</placeName>
+            </place>
+            <place xml:id="place-bruck-an-der-mur">
+               <placeName>Bruck an der Mur</placeName>
+            </place>
+            <place xml:id="place-sommerein-am-leithagebirge-no">
+               <placeName>Sommerein am Leithagebirge (NÖ)</placeName>
+            </place>
+            <place xml:id="place-riedlingsdorf-burgenland">
+               <placeName>Riedlingsdorf (Burgenland)</placeName>
+            </place>
+            <place xml:id="place-matzen">
+               <placeName>Matzen</placeName>
+            </place>
+            <place xml:id="place-ybbs-an-der-donau-niederosterreich">
+               <placeName>Ybbs an der Donau (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-windschau-mahren">
+               <placeName>Windschau (Mähren)</placeName>
+            </place>
+            <place xml:id="place-wilhelmsburg">
+               <placeName>Wilhelmsburg</placeName>
+            </place>
+            <place xml:id="place-bergen-deutschland">
+               <placeName>Bergen (Deutschland)</placeName>
+            </place>
+            <place xml:id="place-amstetten">
+               <placeName>Amstetten</placeName>
+            </place>
+            <place xml:id="place-oberpullendorf">
+               <placeName>Oberpullendorf</placeName>
+            </place>
+            <place xml:id="place-lolling">
+               <placeName>Lölling</placeName>
+            </place>
+            <place xml:id="place-axams">
+               <placeName>Axams</placeName>
+            </place>
+            <place xml:id="place-boheimkirchen-niederosterreich">
+               <placeName>Böheimkirchen (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-bleiberg-karnten">
+               <placeName>Bleiberg (Kärnten)</placeName>
+            </place>
+            <place xml:id="place-leoben">
+               <placeName>Leoben</placeName>
+            </place>
+            <place xml:id="place-deutschkreutz">
+               <placeName>Deutschkreutz</placeName>
+            </place>
+            <place xml:id="place-steyregg">
+               <placeName>Steyregg</placeName>
+            </place>
+            <place xml:id="place-hausmening">
+               <placeName>Hausmening</placeName>
+            </place>
+            <place xml:id="place-lienz">
+               <placeName>Lienz</placeName>
+            </place>
+            <place xml:id="place-lassee-niederosterreich">
+               <placeName>Lassee (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-vocklabruck">
+               <placeName>Vöcklabruck</placeName>
+            </place>
+            <place xml:id="place-neunkirchen">
+               <placeName>Neunkirchen</placeName>
+            </place>
+            <place xml:id="place-doppel">
+               <placeName>Doppel</placeName>
+            </place>
+            <place xml:id="place-innsbruck">
+               <placeName>Innsbruck</placeName>
+            </place>
+            <place xml:id="place-feldkirchen-an-der-donau">
+               <placeName>Feldkirchen an der Donau</placeName>
+            </place>
+            <place xml:id="place-zauchtel-sudetenland">
+               <placeName>Zauchtel (Sudetenland)</placeName>
+            </place>
+            <place xml:id="place-gersdorf">
+               <placeName>Gersdorf</placeName>
+            </place>
+            <place xml:id="place-gmund">
+               <placeName>Gmünd</placeName>
+            </place>
+            <place xml:id="place-st-wolfgang">
+               <placeName>St. Wolfgang</placeName>
+            </place>
+            <place xml:id="place-euratsfeld">
+               <placeName>Euratsfeld</placeName>
+            </place>
+            <place xml:id="place-kapfenberg-steiermark">
+               <placeName>Kapfenberg (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-steyr">
+               <placeName>Steyr</placeName>
+            </place>
+            <place xml:id="place-lindau">
+               <placeName>Lindau</placeName>
+            </place>
+            <place xml:id="place-neumarkt-im-muhlkreis">
+               <placeName>Neumarkt im Mühlkreis</placeName>
+            </place>
+            <place xml:id="place-murzzuschlag">
+               <placeName>Mürzzuschlag</placeName>
+            </place>
+            <place xml:id="place-zwettl">
+               <placeName>Zwettl</placeName>
+            </place>
+            <place xml:id="place-ried-im-innkreis">
+               <placeName>Ried im Innkreis</placeName>
+            </place>
+            <place xml:id="place-greifenburg">
+               <placeName>Greifenburg</placeName>
+            </place>
+            <place xml:id="place-anger">
+               <placeName>Anger</placeName>
+            </place>
+            <place xml:id="place-krems">
+               <placeName>Krems</placeName>
+            </place>
+            <place xml:id="place-wolfsberg">
+               <placeName>Wolfsberg</placeName>
+            </place>
+            <place xml:id="place-st-gilgen">
+               <placeName>St. Gilgen</placeName>
+            </place>
+            <place xml:id="place-braunau-am-inn">
+               <placeName>Braunau am Inn</placeName>
+            </place>
+            <place xml:id="place-muhldorf-am-inn-bayern">
+               <placeName>Mühldorf am Inn (Bayern)</placeName>
+            </place>
+            <place xml:id="place-kempten-im-allgau-brd">
+               <placeName>Kempten im Allgäu (BRD)</placeName>
+            </place>
+            <place xml:id="place-gussing-burgenland">
+               <placeName>Güssing (Burgenland)</placeName>
+            </place>
+            <place xml:id="place-korneuburg">
+               <placeName>Korneuburg</placeName>
+            </place>
+            <place xml:id="place-st-veit-im-pongau">
+               <placeName>St. Veit im Pongau</placeName>
+            </place>
+            <place xml:id="place-st-michael-burgenland">
+               <placeName>St. Michael (Burgenland)</placeName>
+            </place>
+            <place xml:id="place-baja-ungarn">
+               <placeName>Baja (Ungarn)</placeName>
+            </place>
+            <place xml:id="place-modling-niederosterreich">
+               <placeName>Mödling (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-langenwang">
+               <placeName>Langenwang</placeName>
+            </place>
+            <place xml:id="place-markt-piesting">
+               <placeName>Markt Piesting</placeName>
+            </place>
+            <place xml:id="place-klagenfurt-am-worthersee-karnten">
+               <placeName>Klagenfurt am Wörthersee (Kärnten)</placeName>
+            </place>
+            <place xml:id="place-ober-grafendorf">
+               <placeName>Ober-Grafendorf</placeName>
+            </place>
+            <place xml:id="place-stinatz-stinjaki">
+               <placeName>Stinatz/Stinjaki</placeName>
+            </place>
+            <place xml:id="place-wolfsberg-karnten">
+               <placeName>Wolfsberg (Kärnten)</placeName>
+            </place>
+            <place xml:id="place-radstadt-salzburg">
+               <placeName>Radstadt (Salzburg)</placeName>
+            </place>
+            <place xml:id="place-modling">
+               <placeName>Mödling</placeName>
+            </place>
+            <place xml:id="place-furstenfeld-steiermark">
+               <placeName>Fürstenfeld (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-mistelbach-niederosterreich">
+               <placeName>Mistelbach (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-neunkirchen-niederosterreich">
+               <placeName>Neunkirchen (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-freistadt-oberosterreich">
+               <placeName>Freistadt (Oberösterreich)</placeName>
+            </place>
+            <place xml:id="place-bad-aussee-steiermark">
+               <placeName>Bad Aussee (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-gmunden-oberosterreich">
+               <placeName>Gmunden (Oberösterreich)</placeName>
+            </place>
+            <place xml:id="place-leoben-steiermark">
+               <placeName>Leoben (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-wels-oberosterreich">
+               <placeName>Wels (Oberösterreich)</placeName>
+            </place>
+            <place xml:id="place-hallstatt-oberosterreich">
+               <placeName>Hallstatt (Oberösterreich)</placeName>
+            </place>
+            <place xml:id="place-wiesental-vasoldsberg">
+               <placeName>Wiesental-Vasoldsberg</placeName>
+            </place>
+            <place xml:id="place-oehling-niederosterreich">
+               <placeName>Oehling (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-zams-tirol">
+               <placeName>Zams (Tirol)</placeName>
+            </place>
+            <place xml:id="place-gleisdorf-steiermark">
+               <placeName>Gleisdorf (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-worgl-tirol">
+               <placeName>Wörgl (Tirol)</placeName>
+            </place>
+            <place xml:id="place-ternitz-niederosterreich">
+               <placeName>Ternitz (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-villach-karnten">
+               <placeName>Villach (Kärnten)</placeName>
+            </place>
+            <place xml:id="place-eisenstadt">
+               <placeName>Eisenstadt</placeName>
+            </place>
+            <place xml:id="place-ried-in-der-riedmark-oberosterreich">
+               <placeName>Ried in der Riedmark (Oberösterreich)</placeName>
+            </place>
+            <place xml:id="place-steyr-oberosterreich">
+               <placeName>Steyr (Oberösterreich)</placeName>
+            </place>
+            <place xml:id="place-istanbul-turkei">
+               <placeName>Istanbul (Türkei)</placeName>
+            </place>
+            <place xml:id="place-sydney-australien">
+               <placeName>Sydney (Australien)</placeName>
+            </place>
+            <place xml:id="place-bosenbach-steiermark">
+               <placeName>Bösenbach (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-tuzla-bosnien-und-herzegowina">
+               <placeName>Tuzla (Bosnien und Herzegowina)</placeName>
+            </place>
+            <place xml:id="place-steinberg-a-d-rabnitz-burgenland">
+               <placeName>Steinberg a.d.Rabnitz (Burgenland)</placeName>
+            </place>
+            <place xml:id="place-bad-goisern">
+               <placeName>Bad Goisern</placeName>
+            </place>
+            <place xml:id="place-mistelbach">
+               <placeName>Mistelbach</placeName>
+            </place>
+            <place xml:id="place-aalfang">
+               <placeName>Aalfang</placeName>
+            </place>
+            <place xml:id="place-landstetten">
+               <placeName>Landstetten</placeName>
+            </place>
+            <place xml:id="place-hohenems-vorarlberg">
+               <placeName>Hohenems (Vorarlberg)</placeName>
+            </place>
+            <place xml:id="place-raipoltenbach-niederosterreich">
+               <placeName>Raipoltenbach/Niederösterreich</placeName>
+            </place>
+            <place xml:id="place-hart-bei-graz">
+               <placeName>Hart bei Graz</placeName>
+            </place>
+            <place xml:id="place-zams">
+               <placeName>Zams</placeName>
+            </place>
+            <place xml:id="place-grossgerharts">
+               <placeName>Großgerharts</placeName>
+            </place>
+            <place xml:id="place-gostling">
+               <placeName>Göstling</placeName>
+            </place>
+            <place xml:id="place-purbach-am-neusiedler-see">
+               <placeName>Purbach am Neusiedler See</placeName>
+            </place>
+            <place xml:id="place-frankenberg">
+               <placeName>Frankenberg</placeName>
+            </place>
+            <place xml:id="place-feldbach">
+               <placeName>Feldbach</placeName>
+            </place>
+            <place xml:id="place-mainburg-niederosterreich">
+               <placeName>Mainburg (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-illmitz">
+               <placeName>Illmitz</placeName>
+            </place>
+            <place xml:id="place-mader-vorarlberg">
+               <placeName>Mäder (Vorarlberg)</placeName>
+            </place>
+            <place xml:id="place-ried-im-innkreis-wien">
+               <placeName>Ried im Innkreis (Wien)</placeName>
+            </place>
+            <place xml:id="place-worgl">
+               <placeName>Wörgl</placeName>
+            </place>
+            <place xml:id="place-belgrad">
+               <placeName>Belgrad</placeName>
+            </place>
+            <place xml:id="place-hall-in-tirol">
+               <placeName>Hall in Tirol</placeName>
+            </place>
+            <place xml:id="place-dornbirn">
+               <placeName>Dornbirn</placeName>
+            </place>
+            <place xml:id="place-dornbirn-vorarlberg">
+               <placeName>Dornbirn (Vorarlberg)</placeName>
+            </place>
+            <place xml:id="place-wallern-burgenland">
+               <placeName>Wallern (Burgenland)</placeName>
+            </place>
+            <place xml:id="place-wagna">
+               <placeName>Wagna</placeName>
+            </place>
+            <place xml:id="place-zurich">
+               <placeName>Zürich</placeName>
+            </place>
+            <place xml:id="place-grieskirchen">
+               <placeName>Grieskirchen</placeName>
+            </place>
+            <place xml:id="place-dusseldorf-bundesrepublik-deutschland">
+               <placeName>Düsseldorf (Bundesrepublik Deutschland)</placeName>
+            </place>
+            <place xml:id="place-selzthal-steiermark">
+               <placeName>Selzthal (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-st-johann-in-tirol-tirol">
+               <placeName>St. Johann in Tirol (Tirol)</placeName>
+            </place>
+            <place xml:id="place-allentsteig-niederosterreich">
+               <placeName>Allentsteig (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-leibnitz-steiermark">
+               <placeName>Leibnitz (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-scheibbs-niederosterreich">
+               <placeName>Scheibbs (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-bad-wimsbach-neydharting-oberosterreich">
+               <placeName>Bad Wimsbach-Neydharting (Oberösterreich)</placeName>
+            </place>
+            <place xml:id="place-edlitz">
+               <placeName>Edlitz</placeName>
+            </place>
+            <place xml:id="place-gussing">
+               <placeName>Güssing</placeName>
+            </place>
+            <place xml:id="place-st-johann-am-tauern">
+               <placeName>St. Johann am Tauern</placeName>
+            </place>
+            <place xml:id="place-st-veit-an-der-glan">
+               <placeName>St. Veit an der Glan</placeName>
+            </place>
+            <place xml:id="place-grossstubing">
+               <placeName>Großstübing</placeName>
+            </place>
+            <place xml:id="place-saalfelden-salzburg">
+               <placeName>Saalfelden (Salzburg)</placeName>
+            </place>
+            <place xml:id="place-breitenwang">
+               <placeName>Breitenwang</placeName>
+            </place>
+            <place xml:id="place-lienz-tirol">
+               <placeName>Lienz (Tirol)</placeName>
+            </place>
+            <place xml:id="place-weikersdorf-am-steinfeld">
+               <placeName>Weikersdorf am Steinfeld</placeName>
+            </place>
+            <place xml:id="place-perg">
+               <placeName>Perg</placeName>
+            </place>
+            <place xml:id="place-aurach-am-hongar-oberosterreich">
+               <placeName>Aurach am Hongar (Oberösterreich)</placeName>
+            </place>
+            <place xml:id="place-ottnang-am-hausruck-oberosterreich">
+               <placeName>Ottnang am Hausruck (Oberösterreich)</placeName>
+            </place>
+            <place xml:id="place-horn">
+               <placeName>Horn</placeName>
+            </place>
+            <place xml:id="place-waldkirchen-deutschland">
+               <placeName>Waldkirchen (Deutschland)</placeName>
+            </place>
+            <place xml:id="place-altmannsdorf-bei-st-polten">
+               <placeName>Altmannsdorf bei St. Pölten</placeName>
+            </place>
+            <place xml:id="place-hainburg-an-der-donau">
+               <placeName>Hainburg an der Donau</placeName>
+            </place>
+            <place xml:id="place-scheifling-steiermark">
+               <placeName>Scheifling (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-trumau">
+               <placeName>Trumau</placeName>
+            </place>
+            <place xml:id="place-michaelerberg-steiermark">
+               <placeName>Michaelerberg (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-krems-an-der-donau-niederosterreich">
+               <placeName>Krems an der Donau (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-oberwart">
+               <placeName>Oberwart</placeName>
+            </place>
+            <place xml:id="place-bern-schweiz">
+               <placeName>Bern (Schweiz)</placeName>
+            </place>
+            <place xml:id="place-helsinki-finnland">
+               <placeName>Helsinki (Finnland)</placeName>
+            </place>
+            <place xml:id="place-genf-schweiz">
+               <placeName>Genf (Schweiz)</placeName>
+            </place>
+            <place xml:id="place-hafning-leoben">
+               <placeName>Hafning/Leoben</placeName>
+            </place>
+            <place xml:id="place-gmund-niederosterreich">
+               <placeName>Gmünd (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-wr-neustadt-niederosterreich">
+               <placeName>Wr. Neustadt (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-lustenau-vorarlberg">
+               <placeName>Lustenau (Vorarlberg)</placeName>
+            </place>
+            <place xml:id="place-grieskirchen-oberosterreich">
+               <placeName>Grieskirchen (Oberösterreich)</placeName>
+            </place>
+            <place xml:id="place-graz-steiermark">
+               <placeName>Graz (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-kilb-niederosterreich">
+               <placeName>Kilb (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-bad-ischl-oberosterreich">
+               <placeName>Bad Ischl (Oberösterreich)</placeName>
+            </place>
+            <place xml:id="place-halle">
+               <placeName>Halle</placeName>
+            </place>
+            <place xml:id="place-reith-im-alpbachtal-tirol">
+               <placeName>Reith im Alpbachtal (Tirol)</placeName>
+            </place>
+            <place xml:id="place-schwarzach-im-pongau-salzburg">
+               <placeName>Schwarzach im Pongau (Salzburg)</placeName>
+            </place>
+            <place xml:id="place-schladming-steiermark">
+               <placeName>Schladming (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-st-georgen-rumanien">
+               <placeName>St. Georgen (Rumänien)</placeName>
+            </place>
+            <place xml:id="place-oberwart-burgenland">
+               <placeName>Oberwart (Burgenland)</placeName>
+            </place>
+            <place xml:id="place-st-veit-glan-karnten">
+               <placeName>St. Veit/Glan (Kärnten)</placeName>
+            </place>
+            <place xml:id="place-judenburg-steiermark">
+               <placeName>Judenburg (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-amstetten-niederosterreich">
+               <placeName>Amstetten (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-vocklabruck-oberosterreich">
+               <placeName>Vöcklabruck (Oberösterreich)</placeName>
+            </place>
+            <place xml:id="place-budapest-ungarn">
+               <placeName>Budapest (Ungarn)</placeName>
+            </place>
+            <place xml:id="place-waidhofen-an-der-thaya-niederosterreich">
+               <placeName>Waidhofen an der Thaya (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-travnik-bosnien-und-herzegowina">
+               <placeName>Travnik (Bosnien und Herzegowina)</placeName>
+            </place>
+            <place xml:id="place-feldkirch-vorarlberg">
+               <placeName>Feldkirch (Vorarlberg)</placeName>
+            </place>
+            <place xml:id="place-bach-karnten">
+               <placeName>Bach (Kärnten)</placeName>
+            </place>
+            <place xml:id="place-schwaz-tirol">
+               <placeName>Schwaz (Tirol)</placeName>
+            </place>
+            <place xml:id="place-surmene-turkei">
+               <placeName>Sürmene (Türkei)</placeName>
+            </place>
+            <place xml:id="place-reichenau-an-der-rax">
+               <placeName>Reichenau an der Rax</placeName>
+            </place>
+            <place xml:id="place-wiener-neustadt-niederosterreich">
+               <placeName>Wiener Neustadt (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-st-johann-in-tirol">
+               <placeName>St. Johann in Tirol</placeName>
+            </place>
+            <place xml:id="place-grossrupprechts-niederosterreich">
+               <placeName>Großrupprechts (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-roppen-tirol">
+               <placeName>Roppen (Tirol)</placeName>
+            </place>
+            <place xml:id="place-kufstein-tirol">
+               <placeName>Kufstein (Tirol)</placeName>
+            </place>
+            <place xml:id="place-seiz-steiermark">
+               <placeName>Seiz (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-guntramsdorf-niederosterreich">
+               <placeName>Guntramsdorf (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-rottenmann-steiermark">
+               <placeName>Rottenmann (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-grunburg">
+               <placeName>Grünburg</placeName>
+            </place>
+            <place xml:id="place-schwarzach-im-pongau">
+               <placeName>Schwarzach im Pongau</placeName>
+            </place>
+            <place xml:id="place-kleinsolk">
+               <placeName>Kleinsölk</placeName>
+            </place>
+            <place xml:id="place-aspang">
+               <placeName>Aspang</placeName>
+            </place>
+            <place xml:id="place-beetzendorf-ddr">
+               <placeName>Beetzendorf (DDR)</placeName>
+            </place>
+            <place xml:id="place-bregenz">
+               <placeName>Bregenz</placeName>
+            </place>
+            <place xml:id="place-fischbach">
+               <placeName>Fischbach</placeName>
+            </place>
+            <place xml:id="place-st-gallen-schweiz">
+               <placeName>St. Gallen (Schweiz)</placeName>
+            </place>
+            <place xml:id="place-kirchdorf-an-der-krems">
+               <placeName>Kirchdorf an der Krems</placeName>
+            </place>
+            <place xml:id="place-obdachegg-steiermark">
+               <placeName>Obdachegg (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-wieselburg">
+               <placeName>Wieselburg</placeName>
+            </place>
+            <place xml:id="place-kirchberg-an-der-pielach">
+               <placeName>Kirchberg an der Pielach</placeName>
+            </place>
+            <place xml:id="place-eibiswald">
+               <placeName>Eibiswald</placeName>
+            </place>
+            <place xml:id="place-kautzen-niederosterreich">
+               <placeName>Kautzen (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-neufurth-amstetten">
+               <placeName>Neufurth/Amstetten</placeName>
+            </place>
+            <place xml:id="place-liesing-im-lesachtal">
+               <placeName>Liesing im Lesachtal</placeName>
+            </place>
+            <place xml:id="place-oberwolz-steiermark">
+               <placeName>Oberwölz (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-hollabrunn-niederosterreich">
+               <placeName>Hollabrunn (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-waldhausen-oberosterreich">
+               <placeName>Waldhausen (Oberösterreich)</placeName>
+            </place>
+            <place xml:id="place-gleisdorf">
+               <placeName>Gleisdorf</placeName>
+            </place>
+            <place xml:id="place-hartberg-steiermark">
+               <placeName>Hartberg (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-lauterach-vorarlberg">
+               <placeName>Lauterach (Vorarlberg)</placeName>
+            </place>
+            <place xml:id="place-helfenberg-oberosterreich">
+               <placeName>Helfenberg (Oberösterreich)</placeName>
+            </place>
+            <place xml:id="place-schwaz">
+               <placeName>Schwaz</placeName>
+            </place>
+            <place xml:id="place-gobelsburg-niederosterreich">
+               <placeName>Gobelsburg (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-trautenau-trutnov-bohmen">
+               <placeName>Trautenau/Trutnov (Böhmen)</placeName>
+            </place>
+            <place xml:id="place-apetlon">
+               <placeName>Apetlon</placeName>
+            </place>
+            <place xml:id="place-baden-niederosterreich">
+               <placeName>Baden (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-bludenz-vorarlberg">
+               <placeName>Bludenz (Vorarlberg)</placeName>
+            </place>
+            <place xml:id="place-schwanenstadt">
+               <placeName>Schwanenstadt</placeName>
+            </place>
+            <place xml:id="place-arzl-im-pitztal">
+               <placeName>Arzl im Pitztal</placeName>
+            </place>
+            <place xml:id="place-singsdorf-steiermark">
+               <placeName>Singsdorf (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-saalfelden">
+               <placeName>Saalfelden</placeName>
+            </place>
+            <place xml:id="place-rottenmann">
+               <placeName>Rottenmann</placeName>
+            </place>
+            <place xml:id="place-kleinedling-wolfsberg">
+               <placeName>Kleinedling/Wolfsberg</placeName>
+            </place>
+            <place xml:id="place-scheibbs">
+               <placeName>Scheibbs</placeName>
+            </place>
+            <place xml:id="place-zell-am-see">
+               <placeName>Zell am See</placeName>
+            </place>
+            <place xml:id="place-friesach">
+               <placeName>Friesach</placeName>
+            </place>
+            <place xml:id="place-tamsweg-salzburg">
+               <placeName>Tamsweg (Salzburg)</placeName>
+            </place>
+            <place xml:id="place-bezau">
+               <placeName>Bezau</placeName>
+            </place>
+            <place xml:id="place-burgauberg-burgenland">
+               <placeName>Burgauberg (Burgenland)</placeName>
+            </place>
+            <place xml:id="place-paternion-karnten">
+               <placeName>Paternion (Kärnten)</placeName>
+            </place>
+            <place xml:id="place-voitsberg-steiermark">
+               <placeName>Voitsberg (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-freistadt">
+               <placeName>Freistadt</placeName>
+            </place>
+            <place xml:id="place-lienz-osttirol">
+               <placeName>Lienz (Osttirol)</placeName>
+            </place>
+            <place xml:id="place-kempten-bayern">
+               <placeName>Kempten (Bayern)</placeName>
+            </place>
+            <place xml:id="place-hartberg">
+               <placeName>Hartberg</placeName>
+            </place>
+            <place xml:id="place-bad-erlach">
+               <placeName>Bad Erlach</placeName>
+            </place>
+            <place xml:id="place-hof-bei-salzburg">
+               <placeName>Hof bei Salzburg</placeName>
+            </place>
+            <place xml:id="place-flattach-karnten">
+               <placeName>Flattach (Kärnten)</placeName>
+            </place>
+            <place xml:id="place-passau-deutschland">
+               <placeName>Passau (Deutschland)</placeName>
+            </place>
+            <place xml:id="place-ansfelden-oberosterreich">
+               <placeName>Ansfelden (Oberösterreich)</placeName>
+            </place>
+            <place xml:id="place-weiz">
+               <placeName>Weiz</placeName>
+            </place>
+            <place xml:id="place-kaprun">
+               <placeName>Kaprun</placeName>
+            </place>
+            <place xml:id="place-haag-am-hausruck">
+               <placeName>Haag am Hausruck</placeName>
+            </place>
+            <place xml:id="place-siegendorf">
+               <placeName>Siegendorf</placeName>
+            </place>
+            <place xml:id="place-spielfeld">
+               <placeName>Spielfeld</placeName>
+            </place>
+            <place xml:id="place-mitterkirchen">
+               <placeName>Mitterkirchen</placeName>
+            </place>
+            <place xml:id="place-ried-im-innkreis-oberosterreich">
+               <placeName>Ried im Innkreis (Oberösterreich)</placeName>
+            </place>
+            <place xml:id="place-frastanz">
+               <placeName>Frastanz</placeName>
+            </place>
+            <place xml:id="place-stockerau">
+               <placeName>Stockerau</placeName>
+            </place>
+            <place xml:id="place-vorau-steiermark">
+               <placeName>Vorau (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-ybbs-an-der-donau">
+               <placeName>Ybbs an der Donau</placeName>
+            </place>
+            <place xml:id="place-bad-zell-oberosterreich">
+               <placeName>Bad Zell (Oberösterreich)</placeName>
+            </place>
+            <place xml:id="place-rum-tirol">
+               <placeName>Rum (Tirol)</placeName>
+            </place>
+            <place xml:id="place-ankara-turkei">
+               <placeName>Ankara (Türkei)</placeName>
+            </place>
+            <place xml:id="place-melk-niederosterreich">
+               <placeName>Melk (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-rankweil-vorarlberg">
+               <placeName>Rankweil (Vorarlberg)</placeName>
+            </place>
+            <place xml:id="place-st-jakob-im-walde">
+               <placeName>St. Jakob im Walde</placeName>
+            </place>
+            <place xml:id="place-bruck-an-der-mur-steiermark">
+               <placeName>Bruck an der Mur (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-stockerau-niederosterreich">
+               <placeName>Stockerau (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-hochfilzen">
+               <placeName>Hochfilzen</placeName>
+            </place>
+            <place xml:id="place-lesachtal-karnten">
+               <placeName>Lesachtal (Kärnten)</placeName>
+            </place>
+            <place xml:id="place-niklasdorf">
+               <placeName>Niklasdorf</placeName>
+            </place>
+            <place xml:id="place-zell-am-ziller-tirol">
+               <placeName>Zell am Ziller (Tirol)</placeName>
+            </place>
+            <place xml:id="place-spittal-an-der-drau">
+               <placeName>Spittal an der Drau</placeName>
+            </place>
+            <place xml:id="place-lavamund">
+               <placeName>Lavamünd</placeName>
+            </place>
+            <place xml:id="place-pellendorf">
+               <placeName>Pellendorf</placeName>
+            </place>
+            <place xml:id="place-lang-in-der-steiermark-steiermark">
+               <placeName>Lang in der Steiermark (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-tradigist">
+               <placeName>Tradigist</placeName>
+            </place>
+            <place xml:id="place-beirut-libanon">
+               <placeName>Beirut (Libanon)</placeName>
+            </place>
+            <place xml:id="place-knittelfeld-steiermark">
+               <placeName>Knittelfeld (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-st-jakob-in-defereggen-osttirol-tirol">
+               <placeName>St. Jakob in Defereggen (Osttirol) (Tirol)</placeName>
+            </place>
+            <place xml:id="place-alt-dietmanns-niederosterreich">
+               <placeName>Alt-Dietmanns (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-tulln-an-der-donau">
+               <placeName>Tulln an der Donau</placeName>
+            </place>
+            <place xml:id="place-mauthausen">
+               <placeName>Mauthausen</placeName>
+            </place>
+            <place xml:id="place-gottsdorf">
+               <placeName>Gottsdorf</placeName>
+            </place>
+            <place xml:id="place-strem-burgenland">
+               <placeName>Strem (Burgenland)</placeName>
+            </place>
+            <place xml:id="place-lofer">
+               <placeName>Lofer</placeName>
+            </place>
+            <place xml:id="place-kangal-turkei">
+               <placeName>Kangal (Türkei)</placeName>
+            </place>
+            <place xml:id="place-hall">
+               <placeName>Hall</placeName>
+            </place>
+            <place xml:id="place-tubingen-deutschland">
+               <placeName>Tübingen (Deutschland)</placeName>
+            </place>
+            <place xml:id="place-altneudorfl">
+               <placeName>Altneudörfl</placeName>
+            </place>
+            <place xml:id="place-tamsweg">
+               <placeName>Tamsweg</placeName>
+            </place>
+            <place xml:id="place-knittelfeld">
+               <placeName>Knittelfeld</placeName>
+            </place>
+            <place xml:id="place-dietmannsdorf-bei-trieben-steiermark">
+               <placeName>Dietmannsdorf bei Trieben (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-yenisehir-turkei">
+               <placeName>Yenisehir (Türkei)</placeName>
+            </place>
+            <place xml:id="place-schattendorf-burgenland">
+               <placeName>Schattendorf (Burgenland)</placeName>
+            </place>
+            <place xml:id="place-klosterneuburg-niederosterreich">
+               <placeName>Klosterneuburg (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-hochst-vorarlberg">
+               <placeName>Höchst (Vorarlberg)</placeName>
+            </place>
+            <place xml:id="place-haslach-an-der-muhl-oberosterreich">
+               <placeName>Haslach an der Mühl (Oberösterreich)</placeName>
+            </place>
+            <place xml:id="place-attnang-puchheim-oberosterreich">
+               <placeName>Attnang-Puchheim (Oberösterreich)</placeName>
+            </place>
+            <place xml:id="place-scharding-oberosterreich">
+               <placeName>Schärding (Oberösterreich)</placeName>
+            </place>
+            <place xml:id="place-ampfing-oberosterreich">
+               <placeName>Ampfing (Oberösterreich)</placeName>
+            </place>
+            <place xml:id="place-brixlegg-tirol">
+               <placeName>Brixlegg (Tirol)</placeName>
+            </place>
+            <place xml:id="place-horn-niederosterreich">
+               <placeName>Horn (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-kulu-turkei">
+               <placeName>Kulu (Türkei)</placeName>
+            </place>
+            <place xml:id="place-mittersill-salzburg">
+               <placeName>Mittersill (Salzburg)</placeName>
+            </place>
+            <place xml:id="place-hall-in-tirol-tirol">
+               <placeName>Hall in Tirol (Tirol)</placeName>
+            </place>
+            <place xml:id="place-soke-turkei">
+               <placeName>Söke (Türkei)</placeName>
+            </place>
+            <place xml:id="place-altendorf-karnten">
+               <placeName>Altendorf (Kärnten)</placeName>
+            </place>
+            <place xml:id="place-tulln-an-der-donau-niederosterreich">
+               <placeName>Tulln an der Donau (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-st-johann-im-pongau-salzburg">
+               <placeName>St. Johann im Pongau (Salzburg)</placeName>
+            </place>
+            <place xml:id="place-friesach-karnten">
+               <placeName>Friesach (Kärnten)</placeName>
+            </place>
+            <place xml:id="place-feldbach-steiermark">
+               <placeName>Feldbach (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-weiz-steiermark">
+               <placeName>Weiz (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-villach-warmbad-karnten">
+               <placeName>Villach Warmbad (Kärnten)</placeName>
+            </place>
+            <place xml:id="place-hallein-bei-salzburg-salzburg">
+               <placeName>Hallein bei Salzburg (Salzburg)</placeName>
+            </place>
+            <place xml:id="place-buchegg-niederosterreich">
+               <placeName>Buchegg (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-waidhofen-ybbs-niederosterreich">
+               <placeName>Waidhofen/Ybbs (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-breitenwang-tirol">
+               <placeName>Breitenwang (Tirol)</placeName>
+            </place>
+            <place xml:id="place-stadt-haag-niederosterreich">
+               <placeName>Stadt Haag (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-brandenberg-tirol">
+               <placeName>Brandenberg (Tirol)</placeName>
+            </place>
+            <place xml:id="place-ried-i-i-oberosterreich">
+               <placeName>Ried i.I. (Oberösterreich)</placeName>
+            </place>
+            <place xml:id="place-st-polten-niederosterreich">
+               <placeName>St.Pölten (Niederösterreich)</placeName>
+            </place>
+            <place xml:id="place-muhldorf-karnten">
+               <placeName>Mühldorf (Kärnten)</placeName>
+            </place>
+            <place xml:id="place-eibiswald-steiermark">
+               <placeName>Eibiswald (Steiermark)</placeName>
+            </place>
+            <place xml:id="place-mitterkirchen-im-machland-oberosterreich">
+               <placeName>Mitterkirchen im Machland (Oberösterreich)</placeName>
+            </place>
+            <place xml:id="place-proszowice-polen">
+               <placeName>Proszowice (Polen)</placeName>
+            </place>
+            <place xml:id="place-waidhofen-an-der-ybbs">
+               <placeName>Waidhofen an der Ybbs</placeName>
+            </place>
+            <place xml:id="place-kematen-an-der-krems-oberosterreich">
+               <placeName>Kematen an der Krems (Oberösterreich)</placeName>
+            </place>
+            <place xml:id="place-zeltweg-steiermark">
+               <placeName>Zeltweg (Steiermark)</placeName>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>
