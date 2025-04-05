@@ -28,7 +28,7 @@
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="toc.html">Editionseinheiten</a>
+                                <a class="nav-link" href="toc.html">Sitzungsprotokolle</a>
                             </li>
 
                             <li class="nav-item dropdown disabled">
@@ -43,16 +43,13 @@
                                     <li>
                                         <a class="dropdown-item" href="listorg.html">Organisationen</a>
                                     </li>
-                                    <li>
-                                        <a class="dropdown-item" href="listbibl.html">Werke</a>
-                                    </li>
                                 </ul>
                             </li>
-
-                            <li class="nav-item">
-                                <a title="Suche" class="nav-link" href="search.html">Suche</a>
-                            </li>
                         </ul>
+                        <form class="d-flex" role="search" method="GET" action="search.html">
+                            <input class="form-control me-2" type="search" placeholder="Suchen" aria-label="Suchen" name="parlamint[query]"></input>
+                            <button class="btn btn-outline-secondary" type="submit">Suchen</button>
+                        </form>
                     </div>
                 </div>
             </nav>

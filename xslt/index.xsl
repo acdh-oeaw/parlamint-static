@@ -26,10 +26,21 @@
             <body class="d-flex flex-column h-100">
                 <xsl:call-template name="nav_bar"/>
                 <main class="flex-shrink-0 flex-grow-1">
-                    <div class="container">
-                        <xsl:call-template name="one_time_alert"/>
-                        <h1><xsl:value-of select="$project_short_title"/></h1>
-                        <h2><xsl:value-of select="$project_title"/></h2>
+                    <div class="px-4 py-5 my-5 text-center">
+                            <h1 class="display-5 fw-bold text-body-emphasis">Stenographische Protokolle der Plenarsitzungen des Österreichischen Nationalrats</h1>
+                            <div class="col-lg-6 mx-auto">
+                                <p class="lead mb-4">Auf dieser Seite können Sie alle Sitzungprotokolle des Österreichischen Nationalrates der Jahre 1996 bis 2022 im Volltext durchsuchen und Lesen.</p>
+                                <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+                                    <a href="search.html" class="btn btn-primary btn-lg px-4 gap-3">Suchen</a>
+                                    <a href="toc.html" class="btn btn-outline-secondary btn-lg px-4">Stöbern</a>
+                                </div>
+                                <p class="pt-3">
+                                    Die Daten dazu stammen von:
+                                    <blockquote class="blockquote">
+                                    <p> Erjavec, Tomaž; et al., 2024, Multilingual comparable corpora of parliamentary debates ParlaMint 4.1, Slovenian language resource repository  CLARIN.SI, ISSN 2820-4042, <a href="http://hdl.handle.net/11356/1912">http://hdl.handle.net/11356/1912</a>.</p>
+                                    </blockquote>
+                                </p>
+                            </div>
                     </div>
                 </main>
                 <xsl:call-template name="html_footer"/>
