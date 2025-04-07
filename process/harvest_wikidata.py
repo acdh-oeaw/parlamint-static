@@ -11,7 +11,7 @@ file = os.path.join("data", "indices", "listperson.xml")
 doc = TeiReader(file)
 failed = []
 entities = []
-items = doc.any_xpath(".//tei:person[./tei:idno[@subtype='wikidata']]")[:2]
+items = doc.any_xpath(".//tei:person[./tei:idno[@subtype='wikidata']]")
 for x in tqdm(items, total=len(items)):
     xml_id = get_xmlid(x)
     wikidata = x.xpath("./tei:idno[@subtype='wikidata']", namespaces=NSMAP)[0].text
@@ -23,6 +23,7 @@ for x in tqdm(items, total=len(items)):
     ent_dict = wd_item.get_apis_entity()
     ent_dict["place_of_birth"] = wd_item.place_of_birth
     ent_dict["place_of_death"] = wd_item.place_of_death
+    ent_dict["xml_id"] = xml_id
     entities.append(ent_dict)
 
 df = pd.DataFrame(entities)
