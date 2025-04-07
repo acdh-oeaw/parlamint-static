@@ -1,0 +1,24 @@
+name: scrape birth-death places from wikidata
+
+on:
+  workflow_dispatch:
+
+jobs:
+  download:
+    name: scrape
+    runs-on: ubuntu-latest
+    steps:
+      - name: Perfom Checkout
+        uses: actions/checkout@v4
+      - name: Setu up python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install Python Packages
+        run: pip install -r process/requirements.txt
+      - name: run the script
+        run: python process/harvest_wikidata.py
+      - name: Commit data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Data update from Baserow
