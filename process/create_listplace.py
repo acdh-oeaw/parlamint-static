@@ -3,7 +3,8 @@ import pandas as pd
 import lxml.etree as ET
 
 from acdh_tei_pyutils.tei import TeiReader
-
+from acdh_tei_pyutils.utils import get_xmlid
+from acdh_xml_pyutils.xml import NSMAP
 # from acdh_wikidata_pyutils import WikiDataPlace
 # from tqdm import tqdm
 
@@ -49,4 +50,35 @@ for i, row in sorted_df.iterrows():
     place.append(idno)
     listperson.append(place)
 
+doc.tree_to_file(file)
+
+
+enriched_places = pd.read_csv(os.path.join("process", "enriched_places.csv"))
+persons = pd.read_csv(os.path.join("process", "places.csv"))
+file = os.path.join("data", "indices", "listperson.xml")
+doc = TeiReader(file)
+
+for i, x in enumerate(doc.any_xpath(".//tei:person[@xml:id]")):
+    xml_id = get_xmlid(x)
+    try:
+        current_person = persons[persons['xml_id'] == xml_id].iloc[0]
+    except IndexError:
+        print(xml_id)
+        continue
+    try:
+        place = x.xpath(".//tei:birth/tei:placeName", namespaces=NSMAP)[0]
+        try:
+            place.attrib["key"] = current_person["place_of_birth"].split("/")[-1]
+        except AttributeError:
+            pass
+    except IndexError:
+        pass
+    try:
+        place = x.xpath(".//tei:death/tei:placeName", namespaces=NSMAP)[0]
+        try:
+            place.attrib["key"] = current_person["place_of_death"].split("/")[-1]
+        except AttributeError:
+            pass
+    except IndexError:
+        pass
 doc.tree_to_file(file)
