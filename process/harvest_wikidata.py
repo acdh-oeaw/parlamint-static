@@ -29,5 +29,3 @@ for x in tqdm(items, total=len(items)):
 df = pd.DataFrame(entities)
 df.to_csv(os.path.join("process", "places.csv"), index=False)
 
-for x in failed:
-    print(x)
