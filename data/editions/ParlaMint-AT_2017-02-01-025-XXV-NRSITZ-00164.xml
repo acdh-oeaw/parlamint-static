@@ -163,5 +163,25 @@
             <note type="time" xml:id="ParlaMint-AT_2017-02-01-025-XXV-NRSITZ-00164.note9">Schluss der Sitzung:<time when="2017-02-01T17:26:00+01:00">17:26</time>Uhr</note>
          </div>
       </body>
-   </text>
+   <back><listPerson><person xml:id="PAD_02822">
+               <persName>
+                  <surname>Kopf</surname>
+                  <forename>Karlheinz</forename>
+               </persName>
+               <sex value="M"/>
+               <birth when="1957-06-27">
+                  <placeName key="Q698591">Hohenems (Vorarlberg)</placeName>
+               </birth>
+               <affiliation from="1994-11-07" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2013-10-29" to="2017-11-09" role="deputyHead" ref="#NR">
+                  <roleName xml:lang="de">Zweiter Präsident</roleName>
+                  <roleName xml:lang="en">Second President</roleName>
+               </affiliation>
+               <affiliation from="1994-11-07" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_02822/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1410282</idno></person>
+            </listPerson></back></text>
 </TEI>

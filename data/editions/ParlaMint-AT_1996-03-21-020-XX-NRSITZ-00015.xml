@@ -157,5 +157,26 @@
             <note type="time" xml:id="ParlaMint-AT_1996-03-21-020-XX-NRSITZ-00015.note6">Schluß der Sitzung:<time when="1996-03-21T20:10:00+01:00">20:10</time>Uhr</note>
          </div>
       </body>
-   </text>
+   <back><listPerson><person xml:id="PAD_02833">
+               <persName>
+                  <surname>Brauneder</surname>
+                  <forename>Willi</forename>
+                  <roleName>MMag. Dr.</roleName>
+               </persName>
+               <sex value="M"/>
+               <birth when="1943-01-08">
+                  <placeName key="Q277965">Mödling</placeName>
+               </birth>
+               <affiliation from="1994-11-07" to="1999-10-29" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="1996-01-15" to="1999-10-29" role="deputyHead" ref="#NR">
+                  <roleName xml:lang="de">Dritter Präsident</roleName>
+                  <roleName xml:lang="en">Third President</roleName>
+               </affiliation>
+               <affiliation from="1994-11-07" to="1999-10-29" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_02833/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1237043</idno></person>
+            </listPerson></back></text>
 </TEI>

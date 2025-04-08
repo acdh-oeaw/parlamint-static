@@ -158,5 +158,73 @@
             <note type="time" xml:id="ParlaMint-AT_2008-06-07-023-XXIII-NRSITZ-00064.note8">Schluss der Sitzung:<time when="2008-06-07T00:05:00+02:00">0:05</time>Uhr</note>
          </div>
       </body>
-   </text>
+   <back><listPerson><person xml:id="PAD_01817">
+               <persName>
+                  <surname>Spindelegger</surname>
+                  <forename>Michael</forename>
+                  <roleName>Dr.</roleName>
+               </persName>
+               <sex value="M"/>
+               <birth when="1959-12-21">
+                  <placeName key="Q277965">Mödling (Niederösterreich)</placeName>
+               </birth>
+               <affiliation from="1992-10-22" to="1993-12-16" role="member" ref="#BR">
+                  <roleName xml:lang="de">Mitglied des Bundesrats</roleName>
+                  <roleName xml:lang="en">Member of the National Council</roleName>
+               </affiliation>
+               <affiliation from="1993-12-17" to="1994-11-06" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="1994-12-13" to="1995-03-13" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="1995-01-01" to="1996-10-29" role="member" ref="#europeanParliament.EP">
+                  <roleName xml:lang="de">Mitglied des Europäischen Parlament</roleName>
+                  <roleName xml:lang="en">Member of the European Parliament</roleName>
+               </affiliation>
+               <affiliation from="1996-01-15" to="1996-01-15" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="1996-03-14" to="1996-03-19" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="1996-10-30" to="2008-12-02" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2006-10-30" to="2008-12-02" role="deputyHead" ref="#NR">
+                  <roleName xml:lang="de">Zweiter Präsident</roleName>
+                  <roleName xml:lang="en">Second President</roleName>
+               </affiliation>
+               <affiliation from="2008-12-02" to="2013-12-16" role="minister" ref="#GOV">
+                  <roleName xml:lang="de">Bundesminister für europäische und internationale Angelegenheiten</roleName>
+                  <roleName xml:lang="en">Federal Minister for European and International Affairs</roleName>
+               </affiliation>
+               <affiliation from="2011-04-21" to="2014-09-01" role="deputyHead" ref="#GOV">
+                  <roleName xml:lang="de">Vizekanzler</roleName>
+                  <roleName xml:lang="en">Vice-Chancellor</roleName>
+               </affiliation>
+               <affiliation from="2013-10-29" to="2013-12-16" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2013-12-16" to="2014-09-01" role="minister" ref="#GOV">
+                  <roleName xml:lang="de">Bundesminister für Finanzen</roleName>
+                  <roleName xml:lang="en">Federal Minister for Finance</roleName>
+               </affiliation>
+               <affiliation role="member" ref="#politicalParty.ÖVP"/>
+               <affiliation from="1993-12-17" to="1994-11-06" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <affiliation from="1994-12-13" to="1995-03-13" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <affiliation from="1996-01-15" to="1996-01-15" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <affiliation from="1996-03-14" to="1996-03-19" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <affiliation from="1996-10-30" to="2008-12-02" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <affiliation from="2013-10-29" to="2013-12-16" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <affiliation from="2008-12-02" to="2014-09-01" role="member" ref="#GOV"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_01817/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q11735</idno></person>
+            </listPerson></back></text>
 </TEI>

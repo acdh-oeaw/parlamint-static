@@ -752,5 +752,489 @@
             <note type="time" xml:id="ParlaMint-AT_2004-06-16-022-XXII-NRSITZ-00065.note88">Schluss der Sitzung:<time when="2004-06-16T13:58:00+02:00">13:58</time>Uhr</note>
          </div>
       </body>
-   </text>
+   <back><listPerson><person xml:id="PAD_04477">
+               <persName>
+                  <surname>Wittmann</surname>
+                  <forename>Peter</forename>
+                  <roleName>Dr.</roleName>
+               </persName>
+               <sex value="M"/>
+               <birth when="1957-03-08">
+                  <placeName key="Q131612">Wiener Neustadt</placeName>
+               </birth>
+               <affiliation from="1997-01-28" to="2000-02-04" role="secretaryOfState" ref="#GOV">
+                  <roleName xml:lang="de">Staatssekretär im Bundeskanzleramt</roleName>
+                  <roleName xml:lang="en">State Secretary in the Federal Chancellery</roleName>
+               </affiliation>
+               <affiliation from="2000-02-24" to="2019-10-22" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation role="member" ref="#politicalParty.SPÖ"/>
+               <affiliation from="2000-02-24" to="2019-10-22" role="member" ref="#parliamentaryGroup.SPÖ"/>
+               <affiliation from="1997-01-28" to="2000-02-04" role="member" ref="#GOV"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_04477/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1732861</idno></person>
+            <person xml:id="PAD_08181">
+               <persName>
+                  <surname>Schasching</surname>
+                  <forename>Beate</forename>
+               </persName>
+               <sex value="F"/>
+               <birth when="1961-08-24">
+                  <placeName key="Q178582">Wels</placeName>
+               </birth>
+               <affiliation from="1999-10-29" to="2008-07-09" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="1999-10-29" to="2008-07-09" role="member" ref="#parliamentaryGroup.SPÖ"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_08181/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q813185</idno></person>
+            <person xml:id="PAD_08244">
+               <persName>
+                  <surname>Lunacek</surname>
+                  <forename>Ulrike</forename>
+                  <roleName>Mag.</roleName>
+               </persName>
+               <sex value="F"/>
+               <birth when="1957-05-26">
+                  <placeName key="Q131266">Krems an der Donau (Niederösterreich)</placeName>
+               </birth>
+               <affiliation from="1999-10-29" to="2009-07-09" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2009-07-14" to="2017-11-08" role="member" ref="#europeanParliament.EP">
+                  <roleName xml:lang="de">Mitglied des Europäischen Parlament</roleName>
+                  <roleName xml:lang="en">Member of the European Parliament</roleName>
+               </affiliation>
+               <affiliation from="2020-01-07" to="2020-01-29" role="secretaryOfState" ref="#GOV">
+                  <roleName xml:lang="de">Staatssekretärin im Bundesministerium für öffentlichen Dienst und Sport</roleName>
+                  <roleName xml:lang="en">State Secretary in the Federal Ministry of Public Services and Sport</roleName>
+               </affiliation>
+               <affiliation from="2020-01-29" to="2020-05-20" role="secretaryOfState" ref="#GOV">
+                  <roleName xml:lang="de">Staatssekretärin im Bundesministerium für Kunst, Kultur, öffentlichen Dienst und Sport</roleName>
+                  <roleName xml:lang="en">State Secretary in the Federal Ministry for Arts, Culture, the Civil Service and Sport</roleName>
+               </affiliation>
+               <affiliation role="member" ref="#politicalParty.GRÜNE"/>
+               <affiliation from="1999-10-29" to="2009-07-09" role="member" ref="#parliamentaryGroup.GRÜNE"/>
+               <affiliation from="2020-01-07" to="2020-05-20" role="member" ref="#GOV"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_08244/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q89398</idno></person>
+            <person xml:id="PAD_00799">
+               <persName>
+                  <surname>Khol</surname>
+                  <forename>Andreas</forename>
+                  <roleName>Dr.</roleName>
+               </persName>
+               <sex value="M"/>
+               <birth when="1941-07-14">
+                  <placeName key="Q492538">Bergen (Deutschland)</placeName>
+               </birth>
+               <affiliation from="1983-05-19" to="2006-10-30" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="1999-10-29" to="2000-02-08" role="deputyHead" ref="#NR">
+                  <roleName xml:lang="de">Dritter Präsident</roleName>
+                  <roleName xml:lang="en">Third President</roleName>
+               </affiliation>
+               <affiliation from="2002-12-20" to="2006-10-30" role="head" ref="#NR">
+                  <roleName xml:lang="de">Präsident</roleName>
+                  <roleName xml:lang="en">President</roleName>
+               </affiliation>
+               <affiliation from="1983-05-19" to="2006-10-30" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_00799/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q11782</idno></person>
+            <person xml:id="PAD_15527">
+               <persName>
+                  <surname>Mikesch</surname>
+                  <forename>Herta</forename>
+               </persName>
+               <sex value="F"/>
+               <birth when="1960-10-07">
+                  <placeName key="Q278447">Ybbs an der Donau</placeName>
+               </birth>
+               <affiliation from="2003-03-05" to="2008-10-27" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2003-03-05" to="2008-10-27" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_15527/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1614624</idno></person>
+            <person xml:id="PAD_00231">
+               <persName>
+                  <surname>Dolinschek</surname>
+                  <forename>Sigisbert</forename>
+               </persName>
+               <sex value="M"/>
+               <birth when="1954-02-18">
+                  <placeName key="Q41753">Klagenfurt</placeName>
+               </birth>
+               <affiliation from="1990-11-05" to="1994-11-06" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="1994-11-07" to="2005-02-03" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2005-01-26" to="2007-01-11" role="secretaryOfState" ref="#GOV">
+                  <roleName xml:lang="de">Staatssekretär im Bundesministerium für soziale Sicherheit, Generationen und Konsumentenschutz</roleName>
+                  <roleName xml:lang="en">State Secretary in the Federal Ministry of Social Security, Generations and Consumer Protection</roleName>
+               </affiliation>
+               <affiliation from="2006-11-10" to="2013-10-28" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="1990-11-05" to="1994-11-06" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <affiliation from="1994-11-07" to="2005-02-03" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <affiliation from="2006-11-10" to="2013-10-28" role="member" ref="#parliamentaryGroup.BZÖ"/>
+               <affiliation from="2005-01-26" to="2007-01-11" role="member" ref="#GOV"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_00231/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1361198</idno></person>
+            <person xml:id="PAD_08239">
+               <persName>
+                  <surname>Brosz</surname>
+                  <forename>Dieter</forename>
+                  <roleName>MSc</roleName>
+               </persName>
+               <sex value="M"/>
+               <birth when="1968-11-12">
+                  <placeName key="Q1741">Wien</placeName>
+               </birth>
+               <affiliation from="1999-10-29" to="2017-11-08" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation role="member" ref="#politicalParty.GRÜNE"/>
+               <affiliation from="1999-10-29" to="2017-11-08" role="member" ref="#parliamentaryGroup.GRÜNE"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_08239/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1221767</idno></person>
+            <person xml:id="PAD_15528">
+               <persName>
+                  <surname>Lichtenegger</surname>
+                  <forename>Elmar</forename>
+               </persName>
+               <sex value="M"/>
+               <birth when="1974-05-25">
+                  <placeName key="Q41753">Klagenfurt</placeName>
+               </birth>
+               <affiliation from="2003-03-05" to="2005-02-04" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2006-01-25" to="2006-04-27" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2006-04-28" to="2006-10-29" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2003-03-05" to="2005-02-04" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <affiliation from="2006-01-25" to="2006-04-27" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <affiliation from="2006-04-28" to="2006-10-29" role="member" ref="#parliamentaryGroup.BZÖ"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_15528/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q875614</idno></person>
+            <person xml:id="PAD_00663">
+               <persName>
+                  <surname>Gusenbauer</surname>
+                  <forename>Alfred</forename>
+                  <roleName>Dr.</roleName>
+               </persName>
+               <sex value="M"/>
+               <birth when="1960-02-08">
+                  <placeName key="Q82500">St. Pölten</placeName>
+               </birth>
+               <affiliation from="1991-02-21" to="1993-01-28" role="member" ref="#BR">
+                  <roleName xml:lang="de">Mitglied des Bundesrats</roleName>
+                  <roleName xml:lang="en">Member of the National Council</roleName>
+               </affiliation>
+               <affiliation from="1993-01-29" to="1994-11-06" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="1994-12-15" to="1996-01-14" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="1996-03-14" to="2007-01-15" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2007-01-11" to="2008-12-02" role="head" ref="#GOV">
+                  <roleName xml:lang="de">Bundeskanzler</roleName>
+                  <roleName xml:lang="en">Federal Chancellor</roleName>
+               </affiliation>
+               <affiliation role="member" ref="#politicalParty.SPÖ"/>
+               <affiliation from="1993-01-29" to="1994-11-06" role="member" ref="#parliamentaryGroup.SPÖ"/>
+               <affiliation from="1994-12-15" to="1996-01-14" role="member" ref="#parliamentaryGroup.SPÖ"/>
+               <affiliation from="1996-03-14" to="2007-01-15" role="member" ref="#parliamentaryGroup.SPÖ"/>
+               <affiliation from="2007-01-11" to="2008-12-02" role="member" ref="#GOV"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_00663/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q260037</idno></person>
+            <person xml:id="PAD_00334">
+               <persName>
+                  <surname>Fischer</surname>
+                  <forename>Heinz</forename>
+                  <roleName>Dr.</roleName>
+               </persName>
+               <sex value="M"/>
+               <birth when="1938-10-09">
+                  <placeName key="Q13298">Graz</placeName>
+               </birth>
+               <affiliation from="1971-11-04" to="1983-05-31" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="1983-05-24" to="1987-01-21" role="minister" ref="#GOV">
+                  <roleName xml:lang="de">Bundesminister für Wissenschaft und Forschung</roleName>
+                  <roleName xml:lang="en">Federal Minister for Science and Research</roleName>
+               </affiliation>
+               <affiliation from="1987-01-27" to="2004-06-16" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="1990-11-05" to="2002-12-20" role="head" ref="#NR">
+                  <roleName xml:lang="de">Präsident</roleName>
+                  <roleName xml:lang="en">President</roleName>
+               </affiliation>
+               <affiliation from="2002-12-20" to="2004-06-16" role="deputyHead" ref="#NR">
+                  <roleName xml:lang="de">Zweiter Präsident</roleName>
+                  <roleName xml:lang="en">Second President</roleName>
+               </affiliation>
+               <affiliation from="2004-07-08" to="2016-07-08" role="head" ref="#republic.Austria">
+                  <roleName xml:lang="de">Bundespräsident</roleName>
+                  <roleName xml:lang="en">Federal President</roleName>
+               </affiliation>
+               <affiliation role="member" ref="#politicalParty.SPÖ"/>
+               <affiliation from="1971-11-04" to="1983-05-31" role="member" ref="#parliamentaryGroup.SPÖ"/>
+               <affiliation from="1987-01-27" to="2004-06-16" role="member" ref="#parliamentaryGroup.SPÖ"/>
+               <affiliation from="1983-05-24" to="1987-01-21" role="member" ref="#GOV"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_00334/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q11753</idno></person>
+            <person xml:id="PAD_14693">
+               <persName to="2018-03-04">
+                  <surname>Rosenkranz</surname>
+                  <forename>Barbara</forename>
+               </persName>
+               <persName from="2018-03-05">
+                  <surname>Rosenkranz</surname>
+                  <forename>Barbara</forename>
+                  <roleName>MA</roleName>
+               </persName>
+               <sex value="F"/>
+               <birth when="1958-06-20">
+                  <placeName key="Q34713">Salzburg</placeName>
+               </birth>
+               <affiliation from="2002-12-20" to="2006-04-27" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2006-04-28" to="2006-10-29" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2006-10-30" to="2008-04-09" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2013-10-29" to="2017-08-06" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2017-08-07" to="2017-11-08" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2002-12-20" to="2006-04-27" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <affiliation from="2006-04-28" to="2006-10-29" role="member" ref="#parliamentaryGroup.BZÖ"/>
+               <affiliation from="2006-10-30" to="2008-04-09" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <affiliation from="2013-10-29" to="2017-08-06" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_14693/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q112165</idno></person>
+            <person xml:id="PAD_01604">
+               <persName>
+                  <surname>Scheibner</surname>
+                  <forename>Herbert</forename>
+               </persName>
+               <sex value="M"/>
+               <birth when="1963-04-23">
+                  <placeName key="Q1741">Wien</placeName>
+               </birth>
+               <affiliation from="1990-11-05" to="1994-11-06" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="1994-11-07" to="2000-02-10" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2000-02-04" to="2003-02-28" role="minister" ref="#GOV">
+                  <roleName xml:lang="de">Bundesminister für Landesverteidigung</roleName>
+                  <roleName xml:lang="en">Federal Minister for Defence</roleName>
+               </affiliation>
+               <affiliation from="2002-12-20" to="2006-04-27" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2006-04-28" to="2006-10-29" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2006-10-30" to="2013-10-28" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="1990-11-05" to="1994-11-06" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <affiliation from="1994-11-07" to="2000-02-10" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <affiliation from="2002-12-20" to="2006-04-27" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <affiliation from="2006-04-28" to="2006-10-29" role="member" ref="#parliamentaryGroup.BZÖ"/>
+               <affiliation from="2006-10-30" to="2013-10-28" role="member" ref="#parliamentaryGroup.BZÖ"/>
+               <affiliation from="2000-02-04" to="2003-02-28" role="member" ref="#GOV"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_01604/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q90260</idno></person>
+            <person xml:id="PAD_02856">
+               <persName>
+                  <surname>Van der Bellen</surname>
+                  <forename>Alexander</forename>
+                  <roleName>Dr.</roleName>
+               </persName>
+               <sex value="M"/>
+               <birth when="1944-01-18">
+                  <placeName key="Q1741">Wien</placeName>
+               </birth>
+               <affiliation from="1994-11-07" to="2012-07-05" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2017-01-26" role="head" ref="#republic.Austria">
+                  <roleName xml:lang="de">Bundespräsident</roleName>
+                  <roleName xml:lang="en">Federal President</roleName>
+               </affiliation>
+               <affiliation role="member" ref="#politicalParty.GRÜNE"/>
+               <affiliation from="1994-11-07" to="2012-07-05" role="member" ref="#parliamentaryGroup.GRÜNE"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_02856/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q78869</idno></person>
+            <person xml:id="PAD_14834">
+               <persName>
+                  <surname>Turković-Wendl</surname>
+                  <forename>Ingrid</forename>
+               </persName>
+               <sex value="F"/>
+               <birth when="1940-05-17">
+                  <placeName key="Q1741">Wien</placeName>
+               </birth>
+               <affiliation from="2002-12-20" to="2006-10-29" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2002-12-20" to="2006-10-29" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_14834/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q438475</idno></person>
+            <person xml:id="PAD_01803">
+               <persName>
+                  <surname>Schweitzer</surname>
+                  <forename>Karl</forename>
+                  <roleName>Mag.</roleName>
+               </persName>
+               <sex value="M"/>
+               <birth when="1952-08-07">
+                  <placeName key="Q663301">St. Michael (Burgenland)</placeName>
+               </birth>
+               <affiliation from="1990-11-05" to="1994-11-06" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="1994-11-07" to="1996-01-15" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="1995-01-01" to="1996-04-24" role="member" ref="#europeanParliament.EP">
+                  <roleName xml:lang="de">Mitglied des Europäischen Parlament</roleName>
+                  <roleName xml:lang="en">Member of the European Parliament</roleName>
+               </affiliation>
+               <affiliation from="1996-04-16" to="2003-03-04" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2003-02-28" to="2007-01-11" role="secretaryOfState" ref="#GOV">
+                  <roleName xml:lang="de">Staatssekretär im Bundeskanzleramt</roleName>
+                  <roleName xml:lang="en">State Secretary in the Federal Chancellery</roleName>
+               </affiliation>
+               <affiliation role="member" ref="#politicalParty.FPÖ"/>
+               <affiliation from="1990-11-05" to="1994-11-06" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <affiliation from="1994-11-07" to="1996-01-15" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <affiliation from="1996-04-16" to="2003-03-04" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <affiliation from="2003-02-28" to="2007-01-11" role="member" ref="#GOV"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_01803/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1732956</idno></person>
+            <person xml:id="PAD_01226">
+               <persName>
+                  <surname>Molterer</surname>
+                  <forename>Wilhelm</forename>
+                  <roleName>Mag.</roleName>
+               </persName>
+               <sex value="M"/>
+               <birth when="1955-05-14">
+                  <placeName key="Q260320">Steyr</placeName>
+               </birth>
+               <affiliation from="1990-11-05" to="1994-12-13" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="1994-11-29" to="2000-03-31" role="minister" ref="#GOV">
+                  <roleName xml:lang="de">Bundesminister für Land- und Forstwirtschaft</roleName>
+                  <roleName xml:lang="en">Federal Minister for Agriculture and Forestry</roleName>
+               </affiliation>
+               <affiliation from="1996-01-15" to="1996-03-13" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="1999-10-29" to="2000-02-07" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2000-02-04" to="2000-03-31" role="ministerDelegate" ref="#GOV">
+                  <roleName xml:lang="de">Betraut mit der vorläufigen Leitung des Bundesministeriums für Umwelt, Jugend und Familie</roleName>
+                  <roleName xml:lang="en">Entrusted with the Interim Management of the Federal Ministry of Environment, Youth and Families</roleName>
+               </affiliation>
+               <affiliation from="2000-04-01" to="2003-02-28" role="minister" ref="#GOV">
+                  <roleName xml:lang="de">Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft</roleName>
+                  <roleName xml:lang="en">Federal Minister for Agriculture, Forestry, Environment and Water Management</roleName>
+               </affiliation>
+               <affiliation from="2002-12-20" to="2007-01-11" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2007-01-11" to="2008-12-02" role="minister" ref="#GOV">
+                  <roleName xml:lang="de">Bundesminister für Finanzen</roleName>
+                  <roleName xml:lang="en">Federal Minister for Finance</roleName>
+               </affiliation>
+               <affiliation from="2007-01-11" to="2008-12-02" role="deputyHead" ref="#GOV">
+                  <roleName xml:lang="de">Vizekanzler</roleName>
+                  <roleName xml:lang="en">Vice-Chancellor</roleName>
+               </affiliation>
+               <affiliation from="2008-06-30" to="2008-07-01" role="ministerDelegate" ref="#GOV">
+                  <roleName xml:lang="de">Betraut mit der Leitung des Bundesministeriums für Inneres</roleName>
+                  <roleName xml:lang="en">Entrusted with the Management of the Federal Ministry of the Interior</roleName>
+               </affiliation>
+               <affiliation from="2008-10-28" to="2011-06-30" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation role="member" ref="#politicalParty.ÖVP"/>
+               <affiliation from="1990-11-05" to="1994-12-13" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <affiliation from="1996-01-15" to="1996-03-13" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <affiliation from="1999-10-29" to="2000-02-07" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <affiliation from="2002-12-20" to="2007-01-11" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <affiliation from="2008-10-28" to="2011-06-30" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <affiliation from="1994-11-29" to="2000-03-31" role="member" ref="#GOV"/>
+               <affiliation from="2000-04-01" to="2003-02-28" role="member" ref="#GOV"/>
+               <affiliation from="2007-01-11" to="2008-12-02" role="member" ref="#GOV"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_01226/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q78761</idno></person>
+            </listPerson></back></text>
 </TEI>

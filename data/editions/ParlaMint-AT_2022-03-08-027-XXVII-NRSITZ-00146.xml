@@ -162,5 +162,41 @@
             <note type="time" xml:id="ParlaMint-AT_2022-03-08-027-XXVII-NRSITZ-00146.note9">Schluss der Sitzung:<time when="2022-03-08T19:55:00+01:00">19:55</time>Uhr</note>
          </div>
       </body>
-   </text>
+   <back><listPerson><person xml:id="PAD_35521">
+               <persName>
+                  <surname>Hofer</surname>
+                  <forename>Norbert</forename>
+                  <roleName>Ing.</roleName>
+               </persName>
+               <sex value="M"/>
+               <birth when="1971-03-02">
+                  <placeName key="Q669945">Vorau (Steiermark)</placeName>
+               </birth>
+               <affiliation from="2006-10-30" to="2017-12-18" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2013-10-29" to="2017-12-18" role="deputyHead" ref="#NR">
+                  <roleName xml:lang="de">Dritter Präsident</roleName>
+                  <roleName xml:lang="en">Third President</roleName>
+               </affiliation>
+               <affiliation from="2017-12-18" to="2019-05-22" role="minister" ref="#GOV">
+                  <roleName xml:lang="de">Bundesminister für Verkehr, Innovation und Technologie</roleName>
+                  <roleName xml:lang="en">Federal Minister for Transport, Innovation and Technology</roleName>
+               </affiliation>
+               <affiliation from="2019-05-24" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2019-10-23" role="deputyHead" ref="#NR">
+                  <roleName xml:lang="de">Dritter Präsident</roleName>
+                  <roleName xml:lang="en">Third President</roleName>
+               </affiliation>
+               <affiliation role="member" ref="#politicalParty.FPÖ"/>
+               <affiliation from="2006-10-30" to="2017-12-18" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <affiliation from="2019-05-24" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <affiliation from="2017-12-18" to="2019-05-22" role="member" ref="#GOV"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_35521/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1996861</idno></person>
+            </listPerson></back></text>
 </TEI>

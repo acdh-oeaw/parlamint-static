@@ -56,7 +56,7 @@
                                         </td>
                                         <td>
                                             <xsl:value-of
-                                                select=".//tei:titleStmt/tei:title[1]/text()"/>
+                                                select=".//tei:titleStmt/tei:title[@type='sub'][1]/text()"/>
                                         </td>
                                         <td>
                                             <xsl:value-of select="tokenize($full_path, '/')[last()]"

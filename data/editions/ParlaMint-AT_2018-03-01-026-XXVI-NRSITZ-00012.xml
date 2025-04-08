@@ -160,5 +160,25 @@
             <note type="time" xml:id="ParlaMint-AT_2018-03-01-026-XXVI-NRSITZ-00012.note8">Schluss der Sitzung:<time when="2018-03-01T14:31:00+01:00">14:31</time>Uhr</note>
          </div>
       </body>
-   </text>
+   <back><listPerson><person xml:id="PAD_51565">
+               <persName>
+                  <surname>Kitzmüller</surname>
+                  <forename>Anneliese</forename>
+               </persName>
+               <sex value="F"/>
+               <birth when="1959-07-03">
+                  <placeName key="Q41329">Linz</placeName>
+               </birth>
+               <affiliation from="2008-10-28" to="2019-10-23" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2017-12-20" to="2019-10-23" role="deputyHead" ref="#NR">
+                  <roleName xml:lang="de">Dritte Präsidentin</roleName>
+                  <roleName xml:lang="en">Third President</roleName>
+               </affiliation>
+               <affiliation from="2008-10-28" to="2019-10-23" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_51565/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q566154</idno></person>
+            </listPerson></back></text>
 </TEI>

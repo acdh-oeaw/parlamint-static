@@ -152,5 +152,47 @@
             <note type="time" xml:id="ParlaMint-AT_1999-01-20-020-XX-NRSITZ-00157.note6">Schluß der Sitzung:<time when="1999-01-20T00:02:00+01:00">0:02</time>Uhr</note>
          </div>
       </body>
-   </text>
+   <back><listPerson><person xml:id="PAD_01018">
+               <persName>
+                  <surname>Neisser</surname>
+                  <forename>Heinrich</forename>
+                  <roleName>Dr.</roleName>
+               </persName>
+               <sex value="M"/>
+               <birth when="1936-03-19">
+                  <placeName key="Q1741">Wien</placeName>
+               </birth>
+               <affiliation from="1969-06-02" to="1970-04-21" role="secretaryOfState" ref="#GOV">
+                  <roleName xml:lang="de">Staatssekretär im Bundeskanzleramt</roleName>
+                  <roleName xml:lang="en">State Secretary in the Federal Chancellery</roleName>
+               </affiliation>
+               <affiliation from="1975-11-04" to="1987-01-28" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="1987-01-21" to="1987-03-31" role="minister" ref="#GOV">
+                  <roleName xml:lang="de">Bundesminister im Bundeskanzleramt</roleName>
+                  <roleName xml:lang="en">Federal Minister in the Federal Chancellery</roleName>
+               </affiliation>
+               <affiliation from="1987-04-01" to="1989-04-24" role="minister" ref="#GOV">
+                  <roleName xml:lang="de">Bundesminister für Föderalismus und Verwaltungsreform im Bundeskanzleramt</roleName>
+                  <roleName xml:lang="en">Federal Minister for Federalism and Administrative Reform</roleName>
+               </affiliation>
+               <affiliation from="1989-05-16" to="1999-10-29" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="1994-11-07" to="1999-10-29" role="deputyHead" ref="#NR">
+                  <roleName xml:lang="de">Zweiter Präsident</roleName>
+                  <roleName xml:lang="en">Second President</roleName>
+               </affiliation>
+               <affiliation role="member" ref="#politicalParty.ÖVP"/>
+               <affiliation from="1975-11-04" to="1987-01-28" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <affiliation from="1989-05-16" to="1999-10-29" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <affiliation from="1969-06-02" to="1970-04-21" role="member" ref="#GOV"/>
+               <affiliation from="1987-01-21" to="1987-03-31" role="member" ref="#GOV"/>
+               <affiliation from="1987-04-01" to="1989-04-24" role="member" ref="#GOV"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_01018/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1395157</idno></person>
+            </listPerson></back></text>
 </TEI>

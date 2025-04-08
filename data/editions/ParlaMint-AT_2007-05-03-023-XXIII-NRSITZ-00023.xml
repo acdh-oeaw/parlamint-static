@@ -159,5 +159,40 @@
             <note type="time" xml:id="ParlaMint-AT_2007-05-03-023-XXIII-NRSITZ-00023.note8">Schluss der Sitzung:<time when="2007-05-03T18:45:00+02:00">18:45</time>Uhr</note>
          </div>
       </body>
-   </text>
+   <back><listPerson><person xml:id="PAD_04476">
+               <persName>
+                  <surname>Prammer</surname>
+                  <forename>Barbara</forename>
+                  <roleName>Mag.</roleName>
+               </persName>
+               <sex value="F"/>
+               <birth when="1954-01-11">
+                  <placeName key="Q611218">Ottnang am Hausruck (Oberösterreich)</placeName>
+               </birth>
+               <death when="2014-08-02"/>
+               <affiliation from="1997-01-28" to="1997-02-25" role="minister" ref="#GOV">
+                  <roleName xml:lang="de">Bundesministerin ohne Portefeuille</roleName>
+                  <roleName xml:lang="en">Federal Minister without portfolio</roleName>
+               </affiliation>
+               <affiliation from="1997-02-26" to="2000-02-04" role="minister" ref="#GOV">
+                  <roleName xml:lang="de">Bundesministerin für Frauenangelegenheiten und Verbraucherschutz im Bundeskanzleramt</roleName>
+                  <roleName xml:lang="en">Federal Minister for Women's Affairs, Consumer Protection in the Federal Chancellery</roleName>
+               </affiliation>
+               <affiliation from="1999-10-29" to="2014-08-02" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2004-06-16" to="2006-10-30" role="deputyHead" ref="#NR">
+                  <roleName xml:lang="de">Zweite Präsidentin</roleName>
+               </affiliation>
+               <affiliation from="2006-10-30" to="2014-08-02" role="head" ref="#NR">
+                  <roleName xml:lang="de">Präsidentin</roleName>
+               </affiliation>
+               <affiliation role="member" ref="#politicalParty.SPÖ"/>
+               <affiliation from="1999-10-29" to="2014-08-02" role="member" ref="#parliamentaryGroup.SPÖ"/>
+               <affiliation from="1997-01-28" to="1997-02-25" role="member" ref="#GOV"/>
+               <affiliation from="1997-02-26" to="2000-02-04" role="member" ref="#GOV"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_04476/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q114286</idno></person>
+            </listPerson></back></text>
 </TEI>

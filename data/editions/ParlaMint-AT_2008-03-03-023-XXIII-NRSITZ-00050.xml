@@ -159,5 +159,31 @@
             <note type="time" xml:id="ParlaMint-AT_2008-03-03-023-XXIII-NRSITZ-00050.note8">Schluss der Sitzung:<time when="2008-03-03T17:42:00+01:00">17:42</time>Uhr</note>
          </div>
       </body>
-   </text>
+   <back><listPerson><person xml:id="PAD_08240">
+               <persName to="2005-05-31">
+                  <surname>Glawischnig</surname>
+                  <forename>Eva</forename>
+                  <roleName>Dr.</roleName>
+               </persName>
+               <persName from="2005-06-01">
+                  <surname>Glawischnig-Piesczek</surname>
+                  <forename>Eva</forename>
+                  <roleName>Dr.</roleName>
+               </persName>
+               <sex value="F"/>
+               <birth when="1969-02-28">
+                  <placeName key="Q483522">Villach</placeName>
+               </birth>
+               <affiliation from="1999-10-29" to="2017-05-23" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2006-10-30" to="2008-10-28" role="deputyHead" ref="#NR">
+                  <roleName xml:lang="de">Dritte Präsidentin</roleName>
+                  <roleName xml:lang="en">Third President</roleName>
+               </affiliation>
+               <affiliation from="1999-10-29" to="2017-05-23" role="member" ref="#parliamentaryGroup.GRÜNE"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_08240/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q93870</idno></person>
+            </listPerson></back></text>
 </TEI>

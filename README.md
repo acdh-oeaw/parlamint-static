@@ -17,6 +17,10 @@ The data in this repository is licensed under [Creative Commons - Attribution 4.
 * clone the repo
 * have a look at the [GitHub Pages Build Workflow](.github/workflows/build.yml) and follow the steps
 
+
+## Process
+The folder [`process`](process) contains some one off data massaging scripts
+
 ----
 
 build with [DSE-Static-Cookiecutter](https://github.com/acdh-oeaw/dse-static-cookiecutter)
