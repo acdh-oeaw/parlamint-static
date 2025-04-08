@@ -13,4 +13,6 @@ for x in tqdm(places, total=len(places)):
     item = WikiDataPlace(x).get_apis_entity()
     item["xml_id"] = pl_id
     enriched_places.append(item)
+
+df = pd.DataFrame(enriched_places)
 df.to_csv(os.path.join("process", "enriched_places.csv"), index=False)
