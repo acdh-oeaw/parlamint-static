@@ -17,1049 +17,2042 @@
    <text>
       <body>
          <listPlace>
-            <place xml:id="place-wels">
-               <placeName>Wels</placeName>
+            <place xml:id="Q486543">
+               <placeName>Alfeld (Leine)</placeName>
+               <location type="coords">
+                  <geo>51.988611111111 9.8269444444444</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q486543</idno>
             </place>
-            <place xml:id="place-znaim-znojmo">
-               <placeName>Znaim/Znojmo</placeName>
+            <place xml:id="Q661747">
+               <placeName>Allentsteig</placeName>
+               <location type="coords">
+                  <geo>48.69722222222222 15.328333333333331</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q661747</idno>
             </place>
-            <place xml:id="place-konigsberg-sudsteiermark">
-               <placeName>Königsberg (Südsteiermark)</placeName>
+            <place xml:id="Q453277">
+               <placeName>Amaliendorf-Aalfang</placeName>
+               <location type="coords">
+                  <geo>48.833333333333 15.083333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q453277</idno>
             </place>
-            <place xml:id="place-kirchberg-in-tirol-tirol">
-               <placeName>Kirchberg in Tirol (Tirol)</placeName>
+            <place xml:id="Q386360">
+               <placeName>Ampfing</placeName>
+               <location type="coords">
+                  <geo>48.266666666667 12.416666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q386360</idno>
             </place>
-            <place xml:id="place-horstorf">
-               <placeName>Hörstorf</placeName>
-            </place>
-            <place xml:id="place-wagna-steiermark">
-               <placeName>Wagna (Steiermark)</placeName>
-            </place>
-            <place xml:id="place-graz">
-               <placeName>Graz</placeName>
-            </place>
-            <place xml:id="place-scharding-am-inn">
-               <placeName>Schärding am Inn</placeName>
-            </place>
-            <place xml:id="place-hollabrunn">
-               <placeName>Hollabrunn</placeName>
-            </place>
-            <place xml:id="place-eggenburg-niederosterreich">
-               <placeName>Eggenburg (Niederösterreich)</placeName>
-            </place>
-            <place xml:id="place-roggendorf-bei-melk">
-               <placeName>Roggendorf bei Melk</placeName>
-            </place>
-            <place xml:id="place-hemmerberg-bei-kohlschwarz">
-               <placeName>Hemmerberg bei Kohlschwarz</placeName>
-            </place>
-            <place xml:id="place-wien">
-               <placeName>Wien</placeName>
-            </place>
-            <place xml:id="place-st-valentin">
-               <placeName>St. Valentin</placeName>
-            </place>
-            <place xml:id="place-salzburg">
-               <placeName>Salzburg</placeName>
-            </place>
-            <place xml:id="place-weissenbach-an-der-enns">
-               <placeName>Weißenbach an der Enns</placeName>
-            </place>
-            <place xml:id="place-linz">
-               <placeName>Linz</placeName>
-            </place>
-            <place xml:id="place-kirchberg-am-wechsel">
-               <placeName>Kirchberg am Wechsel</placeName>
-            </place>
-            <place xml:id="place-klagenfurt">
-               <placeName>Klagenfurt</placeName>
-            </place>
-            <place xml:id="place-alfeld-an-der-leine-niedersachsen">
-               <placeName>Alfeld an der Leine (Niedersachsen)</placeName>
-            </place>
-            <place xml:id="place-sausal">
-               <placeName>Sausal</placeName>
-            </place>
-            <place xml:id="place-marchegg">
-               <placeName>Marchegg</placeName>
-            </place>
-            <place xml:id="place-summerau-oberosterreich">
-               <placeName>Summerau (Oberösterreich)</placeName>
-            </place>
-            <place xml:id="place-attnang-puchheim">
-               <placeName>Attnang-Puchheim</placeName>
-            </place>
-            <place xml:id="place-andelsbuch-vorarlberg">
-               <placeName>Andelsbuch (Vorarlberg)</placeName>
-            </place>
-            <place xml:id="place-riegersburg">
-               <placeName>Riegersburg</placeName>
-            </place>
-            <place xml:id="place-sochau-steiermark">
-               <placeName>Söchau (Steiermark)</placeName>
-            </place>
-            <place xml:id="place-trautmannsdorf-niederosterreich">
-               <placeName>Trautmannsdorf (Niederösterreich)</placeName>
-            </place>
-            <place xml:id="place-grossraming">
-               <placeName>Großraming</placeName>
-            </place>
-            <place xml:id="place-villach">
-               <placeName>Villach</placeName>
-            </place>
-            <place xml:id="place-taufkirchen-pram-oberosterreich">
-               <placeName>Taufkirchen/Pram (Oberösterreich)</placeName>
-            </place>
-            <place xml:id="place-vorderberg-im-gailtal">
-               <placeName>Vorderberg im Gailtal</placeName>
-            </place>
-            <place xml:id="place-neumuhl">
-               <placeName>Neumühl</placeName>
-            </place>
-            <place xml:id="place-wiener-neustadt">
-               <placeName>Wiener Neustadt</placeName>
-            </place>
-            <place xml:id="place-judenburg">
-               <placeName>Judenburg</placeName>
-            </place>
-            <place xml:id="place-bad-goisern-oberosterreich">
-               <placeName>Bad Goisern (Oberösterreich)</placeName>
-            </place>
-            <place xml:id="place-freilassing-bayern">
-               <placeName>Freilassing (Bayern)</placeName>
-            </place>
-            <place xml:id="place-kufstein">
-               <placeName>Kufstein</placeName>
-            </place>
-            <place xml:id="place-seeboden-karnten">
-               <placeName>Seeboden (Kärnten)</placeName>
-            </place>
-            <place xml:id="place-gols-burgenland">
-               <placeName>Gols (Burgenland)</placeName>
-            </place>
-            <place xml:id="place-landeck">
-               <placeName>Landeck</placeName>
-            </place>
-            <place xml:id="place-st-polten">
-               <placeName>St. Pölten</placeName>
-            </place>
-            <place xml:id="place-bruck-an-der-mur">
-               <placeName>Bruck an der Mur</placeName>
-            </place>
-            <place xml:id="place-sommerein-am-leithagebirge-no">
-               <placeName>Sommerein am Leithagebirge (NÖ)</placeName>
-            </place>
-            <place xml:id="place-riedlingsdorf-burgenland">
-               <placeName>Riedlingsdorf (Burgenland)</placeName>
-            </place>
-            <place xml:id="place-matzen">
-               <placeName>Matzen</placeName>
-            </place>
-            <place xml:id="place-ybbs-an-der-donau-niederosterreich">
-               <placeName>Ybbs an der Donau (Niederösterreich)</placeName>
-            </place>
-            <place xml:id="place-windschau-mahren">
-               <placeName>Windschau (Mähren)</placeName>
-            </place>
-            <place xml:id="place-wilhelmsburg">
-               <placeName>Wilhelmsburg</placeName>
-            </place>
-            <place xml:id="place-bergen-deutschland">
-               <placeName>Bergen (Deutschland)</placeName>
-            </place>
-            <place xml:id="place-amstetten">
+            <place xml:id="Q251231">
                <placeName>Amstetten</placeName>
+               <location type="coords">
+                  <geo>48.116666666667 14.866666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q251231</idno>
             </place>
-            <place xml:id="place-oberpullendorf">
-               <placeName>Oberpullendorf</placeName>
+            <place xml:id="Q490200">
+               <placeName>Andelsbuch</placeName>
+               <location type="coords">
+                  <geo>47.413333333333 9.8961111111111</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q490200</idno>
             </place>
-            <place xml:id="place-lolling">
-               <placeName>Lölling</placeName>
-            </place>
-            <place xml:id="place-axams">
-               <placeName>Axams</placeName>
-            </place>
-            <place xml:id="place-boheimkirchen-niederosterreich">
-               <placeName>Böheimkirchen (Niederösterreich)</placeName>
-            </place>
-            <place xml:id="place-bleiberg-karnten">
-               <placeName>Bleiberg (Kärnten)</placeName>
-            </place>
-            <place xml:id="place-leoben">
-               <placeName>Leoben</placeName>
-            </place>
-            <place xml:id="place-deutschkreutz">
-               <placeName>Deutschkreutz</placeName>
-            </place>
-            <place xml:id="place-steyregg">
-               <placeName>Steyregg</placeName>
-            </place>
-            <place xml:id="place-hausmening">
-               <placeName>Hausmening</placeName>
-            </place>
-            <place xml:id="place-lienz">
-               <placeName>Lienz</placeName>
-            </place>
-            <place xml:id="place-lassee-niederosterreich">
-               <placeName>Lassee (Niederösterreich)</placeName>
-            </place>
-            <place xml:id="place-vocklabruck">
-               <placeName>Vöcklabruck</placeName>
-            </place>
-            <place xml:id="place-neunkirchen">
-               <placeName>Neunkirchen</placeName>
-            </place>
-            <place xml:id="place-doppel">
-               <placeName>Doppel</placeName>
-            </place>
-            <place xml:id="place-innsbruck">
-               <placeName>Innsbruck</placeName>
-            </place>
-            <place xml:id="place-feldkirchen-an-der-donau">
-               <placeName>Feldkirchen an der Donau</placeName>
-            </place>
-            <place xml:id="place-zauchtel-sudetenland">
-               <placeName>Zauchtel (Sudetenland)</placeName>
-            </place>
-            <place xml:id="place-gersdorf">
-               <placeName>Gersdorf</placeName>
-            </place>
-            <place xml:id="place-gmund">
-               <placeName>Gmünd</placeName>
-            </place>
-            <place xml:id="place-st-wolfgang">
-               <placeName>St. Wolfgang</placeName>
-            </place>
-            <place xml:id="place-euratsfeld">
-               <placeName>Euratsfeld</placeName>
-            </place>
-            <place xml:id="place-kapfenberg-steiermark">
-               <placeName>Kapfenberg (Steiermark)</placeName>
-            </place>
-            <place xml:id="place-steyr">
-               <placeName>Steyr</placeName>
-            </place>
-            <place xml:id="place-lindau">
-               <placeName>Lindau</placeName>
-            </place>
-            <place xml:id="place-neumarkt-im-muhlkreis">
-               <placeName>Neumarkt im Mühlkreis</placeName>
-            </place>
-            <place xml:id="place-murzzuschlag">
-               <placeName>Mürzzuschlag</placeName>
-            </place>
-            <place xml:id="place-zwettl">
-               <placeName>Zwettl</placeName>
-            </place>
-            <place xml:id="place-ried-im-innkreis">
-               <placeName>Ried im Innkreis</placeName>
-            </place>
-            <place xml:id="place-greifenburg">
-               <placeName>Greifenburg</placeName>
-            </place>
-            <place xml:id="place-anger">
+            <place xml:id="Q537922">
                <placeName>Anger</placeName>
-            </place>
-            <place xml:id="place-krems">
-               <placeName>Krems</placeName>
-            </place>
-            <place xml:id="place-wolfsberg">
-               <placeName>Wolfsberg</placeName>
-            </place>
-            <place xml:id="place-st-gilgen">
-               <placeName>St. Gilgen</placeName>
-            </place>
-            <place xml:id="place-braunau-am-inn">
-               <placeName>Braunau am Inn</placeName>
-            </place>
-            <place xml:id="place-muhldorf-am-inn-bayern">
-               <placeName>Mühldorf am Inn (Bayern)</placeName>
-            </place>
-            <place xml:id="place-kempten-im-allgau-brd">
-               <placeName>Kempten im Allgäu (BRD)</placeName>
-            </place>
-            <place xml:id="place-gussing-burgenland">
-               <placeName>Güssing (Burgenland)</placeName>
-            </place>
-            <place xml:id="place-korneuburg">
-               <placeName>Korneuburg</placeName>
-            </place>
-            <place xml:id="place-st-veit-im-pongau">
-               <placeName>St. Veit im Pongau</placeName>
-            </place>
-            <place xml:id="place-st-michael-burgenland">
-               <placeName>St. Michael (Burgenland)</placeName>
-            </place>
-            <place xml:id="place-baja-ungarn">
-               <placeName>Baja (Ungarn)</placeName>
-            </place>
-            <place xml:id="place-modling-niederosterreich">
-               <placeName>Mödling (Niederösterreich)</placeName>
-            </place>
-            <place xml:id="place-langenwang">
-               <placeName>Langenwang</placeName>
-            </place>
-            <place xml:id="place-markt-piesting">
-               <placeName>Markt Piesting</placeName>
-            </place>
-            <place xml:id="place-klagenfurt-am-worthersee-karnten">
-               <placeName>Klagenfurt am Wörthersee (Kärnten)</placeName>
-            </place>
-            <place xml:id="place-ober-grafendorf">
-               <placeName>Ober-Grafendorf</placeName>
-            </place>
-            <place xml:id="place-stinatz-stinjaki">
-               <placeName>Stinatz/Stinjaki</placeName>
-            </place>
-            <place xml:id="place-wolfsberg-karnten">
-               <placeName>Wolfsberg (Kärnten)</placeName>
-            </place>
-            <place xml:id="place-radstadt-salzburg">
-               <placeName>Radstadt (Salzburg)</placeName>
-            </place>
-            <place xml:id="place-modling">
-               <placeName>Mödling</placeName>
-            </place>
-            <place xml:id="place-furstenfeld-steiermark">
-               <placeName>Fürstenfeld (Steiermark)</placeName>
-            </place>
-            <place xml:id="place-mistelbach-niederosterreich">
-               <placeName>Mistelbach (Niederösterreich)</placeName>
-            </place>
-            <place xml:id="place-neunkirchen-niederosterreich">
-               <placeName>Neunkirchen (Niederösterreich)</placeName>
-            </place>
-            <place xml:id="place-freistadt-oberosterreich">
-               <placeName>Freistadt (Oberösterreich)</placeName>
-            </place>
-            <place xml:id="place-bad-aussee-steiermark">
-               <placeName>Bad Aussee (Steiermark)</placeName>
-            </place>
-            <place xml:id="place-gmunden-oberosterreich">
-               <placeName>Gmunden (Oberösterreich)</placeName>
-            </place>
-            <place xml:id="place-leoben-steiermark">
-               <placeName>Leoben (Steiermark)</placeName>
-            </place>
-            <place xml:id="place-wels-oberosterreich">
-               <placeName>Wels (Oberösterreich)</placeName>
-            </place>
-            <place xml:id="place-hallstatt-oberosterreich">
-               <placeName>Hallstatt (Oberösterreich)</placeName>
-            </place>
-            <place xml:id="place-wiesental-vasoldsberg">
-               <placeName>Wiesental-Vasoldsberg</placeName>
-            </place>
-            <place xml:id="place-oehling-niederosterreich">
-               <placeName>Oehling (Niederösterreich)</placeName>
-            </place>
-            <place xml:id="place-zams-tirol">
-               <placeName>Zams (Tirol)</placeName>
-            </place>
-            <place xml:id="place-gleisdorf-steiermark">
-               <placeName>Gleisdorf (Steiermark)</placeName>
-            </place>
-            <place xml:id="place-worgl-tirol">
-               <placeName>Wörgl (Tirol)</placeName>
-            </place>
-            <place xml:id="place-ternitz-niederosterreich">
-               <placeName>Ternitz (Niederösterreich)</placeName>
-            </place>
-            <place xml:id="place-villach-karnten">
-               <placeName>Villach (Kärnten)</placeName>
-            </place>
-            <place xml:id="place-eisenstadt">
-               <placeName>Eisenstadt</placeName>
-            </place>
-            <place xml:id="place-ried-in-der-riedmark-oberosterreich">
-               <placeName>Ried in der Riedmark (Oberösterreich)</placeName>
-            </place>
-            <place xml:id="place-steyr-oberosterreich">
-               <placeName>Steyr (Oberösterreich)</placeName>
-            </place>
-            <place xml:id="place-istanbul-turkei">
-               <placeName>Istanbul (Türkei)</placeName>
-            </place>
-            <place xml:id="place-sydney-australien">
-               <placeName>Sydney (Australien)</placeName>
-            </place>
-            <place xml:id="place-bosenbach-steiermark">
-               <placeName>Bösenbach (Steiermark)</placeName>
-            </place>
-            <place xml:id="place-tuzla-bosnien-und-herzegowina">
-               <placeName>Tuzla (Bosnien und Herzegowina)</placeName>
-            </place>
-            <place xml:id="place-steinberg-a-d-rabnitz-burgenland">
-               <placeName>Steinberg a.d.Rabnitz (Burgenland)</placeName>
-            </place>
-            <place xml:id="place-bad-goisern">
-               <placeName>Bad Goisern</placeName>
-            </place>
-            <place xml:id="place-mistelbach">
-               <placeName>Mistelbach</placeName>
-            </place>
-            <place xml:id="place-aalfang">
-               <placeName>Aalfang</placeName>
-            </place>
-            <place xml:id="place-landstetten">
-               <placeName>Landstetten</placeName>
-            </place>
-            <place xml:id="place-hohenems-vorarlberg">
-               <placeName>Hohenems (Vorarlberg)</placeName>
-            </place>
-            <place xml:id="place-raipoltenbach-niederosterreich">
-               <placeName>Raipoltenbach/Niederösterreich</placeName>
-            </place>
-            <place xml:id="place-hart-bei-graz">
-               <placeName>Hart bei Graz</placeName>
-            </place>
-            <place xml:id="place-zams">
-               <placeName>Zams</placeName>
-            </place>
-            <place xml:id="place-grossgerharts">
-               <placeName>Großgerharts</placeName>
-            </place>
-            <place xml:id="place-gostling">
-               <placeName>Göstling</placeName>
-            </place>
-            <place xml:id="place-purbach-am-neusiedler-see">
-               <placeName>Purbach am Neusiedler See</placeName>
-            </place>
-            <place xml:id="place-frankenberg">
-               <placeName>Frankenberg</placeName>
-            </place>
-            <place xml:id="place-feldbach">
-               <placeName>Feldbach</placeName>
-            </place>
-            <place xml:id="place-mainburg-niederosterreich">
-               <placeName>Mainburg (Niederösterreich)</placeName>
-            </place>
-            <place xml:id="place-illmitz">
-               <placeName>Illmitz</placeName>
-            </place>
-            <place xml:id="place-mader-vorarlberg">
-               <placeName>Mäder (Vorarlberg)</placeName>
-            </place>
-            <place xml:id="place-ried-im-innkreis-wien">
-               <placeName>Ried im Innkreis (Wien)</placeName>
-            </place>
-            <place xml:id="place-worgl">
-               <placeName>Wörgl</placeName>
-            </place>
-            <place xml:id="place-belgrad">
-               <placeName>Belgrad</placeName>
-            </place>
-            <place xml:id="place-hall-in-tirol">
-               <placeName>Hall in Tirol</placeName>
-            </place>
-            <place xml:id="place-dornbirn">
-               <placeName>Dornbirn</placeName>
-            </place>
-            <place xml:id="place-dornbirn-vorarlberg">
-               <placeName>Dornbirn (Vorarlberg)</placeName>
-            </place>
-            <place xml:id="place-wallern-burgenland">
-               <placeName>Wallern (Burgenland)</placeName>
-            </place>
-            <place xml:id="place-wagna">
-               <placeName>Wagna</placeName>
-            </place>
-            <place xml:id="place-zurich">
-               <placeName>Zürich</placeName>
-            </place>
-            <place xml:id="place-grieskirchen">
-               <placeName>Grieskirchen</placeName>
-            </place>
-            <place xml:id="place-dusseldorf-bundesrepublik-deutschland">
-               <placeName>Düsseldorf (Bundesrepublik Deutschland)</placeName>
-            </place>
-            <place xml:id="place-selzthal-steiermark">
-               <placeName>Selzthal (Steiermark)</placeName>
-            </place>
-            <place xml:id="place-st-johann-in-tirol-tirol">
-               <placeName>St. Johann in Tirol (Tirol)</placeName>
-            </place>
-            <place xml:id="place-allentsteig-niederosterreich">
-               <placeName>Allentsteig (Niederösterreich)</placeName>
-            </place>
-            <place xml:id="place-leibnitz-steiermark">
-               <placeName>Leibnitz (Steiermark)</placeName>
-            </place>
-            <place xml:id="place-scheibbs-niederosterreich">
-               <placeName>Scheibbs (Niederösterreich)</placeName>
-            </place>
-            <place xml:id="place-bad-wimsbach-neydharting-oberosterreich">
-               <placeName>Bad Wimsbach-Neydharting (Oberösterreich)</placeName>
-            </place>
-            <place xml:id="place-edlitz">
-               <placeName>Edlitz</placeName>
-            </place>
-            <place xml:id="place-gussing">
-               <placeName>Güssing</placeName>
-            </place>
-            <place xml:id="place-st-johann-am-tauern">
-               <placeName>St. Johann am Tauern</placeName>
-            </place>
-            <place xml:id="place-st-veit-an-der-glan">
-               <placeName>St. Veit an der Glan</placeName>
-            </place>
-            <place xml:id="place-grossstubing">
-               <placeName>Großstübing</placeName>
-            </place>
-            <place xml:id="place-saalfelden-salzburg">
-               <placeName>Saalfelden (Salzburg)</placeName>
-            </place>
-            <place xml:id="place-breitenwang">
-               <placeName>Breitenwang</placeName>
-            </place>
-            <place xml:id="place-lienz-tirol">
-               <placeName>Lienz (Tirol)</placeName>
-            </place>
-            <place xml:id="place-weikersdorf-am-steinfeld">
-               <placeName>Weikersdorf am Steinfeld</placeName>
-            </place>
-            <place xml:id="place-perg">
-               <placeName>Perg</placeName>
-            </place>
-            <place xml:id="place-aurach-am-hongar-oberosterreich">
-               <placeName>Aurach am Hongar (Oberösterreich)</placeName>
-            </place>
-            <place xml:id="place-ottnang-am-hausruck-oberosterreich">
-               <placeName>Ottnang am Hausruck (Oberösterreich)</placeName>
-            </place>
-            <place xml:id="place-horn">
-               <placeName>Horn</placeName>
-            </place>
-            <place xml:id="place-waldkirchen-deutschland">
-               <placeName>Waldkirchen (Deutschland)</placeName>
-            </place>
-            <place xml:id="place-altmannsdorf-bei-st-polten">
-               <placeName>Altmannsdorf bei St. Pölten</placeName>
-            </place>
-            <place xml:id="place-hainburg-an-der-donau">
-               <placeName>Hainburg an der Donau</placeName>
-            </place>
-            <place xml:id="place-scheifling-steiermark">
-               <placeName>Scheifling (Steiermark)</placeName>
-            </place>
-            <place xml:id="place-trumau">
-               <placeName>Trumau</placeName>
-            </place>
-            <place xml:id="place-michaelerberg-steiermark">
-               <placeName>Michaelerberg (Steiermark)</placeName>
-            </place>
-            <place xml:id="place-krems-an-der-donau-niederosterreich">
-               <placeName>Krems an der Donau (Niederösterreich)</placeName>
-            </place>
-            <place xml:id="place-oberwart">
-               <placeName>Oberwart</placeName>
-            </place>
-            <place xml:id="place-bern-schweiz">
-               <placeName>Bern (Schweiz)</placeName>
-            </place>
-            <place xml:id="place-helsinki-finnland">
-               <placeName>Helsinki (Finnland)</placeName>
-            </place>
-            <place xml:id="place-genf-schweiz">
-               <placeName>Genf (Schweiz)</placeName>
-            </place>
-            <place xml:id="place-hafning-leoben">
-               <placeName>Hafning/Leoben</placeName>
-            </place>
-            <place xml:id="place-gmund-niederosterreich">
-               <placeName>Gmünd (Niederösterreich)</placeName>
-            </place>
-            <place xml:id="place-wr-neustadt-niederosterreich">
-               <placeName>Wr. Neustadt (Niederösterreich)</placeName>
-            </place>
-            <place xml:id="place-lustenau-vorarlberg">
-               <placeName>Lustenau (Vorarlberg)</placeName>
-            </place>
-            <place xml:id="place-grieskirchen-oberosterreich">
-               <placeName>Grieskirchen (Oberösterreich)</placeName>
-            </place>
-            <place xml:id="place-graz-steiermark">
-               <placeName>Graz (Steiermark)</placeName>
-            </place>
-            <place xml:id="place-kilb-niederosterreich">
-               <placeName>Kilb (Niederösterreich)</placeName>
-            </place>
-            <place xml:id="place-bad-ischl-oberosterreich">
-               <placeName>Bad Ischl (Oberösterreich)</placeName>
-            </place>
-            <place xml:id="place-halle">
-               <placeName>Halle</placeName>
-            </place>
-            <place xml:id="place-reith-im-alpbachtal-tirol">
-               <placeName>Reith im Alpbachtal (Tirol)</placeName>
-            </place>
-            <place xml:id="place-schwarzach-im-pongau-salzburg">
-               <placeName>Schwarzach im Pongau (Salzburg)</placeName>
-            </place>
-            <place xml:id="place-schladming-steiermark">
-               <placeName>Schladming (Steiermark)</placeName>
-            </place>
-            <place xml:id="place-st-georgen-rumanien">
-               <placeName>St. Georgen (Rumänien)</placeName>
-            </place>
-            <place xml:id="place-oberwart-burgenland">
-               <placeName>Oberwart (Burgenland)</placeName>
-            </place>
-            <place xml:id="place-st-veit-glan-karnten">
-               <placeName>St. Veit/Glan (Kärnten)</placeName>
-            </place>
-            <place xml:id="place-judenburg-steiermark">
-               <placeName>Judenburg (Steiermark)</placeName>
-            </place>
-            <place xml:id="place-amstetten-niederosterreich">
-               <placeName>Amstetten (Niederösterreich)</placeName>
-            </place>
-            <place xml:id="place-vocklabruck-oberosterreich">
-               <placeName>Vöcklabruck (Oberösterreich)</placeName>
-            </place>
-            <place xml:id="place-budapest-ungarn">
-               <placeName>Budapest (Ungarn)</placeName>
-            </place>
-            <place xml:id="place-waidhofen-an-der-thaya-niederosterreich">
-               <placeName>Waidhofen an der Thaya (Niederösterreich)</placeName>
-            </place>
-            <place xml:id="place-travnik-bosnien-und-herzegowina">
-               <placeName>Travnik (Bosnien und Herzegowina)</placeName>
-            </place>
-            <place xml:id="place-feldkirch-vorarlberg">
-               <placeName>Feldkirch (Vorarlberg)</placeName>
-            </place>
-            <place xml:id="place-bach-karnten">
-               <placeName>Bach (Kärnten)</placeName>
-            </place>
-            <place xml:id="place-schwaz-tirol">
-               <placeName>Schwaz (Tirol)</placeName>
-            </place>
-            <place xml:id="place-surmene-turkei">
-               <placeName>Sürmene (Türkei)</placeName>
-            </place>
-            <place xml:id="place-reichenau-an-der-rax">
-               <placeName>Reichenau an der Rax</placeName>
-            </place>
-            <place xml:id="place-wiener-neustadt-niederosterreich">
-               <placeName>Wiener Neustadt (Niederösterreich)</placeName>
-            </place>
-            <place xml:id="place-st-johann-in-tirol">
-               <placeName>St. Johann in Tirol</placeName>
-            </place>
-            <place xml:id="place-grossrupprechts-niederosterreich">
-               <placeName>Großrupprechts (Niederösterreich)</placeName>
-            </place>
-            <place xml:id="place-roppen-tirol">
-               <placeName>Roppen (Tirol)</placeName>
-            </place>
-            <place xml:id="place-kufstein-tirol">
-               <placeName>Kufstein (Tirol)</placeName>
-            </place>
-            <place xml:id="place-seiz-steiermark">
-               <placeName>Seiz (Steiermark)</placeName>
-            </place>
-            <place xml:id="place-guntramsdorf-niederosterreich">
-               <placeName>Guntramsdorf (Niederösterreich)</placeName>
-            </place>
-            <place xml:id="place-rottenmann-steiermark">
-               <placeName>Rottenmann (Steiermark)</placeName>
-            </place>
-            <place xml:id="place-grunburg">
-               <placeName>Grünburg</placeName>
-            </place>
-            <place xml:id="place-schwarzach-im-pongau">
-               <placeName>Schwarzach im Pongau</placeName>
-            </place>
-            <place xml:id="place-kleinsolk">
-               <placeName>Kleinsölk</placeName>
-            </place>
-            <place xml:id="place-aspang">
-               <placeName>Aspang</placeName>
-            </place>
-            <place xml:id="place-beetzendorf-ddr">
-               <placeName>Beetzendorf (DDR)</placeName>
-            </place>
-            <place xml:id="place-bregenz">
-               <placeName>Bregenz</placeName>
-            </place>
-            <place xml:id="place-fischbach">
-               <placeName>Fischbach</placeName>
-            </place>
-            <place xml:id="place-st-gallen-schweiz">
-               <placeName>St. Gallen (Schweiz)</placeName>
-            </place>
-            <place xml:id="place-kirchdorf-an-der-krems">
-               <placeName>Kirchdorf an der Krems</placeName>
-            </place>
-            <place xml:id="place-obdachegg-steiermark">
-               <placeName>Obdachegg (Steiermark)</placeName>
-            </place>
-            <place xml:id="place-wieselburg">
-               <placeName>Wieselburg</placeName>
-            </place>
-            <place xml:id="place-kirchberg-an-der-pielach">
-               <placeName>Kirchberg an der Pielach</placeName>
-            </place>
-            <place xml:id="place-eibiswald">
-               <placeName>Eibiswald</placeName>
-            </place>
-            <place xml:id="place-kautzen-niederosterreich">
-               <placeName>Kautzen (Niederösterreich)</placeName>
-            </place>
-            <place xml:id="place-neufurth-amstetten">
-               <placeName>Neufurth/Amstetten</placeName>
-            </place>
-            <place xml:id="place-liesing-im-lesachtal">
-               <placeName>Liesing im Lesachtal</placeName>
-            </place>
-            <place xml:id="place-oberwolz-steiermark">
-               <placeName>Oberwölz (Steiermark)</placeName>
-            </place>
-            <place xml:id="place-hollabrunn-niederosterreich">
-               <placeName>Hollabrunn (Niederösterreich)</placeName>
-            </place>
-            <place xml:id="place-waldhausen-oberosterreich">
-               <placeName>Waldhausen (Oberösterreich)</placeName>
-            </place>
-            <place xml:id="place-gleisdorf">
-               <placeName>Gleisdorf</placeName>
-            </place>
-            <place xml:id="place-hartberg-steiermark">
-               <placeName>Hartberg (Steiermark)</placeName>
-            </place>
-            <place xml:id="place-lauterach-vorarlberg">
-               <placeName>Lauterach (Vorarlberg)</placeName>
-            </place>
-            <place xml:id="place-helfenberg-oberosterreich">
-               <placeName>Helfenberg (Oberösterreich)</placeName>
-            </place>
-            <place xml:id="place-schwaz">
-               <placeName>Schwaz</placeName>
-            </place>
-            <place xml:id="place-gobelsburg-niederosterreich">
-               <placeName>Gobelsburg (Niederösterreich)</placeName>
-            </place>
-            <place xml:id="place-trautenau-trutnov-bohmen">
-               <placeName>Trautenau/Trutnov (Böhmen)</placeName>
-            </place>
-            <place xml:id="place-apetlon">
+               <location type="coords">
+                  <geo>47.273611111111 15.69</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q537922</idno>
+            </place>
+            <place xml:id="Q3640">
+               <placeName>Ankara</placeName>
+               <location type="coords">
+                  <geo>39.93576 32.83869</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q3640</idno>
+            </place>
+            <place xml:id="Q257130">
+               <placeName>Ansfelden</placeName>
+               <location type="coords">
+                  <geo>48.208333333333 14.288888888889</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q257130</idno>
+            </place>
+            <place xml:id="Q618270">
                <placeName>Apetlon</placeName>
+               <location type="coords">
+                  <geo>47.745 16.831111111111</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q618270</idno>
             </place>
-            <place xml:id="place-baden-niederosterreich">
-               <placeName>Baden (Niederösterreich)</placeName>
-            </place>
-            <place xml:id="place-bludenz-vorarlberg">
-               <placeName>Bludenz (Vorarlberg)</placeName>
-            </place>
-            <place xml:id="place-schwanenstadt">
-               <placeName>Schwanenstadt</placeName>
-            </place>
-            <place xml:id="place-arzl-im-pitztal">
+            <place xml:id="Q681920">
                <placeName>Arzl im Pitztal</placeName>
+               <location type="coords">
+                  <geo>47.208333333333 10.7625</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q681920</idno>
             </place>
-            <place xml:id="place-singsdorf-steiermark">
-               <placeName>Singsdorf (Steiermark)</placeName>
+            <place xml:id="Q683242">
+               <placeName>Aspang-Markt</placeName>
+               <location type="coords">
+                  <geo>47.555833333333 16.091388888889</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q683242</idno>
             </place>
-            <place xml:id="place-saalfelden">
-               <placeName>Saalfelden</placeName>
+            <place xml:id="Q261216">
+               <placeName>Attnang-Puchheim</placeName>
+               <location type="coords">
+                  <geo>48.016666666667 13.716666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q261216</idno>
             </place>
-            <place xml:id="place-rottenmann">
-               <placeName>Rottenmann</placeName>
+            <place xml:id="Q671006">
+               <placeName>Aurach am Hongar</placeName>
+               <location type="coords">
+                  <geo>47.950277777778 13.667222222222</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q671006</idno>
             </place>
-            <place xml:id="place-kleinedling-wolfsberg">
-               <placeName>Kleinedling/Wolfsberg</placeName>
+            <place xml:id="Q384648">
+               <placeName>Axams</placeName>
+               <location type="coords">
+                  <geo>47.230277777778 11.279166666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q384648</idno>
             </place>
-            <place xml:id="place-scheibbs">
-               <placeName>Scheibbs</placeName>
+            <place xml:id="Q251065">
+               <placeName>Bad Aussee</placeName>
+               <location type="coords">
+                  <geo>47.61 13.782777777778</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q251065</idno>
             </place>
-            <place xml:id="place-zell-am-see">
-               <placeName>Zell am See</placeName>
+            <place xml:id="Q535737">
+               <placeName>Bad Bleiberg</placeName>
+               <location type="coords">
+                  <geo>46.624166666667 13.687777777778</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q535737</idno>
             </place>
-            <place xml:id="place-friesach">
-               <placeName>Friesach</placeName>
-            </place>
-            <place xml:id="place-tamsweg-salzburg">
-               <placeName>Tamsweg (Salzburg)</placeName>
-            </place>
-            <place xml:id="place-bezau">
-               <placeName>Bezau</placeName>
-            </place>
-            <place xml:id="place-burgauberg-burgenland">
-               <placeName>Burgauberg (Burgenland)</placeName>
-            </place>
-            <place xml:id="place-paternion-karnten">
-               <placeName>Paternion (Kärnten)</placeName>
-            </place>
-            <place xml:id="place-voitsberg-steiermark">
-               <placeName>Voitsberg (Steiermark)</placeName>
-            </place>
-            <place xml:id="place-freistadt">
-               <placeName>Freistadt</placeName>
-            </place>
-            <place xml:id="place-lienz-osttirol">
-               <placeName>Lienz (Osttirol)</placeName>
-            </place>
-            <place xml:id="place-kempten-bayern">
-               <placeName>Kempten (Bayern)</placeName>
-            </place>
-            <place xml:id="place-hartberg">
-               <placeName>Hartberg</placeName>
-            </place>
-            <place xml:id="place-bad-erlach">
+            <place xml:id="Q691705">
                <placeName>Bad Erlach</placeName>
+               <location type="coords">
+                  <geo>47.7275 16.21611111111111</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q691705</idno>
             </place>
-            <place xml:id="place-hof-bei-salzburg">
-               <placeName>Hof bei Salzburg</placeName>
+            <place xml:id="Q252674">
+               <placeName>Bad Goisern am Hallstättersee</placeName>
+               <location type="coords">
+                  <geo>47.641666666667 13.616666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q252674</idno>
             </place>
-            <place xml:id="place-flattach-karnten">
-               <placeName>Flattach (Kärnten)</placeName>
+            <place xml:id="Q250984">
+               <placeName>Bad Ischl</placeName>
+               <location type="coords">
+                  <geo>47.71153 13.62393</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q250984</idno>
             </place>
-            <place xml:id="place-passau-deutschland">
-               <placeName>Passau (Deutschland)</placeName>
+            <place xml:id="Q698465">
+               <placeName>Bad Radkersburg</placeName>
+               <location type="coords">
+                  <geo>46.689722222222 15.988611111111</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q698465</idno>
             </place>
-            <place xml:id="place-ansfelden-oberosterreich">
-               <placeName>Ansfelden (Oberösterreich)</placeName>
+            <place xml:id="Q671021">
+               <placeName>Bad Wimsbach-Neydharting</placeName>
+               <location type="coords">
+                  <geo>48.063888888889 13.901944444444</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q671021</idno>
             </place>
-            <place xml:id="place-weiz">
-               <placeName>Weiz</placeName>
+            <place xml:id="Q682850">
+               <placeName>Bad Zell</placeName>
+               <location type="coords">
+                  <geo>48.35 14.666666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q682850</idno>
             </place>
-            <place xml:id="place-kaprun">
-               <placeName>Kaprun</placeName>
+            <place xml:id="Q486450">
+               <placeName>Baden</placeName>
+               <location type="coords">
+                  <geo>48.0075 16.234444444444</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q486450</idno>
             </place>
-            <place xml:id="place-haag-am-hausruck">
-               <placeName>Haag am Hausruck</placeName>
+            <place xml:id="Q203344">
+               <placeName>Baja</placeName>
+               <location type="coords">
+                  <geo>46.183333333333 18.953611111111</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q203344</idno>
             </place>
-            <place xml:id="place-siegendorf">
-               <placeName>Siegendorf</placeName>
+            <place xml:id="Q1492">
+               <placeName>Barcelona</placeName>
+               <location type="coords">
+                  <geo>41.3825 2.1769444444444</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1492</idno>
             </place>
-            <place xml:id="place-spielfeld">
-               <placeName>Spielfeld</placeName>
+            <place xml:id="Q551981">
+               <placeName>Beetzendorf</placeName>
+               <location type="coords">
+                  <geo>52.7 11.091666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q551981</idno>
             </place>
-            <place xml:id="place-mitterkirchen">
-               <placeName>Mitterkirchen</placeName>
+            <place xml:id="Q3820">
+               <placeName>Beirut</placeName>
+               <location type="coords">
+                  <geo>33.886944444444 35.513055555556</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q3820</idno>
             </place>
-            <place xml:id="place-ried-im-innkreis-oberosterreich">
-               <placeName>Ried im Innkreis (Oberösterreich)</placeName>
+            <place xml:id="Q3711">
+               <placeName>Belgrade</placeName>
+               <location type="coords">
+                  <geo>44.81777777777778 20.45694444444445</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q3711</idno>
             </place>
-            <place xml:id="place-frastanz">
+            <place xml:id="Q492538">
+               <placeName>Bergen auf Rügen</placeName>
+               <location type="coords">
+                  <geo>54.416666666667 13.433333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q492538</idno>
+            </place>
+            <place xml:id="Q70">
+               <placeName>Bern</placeName>
+               <location type="coords">
+                  <geo>46.94798 7.44743</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q70</idno>
+            </place>
+            <place xml:id="Q671238">
+               <placeName>Bezau</placeName>
+               <location type="coords">
+                  <geo>47.385 9.9016666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q671238</idno>
+            </place>
+            <place xml:id="Q494504">
+               <placeName>Bludenz</placeName>
+               <location type="coords">
+                  <geo>47.153333333333 9.8219444444444</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q494504</idno>
+            </place>
+            <place xml:id="Q256906">
+               <placeName>Brandenberg</placeName>
+               <location type="coords">
+                  <geo>47.508055555556 11.890833333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q256906</idno>
+            </place>
+            <place xml:id="Q131128">
+               <placeName>Braunau am Inn</placeName>
+               <location type="coords">
+                  <geo>48.258333333333 13.033333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q131128</idno>
+            </place>
+            <place xml:id="Q922">
+               <placeName>Brač</placeName>
+               <location type="coords">
+                  <geo>43.311111111111 16.665555555556</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q922</idno>
+            </place>
+            <place xml:id="Q1737">
+               <placeName>Bregenz</placeName>
+               <location type="coords">
+                  <geo>47.505 9.7491666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1737</idno>
+            </place>
+            <place xml:id="Q656017">
+               <placeName>Breitenwang</placeName>
+               <location type="coords">
+                  <geo>47.488888888889 10.727777777778</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q656017</idno>
+            </place>
+            <place xml:id="Q252197">
+               <placeName>Brixlegg</placeName>
+               <location type="coords">
+                  <geo>47.429166666667 11.8775</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q252197</idno>
+            </place>
+            <place xml:id="Q259893">
+               <placeName>Bruck an der Mur</placeName>
+               <location type="coords">
+                  <geo>47.410555555556 15.268611111111</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q259893</idno>
+            </place>
+            <place xml:id="Q1781">
+               <placeName>Budapest</placeName>
+               <location type="coords">
+                  <geo>47.498333333333 19.040833333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1781</idno>
+            </place>
+            <place xml:id="Q662349">
+               <placeName>Burgauberg-Neudauberg</placeName>
+               <location type="coords">
+                  <geo>47.1575 16.126666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q662349</idno>
+            </place>
+            <place xml:id="Q682753">
+               <placeName>Böheimkirchen</placeName>
+               <location type="coords">
+                  <geo>48.197777777778 15.762222222222</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q682753</idno>
+            </place>
+            <place xml:id="Q41945">
+               <placeName>Deutschkreutz</placeName>
+               <location type="coords">
+                  <geo>47.601666666667 16.628055555556</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q41945</idno>
+            </place>
+            <place xml:id="Q573106">
+               <placeName>Deutschlandsberg</placeName>
+               <location type="coords">
+                  <geo>46.816111111111 15.215</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q573106</idno>
+            </place>
+            <place xml:id="Q666826">
+               <placeName>Dietmanns</placeName>
+               <location type="coords">
+                  <geo>48.783333333333 15.366666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q666826</idno>
+            </place>
+            <place xml:id="Q171219">
+               <placeName>Dornbirn</placeName>
+               <location type="coords">
+                  <geo>47.416666666667 9.75</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q171219</idno>
+            </place>
+            <place xml:id="Q1718">
+               <placeName>Düsseldorf</placeName>
+               <location type="coords">
+                  <geo>51.22555555555556 6.776666666666666</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1718</idno>
+            </place>
+            <place xml:id="Q701754">
+               <placeName>Edlitz</placeName>
+               <location type="coords">
+                  <geo>47.583333 16.133333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q701754</idno>
+            </place>
+            <place xml:id="Q661774">
+               <placeName>Eggenburg</placeName>
+               <location type="coords">
+                  <geo>48.643055555556 15.818611111111</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q661774</idno>
+            </place>
+            <place xml:id="Q674721">
+               <placeName>Eibiswald</placeName>
+               <location type="coords">
+                  <geo>46.686666666667 15.247222222222</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q674721</idno>
+            </place>
+            <place xml:id="Q126321">
+               <placeName>Eisenstadt</placeName>
+               <location type="coords">
+                  <geo>47.845649 16.52327</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q126321</idno>
+            </place>
+            <place xml:id="Q50315">
+               <placeName>Eumseong County</placeName>
+               <location type="coords">
+                  <geo>36.935277777778 127.68972222222</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q50315</idno>
+            </place>
+            <place xml:id="Q673813">
+               <placeName>Euratsfeld</placeName>
+               <location type="coords">
+                  <geo>48.082777777778 14.9325</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q673813</idno>
+            </place>
+            <place xml:id="Q672717">
+               <placeName>Feldbach</placeName>
+               <location type="coords">
+                  <geo>46.955 15.888333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q672717</idno>
+            </place>
+            <place xml:id="Q183104">
+               <placeName>Feldkirch</placeName>
+               <location type="coords">
+                  <geo>47.238055555556 9.5983333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q183104</idno>
+            </place>
+            <place xml:id="Q250189">
+               <placeName>Feldkirchen an der Donau</placeName>
+               <location type="coords">
+                  <geo>48.345555555556 14.050277777778</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q250189</idno>
+            </place>
+            <place xml:id="Q475320">
+               <placeName>Fischbach</placeName>
+               <location type="coords">
+                  <geo>47.441944444444 15.650555555556</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q475320</idno>
+            </place>
+            <place xml:id="Q667440">
+               <placeName>Flattach</placeName>
+               <location type="coords">
+                  <geo>46.934722222222 13.129722222222</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q667440</idno>
+            </place>
+            <place xml:id="Q698577">
                <placeName>Frastanz</placeName>
+               <location type="coords">
+                  <geo>47.22 9.62</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q698577</idno>
             </place>
-            <place xml:id="place-stockerau">
-               <placeName>Stockerau</placeName>
+            <place xml:id="Q278352">
+               <placeName>Freilassing</placeName>
+               <location type="coords">
+                  <geo>47.833333333333 12.966666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q278352</idno>
             </place>
-            <place xml:id="place-vorau-steiermark">
-               <placeName>Vorau (Steiermark)</placeName>
+            <place xml:id="Q143140">
+               <placeName>Freistadt</placeName>
+               <location type="coords">
+                  <geo>48.511666666667 14.506111111111</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q143140</idno>
             </place>
-            <place xml:id="place-ybbs-an-der-donau">
-               <placeName>Ybbs an der Donau</placeName>
+            <place xml:id="Q871601">
+               <placeName>Friesach</placeName>
+               <location type="coords">
+                  <geo>46.9525 14.409722222222</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q871601</idno>
             </place>
-            <place xml:id="place-bad-zell-oberosterreich">
-               <placeName>Bad Zell (Oberösterreich)</placeName>
+            <place xml:id="Q661272">
+               <placeName>Fürstenfeld</placeName>
+               <location type="coords">
+                  <geo>47.05 16.083333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q661272</idno>
             </place>
-            <place xml:id="place-rum-tirol">
-               <placeName>Rum (Tirol)</placeName>
+            <place xml:id="Q174400">
+               <placeName>Gars am Kamp</placeName>
+               <location type="coords">
+                  <geo>48.599166666667 15.663333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q174400</idno>
             </place>
-            <place xml:id="place-ankara-turkei">
-               <placeName>Ankara (Türkei)</placeName>
+            <place xml:id="Q666556">
+               <placeName>Gaweinstal</placeName>
+               <location type="coords">
+                  <geo>48.478055555556 16.589166666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q666556</idno>
             </place>
-            <place xml:id="place-melk-niederosterreich">
-               <placeName>Melk (Niederösterreich)</placeName>
+            <place xml:id="Q71">
+               <placeName>Geneva</placeName>
+               <location type="coords">
+                  <geo>46.2 6.15</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q71</idno>
             </place>
-            <place xml:id="place-rankweil-vorarlberg">
-               <placeName>Rankweil (Vorarlberg)</placeName>
+            <place xml:id="Q643600">
+               <placeName>Gleisdorf</placeName>
+               <location type="coords">
+                  <geo>47.103888888889 15.708333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q643600</idno>
             </place>
-            <place xml:id="place-st-jakob-im-walde">
-               <placeName>St. Jakob im Walde</placeName>
+            <place xml:id="Q430449">
+               <placeName>Gmunden</placeName>
+               <location type="coords">
+                  <geo>47.918055555556 13.799444444444</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q430449</idno>
             </place>
-            <place xml:id="place-bruck-an-der-mur-steiermark">
-               <placeName>Bruck an der Mur (Steiermark)</placeName>
+            <place xml:id="Q660580">
+               <placeName>Gmünd</placeName>
+               <location type="coords">
+                  <geo>46.906666666667 13.535</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q660580</idno>
             </place>
-            <place xml:id="place-stockerau-niederosterreich">
-               <placeName>Stockerau (Niederösterreich)</placeName>
+            <place xml:id="Q671293">
+               <placeName>Gmünd</placeName>
+               <location type="coords">
+                  <geo>48.766666666667 14.983333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q671293</idno>
             </place>
-            <place xml:id="place-hochfilzen">
+            <place xml:id="Q1533505">
+               <placeName>Gobelsburg</placeName>
+               <location type="coords">
+                  <geo>48.4613 15.6983</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1533505</idno>
+            </place>
+            <place xml:id="Q670770">
+               <placeName>Gols</placeName>
+               <location type="coords">
+                  <geo>47.897777777778 16.908888888889</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q670770</idno>
+            </place>
+            <place xml:id="Q13298">
+               <placeName>Graz</placeName>
+               <location type="coords">
+                  <geo>47.07083333333333 15.438611111111111</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q13298</idno>
+            </place>
+            <place xml:id="Q692935">
+               <placeName>Greifenburg</placeName>
+               <location type="coords">
+                  <geo>46.750555555556 13.179722222222</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q692935</idno>
+            </place>
+            <place xml:id="Q256996">
+               <placeName>Grieskirchen</placeName>
+               <location type="coords">
+                  <geo>48.235 13.831944444444</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q256996</idno>
+            </place>
+            <place xml:id="Q682248">
+               <placeName>Großraming</placeName>
+               <location type="coords">
+                  <geo>47.887777777778 14.550277777778</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q682248</idno>
+            </place>
+            <place xml:id="Q1549542">
+               <placeName>Großrupprechts</placeName>
+               <location type="coords">
+                  <geo>48.7619 15.1476</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1549542</idno>
+            </place>
+            <place xml:id="Q688285">
+               <placeName>Großstübing</placeName>
+               <location type="coords">
+                  <geo>47.1925 15.234722222222</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q688285</idno>
+            </place>
+            <place xml:id="Q668663">
+               <placeName>Grünburg</placeName>
+               <location type="coords">
+                  <geo>47.970555555556 14.262222222222</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q668663</idno>
+            </place>
+            <place xml:id="Q661877">
+               <placeName>Guntramsdorf</placeName>
+               <location type="coords">
+                  <geo>48.048333333333 16.315</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q661877</idno>
+            </place>
+            <place xml:id="Q689370">
+               <placeName>Gutenberg an der Raabklamm</placeName>
+               <location type="coords">
+                  <geo>47.208888888889 15.563055555556</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q689370</idno>
+            </place>
+            <place xml:id="Q427008">
+               <placeName>Göstling an der Ybbs</placeName>
+               <location type="coords">
+                  <geo>47.816666666667 14.933333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q427008</idno>
+            </place>
+            <place xml:id="Q279823">
+               <placeName>Güssing</placeName>
+               <location type="coords">
+                  <geo>47.059166666667 16.323055555556</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q279823</idno>
+            </place>
+            <place xml:id="Q255534">
+               <placeName>Haag</placeName>
+               <location type="coords">
+                  <geo>48.112222222222 14.565555555556</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q255534</idno>
+            </place>
+            <place xml:id="Q669595">
+               <placeName>Haag am Hausruck</placeName>
+               <location type="coords">
+                  <geo>48.185555555556 13.642222222222</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q669595</idno>
+            </place>
+            <place xml:id="Q752107">
+               <placeName>Hainburg an der Donau</placeName>
+               <location type="coords">
+                  <geo>48.147777777778 16.941944444444</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q752107</idno>
+            </place>
+            <place xml:id="Q302745">
+               <placeName>Hall in Tirol</placeName>
+               <location type="coords">
+                  <geo>47.283333333333 11.5</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q302745</idno>
+            </place>
+            <place xml:id="Q225774">
+               <placeName>Halle</placeName>
+               <location type="coords">
+                  <geo>52.060833333333 8.3597222222222</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q225774</idno>
+            </place>
+            <place xml:id="Q255684">
+               <placeName>Hallein</placeName>
+               <location type="coords">
+                  <geo>47.666666666667 13.083333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q255684</idno>
+            </place>
+            <place xml:id="Q131633">
+               <placeName>Hallstatt</placeName>
+               <location type="coords">
+                  <geo>47.555833333333 13.646666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q131633</idno>
+            </place>
+            <place xml:id="Q872391">
+               <placeName>Harland</placeName>
+               <location type="coords">
+                  <geo>48.15 15.633333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q872391</idno>
+            </place>
+            <place xml:id="Q689675">
+               <placeName>Hart bei Graz</placeName>
+               <location type="coords">
+                  <geo>47.045 15.52</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q689675</idno>
+            </place>
+            <place xml:id="Q368598">
+               <placeName>Hartberg</placeName>
+               <location type="coords">
+                  <geo>47.280555555556 15.97</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q368598</idno>
+            </place>
+            <place xml:id="Q693756">
+               <placeName>Haslach an der Mühl</placeName>
+               <location type="coords">
+                  <geo>48.578611111111 14.035277777778</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q693756</idno>
+            </place>
+            <place xml:id="Q679532">
+               <placeName>Helfenberg</placeName>
+               <location type="coords">
+                  <geo>48.543333333333 14.1425</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q679532</idno>
+            </place>
+            <place xml:id="Q1757">
+               <placeName>Helsinki</placeName>
+               <location type="coords">
+                  <geo>60.17083333333333 24.9375</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1757</idno>
+            </place>
+            <place xml:id="Q511701">
                <placeName>Hochfilzen</placeName>
+               <location type="coords">
+                  <geo>47.469444444444 12.6225</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q511701</idno>
             </place>
-            <place xml:id="place-lesachtal-karnten">
-               <placeName>Lesachtal (Kärnten)</placeName>
+            <place xml:id="Q568871">
+               <placeName>Hof bei Salzburg</placeName>
+               <location type="coords">
+                  <geo>47.816666666667 13.216666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q568871</idno>
             </place>
-            <place xml:id="place-niklasdorf">
-               <placeName>Niklasdorf</placeName>
+            <place xml:id="Q674830">
+               <placeName>Hofstetten-Grünau</placeName>
+               <location type="coords">
+                  <geo>48.083333333333 15.5</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q674830</idno>
             </place>
-            <place xml:id="place-zell-am-ziller-tirol">
-               <placeName>Zell am Ziller (Tirol)</placeName>
+            <place xml:id="Q698591">
+               <placeName>Hohenems</placeName>
+               <location type="coords">
+                  <geo>47.366666666667 9.6666666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q698591</idno>
             </place>
-            <place xml:id="place-spittal-an-der-drau">
-               <placeName>Spittal an der Drau</placeName>
+            <place xml:id="Q624352">
+               <placeName>Hollabrunn</placeName>
+               <location type="coords">
+                  <geo>48.566666666667 16.083333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q624352</idno>
             </place>
-            <place xml:id="place-lavamund">
-               <placeName>Lavamünd</placeName>
+            <place xml:id="Q659918">
+               <placeName>Horn</placeName>
+               <location type="coords">
+                  <geo>48.665277777778 15.655833333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q659918</idno>
             </place>
-            <place xml:id="place-pellendorf">
-               <placeName>Pellendorf</placeName>
+            <place xml:id="Q700680">
+               <placeName>Höchst</placeName>
+               <location type="coords">
+                  <geo>47.459166666667 9.64</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q700680</idno>
             </place>
-            <place xml:id="place-lang-in-der-steiermark-steiermark">
-               <placeName>Lang in der Steiermark (Steiermark)</placeName>
+            <place xml:id="Q65588464">
+               <placeName>Hörstorf</placeName>
+               <location type="coords">
+                  <geo>48.28041 14.00455</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q65588464</idno>
             </place>
-            <place xml:id="place-tradigist">
-               <placeName>Tradigist</placeName>
+            <place xml:id="Q663981">
+               <placeName>Illmitz</placeName>
+               <location type="coords">
+                  <geo>47.763055555556 16.800277777778</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q663981</idno>
             </place>
-            <place xml:id="place-beirut-libanon">
-               <placeName>Beirut (Libanon)</placeName>
+            <place xml:id="Q1735">
+               <placeName>Innsbruck</placeName>
+               <location type="coords">
+                  <geo>47.268333333333 11.393333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1735</idno>
             </place>
-            <place xml:id="place-knittelfeld-steiermark">
-               <placeName>Knittelfeld (Steiermark)</placeName>
+            <place xml:id="Q406">
+               <placeName>Istanbul</placeName>
+               <location type="coords">
+                  <geo>41.01 28.960277777778</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q406</idno>
             </place>
-            <place xml:id="place-st-jakob-in-defereggen-osttirol-tirol">
-               <placeName>St. Jakob in Defereggen (Osttirol) (Tirol)</placeName>
+            <place xml:id="Q263107">
+               <placeName>Judenburg</placeName>
+               <location type="coords">
+                  <geo>47.1725 14.660277777778</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q263107</idno>
             </place>
-            <place xml:id="place-alt-dietmanns-niederosterreich">
-               <placeName>Alt-Dietmanns (Niederösterreich)</placeName>
+            <place xml:id="Q695606">
+               <placeName>Kammern im Liesingtal</placeName>
+               <location type="coords">
+                  <geo>47.391944444444 14.902222222222</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q695606</idno>
             </place>
-            <place xml:id="place-tulln-an-der-donau">
-               <placeName>Tulln an der Donau</placeName>
+            <place xml:id="Q1003953">
+               <placeName>Kangal</placeName>
+               <location type="coords">
+                  <geo>39.23354 37.39111</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1003953</idno>
             </place>
-            <place xml:id="place-mauthausen">
-               <placeName>Mauthausen</placeName>
+            <place xml:id="Q623049">
+               <placeName>Kapfenberg</placeName>
+               <location type="coords">
+                  <geo>47.439444444444 15.289444444444</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q623049</idno>
             </place>
-            <place xml:id="place-gottsdorf">
-               <placeName>Gottsdorf</placeName>
+            <place xml:id="Q660671">
+               <placeName>Kaprun</placeName>
+               <location type="coords">
+                  <geo>47.2725 12.759444444444</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q660671</idno>
             </place>
-            <place xml:id="place-strem-burgenland">
-               <placeName>Strem (Burgenland)</placeName>
+            <place xml:id="Q666920">
+               <placeName>Kautzen</placeName>
+               <location type="coords">
+                  <geo>48.916666666667 15.233333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q666920</idno>
             </place>
-            <place xml:id="place-lofer">
-               <placeName>Lofer</placeName>
+            <place xml:id="Q15979">
+               <placeName>Kehl</placeName>
+               <location type="coords">
+                  <geo>48.571111111111 7.8088888888889</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q15979</idno>
             </place>
-            <place xml:id="place-kangal-turkei">
-               <placeName>Kangal (Türkei)</placeName>
+            <place xml:id="Q693253">
+               <placeName>Kematen an der Krems</placeName>
+               <location type="coords">
+                  <geo>48.111388888889 14.192222222222</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q693253</idno>
             </place>
-            <place xml:id="place-hall">
-               <placeName>Hall</placeName>
+            <place xml:id="Q3994">
+               <placeName>Kempten (Allgäu)</placeName>
+               <location type="coords">
+                  <geo>47.73333333333333 10.316666666666666</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q3994</idno>
             </place>
-            <place xml:id="place-tubingen-deutschland">
-               <placeName>Tübingen (Deutschland)</placeName>
+            <place xml:id="Q666466">
+               <placeName>Kirchberg am Wechsel</placeName>
+               <location type="coords">
+                  <geo>47.608611111111 15.9925</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q666466</idno>
             </place>
-            <place xml:id="place-altneudorfl">
-               <placeName>Altneudörfl</placeName>
+            <place xml:id="Q616833">
+               <placeName>Kirchberg an der Pielach</placeName>
+               <location type="coords">
+                  <geo>48.016666666667 15.433333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q616833</idno>
             </place>
-            <place xml:id="place-tamsweg">
-               <placeName>Tamsweg</placeName>
+            <place xml:id="Q665755">
+               <placeName>Kirchberg in Tirol</placeName>
+               <location type="coords">
+                  <geo>47.45 12.316666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q665755</idno>
             </place>
-            <place xml:id="place-knittelfeld">
+            <place xml:id="Q688620">
+               <placeName>Kirchdorf an der Krems</placeName>
+               <location type="coords">
+                  <geo>47.906666666667 14.0</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q688620</idno>
+            </place>
+            <place xml:id="Q674814">
+               <placeName>Kirchstetten</placeName>
+               <location type="coords">
+                  <geo>48.183333333333 15.816666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q674814</idno>
+            </place>
+            <place xml:id="Q41753">
+               <placeName>Klagenfurt am Wörthersee</placeName>
+               <location type="coords">
+                  <geo>46.616666666667 14.3</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q41753</idno>
+            </place>
+            <place xml:id="Q701762">
+               <placeName>Kleinsölk</placeName>
+               <location type="coords">
+                  <geo>47.395 13.938333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q701762</idno>
+            </place>
+            <place xml:id="Q487522">
+               <placeName>Klosterneuburg</placeName>
+               <location type="coords">
+                  <geo>48.304166666667 16.316666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q487522</idno>
+            </place>
+            <place xml:id="Q494621">
                <placeName>Knittelfeld</placeName>
+               <location type="coords">
+                  <geo>47.215 14.829444444444</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q494621</idno>
             </place>
-            <place xml:id="place-dietmannsdorf-bei-trieben-steiermark">
-               <placeName>Dietmannsdorf bei Trieben (Steiermark)</placeName>
+            <place xml:id="Q659841">
+               <placeName>Korneuburg</placeName>
+               <location type="coords">
+                  <geo>48.345277777778 16.333055555556</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q659841</idno>
             </place>
-            <place xml:id="place-yenisehir-turkei">
-               <placeName>Yenisehir (Türkei)</placeName>
+            <place xml:id="Q131266">
+               <placeName>Krems</placeName>
+               <location type="coords">
+                  <geo>48.416666666667 15.616666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q131266</idno>
             </place>
-            <place xml:id="place-schattendorf-burgenland">
-               <placeName>Schattendorf (Burgenland)</placeName>
+            <place xml:id="Q486341">
+               <placeName>Kufstein</placeName>
+               <location type="coords">
+                  <geo>47.583333333333 12.166666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q486341</idno>
             </place>
-            <place xml:id="place-klosterneuburg-niederosterreich">
-               <placeName>Klosterneuburg (Niederösterreich)</placeName>
+            <place xml:id="Q1948486">
+               <placeName>Kulu</placeName>
+               <location type="coords">
+                  <geo>39.090107 33.080664</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1948486</idno>
             </place>
-            <place xml:id="place-hochst-vorarlberg">
-               <placeName>Höchst (Vorarlberg)</placeName>
+            <place xml:id="Q1003990">
+               <placeName>Kunšperk</placeName>
+               <location type="coords">
+                  <geo>46.059288376 15.684212526</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1003990</idno>
             </place>
-            <place xml:id="place-haslach-an-der-muhl-oberosterreich">
-               <placeName>Haslach an der Mühl (Oberösterreich)</placeName>
+            <place xml:id="Q664542">
+               <placeName>Köttmannsdorf</placeName>
+               <location type="coords">
+                  <geo>46.561388888889 14.233888888889</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q664542</idno>
             </place>
-            <place xml:id="place-attnang-puchheim-oberosterreich">
-               <placeName>Attnang-Puchheim (Oberösterreich)</placeName>
+            <place xml:id="Q660183">
+               <placeName>Landeck</placeName>
+               <location type="coords">
+                  <geo>47.133333333333 10.566666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q660183</idno>
             </place>
-            <place xml:id="place-scharding-oberosterreich">
-               <placeName>Schärding (Oberösterreich)</placeName>
+            <place xml:id="Q694209">
+               <placeName>Lang</placeName>
+               <location type="coords">
+                  <geo>46.837222222222 15.502777777778</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q694209</idno>
             </place>
-            <place xml:id="place-ampfing-oberosterreich">
-               <placeName>Ampfing (Oberösterreich)</placeName>
+            <place xml:id="Q695639">
+               <placeName>Langenwang</placeName>
+               <location type="coords">
+                  <geo>47.5675 15.619166666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q695639</idno>
             </place>
-            <place xml:id="place-brixlegg-tirol">
-               <placeName>Brixlegg (Tirol)</placeName>
+            <place xml:id="Q699625">
+               <placeName>Lassee</placeName>
+               <location type="coords">
+                  <geo>48.225555555556 16.823055555556</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q699625</idno>
             </place>
-            <place xml:id="place-horn-niederosterreich">
-               <placeName>Horn (Niederösterreich)</placeName>
+            <place xml:id="Q699781">
+               <placeName>Lauterach</placeName>
+               <location type="coords">
+                  <geo>47.477222222222 9.7313888888889</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q699781</idno>
             </place>
-            <place xml:id="place-kulu-turkei">
-               <placeName>Kulu (Türkei)</placeName>
+            <place xml:id="Q875816">
+               <placeName>Lavamünd</placeName>
+               <location type="coords">
+                  <geo>46.641666666667 14.941666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q875816</idno>
             </place>
-            <place xml:id="place-mittersill-salzburg">
-               <placeName>Mittersill (Salzburg)</placeName>
+            <place xml:id="Q659860">
+               <placeName>Leibnitz</placeName>
+               <location type="coords">
+                  <geo>46.783055555556 15.545</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q659860</idno>
             </place>
-            <place xml:id="place-hall-in-tirol-tirol">
-               <placeName>Hall in Tirol (Tirol)</placeName>
+            <place xml:id="Q485294">
+               <placeName>Leoben</placeName>
+               <location type="coords">
+                  <geo>47.381666666667 15.097222222222</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q485294</idno>
             </place>
-            <place xml:id="place-soke-turkei">
-               <placeName>Söke (Türkei)</placeName>
+            <place xml:id="Q677851">
+               <placeName>Lesachtal</placeName>
+               <location type="coords">
+                  <geo>46.693888888889 12.815833333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q677851</idno>
             </place>
-            <place xml:id="place-altendorf-karnten">
-               <placeName>Altendorf (Kärnten)</placeName>
+            <place xml:id="Q336250">
+               <placeName>Lienz</placeName>
+               <location type="coords">
+                  <geo>46.829722222222 12.769722222222</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q336250</idno>
             </place>
-            <place xml:id="place-tulln-an-der-donau-niederosterreich">
-               <placeName>Tulln an der Donau (Niederösterreich)</placeName>
+            <place xml:id="Q153969">
+               <placeName>Lindau</placeName>
+               <location type="coords">
+                  <geo>47.545833333333 9.6838888888889</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q153969</idno>
             </place>
-            <place xml:id="place-st-johann-im-pongau-salzburg">
-               <placeName>St. Johann im Pongau (Salzburg)</placeName>
+            <place xml:id="Q41329">
+               <placeName>Linz</placeName>
+               <location type="coords">
+                  <geo>48.30583333333333 14.286388888888888</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q41329</idno>
             </place>
-            <place xml:id="place-friesach-karnten">
-               <placeName>Friesach (Kärnten)</placeName>
+            <place xml:id="Q252138">
+               <placeName>Lofer</placeName>
+               <location type="coords">
+                  <geo>47.585833333333 12.693611111111</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q252138</idno>
             </place>
-            <place xml:id="place-feldbach-steiermark">
-               <placeName>Feldbach (Steiermark)</placeName>
+            <place xml:id="Q662465">
+               <placeName>Ludmannsdorf</placeName>
+               <location type="coords">
+                  <geo>46.541388888889 14.136388888889</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q662465</idno>
             </place>
-            <place xml:id="place-weiz-steiermark">
-               <placeName>Weiz (Steiermark)</placeName>
+            <place xml:id="Q488315">
+               <placeName>Lustenau</placeName>
+               <location type="coords">
+                  <geo>47.4271 9.67114</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q488315</idno>
             </place>
-            <place xml:id="place-villach-warmbad-karnten">
-               <placeName>Villach Warmbad (Kärnten)</placeName>
+            <place xml:id="Q1879721">
+               <placeName>Lölling</placeName>
+               <location type="coords">
+                  <geo>46.9203 14.5908</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1879721</idno>
             </place>
-            <place xml:id="place-hallein-bei-salzburg-salzburg">
-               <placeName>Hallein bei Salzburg (Salzburg)</placeName>
+            <place xml:id="Q546273">
+               <placeName>Marchegg</placeName>
+               <location type="coords">
+                  <geo>48.278333333333336 16.909166666666668</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q546273</idno>
             </place>
-            <place xml:id="place-buchegg-niederosterreich">
-               <placeName>Buchegg (Niederösterreich)</placeName>
+            <place xml:id="Q673427">
+               <placeName>Markt Piesting</placeName>
+               <location type="coords">
+                  <geo>47.872777777778 16.128888888889</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q673427</idno>
             </place>
-            <place xml:id="place-waidhofen-ybbs-niederosterreich">
-               <placeName>Waidhofen/Ybbs (Niederösterreich)</placeName>
+            <place xml:id="Q686420">
+               <placeName>Matzen-Raggendorf</placeName>
+               <location type="coords">
+                  <geo>48.4 16.7</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q686420</idno>
             </place>
-            <place xml:id="place-breitenwang-tirol">
-               <placeName>Breitenwang (Tirol)</placeName>
+            <place xml:id="Q658855">
+               <placeName>Mauthausen</placeName>
+               <location type="coords">
+                  <geo>48.241944444444 14.516944444444</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q658855</idno>
             </place>
-            <place xml:id="place-stadt-haag-niederosterreich">
-               <placeName>Stadt Haag (Niederösterreich)</placeName>
+            <place xml:id="Q489806">
+               <placeName>Melk</placeName>
+               <location type="coords">
+                  <geo>48.22673 15.33049</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q489806</idno>
             </place>
-            <place xml:id="place-brandenberg-tirol">
-               <placeName>Brandenberg (Tirol)</placeName>
+            <place xml:id="Q660428">
+               <placeName>Mistelbach</placeName>
+               <location type="coords">
+                  <geo>48.566666666667 16.566666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q660428</idno>
             </place>
-            <place xml:id="place-ried-i-i-oberosterreich">
-               <placeName>Ried i.I. (Oberösterreich)</placeName>
+            <place xml:id="Q666964">
+               <placeName>Mitterkirchen im Machland</placeName>
+               <location type="coords">
+                  <geo>48.183611111111 14.709444444444</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q666964</idno>
             </place>
-            <place xml:id="place-st-polten-niederosterreich">
-               <placeName>St.Pölten (Niederösterreich)</placeName>
+            <place xml:id="Q677094">
+               <placeName>Mitterndorf an der Fischa</placeName>
+               <location type="coords">
+                  <geo>47.99731 16.4708</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q677094</idno>
             </place>
-            <place xml:id="place-muhldorf-karnten">
-               <placeName>Mühldorf (Kärnten)</placeName>
+            <place xml:id="Q257244">
+               <placeName>Mittersill</placeName>
+               <location type="coords">
+                  <geo>47.266666666667 12.466666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q257244</idno>
             </place>
-            <place xml:id="place-eibiswald-steiermark">
-               <placeName>Eibiswald (Steiermark)</placeName>
+            <place xml:id="Q605054">
+               <placeName>Murau</placeName>
+               <location type="coords">
+                  <geo>47.111944444444 14.173055555556</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q605054</idno>
             </place>
-            <place xml:id="place-mitterkirchen-im-machland-oberosterreich">
-               <placeName>Mitterkirchen im Machland (Oberösterreich)</placeName>
+            <place xml:id="Q698558">
+               <placeName>Mäder</placeName>
+               <location type="coords">
+                  <geo>47.35 9.6166666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q698558</idno>
             </place>
-            <place xml:id="place-proszowice-polen">
-               <placeName>Proszowice (Polen)</placeName>
+            <place xml:id="Q277965">
+               <placeName>Mödling</placeName>
+               <location type="coords">
+                  <geo>48.085555555556 16.283055555556</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q277965</idno>
             </place>
-            <place xml:id="place-waidhofen-an-der-ybbs">
+            <place xml:id="Q692993">
+               <placeName>Mühldorf</placeName>
+               <location type="coords">
+                  <geo>46.8575 13.351944444444</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q692993</idno>
+            </place>
+            <place xml:id="Q502615">
+               <placeName>Mühldorf am Inn</placeName>
+               <location type="coords">
+                  <geo>48.245555555556 12.522777777778</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q502615</idno>
+            </place>
+            <place xml:id="Q492868">
+               <placeName>Mürzzuschlag</placeName>
+               <location type="coords">
+                  <geo>47.6075 15.673055555556</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q492868</idno>
+            </place>
+            <place xml:id="Q259859">
+               <placeName>Neufeld an der Leitha</placeName>
+               <location type="coords">
+                  <geo>47.867777777778 16.376666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q259859</idno>
+            </place>
+            <place xml:id="Q700307">
+               <placeName>Neulengbach</placeName>
+               <location type="coords">
+                  <geo>48.183333333333 15.9</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q700307</idno>
+            </place>
+            <place xml:id="Q683227">
+               <placeName>Neumarkt im Mühlkreis</placeName>
+               <location type="coords">
+                  <geo>48.427777777778 14.483333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q683227</idno>
+            </place>
+            <place xml:id="Q265948">
+               <placeName>Neunkirchen</placeName>
+               <location type="coords">
+                  <geo>47.726944444444 16.081666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q265948</idno>
+            </place>
+            <place xml:id="Q699825">
+               <placeName>Niklasdorf</placeName>
+               <location type="coords">
+                  <geo>47.395 15.156944444444</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q699825</idno>
+            </place>
+            <place xml:id="Q665490">
+               <placeName>Ober-Grafendorf</placeName>
+               <location type="coords">
+                  <geo>48.150833333333 15.544166666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q665490</idno>
+            </place>
+            <place xml:id="Q252982">
+               <placeName>Oberpullendorf</placeName>
+               <location type="coords">
+                  <geo>47.5 16.516666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q252982</idno>
+            </place>
+            <place xml:id="Q671259">
+               <placeName>Oberwart</placeName>
+               <location type="coords">
+                  <geo>47.287777777778 16.203055555556</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q671259</idno>
+            </place>
+            <place xml:id="Q685862">
+               <placeName>Oberwölz Stadt</placeName>
+               <location type="coords">
+                  <geo>47.202777777778 14.280833333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q685862</idno>
+            </place>
+            <place xml:id="Q673789">
+               <placeName>Oed-Öhling</placeName>
+               <location type="coords">
+                  <geo>48.1 14.8</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q673789</idno>
+            </place>
+            <place xml:id="Q769162">
+               <placeName>Onšov</placeName>
+               <location type="coords">
+                  <geo>49.578285124367 15.136413823325</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q769162</idno>
+            </place>
+            <place xml:id="Q611218">
+               <placeName>Ottnang am Hausruck</placeName>
+               <location type="coords">
+                  <geo>48.095555555556 13.661388888889</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q611218</idno>
+            </place>
+            <place xml:id="Q4190">
+               <placeName>Passau</placeName>
+               <location type="coords">
+                  <geo>48.5748229 13.4609744</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q4190</idno>
+            </place>
+            <place xml:id="Q660468">
+               <placeName>Paternion</placeName>
+               <location type="coords">
+                  <geo>46.712222222222 13.637777777778</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q660468</idno>
+            </place>
+            <place xml:id="Q260186">
+               <placeName>Perg</placeName>
+               <location type="coords">
+                  <geo>48.250277777778 14.633611111111</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q260186</idno>
+            </place>
+            <place xml:id="Q661843">
+               <placeName>Persenbeug-Gottsdorf</placeName>
+               <location type="coords">
+                  <geo>48.166666666667 15.066666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q661843</idno>
+            </place>
+            <place xml:id="Q68269">
+               <placeName>Pfäffikon</placeName>
+               <location type="coords">
+                  <geo>47.366666666667 8.7822222222222</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q68269</idno>
+            </place>
+            <place xml:id="Q324880">
+               <placeName>Proszowice</placeName>
+               <location type="coords">
+                  <geo>50.2 20.3</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q324880</idno>
+            </place>
+            <place xml:id="Q267457">
+               <placeName>Purbach am Neusiedlersee</placeName>
+               <location type="coords">
+                  <geo>47.914722222222 16.693333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q267457</idno>
+            </place>
+            <place xml:id="Q524439">
+               <placeName>Pöggstall</placeName>
+               <location type="coords">
+                  <geo>48.316666666667 15.201666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q524439</idno>
+            </place>
+            <place xml:id="Q670033">
+               <placeName>Rabenstein an der Pielach</placeName>
+               <location type="coords">
+                  <geo>48.06545 15.46709</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q670033</idno>
+            </place>
+            <place xml:id="Q260950">
+               <placeName>Radstadt</placeName>
+               <location type="coords">
+                  <geo>47.383333333333 13.466666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q260950</idno>
+            </place>
+            <place xml:id="Q682607">
+               <placeName>Rainbach im Mühlkreis</placeName>
+               <location type="coords">
+                  <geo>48.561111111111 14.477777777778</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q682607</idno>
+            </place>
+            <place xml:id="Q871383">
+               <placeName>Rankweil</placeName>
+               <location type="coords">
+                  <geo>47.266666666667 9.65</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q871383</idno>
+            </place>
+            <place xml:id="Q665243">
+               <placeName>Reichenau an der Rax</placeName>
+               <location type="coords">
+                  <geo>47.7 15.833333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q665243</idno>
+            </place>
+            <place xml:id="Q523993">
+               <placeName>Reith im Alpbachtal</placeName>
+               <location type="coords">
+                  <geo>47.416666666667 11.878333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q523993</idno>
+            </place>
+            <place xml:id="Q267791">
+               <placeName>Ried im Innkreis</placeName>
+               <location type="coords">
+                  <geo>48.21 13.489444444444</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q267791</idno>
+            </place>
+            <place xml:id="Q678534">
+               <placeName>Ried in der Riedmark</placeName>
+               <location type="coords">
+                  <geo>48.271111111111 14.545555555556</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q678534</idno>
+            </place>
+            <place xml:id="Q650587">
+               <placeName>Riedlingsdorf</placeName>
+               <location type="coords">
+                  <geo>47.346388888889 16.1325</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q650587</idno>
+            </place>
+            <place xml:id="Q679422">
+               <placeName>Riegersburg</placeName>
+               <location type="coords">
+                  <geo>47.0 15.933333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q679422</idno>
+            </place>
+            <place xml:id="Q696137">
+               <placeName>Roppen</placeName>
+               <location type="coords">
+                  <geo>47.216666666667 10.82</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q696137</idno>
+            </place>
+            <place xml:id="Q675678">
+               <placeName>Rottenmann</placeName>
+               <location type="coords">
+                  <geo>47.526666666667 14.355833333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q675678</idno>
+            </place>
+            <place xml:id="Q668078">
+               <placeName>Rum</placeName>
+               <location type="coords">
+                  <geo>47.287222222222 11.458055555556</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q668078</idno>
+            </place>
+            <place xml:id="Q183228">
+               <placeName>Saalfelden am Steinernen Meer</placeName>
+               <location type="coords">
+                  <geo>47.426944444444 12.848333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q183228</idno>
+            </place>
+            <place xml:id="Q34713">
+               <placeName>Salzburg</placeName>
+               <location type="coords">
+                  <geo>47.8 13.045</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q34713</idno>
+            </place>
+            <place xml:id="Q689440">
+               <placeName>Sankt Andrä-Höch</placeName>
+               <location type="coords">
+                  <geo>46.7925 15.379444444444</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q689440</idno>
+            </place>
+            <place xml:id="Q701425">
+               <placeName>Sankt Jakob im Walde</placeName>
+               <location type="coords">
+                  <geo>47.466111111111 15.785555555556</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q701425</idno>
+            </place>
+            <place xml:id="Q262475">
+               <placeName>Sankt Jakob in Defereggen</placeName>
+               <location type="coords">
+                  <geo>46.92916666666667 12.241666666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q262475</idno>
+            </place>
+            <place xml:id="Q689336">
+               <placeName>Sankt Johann am Tauern</placeName>
+               <location type="coords">
+                  <geo>47.35 14.466666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q689336</idno>
+            </place>
+            <place xml:id="Q663301">
+               <placeName>Sankt Michael im Burgenland</placeName>
+               <location type="coords">
+                  <geo>47.126666666667 16.269166666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q663301</idno>
+            </place>
+            <place xml:id="Q494604">
+               <placeName>Sankt Veit an der Glan</placeName>
+               <location type="coords">
+                  <geo>46.766666666667 14.360277777778</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q494604</idno>
+            </place>
+            <place xml:id="Q670800">
+               <placeName>Schattendorf</placeName>
+               <location type="coords">
+                  <geo>47.710833333333 16.510555555556</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q670800</idno>
+            </place>
+            <place xml:id="Q280450">
+               <placeName>Scheibbs</placeName>
+               <location type="coords">
+                  <geo>48.0 15.166666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q280450</idno>
+            </place>
+            <place xml:id="Q688326">
+               <placeName>Scheifling</placeName>
+               <location type="coords">
+                  <geo>47.150555555556 14.411111111111</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q688326</idno>
+            </place>
+            <place xml:id="Q254221">
+               <placeName>Schladming</placeName>
+               <location type="coords">
+                  <geo>47.394166666667 13.689166666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q254221</idno>
+            </place>
+            <place xml:id="Q666161">
+               <placeName>Schollach</placeName>
+               <location type="coords">
+                  <geo>48.183333333333 15.35</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q666161</idno>
+            </place>
+            <place xml:id="Q264819">
+               <placeName>Schwanenstadt</placeName>
+               <location type="coords">
+                  <geo>48.055277777778 13.775833333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q264819</idno>
+            </place>
+            <place xml:id="Q253179">
+               <placeName>Schwarzach im Pongau</placeName>
+               <location type="coords">
+                  <geo>47.322222222222 13.15</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q253179</idno>
+            </place>
+            <place xml:id="Q583485">
+               <placeName>Schwaz</placeName>
+               <location type="coords">
+                  <geo>47.35 11.7</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q583485</idno>
+            </place>
+            <place xml:id="Q489972">
+               <placeName>Schwechat</placeName>
+               <location type="coords">
+                  <geo>48.141111111111 16.478611111111</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q489972</idno>
+            </place>
+            <place xml:id="Q255012">
+               <placeName>Schärding</placeName>
+               <location type="coords">
+                  <geo>48.456944444444 13.431666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q255012</idno>
+            </place>
+            <place xml:id="Q660576">
+               <placeName>Seeboden</placeName>
+               <location type="coords">
+                  <geo>46.818888888889 13.518333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q660576</idno>
+            </place>
+            <place xml:id="Q676033">
+               <placeName>Selzthal</placeName>
+               <location type="coords">
+                  <geo>47.55 14.316666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q676033</idno>
+            </place>
+            <place xml:id="Q202362">
+               <placeName>Sfântu Gheorghe</placeName>
+               <location type="coords">
+                  <geo>45.86527777777778 25.787777777777777</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q202362</idno>
+            </place>
+            <place xml:id="Q663474">
+               <placeName>Siegendorf</placeName>
+               <location type="coords">
+                  <geo>47.782222222222 16.540555555556</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q663474</idno>
+            </place>
+            <place xml:id="Q604080">
+               <placeName>Sigleß</placeName>
+               <location type="coords">
+                  <geo>47.7775 16.395555555556</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q604080</idno>
+            </place>
+            <place xml:id="Q2289311">
+               <placeName>Singsdorf</placeName>
+               <location type="coords">
+                  <geo>47.5106 14.4208</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2289311</idno>
+            </place>
+            <place xml:id="Q664396">
+               <placeName>Sittersdorf</placeName>
+               <location type="coords">
+                  <geo>46.544444444444 14.605833333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q664396</idno>
+            </place>
+            <place xml:id="Q678059">
+               <placeName>Sommerein</placeName>
+               <location type="coords">
+                  <geo>47.991666666667 16.657777777778</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q678059</idno>
+            </place>
+            <place xml:id="Q672498">
+               <placeName>Spielfeld</placeName>
+               <location type="coords">
+                  <geo>46.705555555556 15.637222222222</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q672498</idno>
+            </place>
+            <place xml:id="Q487500">
+               <placeName>Spittal an der Drau</placeName>
+               <location type="coords">
+                  <geo>46.791666666667 13.495833333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q487500</idno>
+            </place>
+            <place xml:id="Q251022">
+               <placeName>St Johann im Pongau</placeName>
+               <location type="coords">
+                  <geo>47.35 13.2</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q251022</idno>
+            </place>
+            <place xml:id="Q25607">
+               <placeName>St. Gallen</placeName>
+               <location type="coords">
+                  <geo>47.423333333333 9.3772222222222</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q25607</idno>
+            </place>
+            <place xml:id="Q264430">
+               <placeName>St. Gilgen</placeName>
+               <location type="coords">
+                  <geo>47.766666666667 13.366666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q264430</idno>
+            </place>
+            <place xml:id="Q699599">
+               <placeName>St. Johann in Tirol</placeName>
+               <location type="coords">
+                  <geo>47.5225 12.425555555556</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q699599</idno>
+            </place>
+            <place xml:id="Q82500">
+               <placeName>St. Pölten</placeName>
+               <location type="coords">
+                  <geo>48.2 15.616666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q82500</idno>
+            </place>
+            <place xml:id="Q21880507">
+               <placeName>St. Pölten</placeName>
+               <location type="coords">
+                  <geo>nan nan</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q21880507</idno>
+            </place>
+            <place xml:id="Q661451">
+               <placeName>St. Valentin</placeName>
+               <location type="coords">
+                  <geo>48.174722222222 14.533333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q661451</idno>
+            </place>
+            <place xml:id="Q259188">
+               <placeName>St. Veit im Pongau</placeName>
+               <location type="coords">
+                  <geo>47.330555555556 13.155555555556</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q259188</idno>
+            </place>
+            <place xml:id="Q567835">
+               <placeName>St. Wolfgang im Salzkammergut</placeName>
+               <location type="coords">
+                  <geo>47.738333333333 13.448055555556</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q567835</idno>
+            </place>
+            <place xml:id="Q1252932">
+               <placeName>Steinberg</placeName>
+               <location type="coords">
+                  <geo>47.4743305555556 16.4869444444444</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1252932</idno>
+            </place>
+            <place xml:id="Q260320">
+               <placeName>Steyr</placeName>
+               <location type="coords">
+                  <geo>48.05 14.416666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q260320</idno>
+            </place>
+            <place xml:id="Q662757">
+               <placeName>Steyregg</placeName>
+               <location type="coords">
+                  <geo>48.283611111111 14.366666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q662757</idno>
+            </place>
+            <place xml:id="Q301284">
+               <placeName>Stinatz</placeName>
+               <location type="coords">
+                  <geo>47.203888888889 16.133333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q301284</idno>
+            </place>
+            <place xml:id="Q494283">
+               <placeName>Stockerau</placeName>
+               <location type="coords">
+                  <geo>48.385833333333 16.210833333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q494283</idno>
+            </place>
+            <place xml:id="Q537140">
+               <placeName>Strem</placeName>
+               <location type="coords">
+                  <geo>47.044166666667 16.414166666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q537140</idno>
+            </place>
+            <place xml:id="Q41358">
+               <placeName>Styria</placeName>
+               <location type="coords">
+                  <geo>47.25 15.166666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q41358</idno>
+            </place>
+            <place xml:id="Q1553447">
+               <placeName>Suchdol nad Odrou</placeName>
+               <location type="coords">
+                  <geo>49.65571669549 17.928191625522</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1553447</idno>
+            </place>
+            <place xml:id="Q3130">
+               <placeName>Sydney</placeName>
+               <location type="coords">
+                  <geo>-33.867777777777775 151.21</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q3130</idno>
+            </place>
+            <place xml:id="Q672808">
+               <placeName>Söchau</placeName>
+               <location type="coords">
+                  <geo>47.030277777778 16.018611111111</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q672808</idno>
+            </place>
+            <place xml:id="Q1012854">
+               <placeName>Söke</placeName>
+               <location type="coords">
+                  <geo>37.7482 27.40614</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1012854</idno>
+            </place>
+            <place xml:id="Q1011964">
+               <placeName>Sürmene</placeName>
+               <location type="coords">
+                  <geo>40.9127715 40.113480805555554</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1011964</idno>
+            </place>
+            <place xml:id="Q669681">
+               <placeName>Tamsweg</placeName>
+               <location type="coords">
+                  <geo>47.116666666667 13.8</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q669681</idno>
+            </place>
+            <place xml:id="Q205733">
+               <placeName>Taufkirchen an der Pram</placeName>
+               <location type="coords">
+                  <geo>48.41043 13.53807</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q205733</idno>
+            </place>
+            <place xml:id="Q659984">
+               <placeName>Ternitz</placeName>
+               <location type="coords">
+                  <geo>47.716666666667 16.033333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q659984</idno>
+            </place>
+            <place xml:id="Q664057">
+               <placeName>Thaya</placeName>
+               <location type="coords">
+                  <geo>48.85 15.283333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q664057</idno>
+            </place>
+            <place xml:id="Q670580">
+               <placeName>Trautmannsdorf an der Leitha</placeName>
+               <location type="coords">
+                  <geo>48.016666666667 16.616666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q670580</idno>
+            </place>
+            <place xml:id="Q159818">
+               <placeName>Travnik</placeName>
+               <location type="coords">
+                  <geo>44.22542187944831 17.666868517575132</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q159818</idno>
+            </place>
+            <place xml:id="Q688726">
+               <placeName>Trieben</placeName>
+               <location type="coords">
+                  <geo>47.486388888889 14.485555555556</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q688726</idno>
+            </place>
+            <place xml:id="Q675834">
+               <placeName>Trofaiach</placeName>
+               <location type="coords">
+                  <geo>47.426111111111 15.006666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q675834</idno>
+            </place>
+            <place xml:id="Q871491">
+               <placeName>Trumau</placeName>
+               <location type="coords">
+                  <geo>47.995277777778 16.344166666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q871491</idno>
+            </place>
+            <place xml:id="Q320950">
+               <placeName>Trutnov</placeName>
+               <location type="coords">
+                  <geo>50.561045737535 15.912798547953</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q320950</idno>
+            </place>
+            <place xml:id="Q489810">
+               <placeName>Tulln an der Donau</placeName>
+               <location type="coords">
+                  <geo>48.333333333333 16.05</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q489810</idno>
+            </place>
+            <place xml:id="Q174684">
+               <placeName>Tuzla</placeName>
+               <location type="coords">
+                  <geo>44.5391105 18.675193</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q174684</idno>
+            </place>
+            <place xml:id="Q3806">
+               <placeName>Tübingen</placeName>
+               <location type="coords">
+                  <geo>48.52 9.0555555555556</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q3806</idno>
+            </place>
+            <place xml:id="Q2475413">
+               <placeName>Ulmerfeld-Hausmening-Neufurth</placeName>
+               <location type="coords">
+                  <geo>48.07694444 14.82361111</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2475413</idno>
+            </place>
+            <place xml:id="Q278042">
+               <placeName>Upper Styria</placeName>
+               <location type="coords">
+                  <geo>47.34 15.02</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q278042</idno>
+            </place>
+            <place xml:id="Q690154">
+               <placeName>Vasoldsberg</placeName>
+               <location type="coords">
+                  <geo>47.013333333333 15.556388888889</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q690154</idno>
+            </place>
+            <place xml:id="Q1741">
+               <placeName>Vienna</placeName>
+               <location type="coords">
+                  <geo>48.208333333333336 16.3725</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1741</idno>
+            </place>
+            <place xml:id="Q483522">
+               <placeName>Villach</placeName>
+               <location type="coords">
+                  <geo>46.616666666667 13.833333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q483522</idno>
+            </place>
+            <place xml:id="Q660453">
+               <placeName>Voitsberg</placeName>
+               <location type="coords">
+                  <geo>47.048333333333 15.150277777778</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q660453</idno>
+            </place>
+            <place xml:id="Q669945">
+               <placeName>Vorau</placeName>
+               <location type="coords">
+                  <geo>47.405555555556 15.888055555556</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q669945</idno>
+            </place>
+            <place xml:id="Q1431366">
+               <placeName>Vorderberg</placeName>
+               <location type="coords">
+                  <geo>46.5958 13.5219</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1431366</idno>
+            </place>
+            <place xml:id="Q251325">
+               <placeName>Vöcklabruck</placeName>
+               <location type="coords">
+                  <geo>48.008611111111 13.655833333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q251325</idno>
+            </place>
+            <place xml:id="Q693460">
+               <placeName>Wagna</placeName>
+               <location type="coords">
+                  <geo>46.768055555556 15.558333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q693460</idno>
+            </place>
+            <place xml:id="Q660060">
+               <placeName>Waidhofen an der Thaya</placeName>
+               <location type="coords">
+                  <geo>48.816666666667 15.283333333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q660060</idno>
+            </place>
+            <place xml:id="Q427385">
                <placeName>Waidhofen an der Ybbs</placeName>
+               <location type="coords">
+                  <geo>47.95964 14.77453</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q427385</idno>
             </place>
-            <place xml:id="place-kematen-an-der-krems-oberosterreich">
-               <placeName>Kematen an der Krems (Oberösterreich)</placeName>
+            <place xml:id="Q678170">
+               <placeName>Waldhausen im Strudengau</placeName>
+               <location type="coords">
+                  <geo>48.2775 14.95</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q678170</idno>
             </place>
-            <place xml:id="place-zeltweg-steiermark">
-               <placeName>Zeltweg (Steiermark)</placeName>
+            <place xml:id="Q505961">
+               <placeName>Waldkirchen</placeName>
+               <location type="coords">
+                  <geo>48.730555555556 13.601111111111</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q505961</idno>
+            </place>
+            <place xml:id="Q661084">
+               <placeName>Wallern im Burgenland</placeName>
+               <location type="coords">
+                  <geo>47.728333333333 16.937222222222</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q661084</idno>
+            </place>
+            <place xml:id="Q673759">
+               <placeName>Weikersdorf am Steinfelde</placeName>
+               <location type="coords">
+                  <geo>47.805555555556 16.143055555556</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q673759</idno>
+            </place>
+            <place xml:id="Q875641">
+               <placeName>Weiz</placeName>
+               <location type="coords">
+                  <geo>47.218888888889 15.625277777778</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q875641</idno>
+            </place>
+            <place xml:id="Q687459">
+               <placeName>Weißenbach an der Enns</placeName>
+               <location type="coords">
+                  <geo>47.705833333333 14.629722222222</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q687459</idno>
+            </place>
+            <place xml:id="Q178582">
+               <placeName>Wels</placeName>
+               <location type="coords">
+                  <geo>48.15 14.016666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q178582</idno>
+            </place>
+            <place xml:id="Q131612">
+               <placeName>Wiener Neustadt</placeName>
+               <location type="coords">
+                  <geo>47.816666666667 16.25</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q131612</idno>
+            </place>
+            <place xml:id="Q661734">
+               <placeName>Wieselburg</placeName>
+               <location type="coords">
+                  <geo>48.133333333333 15.138888888889</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q661734</idno>
+            </place>
+            <place xml:id="Q665268">
+               <placeName>Wilhelmsburg</placeName>
+               <location type="coords">
+                  <geo>48.110833333333 15.61</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q665268</idno>
+            </place>
+            <place xml:id="Q487527">
+               <placeName>Wolfsberg</placeName>
+               <location type="coords">
+                  <geo>46.841944444444 14.840833333333</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q487527</idno>
+            </place>
+            <place xml:id="Q690417">
+               <placeName>Währing</placeName>
+               <location type="coords">
+                  <geo>48.2331 16.3147</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q690417</idno>
+            </place>
+            <place xml:id="Q253639">
+               <placeName>Wörgl</placeName>
+               <location type="coords">
+                  <geo>47.483055555556 12.066388888889</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q253639</idno>
+            </place>
+            <place xml:id="Q278447">
+               <placeName>Ybbs an der Donau</placeName>
+               <location type="coords">
+                  <geo>48.166666666667 15.066666666667</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q278447</idno>
+            </place>
+            <place xml:id="Q145997">
+               <placeName>Zams</placeName>
+               <location type="coords">
+                  <geo>47.157777777778 10.589444444444</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q145997</idno>
+            </place>
+            <place xml:id="Q187572">
+               <placeName>Zell am See</placeName>
+               <location type="coords">
+                  <geo>47.323333333333 12.798055555556</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q187572</idno>
+            </place>
+            <place xml:id="Q187565">
+               <placeName>Zell am Ziller</placeName>
+               <location type="coords">
+                  <geo>47.233055555556 11.881944444444</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q187565</idno>
+            </place>
+            <place xml:id="Q189268">
+               <placeName>Zeltweg</placeName>
+               <location type="coords">
+                  <geo>47.190555555556 14.751111111111</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q189268</idno>
+            </place>
+            <place xml:id="Q214956">
+               <placeName>Znojmo</placeName>
+               <location type="coords">
+                  <geo>48.855540667876 16.048796054219</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q214956</idno>
+            </place>
+            <place xml:id="Q72">
+               <placeName>Zurich</placeName>
+               <location type="coords">
+                  <geo>47.37444444444444 8.54111111111111</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q72</idno>
+            </place>
+            <place xml:id="Q244506">
+               <placeName>Zwettl</placeName>
+               <location type="coords">
+                  <geo>48.603333333333 15.168888888889</geo>
+               </location>
+               <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q244506</idno>
             </place>
          </listPlace>
       </body>
