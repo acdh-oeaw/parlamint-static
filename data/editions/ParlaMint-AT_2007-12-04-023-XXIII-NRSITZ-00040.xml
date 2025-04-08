@@ -5255,7 +5255,7 @@
                <affiliation from="2013-10-29" to="2013-12-16" role="member" ref="#parliamentaryGroup.ÖVP"/>
                <affiliation from="2008-12-02" to="2014-09-01" role="member" ref="#GOV"/>
                <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_01817/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q11735</idno></person>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q11735</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/HBM%20Spindelegger1.jpg"/></figure></person>
             <person xml:id="PAD_08240">
                <persName to="2005-05-31">
                   <surname>Glawischnig</surname>
@@ -5281,7 +5281,24 @@
                </affiliation>
                <affiliation from="1999-10-29" to="2017-05-23" role="member" ref="#parliamentaryGroup.GRÜNE"/>
                <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_08240/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q93870</idno></person>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q93870</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Eva%20Glawischnig.jpeg"/></figure></person>
+            <person xml:id="PAD_36507">
+               <persName>
+                  <surname>Rudas</surname>
+                  <forename>Laura</forename>
+                  <roleName>Mag.</roleName>
+               </persName>
+               <sex value="F"/>
+               <birth when="1981-03-10">
+                  <placeName key="Q1741">Wien</placeName>
+               </birth>
+               <affiliation from="2007-01-16" to="2014-03-17" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2007-01-16" to="2014-03-17" role="member" ref="#parliamentaryGroup.SPÖ"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_36507/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1807818</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/20130922%20Laura%20Rudas.jpg"/></figure></person>
             <person xml:id="PAD_04476">
                <persName>
                   <surname>Prammer</surname>
@@ -5316,23 +5333,7 @@
                <affiliation from="1997-01-28" to="1997-02-25" role="member" ref="#GOV"/>
                <affiliation from="1997-02-26" to="2000-02-04" role="member" ref="#GOV"/>
                <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_04476/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q114286</idno></person>
-            <person xml:id="PAD_14768">
-               <persName>
-                  <surname>Riener</surname>
-                  <forename>Barbara</forename>
-               </persName>
-               <sex value="F"/>
-               <birth when="1962-12-15">
-                  <placeName key="Q1741">Wien</placeName>
-               </birth>
-               <affiliation from="2002-12-20" to="2009-03-10" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2002-12-20" to="2009-03-10" role="member" ref="#parliamentaryGroup.ÖVP"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_14768/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q807604</idno></person>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q114286</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Mag.a.%20Barbara%20Prammer%20%2814316641697%29.jpg"/></figure></person>
             <person xml:id="PAD_08855">
                <persName>
                   <surname>Höllerer</surname>
@@ -5358,23 +5359,22 @@
                <affiliation from="2002-12-20" to="2006-10-29" role="member" ref="#parliamentaryGroup.ÖVP"/>
                <affiliation from="2006-11-10" to="2013-10-28" role="member" ref="#parliamentaryGroup.ÖVP"/>
                <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_08855/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q560922</idno></person>
-            <person xml:id="PAD_36507">
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q560922</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Anna%20H%C3%B6llerer%2020080908.jpg"/></figure></person>
+            <person xml:id="PAD_14768">
                <persName>
-                  <surname>Rudas</surname>
-                  <forename>Laura</forename>
-                  <roleName>Mag.</roleName>
+                  <surname>Riener</surname>
+                  <forename>Barbara</forename>
                </persName>
                <sex value="F"/>
-               <birth when="1981-03-10">
+               <birth when="1962-12-15">
                   <placeName key="Q1741">Wien</placeName>
                </birth>
-               <affiliation from="2007-01-16" to="2014-03-17" role="member" ref="#NR">
+               <affiliation from="2002-12-20" to="2009-03-10" role="member" ref="#NR">
                   <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
                   <roleName xml:lang="en">Member of the Federal Council</roleName>
                </affiliation>
-               <affiliation from="2007-01-16" to="2014-03-17" role="member" ref="#parliamentaryGroup.SPÖ"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_36507/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1807818</idno></person>
+               <affiliation from="2002-12-20" to="2009-03-10" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_14768/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q807604</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/16-07-05-Barbara-Riener-RR2%200008.jpg"/></figure></person>
             </listPerson></back></text>
 </TEI>

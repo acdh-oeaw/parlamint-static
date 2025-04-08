@@ -2006,33 +2006,7 @@
             <note type="time" xml:id="ParlaMint-AT_2018-06-29-026-XXVI-NRSITZ-00033.note419">Schluss der Sitzung:<time when="2018-06-29T18:31:00+02:00">18:31</time>Uhr</note>
          </div>
       </body>
-   <back><listPerson><person xml:id="PAD_60878">
-               <persName>
-                  <surname>Winzig</surname>
-                  <forename>Angelika</forename>
-                  <roleName>Dr.</roleName>
-               </persName>
-               <sex value="F"/>
-               <birth when="1963-05-09">
-                  <placeName key="Q261216">Attnang-Puchheim (Oberösterreich)</placeName>
-               </birth>
-               <affiliation from="2010-06-01" to="2013-10-28" role="member" ref="#BR">
-                  <roleName xml:lang="de">Mitglied des Bundesrats</roleName>
-                  <roleName xml:lang="en">Member of the National Council</roleName>
-               </affiliation>
-               <affiliation from="2013-10-29" to="2019-07-01" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2019-07-02" role="member" ref="#europeanParliament.EP">
-                  <roleName xml:lang="de">Mitglied des Europäischen Parlament</roleName>
-                  <roleName xml:lang="en">Member of the European Parliament</roleName>
-               </affiliation>
-               <affiliation role="member" ref="#politicalParty.ÖVP"/>
-               <affiliation from="2013-10-29" to="2019-07-01" role="member" ref="#parliamentaryGroup.ÖVP"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_60878/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q534677</idno></person>
-            <person xml:id="PAD_83121">
+   <back><listPerson><person xml:id="PAD_83121">
                <persName>
                   <surname>Loacker</surname>
                   <forename>Gerald</forename>
@@ -2053,421 +2027,39 @@
                <affiliation from="2013-10-29" to="2014-01-29" role="member" ref="#parliamentaryGroup.NEOS"/>
                <affiliation from="2014-01-30" role="member" ref="#parliamentaryGroup.NEOS"/>
                <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_83121/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q15114761</idno></person>
-            <person xml:id="PAD_35518">
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q15114761</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Gerald%20Loacker.jpg"/></figure></person>
+            <person xml:id="PAD_84056">
                <persName>
-                  <surname>Strache</surname>
-                  <forename>Heinz-Christian</forename>
+                  <surname>Schellhorn</surname>
+                  <forename>Josef</forename>
                </persName>
                <sex value="M"/>
-               <birth when="1969-06-12">
-                  <placeName key="Q1741">Wien</placeName>
+               <birth when="1967-05-12">
+                  <placeName key="Q253179">Schwarzach im Pongau (Salzburg)</placeName>
                </birth>
-               <affiliation from="2006-10-30" to="2018-01-26" role="member" ref="#NR">
+               <affiliation from="2014-07-01" to="2021-07-31" role="member" ref="#NR">
                   <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
                   <roleName xml:lang="en">Member of the Federal Council</roleName>
                </affiliation>
-               <affiliation from="2017-12-18" to="2019-05-22" role="deputyHead" ref="#GOV">
-                  <roleName xml:lang="de">Vizekanzler</roleName>
-                  <roleName xml:lang="en">Vice-Chancellor</roleName>
-               </affiliation>
-               <affiliation from="2018-01-08" to="2019-05-22" role="minister" ref="#GOV">
-                  <roleName xml:lang="de">Bundesminister für öffentlichen Dienst und Sport</roleName>
-                  <roleName xml:lang="en">Federal Minister for Public Service and Sport</roleName>
-               </affiliation>
-               <affiliation role="member" ref="#politicalParty.FPÖ"/>
-               <affiliation from="2006-10-30" to="2018-01-26" role="member" ref="#parliamentaryGroup.FPÖ"/>
-               <affiliation from="2017-12-18" to="2019-05-22" role="member" ref="#GOV"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_35518/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q44733</idno></person>
-            <person xml:id="PAD_14795">
+               <affiliation from="2014-07-01" to="2021-07-31" role="member" ref="#parliamentaryGroup.NEOS"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_84056/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q17352992</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Sepp%20Schellhorn%202016.jpg"/></figure></person>
+            <person xml:id="PAD_35497">
                <persName>
-                  <surname>Wöginger</surname>
-                  <forename>August</forename>
+                  <surname>Muchitsch</surname>
+                  <forename>Josef</forename>
                </persName>
                <sex value="M"/>
-               <birth when="1974-11-02">
-                  <placeName key="Q4190">Passau (Deutschland)</placeName>
+               <birth when="1967-08-21">
+                  <placeName key="Q694209">Lang in der Steiermark (Steiermark)</placeName>
                </birth>
-               <affiliation from="2002-12-20" role="member" ref="#NR">
+               <affiliation from="2006-10-30" role="member" ref="#NR">
                   <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
                   <roleName xml:lang="en">Member of the Federal Council</roleName>
                </affiliation>
-               <affiliation from="2002-12-20" role="member" ref="#parliamentaryGroup.ÖVP"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_14795/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q764838</idno></person>
-            <person xml:id="PAD_14840">
-               <persName>
-                  <surname>Keck</surname>
-                  <forename>Dietmar</forename>
-               </persName>
-               <sex value="M"/>
-               <birth when="1957-04-27">
-                  <placeName key="Q41329">Linz</placeName>
-               </birth>
-               <affiliation from="2002-12-20" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2002-12-20" role="member" ref="#parliamentaryGroup.SPÖ"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_14840/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1223441</idno></person>
-            <person xml:id="PAD_83111">
-               <persName to="2015-07-16">
-                  <surname>Holzinger</surname>
-                  <forename>Daniela</forename>
-                  <roleName>BA</roleName>
-               </persName>
-               <persName from="2015-07-17">
-                  <surname>Holzinger-Vogtenhuber</surname>
-                  <forename>Daniela</forename>
-                  <roleName>BA</roleName>
-               </persName>
-               <sex value="F"/>
-               <birth when="1987-10-21">
-                  <placeName key="Q251325">Vöcklabruck (Oberösterreich)</placeName>
-               </birth>
-               <affiliation from="2013-10-29" to="2017-07-27" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2017-07-28" to="2017-11-08" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2017-11-09" to="2018-11-19" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2018-11-20" to="2019-10-22" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2013-10-29" to="2017-07-27" role="member" ref="#parliamentaryGroup.SPÖ"/>
-               <affiliation from="2017-11-09" to="2018-11-19" role="member" ref="#parliamentaryGroup.JETZT"/>
-               <affiliation from="2018-11-20" to="2019-10-22" role="member" ref="#parliamentaryGroup.JETZT"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_83111/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q15431613</idno></person>
-            <person xml:id="PAD_35516">
-               <persName>
-                  <surname>Rossmann</surname>
-                  <forename>Bruno</forename>
-                  <roleName>Mag.</roleName>
-               </persName>
-               <sex value="M"/>
-               <birth when="1952-04-16">
-                  <placeName key="Q483522">Villach (Kärnten)</placeName>
-               </birth>
-               <affiliation from="2006-10-30" to="2008-10-27" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2012-07-06" to="2017-07-27" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2017-07-28" to="2017-11-08" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2017-11-09" to="2018-11-19" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2018-11-20" to="2019-10-22" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2006-10-30" to="2008-10-27" role="member" ref="#parliamentaryGroup.GRÜNE"/>
-               <affiliation from="2012-07-06" to="2017-07-27" role="member" ref="#parliamentaryGroup.GRÜNE"/>
-               <affiliation from="2017-11-09" to="2018-11-19" role="member" ref="#parliamentaryGroup.JETZT"/>
-               <affiliation from="2018-11-20" to="2019-10-22" role="member" ref="#parliamentaryGroup.JETZT"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_35516/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q993702</idno></person>
-            <person xml:id="PAD_31011">
-               <persName>
-                  <surname>Blümel</surname>
-                  <forename>Gernot</forename>
-                  <roleName>Mag., MBA</roleName>
-               </persName>
-               <sex value="M"/>
-               <birth when="1981-10-24">
-                  <placeName key="Q1741">Wien</placeName>
-               </birth>
-               <affiliation from="2017-12-18" to="2018-01-08" role="minister" ref="#GOV">
-                  <roleName xml:lang="de">Bundesminister ohne Portefeuille</roleName>
-                  <roleName xml:lang="en">Federal Minister without portfolio</roleName>
-               </affiliation>
-               <affiliation from="2018-01-08" to="2019-05-28" role="minister" ref="#GOV">
-                  <roleName xml:lang="de">Bundesminister für EU, Kunst, Kultur und Medien im Bundeskanzleramt</roleName>
-                  <roleName xml:lang="en">Federal Minister for EU, Arts, Culture and Media in the Federal Chancellery</roleName>
-               </affiliation>
-               <affiliation from="2019-05-28" to="2019-06-03" role="ministerDelegate" ref="#GOV">
-                  <roleName xml:lang="de">Betraut mit der Fortführung der Verwaltung des Büros des Bundesministers für EU, Kunst, Kultur und Medien im Bundeskanzleramt</roleName>
-                  <roleName xml:lang="en">Entrusted with the Mangement of the office of the Federal Minister of EU, Arts, Culture and Media in the Federal Chancellery</roleName>
-               </affiliation>
-               <affiliation from="2019-10-23" to="2020-01-07" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2020-01-07" to="2021-12-06" role="minister" ref="#GOV">
-                  <roleName xml:lang="de">Bundesminister für Finanzen</roleName>
-                  <roleName xml:lang="en">Federal Minister for Finance</roleName>
-               </affiliation>
-               <affiliation role="member" ref="#politicalParty.ÖVP"/>
-               <affiliation from="2019-10-23" to="2020-01-07" role="member" ref="#parliamentaryGroup.ÖVP"/>
-               <affiliation from="2017-12-18" to="2019-06-03" role="member" ref="#GOV"/>
-               <affiliation from="2020-01-07" to="2021-12-06" role="member" ref="#GOV"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_31011/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q15812048</idno></person>
-            <person xml:id="PAD_02340">
-               <persName>
-                  <surname>Cox</surname>
-                  <forename>Stephanie</forename>
-                  <roleName>BA</roleName>
-               </persName>
-               <sex value="F"/>
-               <birth when="1989-01-31">
-                  <placeName key="Q3130">Sydney (Australien)</placeName>
-               </birth>
-               <affiliation from="2017-11-09" to="2018-11-19" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2018-11-20" to="2019-10-22" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2017-11-09" to="2018-11-19" role="member" ref="#parliamentaryGroup.JETZT"/>
-               <affiliation from="2018-11-20" to="2019-10-22" role="member" ref="#parliamentaryGroup.JETZT"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_02340/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q42164934</idno></person>
-            <person xml:id="PAD_88386">
-               <persName>
-                  <surname>Sobotka</surname>
-                  <forename>Wolfgang</forename>
-                  <roleName>Mag.</roleName>
-               </persName>
-               <sex value="M"/>
-               <birth when="1956-01-05">
-                  <placeName key="Q427385">Waidhofen an der Ybbs</placeName>
-               </birth>
-               <affiliation from="2016-04-21" to="2017-12-18" role="minister" ref="#GOV">
-                  <roleName xml:lang="de">Bundesminister für Inneres</roleName>
-                  <roleName xml:lang="en">Federal Minister for the Interior</roleName>
-               </affiliation>
-               <affiliation from="2017-09-11" role="member" ref="#NR">
-                  <roleName xml:lang="de">Abgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the National Council</roleName>
-               </affiliation>
-               <affiliation from="2017-12-20" role="head" ref="#NR">
-                  <roleName xml:lang="de">Nationalratspräsident</roleName>
-               </affiliation>
-               <affiliation role="member" ref="#politicalParty.ÖVP"/>
-               <affiliation from="2017-09-11" role="member" ref="#parliamentaryGroup.ÖVP"/>
-               <affiliation from="2016-04-21" to="2017-12-18" role="member" ref="#GOV"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_88386/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q2591433</idno></person>
-            <person xml:id="PAD_12741">
-               <persName>
-                  <surname>Haubner</surname>
-                  <forename>Peter</forename>
-               </persName>
-               <sex value="M"/>
-               <birth when="1960-01-02">
-                  <placeName key="Q34713">Salzburg</placeName>
-               </birth>
-               <affiliation from="2001-12-03" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2001-12-03" role="member" ref="#parliamentaryGroup.ÖVP"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_12741/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q2075504</idno></person>
-            <person xml:id="PAD_83125">
-               <persName to="2013-12-04">
-                  <surname>Scherak</surname>
-                  <forename>Nikolaus</forename>
-                  <roleName>Mag.</roleName>
-               </persName>
-               <persName from="2013-12-05">
-                  <surname>Scherak</surname>
-                  <forename>Nikolaus</forename>
-                  <roleName>Dr., MA</roleName>
-               </persName>
-               <sex value="M"/>
-               <birth when="1986-10-16">
-                  <placeName key="Q1741">Wien</placeName>
-               </birth>
-               <affiliation from="2013-10-29" to="2014-01-29" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2014-01-30" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2013-10-29" to="2014-01-29" role="member" ref="#parliamentaryGroup.NEOS"/>
-               <affiliation from="2014-01-30" role="member" ref="#parliamentaryGroup.NEOS"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_83125/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1991669</idno></person>
-            <person xml:id="PAD_00145">
-               <persName>
-                  <surname>Bures</surname>
-                  <forename>Doris</forename>
-               </persName>
-               <sex value="F"/>
-               <birth when="1962-08-03">
-                  <placeName key="Q1741">Wien</placeName>
-               </birth>
-               <affiliation from="1990-11-05" to="2007-01-15" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2007-01-11" to="2007-02-28" role="minister" ref="#GOV">
-                  <roleName xml:lang="de">Bundesministerin ohne Portefeuille</roleName>
-                  <roleName xml:lang="en">Federal Minister without portfolio</roleName>
-               </affiliation>
-               <affiliation from="2007-03-01" to="2008-07-01" role="minister" ref="#GOV">
-                  <roleName xml:lang="de">Bundesministerin für Frauen, Medien und öffentlichen Dienst im Bundeskanzleramt</roleName>
-                  <roleName xml:lang="en">Federal Minister for Women's Affairs, Media and Public Service in the Federal Chancellery</roleName>
-               </affiliation>
-               <affiliation from="2008-07-03" to="2008-12-02" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2008-12-02" to="2014-09-01" role="minister" ref="#GOV">
-                  <roleName xml:lang="de">Bundesministerin für Verkehr, Innovation und Technologie</roleName>
-                  <roleName xml:lang="en">Federal Minister for Transport, Innovation and Technology</roleName>
-               </affiliation>
-               <affiliation from="2013-10-29" to="2013-12-16" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2014-09-02" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2014-09-02" to="2017-11-09" role="head" ref="#NR">
-                  <roleName xml:lang="de">Präsidentin</roleName>
-               </affiliation>
-               <affiliation from="2017-11-09" role="deputyHead" ref="#NR">
-                  <roleName xml:lang="de">Zweite Präsidentin</roleName>
-               </affiliation>
-               <affiliation role="member" ref="#politicalParty.SPÖ"/>
-               <affiliation from="1990-11-05" to="2007-01-15" role="member" ref="#parliamentaryGroup.SPÖ"/>
-               <affiliation from="2008-07-03" to="2008-12-02" role="member" ref="#parliamentaryGroup.SPÖ"/>
-               <affiliation from="2013-10-29" to="2013-12-16" role="member" ref="#parliamentaryGroup.SPÖ"/>
-               <affiliation from="2014-09-02" role="member" ref="#parliamentaryGroup.SPÖ"/>
-               <affiliation from="2007-01-11" to="2007-02-28" role="member" ref="#GOV"/>
-               <affiliation from="2007-03-01" to="2008-07-01" role="member" ref="#GOV"/>
-               <affiliation from="2008-12-02" to="2014-09-01" role="member" ref="#GOV"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_00145/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q85433</idno></person>
-            <person xml:id="PAD_22573">
-               <persName>
-                  <surname>Zinggl</surname>
-                  <forename>Wolfgang</forename>
-                  <roleName>Mag. Dr.</roleName>
-               </persName>
-               <sex value="M"/>
-               <birth when="1954-12-12">
-                  <placeName key="Q1741">Wien</placeName>
-               </birth>
-               <affiliation from="2004-07-09" to="2017-07-27" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2017-07-28" to="2017-11-08" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2017-11-09" to="2018-11-19" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2018-11-20" to="2019-10-22" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2004-07-09" to="2017-07-27" role="member" ref="#parliamentaryGroup.GRÜNE"/>
-               <affiliation from="2017-11-09" to="2018-11-19" role="member" ref="#parliamentaryGroup.JETZT"/>
-               <affiliation from="2018-11-20" to="2019-10-22" role="member" ref="#parliamentaryGroup.JETZT"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_22573/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q2591844</idno></person>
-            <person xml:id="PAD_51879">
-               <persName>
-                  <surname>Amesbauer</surname>
-                  <forename>Hannes</forename>
-                  <roleName>Mag., BA</roleName>
-               </persName>
-               <sex value="M"/>
-               <birth when="1981-04-18">
-                  <placeName key="Q259893">Bruck an der Mur (Steiermark)</placeName>
-               </birth>
-               <affiliation from="2017-11-09" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2017-11-09" role="member" ref="#parliamentaryGroup.FPÖ"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_51879/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q15819226</idno></person>
-            <person xml:id="PAD_18665">
-               <persName>
-                  <surname>Gudenus</surname>
-                  <forename>Johann</forename>
-                  <roleName>Mag., M.A.I.S.</roleName>
-               </persName>
-               <sex value="M"/>
-               <birth when="1976-07-20">
-                  <placeName key="Q1741">Wien</placeName>
-               </birth>
-               <affiliation from="2017-12-20" to="2019-05-21" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2017-12-20" to="2019-05-21" role="member" ref="#parliamentaryGroup.FPÖ"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_18665/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1694264</idno></person>
-            <person xml:id="PAD_02941">
-               <persName>
-                  <surname>Kern</surname>
-                  <forename>Christian</forename>
-                  <roleName>Mag.</roleName>
-               </persName>
-               <sex value="M"/>
-               <birth when="1966-01-04">
-                  <placeName key="Q1741">Wien</placeName>
-               </birth>
-               <affiliation from="2016-05-17" to="2017-12-18" role="head" ref="#GOV">
-                  <roleName xml:lang="de">Bundeskanzler</roleName>
-                  <roleName xml:lang="en">Federal Chancellor</roleName>
-               </affiliation>
-               <affiliation from="2017-11-09" to="2018-11-15" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation role="member" ref="#politicalParty.SPÖ"/>
-               <affiliation from="2017-11-09" to="2018-11-15" role="member" ref="#parliamentaryGroup.SPÖ"/>
-               <affiliation from="2016-05-17" to="2017-12-18" role="member" ref="#GOV"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_02941/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q18135060</idno></person>
-            <person xml:id="PAD_01977">
-               <persName>
-                  <surname>Graf</surname>
-                  <forename>Tanja</forename>
-               </persName>
-               <sex value="F"/>
-               <birth when="1975-05-07">
-                  <placeName key="Q1741">Wien</placeName>
-               </birth>
-               <affiliation from="2017-11-09" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2017-11-09" role="member" ref="#parliamentaryGroup.ÖVP"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_01977/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q42179772</idno></person>
+               <affiliation from="2006-10-30" role="member" ref="#parliamentaryGroup.SPÖ"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_35497/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1705321</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Josef%20Muchitsch%20%2814499707021%29.jpg"/></figure></person>
             <person xml:id="PAD_65321">
                <persName>
                   <surname>Kurz</surname>
@@ -2522,52 +2114,237 @@
                <affiliation from="2014-03-01" to="2019-05-28" role="member" ref="#GOV"/>
                <affiliation from="2020-01-07" to="2021-10-11" role="member" ref="#GOV"/>
                <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_65321/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q2262885</idno></person>
-            <person xml:id="PAD_35515">
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q2262885</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Sebastian%20Kurz%20%282018-02-28%29%2007%20%28cropped%29.jpg"/></figure></person>
+            <person xml:id="PAD_18665">
                <persName>
-                  <surname>Hauser</surname>
-                  <forename>Gerald</forename>
+                  <surname>Gudenus</surname>
+                  <forename>Johann</forename>
+                  <roleName>Mag., M.A.I.S.</roleName>
+               </persName>
+               <sex value="M"/>
+               <birth when="1976-07-20">
+                  <placeName key="Q1741">Wien</placeName>
+               </birth>
+               <affiliation from="2017-12-20" to="2019-05-21" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2017-12-20" to="2019-05-21" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_18665/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1694264</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/GuentherZ%202012-05-22%200021%20Wien19%20U4-Heiligenstadt%20FPOe%20Johann%20Gudenus.jpg"/></figure></person>
+            <person xml:id="PAD_31011">
+               <persName>
+                  <surname>Blümel</surname>
+                  <forename>Gernot</forename>
+                  <roleName>Mag., MBA</roleName>
+               </persName>
+               <sex value="M"/>
+               <birth when="1981-10-24">
+                  <placeName key="Q1741">Wien</placeName>
+               </birth>
+               <affiliation from="2017-12-18" to="2018-01-08" role="minister" ref="#GOV">
+                  <roleName xml:lang="de">Bundesminister ohne Portefeuille</roleName>
+                  <roleName xml:lang="en">Federal Minister without portfolio</roleName>
+               </affiliation>
+               <affiliation from="2018-01-08" to="2019-05-28" role="minister" ref="#GOV">
+                  <roleName xml:lang="de">Bundesminister für EU, Kunst, Kultur und Medien im Bundeskanzleramt</roleName>
+                  <roleName xml:lang="en">Federal Minister for EU, Arts, Culture and Media in the Federal Chancellery</roleName>
+               </affiliation>
+               <affiliation from="2019-05-28" to="2019-06-03" role="ministerDelegate" ref="#GOV">
+                  <roleName xml:lang="de">Betraut mit der Fortführung der Verwaltung des Büros des Bundesministers für EU, Kunst, Kultur und Medien im Bundeskanzleramt</roleName>
+                  <roleName xml:lang="en">Entrusted with the Mangement of the office of the Federal Minister of EU, Arts, Culture and Media in the Federal Chancellery</roleName>
+               </affiliation>
+               <affiliation from="2019-10-23" to="2020-01-07" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2020-01-07" to="2021-12-06" role="minister" ref="#GOV">
+                  <roleName xml:lang="de">Bundesminister für Finanzen</roleName>
+                  <roleName xml:lang="en">Federal Minister for Finance</roleName>
+               </affiliation>
+               <affiliation role="member" ref="#politicalParty.ÖVP"/>
+               <affiliation from="2019-10-23" to="2020-01-07" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <affiliation from="2017-12-18" to="2019-06-03" role="member" ref="#GOV"/>
+               <affiliation from="2020-01-07" to="2021-12-06" role="member" ref="#GOV"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_31011/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q15812048</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/2020%20Gernot%20Bl%C3%BCmel%20Ministerrat%20am%208.1.2020%20%2849350912713%29%20%28cropped%29%20%28cropped%29.jpg"/></figure></person>
+            <person xml:id="PAD_35504">
+               <persName>
+                  <surname>Schieder</surname>
+                  <forename>Andreas</forename>
                   <roleName>Mag.</roleName>
                </persName>
                <sex value="M"/>
-               <birth when="1961-09-30">
-                  <placeName key="Q262475">St. Jakob in Defereggen (Osttirol) (Tirol)</placeName>
-               </birth>
-               <affiliation from="2006-10-30" to="2008-07-07" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2013-10-29" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2006-10-30" to="2008-07-07" role="member" ref="#parliamentaryGroup.FPÖ"/>
-               <affiliation from="2013-10-29" role="member" ref="#parliamentaryGroup.FPÖ"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_35515/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1509909</idno></person>
-            <person xml:id="PAD_91034">
-               <persName>
-                  <surname>Rendi-Wagner</surname>
-                  <forename>Pamela</forename>
-                  <roleName>Dr., MSc</roleName>
-               </persName>
-               <sex value="F"/>
-               <birth when="1971-05-07">
+               <birth when="1969-04-16">
                   <placeName key="Q1741">Wien</placeName>
                </birth>
-               <affiliation from="2017-03-08" to="2017-12-18" role="minister" ref="#GOV">
-                  <roleName xml:lang="de">Bundesministerin für Gesundheit und Frauen</roleName>
-                  <roleName xml:lang="en">Federal Minister for Health and Women's Affairs</roleName>
+               <affiliation from="2006-10-30" to="2008-07-02" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
                </affiliation>
-               <affiliation from="2017-11-09" to="2023-06-30" role="member" ref="#NR">
+               <affiliation from="2008-07-01" to="2008-12-02" role="secretaryOfState" ref="#GOV">
+                  <roleName xml:lang="de">Staatssekretär im Bundeskanzleramt</roleName>
+                  <roleName xml:lang="en">State Secretary in the Federal Chancellery</roleName>
+               </affiliation>
+               <affiliation from="2008-10-28" to="2008-12-02" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2008-12-02" to="2013-12-16" role="secretaryOfState" ref="#GOV">
+                  <roleName xml:lang="de">Staatssekretär im Bundesministerium für Finanzen</roleName>
+                  <roleName xml:lang="en">State Secretary in the Federal Ministry of Finance</roleName>
+               </affiliation>
+               <affiliation from="2013-10-29" to="2019-07-01" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2019-07-02" role="member" ref="#europeanParliament.EP">
+                  <roleName xml:lang="de">Mitglied des Europäischen Parlament</roleName>
+                  <roleName xml:lang="en">Member of the European Parliament</roleName>
+               </affiliation>
+               <affiliation role="member" ref="#politicalParty.SPÖ"/>
+               <affiliation from="2006-10-30" to="2008-07-02" role="member" ref="#parliamentaryGroup.SPÖ"/>
+               <affiliation from="2008-10-28" to="2008-12-02" role="member" ref="#parliamentaryGroup.SPÖ"/>
+               <affiliation from="2013-10-29" to="2019-07-01" role="member" ref="#parliamentaryGroup.SPÖ"/>
+               <affiliation from="2008-07-01" to="2013-12-16" role="member" ref="#GOV"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_35504/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q500389</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Andreas%20Schieder%20%28cropped%29.jpg"/></figure></person>
+            <person xml:id="PAD_83125">
+               <persName to="2013-12-04">
+                  <surname>Scherak</surname>
+                  <forename>Nikolaus</forename>
+                  <roleName>Mag.</roleName>
+               </persName>
+               <persName from="2013-12-05">
+                  <surname>Scherak</surname>
+                  <forename>Nikolaus</forename>
+                  <roleName>Dr., MA</roleName>
+               </persName>
+               <sex value="M"/>
+               <birth when="1986-10-16">
+                  <placeName key="Q1741">Wien</placeName>
+               </birth>
+               <affiliation from="2013-10-29" to="2014-01-29" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2014-01-30" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2013-10-29" to="2014-01-29" role="member" ref="#parliamentaryGroup.NEOS"/>
+               <affiliation from="2014-01-30" role="member" ref="#parliamentaryGroup.NEOS"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_83125/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1991669</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Scherak%202%20hochaufl%C3%B6send.jpg"/></figure></person>
+            <person xml:id="PAD_14840">
+               <persName>
+                  <surname>Keck</surname>
+                  <forename>Dietmar</forename>
+               </persName>
+               <sex value="M"/>
+               <birth when="1957-04-27">
+                  <placeName key="Q41329">Linz</placeName>
+               </birth>
+               <affiliation from="2002-12-20" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2002-12-20" role="member" ref="#parliamentaryGroup.SPÖ"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_14840/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1223441</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Dietmar%20Keck%20%2814501776074%29.jpg"/></figure></person>
+            <person xml:id="PAD_00145">
+               <persName>
+                  <surname>Bures</surname>
+                  <forename>Doris</forename>
+               </persName>
+               <sex value="F"/>
+               <birth when="1962-08-03">
+                  <placeName key="Q1741">Wien</placeName>
+               </birth>
+               <affiliation from="1990-11-05" to="2007-01-15" role="member" ref="#NR">
                   <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
                   <roleName xml:lang="en">Member of the Federal Council</roleName>
                </affiliation>
+               <affiliation from="2007-01-11" to="2007-02-28" role="minister" ref="#GOV">
+                  <roleName xml:lang="de">Bundesministerin ohne Portefeuille</roleName>
+                  <roleName xml:lang="en">Federal Minister without portfolio</roleName>
+               </affiliation>
+               <affiliation from="2007-03-01" to="2008-07-01" role="minister" ref="#GOV">
+                  <roleName xml:lang="de">Bundesministerin für Frauen, Medien und öffentlichen Dienst im Bundeskanzleramt</roleName>
+                  <roleName xml:lang="en">Federal Minister for Women's Affairs, Media and Public Service in the Federal Chancellery</roleName>
+               </affiliation>
+               <affiliation from="2008-07-03" to="2008-12-02" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2008-12-02" to="2014-09-01" role="minister" ref="#GOV">
+                  <roleName xml:lang="de">Bundesministerin für Verkehr, Innovation und Technologie</roleName>
+                  <roleName xml:lang="en">Federal Minister for Transport, Innovation and Technology</roleName>
+               </affiliation>
+               <affiliation from="2013-10-29" to="2013-12-16" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2014-09-02" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2014-09-02" to="2017-11-09" role="head" ref="#NR">
+                  <roleName xml:lang="de">Präsidentin</roleName>
+               </affiliation>
+               <affiliation from="2017-11-09" role="deputyHead" ref="#NR">
+                  <roleName xml:lang="de">Zweite Präsidentin</roleName>
+               </affiliation>
                <affiliation role="member" ref="#politicalParty.SPÖ"/>
-               <affiliation from="2017-11-09" to="2023-06-30" role="member" ref="#parliamentaryGroup.SPÖ"/>
-               <affiliation from="2017-03-08" to="2017-12-18" role="member" ref="#GOV"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_91034/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q28912455</idno></person>
+               <affiliation from="1990-11-05" to="2007-01-15" role="member" ref="#parliamentaryGroup.SPÖ"/>
+               <affiliation from="2008-07-03" to="2008-12-02" role="member" ref="#parliamentaryGroup.SPÖ"/>
+               <affiliation from="2013-10-29" to="2013-12-16" role="member" ref="#parliamentaryGroup.SPÖ"/>
+               <affiliation from="2014-09-02" role="member" ref="#parliamentaryGroup.SPÖ"/>
+               <affiliation from="2007-01-11" to="2007-02-28" role="member" ref="#GOV"/>
+               <affiliation from="2007-03-01" to="2008-07-01" role="member" ref="#GOV"/>
+               <affiliation from="2008-12-02" to="2014-09-01" role="member" ref="#GOV"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_00145/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q85433</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Infrastrukturministerin%20Doris%20Bures.jpg"/></figure></person>
+            <person xml:id="PAD_02941">
+               <persName>
+                  <surname>Kern</surname>
+                  <forename>Christian</forename>
+                  <roleName>Mag.</roleName>
+               </persName>
+               <sex value="M"/>
+               <birth when="1966-01-04">
+                  <placeName key="Q1741">Wien</placeName>
+               </birth>
+               <affiliation from="2016-05-17" to="2017-12-18" role="head" ref="#GOV">
+                  <roleName xml:lang="de">Bundeskanzler</roleName>
+                  <roleName xml:lang="en">Federal Chancellor</roleName>
+               </affiliation>
+               <affiliation from="2017-11-09" to="2018-11-15" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation role="member" ref="#politicalParty.SPÖ"/>
+               <affiliation from="2017-11-09" to="2018-11-15" role="member" ref="#parliamentaryGroup.SPÖ"/>
+               <affiliation from="2016-05-17" to="2017-12-18" role="member" ref="#GOV"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_02941/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q18135060</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Christian%20Kern%202016%20%28portrait%29.jpg"/></figure></person>
+            <person xml:id="PAD_51879">
+               <persName>
+                  <surname>Amesbauer</surname>
+                  <forename>Hannes</forename>
+                  <roleName>Mag., BA</roleName>
+               </persName>
+               <sex value="M"/>
+               <birth when="1981-04-18">
+                  <placeName key="Q259893">Bruck an der Mur (Steiermark)</placeName>
+               </birth>
+               <affiliation from="2017-11-09" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2017-11-09" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_51879/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q15819226</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/16-07-05-Hannes%20Amesbauer-KG%205985.JPG"/></figure></person>
             <person xml:id="PAD_86613">
                <persName>
                   <surname>Lindner</surname>
@@ -2597,7 +2374,23 @@
                <affiliation from="2017-11-09" to="2019-10-22" role="member" ref="#parliamentaryGroup.SPÖ"/>
                <affiliation from="2021-04-01" role="member" ref="#parliamentaryGroup.SPÖ"/>
                <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_86613/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q20753028</idno></person>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q20753028</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/2015%20Mario%20Lindner%20%2821805038210%29.jpg"/></figure></person>
+            <person xml:id="PAD_14795">
+               <persName>
+                  <surname>Wöginger</surname>
+                  <forename>August</forename>
+               </persName>
+               <sex value="M"/>
+               <birth when="1974-11-02">
+                  <placeName key="Q4190">Passau (Deutschland)</placeName>
+               </birth>
+               <affiliation from="2002-12-20" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2002-12-20" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_14795/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q764838</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/2020%20August%20W%C3%B6ginger%20Ministerrat%20am%208.1.2020%20%2849351572787%29%20%28cropped%29.jpg"/></figure></person>
             <person xml:id="PAD_08177">
                <persName>
                   <surname>Heinisch-Hosek</surname>
@@ -2643,23 +2436,29 @@
                <affiliation from="2008-12-22" to="2014-02-28" role="member" ref="#GOV"/>
                <affiliation from="2014-03-01" to="2016-05-18" role="member" ref="#GOV"/>
                <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_08177/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q90404</idno></person>
-            <person xml:id="PAD_35497">
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q90404</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/GuentherZ%202012-06-05%200054%20Wien06%20Johanna-Dohnal-Platz%20Gabriele%20Heinisch-Hosek.jpg"/></figure></person>
+            <person xml:id="PAD_35515">
                <persName>
-                  <surname>Muchitsch</surname>
-                  <forename>Josef</forename>
+                  <surname>Hauser</surname>
+                  <forename>Gerald</forename>
+                  <roleName>Mag.</roleName>
                </persName>
                <sex value="M"/>
-               <birth when="1967-08-21">
-                  <placeName key="Q694209">Lang in der Steiermark (Steiermark)</placeName>
+               <birth when="1961-09-30">
+                  <placeName key="Q262475">St. Jakob in Defereggen (Osttirol) (Tirol)</placeName>
                </birth>
-               <affiliation from="2006-10-30" role="member" ref="#NR">
+               <affiliation from="2006-10-30" to="2008-07-07" role="member" ref="#NR">
                   <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
                   <roleName xml:lang="en">Member of the Federal Council</roleName>
                </affiliation>
-               <affiliation from="2006-10-30" role="member" ref="#parliamentaryGroup.SPÖ"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_35497/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1705321</idno></person>
+               <affiliation from="2013-10-29" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2006-10-30" to="2008-07-07" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <affiliation from="2013-10-29" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_35515/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1509909</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/1720439542209%2020240708%20HAUSER%20Gerald%20AT%20010.jpg"/></figure></person>
             <person xml:id="PAD_02136">
                <persName>
                   <surname>Nehammer</surname>
@@ -2686,7 +2485,75 @@
                <affiliation from="2017-11-09" to="2020-01-07" role="member" ref="#parliamentaryGroup.ÖVP"/>
                <affiliation from="2020-01-07" role="member" ref="#GOV"/>
                <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_02136/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q42860944</idno></person>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q42860944</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Karl%20Nehammer%20%282024%29%20%28cropped%29.jpg"/></figure></person>
+            <person xml:id="PAD_01977">
+               <persName>
+                  <surname>Graf</surname>
+                  <forename>Tanja</forename>
+               </persName>
+               <sex value="F"/>
+               <birth when="1975-05-07">
+                  <placeName key="Q1741">Wien</placeName>
+               </birth>
+               <affiliation from="2017-11-09" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2017-11-09" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_01977/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q42179772</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Graf%20Tanja.jpg"/></figure></person>
+            <person xml:id="PAD_60878">
+               <persName>
+                  <surname>Winzig</surname>
+                  <forename>Angelika</forename>
+                  <roleName>Dr.</roleName>
+               </persName>
+               <sex value="F"/>
+               <birth when="1963-05-09">
+                  <placeName key="Q261216">Attnang-Puchheim (Oberösterreich)</placeName>
+               </birth>
+               <affiliation from="2010-06-01" to="2013-10-28" role="member" ref="#BR">
+                  <roleName xml:lang="de">Mitglied des Bundesrats</roleName>
+                  <roleName xml:lang="en">Member of the National Council</roleName>
+               </affiliation>
+               <affiliation from="2013-10-29" to="2019-07-01" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2019-07-02" role="member" ref="#europeanParliament.EP">
+                  <roleName xml:lang="de">Mitglied des Europäischen Parlament</roleName>
+                  <roleName xml:lang="en">Member of the European Parliament</roleName>
+               </affiliation>
+               <affiliation role="member" ref="#politicalParty.ÖVP"/>
+               <affiliation from="2013-10-29" to="2019-07-01" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_60878/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q534677</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/1718637556964%2020190604%20WINZIG%20Angelika%20AT%207.jpg"/></figure></person>
+            <person xml:id="PAD_88386">
+               <persName>
+                  <surname>Sobotka</surname>
+                  <forename>Wolfgang</forename>
+                  <roleName>Mag.</roleName>
+               </persName>
+               <sex value="M"/>
+               <birth when="1956-01-05">
+                  <placeName key="Q427385">Waidhofen an der Ybbs</placeName>
+               </birth>
+               <affiliation from="2016-04-21" to="2017-12-18" role="minister" ref="#GOV">
+                  <roleName xml:lang="de">Bundesminister für Inneres</roleName>
+                  <roleName xml:lang="en">Federal Minister for the Interior</roleName>
+               </affiliation>
+               <affiliation from="2017-09-11" role="member" ref="#NR">
+                  <roleName xml:lang="de">Abgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the National Council</roleName>
+               </affiliation>
+               <affiliation from="2017-12-20" role="head" ref="#NR">
+                  <roleName xml:lang="de">Nationalratspräsident</roleName>
+               </affiliation>
+               <affiliation role="member" ref="#politicalParty.ÖVP"/>
+               <affiliation from="2017-09-11" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <affiliation from="2016-04-21" to="2017-12-18" role="member" ref="#GOV"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_88386/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q2591433</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Wolfgang%20Sobotka%20BHO-0079%20%28cropped%29.jpg"/></figure></person>
             <person xml:id="PAD_51570">
                <persName>
                   <surname>Rosenkranz</surname>
@@ -2708,63 +2575,196 @@
                <affiliation role="member" ref="#politicalParty.FPÖ"/>
                <affiliation from="2008-10-28" to="2019-06-30" role="member" ref="#parliamentaryGroup.FPÖ"/>
                <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_51570/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q2545990</idno></person>
-            <person xml:id="PAD_35504">
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q2545990</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Walter%20Rosenkranz.jpg"/></figure></person>
+            <person xml:id="PAD_12741">
                <persName>
-                  <surname>Schieder</surname>
-                  <forename>Andreas</forename>
+                  <surname>Haubner</surname>
+                  <forename>Peter</forename>
+               </persName>
+               <sex value="M"/>
+               <birth when="1960-01-02">
+                  <placeName key="Q34713">Salzburg</placeName>
+               </birth>
+               <affiliation from="2001-12-03" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2001-12-03" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_12741/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q2075504</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Haubner%20014.jpg"/></figure></person>
+            <person xml:id="PAD_35518">
+               <persName>
+                  <surname>Strache</surname>
+                  <forename>Heinz-Christian</forename>
+               </persName>
+               <sex value="M"/>
+               <birth when="1969-06-12">
+                  <placeName key="Q1741">Wien</placeName>
+               </birth>
+               <affiliation from="2006-10-30" to="2018-01-26" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2017-12-18" to="2019-05-22" role="deputyHead" ref="#GOV">
+                  <roleName xml:lang="de">Vizekanzler</roleName>
+                  <roleName xml:lang="en">Vice-Chancellor</roleName>
+               </affiliation>
+               <affiliation from="2018-01-08" to="2019-05-22" role="minister" ref="#GOV">
+                  <roleName xml:lang="de">Bundesminister für öffentlichen Dienst und Sport</roleName>
+                  <roleName xml:lang="en">Federal Minister for Public Service and Sport</roleName>
+               </affiliation>
+               <affiliation role="member" ref="#politicalParty.FPÖ"/>
+               <affiliation from="2006-10-30" to="2018-01-26" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <affiliation from="2017-12-18" to="2019-05-22" role="member" ref="#GOV"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_35518/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q44733</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Heinz-Christian%20Strache%20-%20Wahlkampfauftakt%20am%2029.%20Aug.%202020%20%281%29.JPG"/></figure></person>
+            <person xml:id="PAD_83111">
+               <persName to="2015-07-16">
+                  <surname>Holzinger</surname>
+                  <forename>Daniela</forename>
+                  <roleName>BA</roleName>
+               </persName>
+               <persName from="2015-07-17">
+                  <surname>Holzinger-Vogtenhuber</surname>
+                  <forename>Daniela</forename>
+                  <roleName>BA</roleName>
+               </persName>
+               <sex value="F"/>
+               <birth when="1987-10-21">
+                  <placeName key="Q251325">Vöcklabruck (Oberösterreich)</placeName>
+               </birth>
+               <affiliation from="2013-10-29" to="2017-07-27" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2017-07-28" to="2017-11-08" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2017-11-09" to="2018-11-19" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2018-11-20" to="2019-10-22" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2013-10-29" to="2017-07-27" role="member" ref="#parliamentaryGroup.SPÖ"/>
+               <affiliation from="2017-11-09" to="2018-11-19" role="member" ref="#parliamentaryGroup.JETZT"/>
+               <affiliation from="2018-11-20" to="2019-10-22" role="member" ref="#parliamentaryGroup.JETZT"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_83111/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q15431613</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Daniela%20Holzinger%2C%20BA%20%2814523216163%29.jpg"/></figure></person>
+            <person xml:id="PAD_91034">
+               <persName>
+                  <surname>Rendi-Wagner</surname>
+                  <forename>Pamela</forename>
+                  <roleName>Dr., MSc</roleName>
+               </persName>
+               <sex value="F"/>
+               <birth when="1971-05-07">
+                  <placeName key="Q1741">Wien</placeName>
+               </birth>
+               <affiliation from="2017-03-08" to="2017-12-18" role="minister" ref="#GOV">
+                  <roleName xml:lang="de">Bundesministerin für Gesundheit und Frauen</roleName>
+                  <roleName xml:lang="en">Federal Minister for Health and Women's Affairs</roleName>
+               </affiliation>
+               <affiliation from="2017-11-09" to="2023-06-30" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation role="member" ref="#politicalParty.SPÖ"/>
+               <affiliation from="2017-11-09" to="2023-06-30" role="member" ref="#parliamentaryGroup.SPÖ"/>
+               <affiliation from="2017-03-08" to="2017-12-18" role="member" ref="#GOV"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_91034/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q28912455</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/2019%20Pamela%20Rendi-Wagner%20%2832995117698%29%20%28cropped%29.jpg"/></figure></person>
+            <person xml:id="PAD_02340">
+               <persName>
+                  <surname>Cox</surname>
+                  <forename>Stephanie</forename>
+                  <roleName>BA</roleName>
+               </persName>
+               <sex value="F"/>
+               <birth when="1989-01-31">
+                  <placeName key="Q3130">Sydney (Australien)</placeName>
+               </birth>
+               <affiliation from="2017-11-09" to="2018-11-19" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2018-11-20" to="2019-10-22" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2017-11-09" to="2018-11-19" role="member" ref="#parliamentaryGroup.JETZT"/>
+               <affiliation from="2018-11-20" to="2019-10-22" role="member" ref="#parliamentaryGroup.JETZT"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_02340/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q42164934</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/2018%20PK%20SP%C3%96%20NEOS%20JETZT%20und%20Experten%2C%205.12.2018%20%2832318354988%29%20%28cropped1%29.jpg"/></figure></person>
+            <person xml:id="PAD_22573">
+               <persName>
+                  <surname>Zinggl</surname>
+                  <forename>Wolfgang</forename>
+                  <roleName>Mag. Dr.</roleName>
+               </persName>
+               <sex value="M"/>
+               <birth when="1954-12-12">
+                  <placeName key="Q1741">Wien</placeName>
+               </birth>
+               <affiliation from="2004-07-09" to="2017-07-27" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2017-07-28" to="2017-11-08" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2017-11-09" to="2018-11-19" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2018-11-20" to="2019-10-22" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2004-07-09" to="2017-07-27" role="member" ref="#parliamentaryGroup.GRÜNE"/>
+               <affiliation from="2017-11-09" to="2018-11-19" role="member" ref="#parliamentaryGroup.JETZT"/>
+               <affiliation from="2018-11-20" to="2019-10-22" role="member" ref="#parliamentaryGroup.JETZT"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_22573/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q2591844</idno></person>
+            <person xml:id="PAD_35516">
+               <persName>
+                  <surname>Rossmann</surname>
+                  <forename>Bruno</forename>
                   <roleName>Mag.</roleName>
                </persName>
                <sex value="M"/>
-               <birth when="1969-04-16">
-                  <placeName key="Q1741">Wien</placeName>
+               <birth when="1952-04-16">
+                  <placeName key="Q483522">Villach (Kärnten)</placeName>
                </birth>
-               <affiliation from="2006-10-30" to="2008-07-02" role="member" ref="#NR">
+               <affiliation from="2006-10-30" to="2008-10-27" role="member" ref="#NR">
                   <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
                   <roleName xml:lang="en">Member of the Federal Council</roleName>
                </affiliation>
-               <affiliation from="2008-07-01" to="2008-12-02" role="secretaryOfState" ref="#GOV">
-                  <roleName xml:lang="de">Staatssekretär im Bundeskanzleramt</roleName>
-                  <roleName xml:lang="en">State Secretary in the Federal Chancellery</roleName>
-               </affiliation>
-               <affiliation from="2008-10-28" to="2008-12-02" role="member" ref="#NR">
+               <affiliation from="2012-07-06" to="2017-07-27" role="member" ref="#NR">
                   <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
                   <roleName xml:lang="en">Member of the Federal Council</roleName>
                </affiliation>
-               <affiliation from="2008-12-02" to="2013-12-16" role="secretaryOfState" ref="#GOV">
-                  <roleName xml:lang="de">Staatssekretär im Bundesministerium für Finanzen</roleName>
-                  <roleName xml:lang="en">State Secretary in the Federal Ministry of Finance</roleName>
-               </affiliation>
-               <affiliation from="2013-10-29" to="2019-07-01" role="member" ref="#NR">
+               <affiliation from="2017-07-28" to="2017-11-08" role="member" ref="#NR">
                   <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
                   <roleName xml:lang="en">Member of the Federal Council</roleName>
                </affiliation>
-               <affiliation from="2019-07-02" role="member" ref="#europeanParliament.EP">
-                  <roleName xml:lang="de">Mitglied des Europäischen Parlament</roleName>
-                  <roleName xml:lang="en">Member of the European Parliament</roleName>
-               </affiliation>
-               <affiliation role="member" ref="#politicalParty.SPÖ"/>
-               <affiliation from="2006-10-30" to="2008-07-02" role="member" ref="#parliamentaryGroup.SPÖ"/>
-               <affiliation from="2008-10-28" to="2008-12-02" role="member" ref="#parliamentaryGroup.SPÖ"/>
-               <affiliation from="2013-10-29" to="2019-07-01" role="member" ref="#parliamentaryGroup.SPÖ"/>
-               <affiliation from="2008-07-01" to="2013-12-16" role="member" ref="#GOV"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_35504/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q500389</idno></person>
-            <person xml:id="PAD_84056">
-               <persName>
-                  <surname>Schellhorn</surname>
-                  <forename>Josef</forename>
-               </persName>
-               <sex value="M"/>
-               <birth when="1967-05-12">
-                  <placeName key="Q253179">Schwarzach im Pongau (Salzburg)</placeName>
-               </birth>
-               <affiliation from="2014-07-01" to="2021-07-31" role="member" ref="#NR">
+               <affiliation from="2017-11-09" to="2018-11-19" role="member" ref="#NR">
                   <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
                   <roleName xml:lang="en">Member of the Federal Council</roleName>
                </affiliation>
-               <affiliation from="2014-07-01" to="2021-07-31" role="member" ref="#parliamentaryGroup.NEOS"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_84056/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q17352992</idno></person>
+               <affiliation from="2018-11-20" to="2019-10-22" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2006-10-30" to="2008-10-27" role="member" ref="#parliamentaryGroup.GRÜNE"/>
+               <affiliation from="2012-07-06" to="2017-07-27" role="member" ref="#parliamentaryGroup.GRÜNE"/>
+               <affiliation from="2017-11-09" to="2018-11-19" role="member" ref="#parliamentaryGroup.JETZT"/>
+               <affiliation from="2018-11-20" to="2019-10-22" role="member" ref="#parliamentaryGroup.JETZT"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_35516/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q993702</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Bruno%20Rossmann.jpg"/></figure></person>
             </listPerson></back></text>
 </TEI>

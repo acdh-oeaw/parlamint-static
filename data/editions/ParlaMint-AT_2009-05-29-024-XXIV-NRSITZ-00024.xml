@@ -401,29 +401,28 @@
             <note type="time" xml:id="ParlaMint-AT_2009-05-29-024-XXIV-NRSITZ-00024.note57">Schluss der Sitzung:<time when="2009-05-29T21:33:00+02:00">21:33</time>Uhr</note>
          </div>
       </body>
-   <back><listPerson><person xml:id="PAD_04477">
+   <back><listPerson><person xml:id="PAD_35517">
                <persName>
-                  <surname>Wittmann</surname>
+                  <surname>Fichtenbauer</surname>
                   <forename>Peter</forename>
                   <roleName>Dr.</roleName>
                </persName>
                <sex value="M"/>
-               <birth when="1957-03-08">
-                  <placeName key="Q131612">Wiener Neustadt</placeName>
+               <birth when="1946-07-06">
+                  <placeName key="Q666826">Alt-Dietmanns (Niederösterreich)</placeName>
                </birth>
-               <affiliation from="1997-01-28" to="2000-02-04" role="secretaryOfState" ref="#GOV">
-                  <roleName xml:lang="de">Staatssekretär im Bundeskanzleramt</roleName>
-                  <roleName xml:lang="en">State Secretary in the Federal Chancellery</roleName>
-               </affiliation>
-               <affiliation from="2000-02-24" to="2019-10-22" role="member" ref="#NR">
+               <affiliation from="2006-10-30" to="2013-06-30" role="member" ref="#NR">
                   <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
                   <roleName xml:lang="en">Member of the Federal Council</roleName>
                </affiliation>
-               <affiliation role="member" ref="#politicalParty.SPÖ"/>
-               <affiliation from="2000-02-24" to="2019-10-22" role="member" ref="#parliamentaryGroup.SPÖ"/>
-               <affiliation from="1997-01-28" to="2000-02-04" role="member" ref="#GOV"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_04477/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1732861</idno></person>
+               <affiliation from="2013-07-01" to="2019-06-30" role="member" ref="#institution.AT.VAW">
+                  <roleName xml:lang="de">Mitglied der Volksanwaltschaft</roleName>
+                  <roleName xml:lang="en">Member of the Ombudsman Board</roleName>
+               </affiliation>
+               <affiliation role="member" ref="#politicalParty.FPÖ"/>
+               <affiliation from="2006-10-30" to="2013-06-30" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_35517/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1628737</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/2013%20Peter%20Fichtenbauer-9434%20%289812612193%29%20%28cropped%29.jpg"/></figure></person>
             <person xml:id="PAD_01210">
                <persName>
                   <surname>Pilz</surname>
@@ -459,23 +458,7 @@
                <affiliation from="2018-06-08" to="2018-11-19" role="member" ref="#parliamentaryGroup.JETZT"/>
                <affiliation from="2018-11-20" to="2019-10-22" role="member" ref="#parliamentaryGroup.JETZT"/>
                <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_01210/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q85109</idno></person>
-            <person xml:id="PAD_51574">
-               <persName>
-                  <surname>Grosz</surname>
-                  <forename>Gerald</forename>
-               </persName>
-               <sex value="M"/>
-               <birth when="1977-02-15">
-                  <placeName key="Q13298">Graz</placeName>
-               </birth>
-               <affiliation from="2008-10-28" to="2013-10-28" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2008-10-28" to="2013-10-28" role="member" ref="#parliamentaryGroup.BZÖ"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_51574/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1506773</idno></person>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q85109</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Peter%20Pilz.jpg"/></figure></person>
             <person xml:id="PAD_02822">
                <persName>
                   <surname>Kopf</surname>
@@ -495,29 +478,7 @@
                </affiliation>
                <affiliation from="1994-11-07" role="member" ref="#parliamentaryGroup.ÖVP"/>
                <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_02822/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1410282</idno></person>
-            <person xml:id="PAD_02854">
-               <persName>
-                  <surname>Öllinger</surname>
-                  <forename>Karl</forename>
-               </persName>
-               <sex value="M"/>
-               <birth when="1951-07-21">
-                  <placeName key="Q267791">Ried im Innkreis (Wien)</placeName>
-               </birth>
-               <affiliation from="1994-11-07" to="2013-10-28" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2016-04-28" to="2017-11-08" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation role="member" ref="#politicalParty.GRÜNE"/>
-               <affiliation from="1994-11-07" to="2013-10-28" role="member" ref="#parliamentaryGroup.GRÜNE"/>
-               <affiliation from="2016-04-28" to="2017-11-08" role="member" ref="#parliamentaryGroup.GRÜNE"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_02854/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1733723</idno></person>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1410282</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Karlheinz%20Kopf%20%28cropped%29.jpg"/></figure></person>
             <person xml:id="PAD_04476">
                <persName>
                   <surname>Prammer</surname>
@@ -552,7 +513,52 @@
                <affiliation from="1997-01-28" to="1997-02-25" role="member" ref="#GOV"/>
                <affiliation from="1997-02-26" to="2000-02-04" role="member" ref="#GOV"/>
                <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_04476/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q114286</idno></person>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q114286</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Mag.a.%20Barbara%20Prammer%20%2814316641697%29.jpg"/></figure></person>
+            <person xml:id="PAD_02854">
+               <persName>
+                  <surname>Öllinger</surname>
+                  <forename>Karl</forename>
+               </persName>
+               <sex value="M"/>
+               <birth when="1951-07-21">
+                  <placeName key="Q267791">Ried im Innkreis (Wien)</placeName>
+               </birth>
+               <affiliation from="1994-11-07" to="2013-10-28" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2016-04-28" to="2017-11-08" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation role="member" ref="#politicalParty.GRÜNE"/>
+               <affiliation from="1994-11-07" to="2013-10-28" role="member" ref="#parliamentaryGroup.GRÜNE"/>
+               <affiliation from="2016-04-28" to="2017-11-08" role="member" ref="#parliamentaryGroup.GRÜNE"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_02854/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1733723</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Karl%20Oellinger.jpg"/></figure></person>
+            <person xml:id="PAD_04477">
+               <persName>
+                  <surname>Wittmann</surname>
+                  <forename>Peter</forename>
+                  <roleName>Dr.</roleName>
+               </persName>
+               <sex value="M"/>
+               <birth when="1957-03-08">
+                  <placeName key="Q131612">Wiener Neustadt</placeName>
+               </birth>
+               <affiliation from="1997-01-28" to="2000-02-04" role="secretaryOfState" ref="#GOV">
+                  <roleName xml:lang="de">Staatssekretär im Bundeskanzleramt</roleName>
+                  <roleName xml:lang="en">State Secretary in the Federal Chancellery</roleName>
+               </affiliation>
+               <affiliation from="2000-02-24" to="2019-10-22" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation role="member" ref="#politicalParty.SPÖ"/>
+               <affiliation from="2000-02-24" to="2019-10-22" role="member" ref="#parliamentaryGroup.SPÖ"/>
+               <affiliation from="1997-01-28" to="2000-02-04" role="member" ref="#GOV"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_04477/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1732861</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Peter%20Wittmann%20-%20Abgeordneter%20zum%20Nationalrat%2C%20%C3%96sterreich%20%282%29.jpg"/></figure></person>
             <person xml:id="PAD_01226">
                <persName>
                   <surname>Molterer</surname>
@@ -617,28 +623,22 @@
                <affiliation from="2000-04-01" to="2003-02-28" role="member" ref="#GOV"/>
                <affiliation from="2007-01-11" to="2008-12-02" role="member" ref="#GOV"/>
                <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_01226/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q78761</idno></person>
-            <person xml:id="PAD_35517">
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q78761</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Wilhelm%20Molterer%202023%20BHO%209325.jpg"/></figure></person>
+            <person xml:id="PAD_51574">
                <persName>
-                  <surname>Fichtenbauer</surname>
-                  <forename>Peter</forename>
-                  <roleName>Dr.</roleName>
+                  <surname>Grosz</surname>
+                  <forename>Gerald</forename>
                </persName>
                <sex value="M"/>
-               <birth when="1946-07-06">
-                  <placeName key="Q666826">Alt-Dietmanns (Niederösterreich)</placeName>
+               <birth when="1977-02-15">
+                  <placeName key="Q13298">Graz</placeName>
                </birth>
-               <affiliation from="2006-10-30" to="2013-06-30" role="member" ref="#NR">
+               <affiliation from="2008-10-28" to="2013-10-28" role="member" ref="#NR">
                   <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
                   <roleName xml:lang="en">Member of the Federal Council</roleName>
                </affiliation>
-               <affiliation from="2013-07-01" to="2019-06-30" role="member" ref="#institution.AT.VAW">
-                  <roleName xml:lang="de">Mitglied der Volksanwaltschaft</roleName>
-                  <roleName xml:lang="en">Member of the Ombudsman Board</roleName>
-               </affiliation>
-               <affiliation role="member" ref="#politicalParty.FPÖ"/>
-               <affiliation from="2006-10-30" to="2013-06-30" role="member" ref="#parliamentaryGroup.FPÖ"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_35517/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1628737</idno></person>
+               <affiliation from="2008-10-28" to="2013-10-28" role="member" ref="#parliamentaryGroup.BZÖ"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_51574/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1506773</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Geraldgrosz.jpg"/></figure></person>
             </listPerson></back></text>
 </TEI>

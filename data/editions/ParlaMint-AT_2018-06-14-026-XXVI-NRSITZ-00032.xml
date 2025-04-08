@@ -443,114 +443,7 @@
             <note type="time" xml:id="ParlaMint-AT_2018-06-14-026-XXVI-NRSITZ-00032.note45">Schluss der Sitzung:<time when="2018-06-14T21:16:00+02:00">21:16</time>Uhr</note>
          </div>
       </body>
-   <back><listPerson><person xml:id="PAD_88386">
-               <persName>
-                  <surname>Sobotka</surname>
-                  <forename>Wolfgang</forename>
-                  <roleName>Mag.</roleName>
-               </persName>
-               <sex value="M"/>
-               <birth when="1956-01-05">
-                  <placeName key="Q427385">Waidhofen an der Ybbs</placeName>
-               </birth>
-               <affiliation from="2016-04-21" to="2017-12-18" role="minister" ref="#GOV">
-                  <roleName xml:lang="de">Bundesminister für Inneres</roleName>
-                  <roleName xml:lang="en">Federal Minister for the Interior</roleName>
-               </affiliation>
-               <affiliation from="2017-09-11" role="member" ref="#NR">
-                  <roleName xml:lang="de">Abgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the National Council</roleName>
-               </affiliation>
-               <affiliation from="2017-12-20" role="head" ref="#NR">
-                  <roleName xml:lang="de">Nationalratspräsident</roleName>
-               </affiliation>
-               <affiliation role="member" ref="#politicalParty.ÖVP"/>
-               <affiliation from="2017-09-11" role="member" ref="#parliamentaryGroup.ÖVP"/>
-               <affiliation from="2016-04-21" to="2017-12-18" role="member" ref="#GOV"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_88386/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q2591433</idno></person>
-            <person xml:id="PAD_12741">
-               <persName>
-                  <surname>Haubner</surname>
-                  <forename>Peter</forename>
-               </persName>
-               <sex value="M"/>
-               <birth when="1960-01-02">
-                  <placeName key="Q34713">Salzburg</placeName>
-               </birth>
-               <affiliation from="2001-12-03" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2001-12-03" role="member" ref="#parliamentaryGroup.ÖVP"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_12741/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q2075504</idno></person>
-            <person xml:id="PAD_51570">
-               <persName>
-                  <surname>Rosenkranz</surname>
-                  <forename>Walter</forename>
-                  <roleName>Dr.</roleName>
-               </persName>
-               <sex value="M"/>
-               <birth when="1962-07-29">
-                  <placeName key="Q131266">Krems an der Donau (Niederösterreich)</placeName>
-               </birth>
-               <affiliation from="2008-10-28" to="2019-06-30" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2019-07-01" role="member" ref="#institution.AT.VAW">
-                  <roleName xml:lang="de">Mitglied der Volksanwaltschaft</roleName>
-                  <roleName xml:lang="en">Member of the Ombudsman Board</roleName>
-               </affiliation>
-               <affiliation role="member" ref="#politicalParty.FPÖ"/>
-               <affiliation from="2008-10-28" to="2019-06-30" role="member" ref="#parliamentaryGroup.FPÖ"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_51570/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q2545990</idno></person>
-            <person xml:id="PAD_83125">
-               <persName to="2013-12-04">
-                  <surname>Scherak</surname>
-                  <forename>Nikolaus</forename>
-                  <roleName>Mag.</roleName>
-               </persName>
-               <persName from="2013-12-05">
-                  <surname>Scherak</surname>
-                  <forename>Nikolaus</forename>
-                  <roleName>Dr., MA</roleName>
-               </persName>
-               <sex value="M"/>
-               <birth when="1986-10-16">
-                  <placeName key="Q1741">Wien</placeName>
-               </birth>
-               <affiliation from="2013-10-29" to="2014-01-29" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2014-01-30" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2013-10-29" to="2014-01-29" role="member" ref="#parliamentaryGroup.NEOS"/>
-               <affiliation from="2014-01-30" role="member" ref="#parliamentaryGroup.NEOS"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_83125/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1991669</idno></person>
-            <person xml:id="PAD_35497">
-               <persName>
-                  <surname>Muchitsch</surname>
-                  <forename>Josef</forename>
-               </persName>
-               <sex value="M"/>
-               <birth when="1967-08-21">
-                  <placeName key="Q694209">Lang in der Steiermark (Steiermark)</placeName>
-               </birth>
-               <affiliation from="2006-10-30" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2006-10-30" role="member" ref="#parliamentaryGroup.SPÖ"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_35497/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1705321</idno></person>
-            <person xml:id="PAD_83111">
+   <back><listPerson><person xml:id="PAD_83111">
                <persName to="2015-07-16">
                   <surname>Holzinger</surname>
                   <forename>Daniela</forename>
@@ -585,7 +478,114 @@
                <affiliation from="2017-11-09" to="2018-11-19" role="member" ref="#parliamentaryGroup.JETZT"/>
                <affiliation from="2018-11-20" to="2019-10-22" role="member" ref="#parliamentaryGroup.JETZT"/>
                <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_83111/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q15431613</idno></person>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q15431613</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Daniela%20Holzinger%2C%20BA%20%2814523216163%29.jpg"/></figure></person>
+            <person xml:id="PAD_35497">
+               <persName>
+                  <surname>Muchitsch</surname>
+                  <forename>Josef</forename>
+               </persName>
+               <sex value="M"/>
+               <birth when="1967-08-21">
+                  <placeName key="Q694209">Lang in der Steiermark (Steiermark)</placeName>
+               </birth>
+               <affiliation from="2006-10-30" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2006-10-30" role="member" ref="#parliamentaryGroup.SPÖ"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_35497/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1705321</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Josef%20Muchitsch%20%2814499707021%29.jpg"/></figure></person>
+            <person xml:id="PAD_88386">
+               <persName>
+                  <surname>Sobotka</surname>
+                  <forename>Wolfgang</forename>
+                  <roleName>Mag.</roleName>
+               </persName>
+               <sex value="M"/>
+               <birth when="1956-01-05">
+                  <placeName key="Q427385">Waidhofen an der Ybbs</placeName>
+               </birth>
+               <affiliation from="2016-04-21" to="2017-12-18" role="minister" ref="#GOV">
+                  <roleName xml:lang="de">Bundesminister für Inneres</roleName>
+                  <roleName xml:lang="en">Federal Minister for the Interior</roleName>
+               </affiliation>
+               <affiliation from="2017-09-11" role="member" ref="#NR">
+                  <roleName xml:lang="de">Abgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the National Council</roleName>
+               </affiliation>
+               <affiliation from="2017-12-20" role="head" ref="#NR">
+                  <roleName xml:lang="de">Nationalratspräsident</roleName>
+               </affiliation>
+               <affiliation role="member" ref="#politicalParty.ÖVP"/>
+               <affiliation from="2017-09-11" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <affiliation from="2016-04-21" to="2017-12-18" role="member" ref="#GOV"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_88386/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q2591433</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Wolfgang%20Sobotka%20BHO-0079%20%28cropped%29.jpg"/></figure></person>
+            <person xml:id="PAD_51570">
+               <persName>
+                  <surname>Rosenkranz</surname>
+                  <forename>Walter</forename>
+                  <roleName>Dr.</roleName>
+               </persName>
+               <sex value="M"/>
+               <birth when="1962-07-29">
+                  <placeName key="Q131266">Krems an der Donau (Niederösterreich)</placeName>
+               </birth>
+               <affiliation from="2008-10-28" to="2019-06-30" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2019-07-01" role="member" ref="#institution.AT.VAW">
+                  <roleName xml:lang="de">Mitglied der Volksanwaltschaft</roleName>
+                  <roleName xml:lang="en">Member of the Ombudsman Board</roleName>
+               </affiliation>
+               <affiliation role="member" ref="#politicalParty.FPÖ"/>
+               <affiliation from="2008-10-28" to="2019-06-30" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_51570/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q2545990</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Walter%20Rosenkranz.jpg"/></figure></person>
+            <person xml:id="PAD_83125">
+               <persName to="2013-12-04">
+                  <surname>Scherak</surname>
+                  <forename>Nikolaus</forename>
+                  <roleName>Mag.</roleName>
+               </persName>
+               <persName from="2013-12-05">
+                  <surname>Scherak</surname>
+                  <forename>Nikolaus</forename>
+                  <roleName>Dr., MA</roleName>
+               </persName>
+               <sex value="M"/>
+               <birth when="1986-10-16">
+                  <placeName key="Q1741">Wien</placeName>
+               </birth>
+               <affiliation from="2013-10-29" to="2014-01-29" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2014-01-30" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2013-10-29" to="2014-01-29" role="member" ref="#parliamentaryGroup.NEOS"/>
+               <affiliation from="2014-01-30" role="member" ref="#parliamentaryGroup.NEOS"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_83125/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1991669</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Scherak%202%20hochaufl%C3%B6send.jpg"/></figure></person>
+            <person xml:id="PAD_12741">
+               <persName>
+                  <surname>Haubner</surname>
+                  <forename>Peter</forename>
+               </persName>
+               <sex value="M"/>
+               <birth when="1960-01-02">
+                  <placeName key="Q34713">Salzburg</placeName>
+               </birth>
+               <affiliation from="2001-12-03" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2001-12-03" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_12741/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q2075504</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Haubner%20014.jpg"/></figure></person>
             <person xml:id="PAD_51565">
                <persName>
                   <surname>Kitzmüller</surname>
@@ -605,6 +605,6 @@
                </affiliation>
                <affiliation from="2008-10-28" to="2019-10-23" role="member" ref="#parliamentaryGroup.FPÖ"/>
                <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_51565/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q566154</idno></person>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q566154</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Jugendcamp%20bfkuu%20denkmay%200675%20%2835716561960%29%20%28cropped%29.jpg"/></figure></person>
             </listPerson></back></text>
 </TEI>

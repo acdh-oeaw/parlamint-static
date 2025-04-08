@@ -229,7 +229,24 @@
             <note type="time" xml:id="ParlaMint-AT_2013-11-20-025-XXV-NRSITZ-00005.note21">Schluss der Sitzung:<time when="2013-11-20T19:30:00+01:00">19:30</time>Uhr</note>
          </div>
       </body>
-   <back><listPerson><person xml:id="PAD_35521">
+   <back><listPerson><person xml:id="PAD_05375">
+               <persName>
+                  <surname>Pendl</surname>
+                  <forename>Otto</forename>
+               </persName>
+               <sex value="M"/>
+               <birth when="1951-10-29">
+                  <placeName key="Q871491">Trumau</placeName>
+               </birth>
+               <death when="2021-11-10"/>
+               <affiliation from="1998-09-17" to="2017-11-08" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="1998-09-17" to="2017-11-08" role="member" ref="#parliamentaryGroup.SPÖ"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_05375/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1230237</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Otto%20Pemdl.jpg"/></figure></person>
+            <person xml:id="PAD_35521">
                <persName>
                   <surname>Hofer</surname>
                   <forename>Norbert</forename>
@@ -264,24 +281,7 @@
                <affiliation from="2019-05-24" role="member" ref="#parliamentaryGroup.FPÖ"/>
                <affiliation from="2017-12-18" to="2019-05-22" role="member" ref="#GOV"/>
                <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_35521/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1996861</idno></person>
-            <person xml:id="PAD_05375">
-               <persName>
-                  <surname>Pendl</surname>
-                  <forename>Otto</forename>
-               </persName>
-               <sex value="M"/>
-               <birth when="1951-10-29">
-                  <placeName key="Q871491">Trumau</placeName>
-               </birth>
-               <death when="2021-11-10"/>
-               <affiliation from="1998-09-17" to="2017-11-08" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="1998-09-17" to="2017-11-08" role="member" ref="#parliamentaryGroup.SPÖ"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_05375/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1230237</idno></person>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1996861</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Norbert%20Hofer%20-%20FP%C3%96-Neujahrstreffen%202019.JPG"/></figure></person>
             <person xml:id="PAD_08239">
                <persName>
                   <surname>Brosz</surname>
@@ -299,7 +299,7 @@
                <affiliation role="member" ref="#politicalParty.GRÜNE"/>
                <affiliation from="1999-10-29" to="2017-11-08" role="member" ref="#parliamentaryGroup.GRÜNE"/>
                <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_08239/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1221767</idno></person>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1221767</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Dieter%20Brosz.jpg"/></figure></person>
             <person xml:id="PAD_00039">
                <persName>
                   <surname>Auer</surname>
@@ -316,6 +316,6 @@
                <affiliation role="member" ref="#politicalParty.ÖVP"/>
                <affiliation from="1983-05-19" to="2017-11-08" role="member" ref="#parliamentaryGroup.ÖVP"/>
                <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_00039/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1678897</idno></person>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1678897</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Jakob%20Auer%2001.jpg"/></figure></person>
             </listPerson></back></text>
 </TEI>

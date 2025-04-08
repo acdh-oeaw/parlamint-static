@@ -571,85 +571,40 @@
                <affiliation from="2017-11-09" role="member" ref="#parliamentaryGroup.FPÖ"/>
                <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_01937/index.shtml</idno>
             <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1081494</idno></person>
-            <person xml:id="PAD_83134">
+            <person xml:id="PAD_83300">
                <persName>
-                  <surname>Schrangl</surname>
-                  <forename>Philipp</forename>
+                  <surname>Ofenauer</surname>
+                  <forename>Friedrich</forename>
                   <roleName>Mag.</roleName>
                </persName>
                <sex value="M"/>
-               <birth when="1985-03-14">
-                  <placeName key="Q41329">Linz</placeName>
+               <birth when="1973-01-09">
+                  <placeName key="Q82500">St.Pölten (Niederösterreich)</placeName>
                </birth>
-               <affiliation from="2013-10-29" role="member" ref="#NR">
+               <affiliation from="2013-12-17" role="member" ref="#NR">
                   <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
                   <roleName xml:lang="en">Member of the Federal Council</roleName>
                </affiliation>
-               <affiliation from="2013-10-29" role="member" ref="#parliamentaryGroup.FPÖ"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_83134/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q15602115</idno></person>
-            <person xml:id="PAD_02834">
-               <persName to="2002-12-18">
-                  <surname>Graf</surname>
-                  <forename>Martin</forename>
-                  <roleName>Dr.</roleName>
-               </persName>
-               <persName from="2002-12-19">
-                  <surname>Graf</surname>
-                  <forename>Martin</forename>
-                  <roleName>Mag. Dr.</roleName>
+               <affiliation from="2013-12-17" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_83300/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q15526234</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Friedrich%20Ofenauer01.jpg"/></figure></person>
+            <person xml:id="PAD_06501">
+               <persName>
+                  <surname>Bürstmayr</surname>
+                  <forename>Georg</forename>
+                  <roleName>Mag.</roleName>
                </persName>
                <sex value="M"/>
-               <birth when="1960-05-11">
+               <birth when="1963-04-20">
                   <placeName key="Q1741">Wien</placeName>
                </birth>
-               <affiliation from="1994-11-07" to="2002-12-19" role="member" ref="#NR">
+               <affiliation from="2020-01-09" role="member" ref="#NR">
                   <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
                   <roleName xml:lang="en">Member of the Federal Council</roleName>
                </affiliation>
-               <affiliation from="2006-10-30" to="2013-10-28" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="2008-10-28" to="2013-10-28" role="deputyHead" ref="#NR">
-                  <roleName xml:lang="de">Dritter Präsident</roleName>
-                  <roleName xml:lang="en">Third President</roleName>
-               </affiliation>
-               <affiliation from="2017-11-09" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="1994-11-07" to="2002-12-19" role="member" ref="#parliamentaryGroup.FPÖ"/>
-               <affiliation from="2006-10-30" to="2013-10-28" role="member" ref="#parliamentaryGroup.FPÖ"/>
-               <affiliation from="2017-11-09" role="member" ref="#parliamentaryGroup.FPÖ"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_02834/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q86691</idno></person>
-            <person xml:id="PAD_72999">
-               <persName>
-                  <surname>Fürlinger</surname>
-                  <forename>Klaus</forename>
-                  <roleName>Mag.</roleName>
-               </persName>
-               <sex value="M"/>
-               <birth when="1965-06-01">
-                  <placeName key="Q41329">Linz</placeName>
-               </birth>
-               <affiliation from="2012-07-05" to="2013-08-12" role="member" ref="#BR">
-                  <roleName xml:lang="de">Mitglied des Bundesrats</roleName>
-                  <roleName xml:lang="en">Member of the National Council</roleName>
-               </affiliation>
-               <affiliation from="2013-12-03" to="2017-11-08" role="member" ref="#BR">
-                  <roleName xml:lang="de">Mitglied des Bundesrats</roleName>
-                  <roleName xml:lang="en">Member of the National Council</roleName>
-               </affiliation>
-               <affiliation from="2017-11-09" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation role="member" ref="#politicalParty.ÖVP"/>
-               <affiliation from="2017-11-09" role="member" ref="#parliamentaryGroup.ÖVP"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_72999/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1745104</idno></person>
+               <affiliation from="2020-01-09" role="member" ref="#parliamentaryGroup.GRÜNE"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_06501/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q38057788</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/12%20Georg%20B%C3%BCrstmayr%20%2853938397764%29.jpg"/></figure></person>
             <person xml:id="PAD_78586">
                <persName>
                   <surname>Hafenecker</surname>
@@ -671,7 +626,7 @@
                <affiliation role="member" ref="#politicalParty.FPÖ"/>
                <affiliation from="2013-10-29" role="member" ref="#parliamentaryGroup.FPÖ"/>
                <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_78586/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1080106</idno></person>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1080106</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Portrait%20Hafi.jpg"/></figure></person>
             <person xml:id="PAD_02339">
                <persName>
                   <surname>Yildirim</surname>
@@ -688,7 +643,7 @@
                </affiliation>
                <affiliation from="2017-11-09" role="member" ref="#parliamentaryGroup.SPÖ"/>
                <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_02339/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q42303254</idno></person>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q42303254</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/2017%20Selma%20Yildirim%20%2836893480372%29.jpg"/></figure></person>
             <person xml:id="PAD_00145">
                <persName>
                   <surname>Bures</surname>
@@ -741,40 +696,85 @@
                <affiliation from="2007-03-01" to="2008-07-01" role="member" ref="#GOV"/>
                <affiliation from="2008-12-02" to="2014-09-01" role="member" ref="#GOV"/>
                <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_00145/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q85433</idno></person>
-            <person xml:id="PAD_06501">
-               <persName>
-                  <surname>Bürstmayr</surname>
-                  <forename>Georg</forename>
-                  <roleName>Mag.</roleName>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q85433</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Infrastrukturministerin%20Doris%20Bures.jpg"/></figure></person>
+            <person xml:id="PAD_02834">
+               <persName to="2002-12-18">
+                  <surname>Graf</surname>
+                  <forename>Martin</forename>
+                  <roleName>Dr.</roleName>
+               </persName>
+               <persName from="2002-12-19">
+                  <surname>Graf</surname>
+                  <forename>Martin</forename>
+                  <roleName>Mag. Dr.</roleName>
                </persName>
                <sex value="M"/>
-               <birth when="1963-04-20">
+               <birth when="1960-05-11">
                   <placeName key="Q1741">Wien</placeName>
                </birth>
-               <affiliation from="2020-01-09" role="member" ref="#NR">
+               <affiliation from="1994-11-07" to="2002-12-19" role="member" ref="#NR">
                   <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
                   <roleName xml:lang="en">Member of the Federal Council</roleName>
                </affiliation>
-               <affiliation from="2020-01-09" role="member" ref="#parliamentaryGroup.GRÜNE"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_06501/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q38057788</idno></person>
-            <person xml:id="PAD_83300">
+               <affiliation from="2006-10-30" to="2013-10-28" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2008-10-28" to="2013-10-28" role="deputyHead" ref="#NR">
+                  <roleName xml:lang="de">Dritter Präsident</roleName>
+                  <roleName xml:lang="en">Third President</roleName>
+               </affiliation>
+               <affiliation from="2017-11-09" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="1994-11-07" to="2002-12-19" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <affiliation from="2006-10-30" to="2013-10-28" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <affiliation from="2017-11-09" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_02834/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q86691</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Martin%20Graf%20-%20Pressekonferenz%20am%2026.%20Aug.%202020%20%28cropped%29.JPG"/></figure></person>
+            <person xml:id="PAD_72999">
                <persName>
-                  <surname>Ofenauer</surname>
-                  <forename>Friedrich</forename>
+                  <surname>Fürlinger</surname>
+                  <forename>Klaus</forename>
                   <roleName>Mag.</roleName>
                </persName>
                <sex value="M"/>
-               <birth when="1973-01-09">
-                  <placeName key="Q82500">St.Pölten (Niederösterreich)</placeName>
+               <birth when="1965-06-01">
+                  <placeName key="Q41329">Linz</placeName>
                </birth>
-               <affiliation from="2013-12-17" role="member" ref="#NR">
+               <affiliation from="2012-07-05" to="2013-08-12" role="member" ref="#BR">
+                  <roleName xml:lang="de">Mitglied des Bundesrats</roleName>
+                  <roleName xml:lang="en">Member of the National Council</roleName>
+               </affiliation>
+               <affiliation from="2013-12-03" to="2017-11-08" role="member" ref="#BR">
+                  <roleName xml:lang="de">Mitglied des Bundesrats</roleName>
+                  <roleName xml:lang="en">Member of the National Council</roleName>
+               </affiliation>
+               <affiliation from="2017-11-09" role="member" ref="#NR">
                   <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
                   <roleName xml:lang="en">Member of the Federal Council</roleName>
                </affiliation>
-               <affiliation from="2013-12-17" role="member" ref="#parliamentaryGroup.ÖVP"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_83300/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q15526234</idno></person>
+               <affiliation role="member" ref="#politicalParty.ÖVP"/>
+               <affiliation from="2017-11-09" role="member" ref="#parliamentaryGroup.ÖVP"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_72999/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1745104</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/20170316%20Klaus%20Fuerlinger%20M77%201.jpg"/></figure></person>
+            <person xml:id="PAD_83134">
+               <persName>
+                  <surname>Schrangl</surname>
+                  <forename>Philipp</forename>
+                  <roleName>Mag.</roleName>
+               </persName>
+               <sex value="M"/>
+               <birth when="1985-03-14">
+                  <placeName key="Q41329">Linz</placeName>
+               </birth>
+               <affiliation from="2013-10-29" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="2013-10-29" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_83134/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q15602115</idno></person>
             </listPerson></back></text>
 </TEI>

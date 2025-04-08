@@ -172,7 +172,34 @@
             <note type="time" xml:id="ParlaMint-AT_1996-03-14-020-XX-NRSITZ-00012.note13">Schluß der Sitzung:<time when="1996-03-14T20:31:00+01:00">20:31</time>Uhr</note>
          </div>
       </body>
-   <back><listPerson><person xml:id="PAD_01018">
+   <back><listPerson><person xml:id="PAD_01613">
+               <persName to="2004-11-13">
+                  <surname>Schieder</surname>
+                  <forename>Peter</forename>
+               </persName>
+               <persName from="2004-11-14">
+                  <surname>Schieder</surname>
+                  <forename>Peter</forename>
+                  <roleName>Dr. h.c.</roleName>
+               </persName>
+               <sex value="M"/>
+               <birth when="1941-08-20">
+                  <placeName key="Q1741">Wien</placeName>
+               </birth>
+               <death when="2013-10-11"/>
+               <affiliation from="1970-03-31" to="1973-11-21" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="1984-09-07" to="2006-10-29" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="1970-03-31" to="1973-11-21" role="member" ref="#parliamentaryGroup.SPÖ"/>
+               <affiliation from="1984-09-07" to="2006-10-29" role="member" ref="#parliamentaryGroup.SPÖ"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_01613/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1274581</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Peter%20Schieder-Karl%20Heinrich%20Ulrichs%20Award.JPG"/></figure></person>
+            <person xml:id="PAD_01018">
                <persName>
                   <surname>Neisser</surname>
                   <forename>Heinrich</forename>
@@ -214,32 +241,5 @@
                <affiliation from="1987-04-01" to="1989-04-24" role="member" ref="#GOV"/>
                <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_01018/index.shtml</idno>
             <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1395157</idno></person>
-            <person xml:id="PAD_01613">
-               <persName to="2004-11-13">
-                  <surname>Schieder</surname>
-                  <forename>Peter</forename>
-               </persName>
-               <persName from="2004-11-14">
-                  <surname>Schieder</surname>
-                  <forename>Peter</forename>
-                  <roleName>Dr. h.c.</roleName>
-               </persName>
-               <sex value="M"/>
-               <birth when="1941-08-20">
-                  <placeName key="Q1741">Wien</placeName>
-               </birth>
-               <death when="2013-10-11"/>
-               <affiliation from="1970-03-31" to="1973-11-21" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="1984-09-07" to="2006-10-29" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordneter</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="1970-03-31" to="1973-11-21" role="member" ref="#parliamentaryGroup.SPÖ"/>
-               <affiliation from="1984-09-07" to="2006-10-29" role="member" ref="#parliamentaryGroup.SPÖ"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_01613/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q1274581</idno></person>
             </listPerson></back></text>
 </TEI>

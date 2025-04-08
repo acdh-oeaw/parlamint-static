@@ -192,7 +192,28 @@
             <note type="time" xml:id="ParlaMint-AT_1996-01-15-020-XX-NRSITZ-00002.note11">Schluß der Sitzung:<time when="1996-01-15T17:27:00+01:00">17:27</time>Uhr</note>
          </div>
       </body>
-   <back><listPerson><person xml:id="PAD_00334">
+   <back><listPerson><person xml:id="PAD_00030">
+               <persName>
+                  <surname>Apfelbeck</surname>
+                  <forename>Ute</forename>
+               </persName>
+               <sex value="F"/>
+               <birth when="1943-01-25">
+                  <placeName key="Q1003990">Königsberg (Südsteiermark)</placeName>
+               </birth>
+               <affiliation from="1988-11-23" to="1994-11-06" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="1994-11-07" to="1999-10-05" role="member" ref="#NR">
+                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
+                  <roleName xml:lang="en">Member of the Federal Council</roleName>
+               </affiliation>
+               <affiliation from="1988-11-23" to="1994-11-06" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <affiliation from="1994-11-07" to="1999-10-05" role="member" ref="#parliamentaryGroup.FPÖ"/>
+               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_00030/index.shtml</idno>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q2502932</idno></person>
+            <person xml:id="PAD_00334">
                <persName>
                   <surname>Fischer</surname>
                   <forename>Heinz</forename>
@@ -231,27 +252,6 @@
                <affiliation from="1987-01-27" to="2004-06-16" role="member" ref="#parliamentaryGroup.SPÖ"/>
                <affiliation from="1983-05-24" to="1987-01-21" role="member" ref="#GOV"/>
                <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_00334/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q11753</idno></person>
-            <person xml:id="PAD_00030">
-               <persName>
-                  <surname>Apfelbeck</surname>
-                  <forename>Ute</forename>
-               </persName>
-               <sex value="F"/>
-               <birth when="1943-01-25">
-                  <placeName key="Q1003990">Königsberg (Südsteiermark)</placeName>
-               </birth>
-               <affiliation from="1988-11-23" to="1994-11-06" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="1994-11-07" to="1999-10-05" role="member" ref="#NR">
-                  <roleName xml:lang="de">Nationalratsabgeordnete</roleName>
-                  <roleName xml:lang="en">Member of the Federal Council</roleName>
-               </affiliation>
-               <affiliation from="1988-11-23" to="1994-11-06" role="member" ref="#parliamentaryGroup.FPÖ"/>
-               <affiliation from="1994-11-07" to="1999-10-05" role="member" ref="#parliamentaryGroup.FPÖ"/>
-               <idno type="URI" subtype="parliament">https://www.parlament.gv.at/WWER/PAD_00030/index.shtml</idno>
-            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q2502932</idno></person>
+            <idno type="URI" subtype="wikidata">http://www.wikidata.org/entity/Q11753</idno><figure><graphic url="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Heinz%20Fischer%20-%20Buchmesse%20Wien%202018.JPG"/></figure></person>
             </listPerson></back></text>
 </TEI>
