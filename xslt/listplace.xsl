@@ -39,7 +39,7 @@
                 <xsl:call-template name="nav_bar"/>
                 <main class="flex-shrink-0 flex-grow-1">
                     <xsl:call-template name="breadcrumb">
-                        <xsl:with-param name="current_page" select="'Ortsregister'" />
+                        <xsl:with-param name="breadcrumb_item" select="'Ortsregister'" />
                     </xsl:call-template>
                     <div class="container">
                         <h1><xsl:value-of select="$doc_title"/></h1>
@@ -113,6 +113,10 @@
                     <body class="d-flex flex-column h-100">
                         <xsl:call-template name="nav_bar"/>
                         <main class="flex-shrink-0 flex-grow-1">
+                            <xsl:call-template name="breadcrumb">
+                                <xsl:with-param name="breadcrumb_item" select="'Ortsregister'" />
+                                <xsl:with-param name="parent_page_link" select="'listplace.html'" />
+                            </xsl:call-template>
                             <div class="container">
                                 <h1>
                                     <xsl:value-of select="$name"/>

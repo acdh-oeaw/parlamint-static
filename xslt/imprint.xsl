@@ -27,7 +27,7 @@
                 <xsl:call-template name="nav_bar"/>
                 <main class="flex-shrink-0 flex-grow-1">
                     <xsl:call-template name="breadcrumb">
-                        <xsl:with-param name="current_page" select="'Impressum'" />
+                        <xsl:with-param name="breadcrumb_item" select="'Impressum'" />
                     </xsl:call-template>
                     <div class="container">
                         <h1><xsl:value-of select="$doc_title"/></h1>

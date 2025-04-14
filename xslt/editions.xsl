@@ -41,7 +41,8 @@
                 <xsl:call-template name="nav_bar"/>
                 <main class="flex-shrink-0 flex-grow-1">
                     <xsl:call-template name="breadcrumb">
-                        <xsl:with-param name="current_page" select="'Sitzungsprotokolle'" />
+                        <xsl:with-param name="breadcrumb_item" select="'Sitzungsprotokolle'" />
+                        <xsl:with-param name="parent_page_link" select="'toc.html'" />
                     </xsl:call-template>
                     <div class="container">
                         <div class="row">
