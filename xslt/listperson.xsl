@@ -41,10 +41,10 @@
                         <table id="myTable">
                             <thead>
                                 <tr>
-                                    <th scope="col" width="20" tabulator-formatter="html" tabulator-headerSort="false" tabulator-download="false">#</th>
-                                    <th scope="col" tabulator-headerFilter="input">Nachname</th>
-                                    <th scope="col" tabulator-headerFilter="input">Vorname</th>
-                                    <th scope="col" tabulator-headerFilter="input">ID</th>
+                                    <th scope="col">Nachname</th>
+                                    <th scope="col">Vorname</th>
+                                    <th scope="col">ID</th>
+                                    <th scope="col">URL</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -54,14 +54,6 @@
                                     </xsl:variable>
                                     <tr>
                                         <td>
-                                            <a>
-                                              <xsl:attribute name="href">
-                                              <xsl:value-of select="concat($id, '.html')"/>
-                                              </xsl:attribute>
-                                              <i class="bi bi-link-45deg"/>
-                                            </a>
-                                        </td>
-                                        <td>
                                             <xsl:value-of select=".//tei:surname/text()"/>
                                         </td>
                                         <td>
@@ -69,6 +61,9 @@
                                         </td>
                                         <td>
                                             <xsl:value-of select="$id"/>
+                                        </td>
+                                        <td>
+                                            <xsl:value-of select="concat($id, '.html')"/>
                                         </td>
                                     </tr>
                                 </xsl:for-each>
@@ -78,7 +73,16 @@
                     </div>
                 </main>
                 <xsl:call-template name="html_footer"/>
-                <xsl:call-template name="tabulator_js"/>
+                <xsl:call-template name="tabulator_js">
+                    <xsl:with-param name="column_def">
+                        <xsl:text>
+                        [{title: "Nachname", minWidth: 300, headerFilter: "input", formatter: linkFormatter},
+                        {title: "Vorname", headerFilter: "input"},
+                        {title: "ID", "headerFilter: input"},
+                        {title: "URL", visible:false}]
+                        </xsl:text>
+                    </xsl:with-param>
+                </xsl:call-template>
             </body>
         </html>
 

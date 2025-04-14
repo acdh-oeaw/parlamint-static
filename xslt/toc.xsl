@@ -38,9 +38,9 @@
                         <table id="myTable">
                             <thead>
                                 <tr>
-                                    <th scope="col" width="20" tabulator-formatter="html" tabulator-headerSort="false" tabulator-download="false">#</th>
-                                    <th scope="col" tabulator-headerFilter="input">Titel</th>
-                                    <th scope="col" tabulator-headerFilter="input">Dateinname</th>
+                                    <th scope="col">Titel</th>
+                                    <th scope="col">Dateiname</th>
+                                    <th scope="col">URL</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -51,22 +51,17 @@
                                     </xsl:variable>
                                     <tr>
                                         <td>
-                                            <a>
-                                                <xsl:attribute name="href">
-                                                  <xsl:value-of
-                                                  select="replace(tokenize($full_path, '/')[last()], '.xml', '.html')"
-                                                  />
-                                                </xsl:attribute>
-                                                <i class="bi bi-link-45deg"/>
-                                            </a>
-                                        </td>
-                                        <td>
-                                            <xsl:value-of
+                                             <xsl:value-of
                                                 select=".//tei:titleStmt/tei:title[@type='sub'][1]/text()"/>
                                         </td>
                                         <td>
                                             <xsl:value-of select="tokenize($full_path, '/')[last()]"
                                             />
+                                        </td>
+                                        <td>
+                                        <xsl:value-of
+                                                  select="replace(tokenize($full_path, '/')[last()], '.xml', '.html')"
+                                                  />
                                         </td>
                                     </tr>
                                 </xsl:for-each>
@@ -76,7 +71,15 @@
                     </div>
                 </main>
                 <xsl:call-template name="html_footer"/>
-                <xsl:call-template name="tabulator_js"/>
+                <xsl:call-template name="tabulator_js">
+                    <xsl:with-param name="column_def">
+                        <xsl:text>
+                        [{title: "Titel", minWidth: 300, headerFilter: "input", formatter: linkFormatter},
+                        {title: "Dateiname", headerFilter: "input"},
+                        {title: "URL", visible:false}]
+                        </xsl:text>
+                    </xsl:with-param>
+                </xsl:call-template>
             </body>
         </html>
     </xsl:template>
