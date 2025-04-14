@@ -11,6 +11,7 @@
     <xsl:import href="partials/tabulator_dl_buttons.xsl"/>
     <xsl:import href="partials/tabulator_js.xsl"/>
     <xsl:import href="partials/org.xsl"/> 
+    <xsl:import href="partials/breadcrumbs.xsl"/>
     <xsl:template match="/">
         <xsl:variable name="doc_title">
             <xsl:value-of select=".//tei:titleStmt/tei:title[1]/text()"/>
@@ -26,6 +27,9 @@
             <body class="d-flex flex-column h-100">
                 <xsl:call-template name="nav_bar"/>
                     <main class="flex-shrink-0 flex-grow-1">
+                        <xsl:call-template name="breadcrumb">
+                            <xsl:with-param name="breadcrumb_item" select="'Institutionsregister'" />
+                        </xsl:call-template>
                         <div class="container">                        
                             <h1>
                                 <xsl:value-of select="$doc_title"/>
@@ -83,6 +87,10 @@
                     <body class="d-flex flex-column h-100">
                         <xsl:call-template name="nav_bar"/>
                         <main class="flex-shrink-0 flex-grow-1">
+                        <xsl:call-template name="breadcrumb">
+                            <xsl:with-param name="breadcrumb_item" select="'Institutionsregister'" />
+                            <xsl:with-param name="parent_page_link" select="'listorg.html'" />
+                        </xsl:call-template>
                             <div class="container">
                                 <h1>
                                     <xsl:value-of select="$name"/>

@@ -13,6 +13,7 @@
     <xsl:import href="partials/html_footer.xsl"/>
     <xsl:import href="partials/tabulator_dl_buttons.xsl"/>
     <xsl:import href="partials/tabulator_js.xsl"/>
+    <xsl:import href="partials/breadcrumbs.xsl"/>
 
 
     <xsl:template match="/">
@@ -27,6 +28,11 @@
             <body class="d-flex flex-column h-100">
             <xsl:call-template name="nav_bar"/>
                 <main class="flex-shrink-0 flex-grow-1">
+                
+                    <xsl:call-template name="breadcrumb">
+                        <xsl:with-param name="breadcrumb_item" select="'Sitzungsprotokolle'" />
+                    </xsl:call-template>
+
                     <div class="container">
                         <h1>Inhaltsverzeichnis</h1>
                         <table id="myTable">
