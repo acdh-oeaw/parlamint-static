@@ -11,6 +11,7 @@
     <xsl:import href="./partials/html_navbar.xsl"/>
     <xsl:import href="./partials/html_head.xsl"/>
     <xsl:import href="./partials/html_footer.xsl"/>
+    <xsl:import href="./partials/breadcrumbs.xsl"/>
 
     <xsl:variable name="prev">
         <xsl:value-of select="replace(tokenize(data(tei:TEI/@prev), '/')[last()], '.xml', '.html')"/>
@@ -39,6 +40,9 @@
             <body class="d-flex flex-column h-100">
                 <xsl:call-template name="nav_bar"/>
                 <main class="flex-shrink-0 flex-grow-1">
+                    <xsl:call-template name="breadcrumb">
+                        <xsl:with-param name="current_page" select="'Sitzungsprotokolle'" />
+                    </xsl:call-template>
                     <div class="container">
                         <div class="row">
                             <div class="col-md-2 col-lg-2 col-sm-12 text-start">

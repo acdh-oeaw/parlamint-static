@@ -11,6 +11,7 @@
     <xsl:import href="partials/tabulator_dl_buttons.xsl"/>
     <xsl:import href="partials/tabulator_js.xsl"/>
     <xsl:import href="./partials/person.xsl"/>
+    <xsl:import href="partials/breadcrumbs.xsl"/>
 
     <xsl:template match="/">
         <xsl:variable name="doc_title">
@@ -28,6 +29,9 @@
                 <xsl:call-template name="nav_bar"/>
 
                 <main class="flex-shrink-0 flex-grow-1">
+                    <xsl:call-template name="breadcrumb">
+                        <xsl:with-param name="current_page" select="'Personenregister'" />
+                    </xsl:call-template>
                     <div class="container">
 
                         <h1>

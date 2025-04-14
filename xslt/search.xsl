@@ -9,6 +9,7 @@
     <xsl:import href="./partials/html_navbar.xsl"/>
     <xsl:import href="./partials/html_head.xsl"/>
     <xsl:import href="partials/html_footer.xsl"/>
+    <xsl:import href="partials/breadcrumbs.xsl"/>
     <xsl:template match="/">
         <xsl:variable name="doc_title" select="'Volltextsuche'"/>
         <html class="h-100" lang="de">
@@ -21,6 +22,9 @@
             <body class="d-flex flex-column h-100">
                 <xsl:call-template name="nav_bar"/>
                 <main class="flex-shrink-0 flex-grow-1">
+                    <xsl:call-template name="breadcrumb">
+                        <xsl:with-param name="current_page" select="'Volltextsuche'" />
+                    </xsl:call-template>
                     <div class="container">
                         <h1>
                             <xsl:value-of select="$doc_title"/>
