@@ -38,9 +38,11 @@
                         <table id="myTable">
                             <thead>
                                 <tr>
-                                    <th scope="col" width="20" tabulator-formatter="html" tabulator-headerSort="false" tabulator-download="false">#</th>
-                                    <th scope="col" tabulator-headerFilter="input">Titel</th>
-                                    <th scope="col" tabulator-headerFilter="input">Dateinname</th>
+                                    <th scope="col">Titel</th>
+                                    <th scope="col">Sitzung</th>
+                                    <th scope="col">Gesetzgebungsperiode</th>
+                                    <th scope="col">Datum</th>
+                                    <th scope="col">URL</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -51,22 +53,23 @@
                                     </xsl:variable>
                                     <tr>
                                         <td>
-                                            <a>
-                                                <xsl:attribute name="href">
-                                                  <xsl:value-of
-                                                  select="replace(tokenize($full_path, '/')[last()], '.xml', '.html')"
-                                                  />
-                                                </xsl:attribute>
-                                                <i class="bi bi-link-45deg"/>
-                                            </a>
+                                             <xsl:value-of
+                                                select=".//tei:titleStmt/tei:title[@type='sub'][1]/text()"/>
+                                        </td>
+                                         <td>
+                                            <xsl:value-of select=".//tei:titleStmt/tei:meeting[1]/text()"/>
+                                        </td>
+                                        <td>
+                                            <xsl:value-of select=".//tei:titleStmt/tei:meeting[2]/text()"/>
                                         </td>
                                         <td>
                                             <xsl:value-of
-                                                select=".//tei:titleStmt/tei:title[@type='sub'][1]/text()"/>
+                                                select=".//tei:settingDesc/tei:setting/tei:date/text()"/>
                                         </td>
                                         <td>
-                                            <xsl:value-of select="tokenize($full_path, '/')[last()]"
-                                            />
+                                        <xsl:value-of
+                                                  select="replace(tokenize($full_path, '/')[last()], '.xml', '.html')"
+                                                  />
                                         </td>
                                     </tr>
                                 </xsl:for-each>
@@ -76,7 +79,17 @@
                     </div>
                 </main>
                 <xsl:call-template name="html_footer"/>
-                <xsl:call-template name="tabulator_js"/>
+                <xsl:call-template name="tabulator_js">
+                    <xsl:with-param name="column_def">
+                        <xsl:text>
+                        [{title: "Titel", minWidth: 300, headerFilter: "input", formatter: linkFormatter, formatterParams:{fieldName: "title"}},
+                        {title: "Sitzung", headerFilter: "input"},
+                        {title: "Gesetzgebungsperiode", headerFilter: "input"},
+                        {title: "Datum", headerFilter: "input"},
+                        {title: "URL", visible:false}]
+                        </xsl:text>
+                    </xsl:with-param>
+                </xsl:call-template>
             </body>
         </html>
     </xsl:template>
