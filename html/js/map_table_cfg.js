@@ -37,8 +37,8 @@ const columns = [
   },
   {
     headerFilter: "input",
-    title: "Erwähnungen",
-    field: "mentions",
+    title: "Anzahl Personen (Geb./Gest.)",
+    field: "relatedPersons",
     formatter: "plaintext",
     resizable: true,
   },
