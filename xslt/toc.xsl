@@ -82,7 +82,7 @@
                 <xsl:call-template name="tabulator_js">
                     <xsl:with-param name="column_def">
                         <xsl:text>
-                        [{title: "Titel", minWidth: 300, headerFilter: "input", formatter: linkFormatter, formatterParams:{fieldName: "title"}},
+                        [{title: "Titel", minWidth: 300, headerFilter: "input", formatter: linkFormatter, formatterParams:{fieldName: "titel"}},
                         {title: "Sitzung", headerFilter: "input"},
                         {title: "Gesetzgebungsperiode", headerFilter: "input"},
                         {title: "Datum", headerFilter: "input"},
