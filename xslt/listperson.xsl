@@ -41,9 +41,8 @@
                         <table id="myTable">
                             <thead>
                                 <tr>
-                                    <th scope="col">Nachname</th>
-                                    <th scope="col">Vorname</th>
-                                    <th scope="col">ID</th>
+                                    <th scope="col">Name</th>
+                                    <th scope="col">Erwähnungen</th>
                                     <th scope="col">URL</th>
                                 </tr>
                             </thead>
@@ -54,13 +53,10 @@
                                     </xsl:variable>
                                     <tr>
                                         <td>
-                                            <xsl:value-of select=".//tei:surname/text()"/>
+                                           <xsl:value-of  select="normalize-space(string-join(./tei:persName[1]//text()))"/>
                                         </td>
                                         <td>
-                                            <xsl:value-of select=".//tei:forename/text()"/>
-                                        </td>
-                                        <td>
-                                            <xsl:value-of select="$id"/>
+                                            <xsl:value-of select="count(.//tei:note[@type='mentions'])"/>
                                         </td>
                                         <td>
                                             <xsl:value-of select="concat($id, '.html')"/>
@@ -76,9 +72,8 @@
                 <xsl:call-template name="tabulator_js">
                     <xsl:with-param name="column_def">
                         <xsl:text>
-                        [{title: "Nachname", minWidth: 300, headerFilter: "input", formatter: linkFormatter},
-                        {title: "Vorname", headerFilter: "input"},
-                        {title: "ID", "headerFilter: input"},
+                        [{title: "Name", minWidth: 300, headerFilter: "input", formatter: linkFormatter, formatterParams:{fieldName: "name"}},
+                        {title: "Erwähnungen", headerFilter: "input"},
                         {title: "URL", visible:false}]
                         </xsl:text>
                     </xsl:with-param>
