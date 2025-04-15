@@ -6,10 +6,6 @@ from acdh_tei_pyutils.tei import TeiReader
 from acdh_tei_pyutils.utils import get_xmlid
 from acdh_xml_pyutils.xml import NSMAP
 
-from collections import defaultdict
-
-# Initialize a dictionary to store people associated with each place
-place_to_people = defaultdict(lambda: {"birth": [], "death": []})
 
 # from acdh_wikidata_pyutils import WikiDataPlace
 # from tqdm import tqdm
