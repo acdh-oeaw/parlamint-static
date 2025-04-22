@@ -103,53 +103,73 @@
         </xsl:choose>
     </xsl:template>
 
-<xsl:template match="tei:note[@type='time']">
-  <xsl:choose>
-    <!-- Case 1: note contains only time element (no text nodes) -->
-    <xsl:when test="count(child::node()[not(self::tei:time) and not(self::text()[normalize-space()=''])]) = 0">
-      <div class="time">
-        <xsl:apply-templates/>
-      </div>
-    </xsl:when>
-    <!-- Case 2: note contains time element and additional text -->
-    <xsl:otherwise>
-      <div class="time-heading">
-        <xsl:apply-templates/>
-      </div>
-    </xsl:otherwise>
-  </xsl:choose>
-</xsl:template>
+    <xsl:template match="tei:note[@type='time']">
+        <xsl:choose>
+            <!-- Case 1: note contains only time element (no text nodes) -->
+            <xsl:when test="count(child::node()[not(self::tei:time) and not(self::text()[normalize-space()=''])]) = 0">
+                <div class="time">
+                    <xsl:apply-templates/>
+                </div>
+            </xsl:when>
+            <!-- Case 2: note contains time element and additional text -->
+            <xsl:otherwise>
+                <div class="time-heading">
+                    <xsl:apply-templates/>
+                </div>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
 
-<xsl:template match="tei:time">
-  <xsl:choose>
-    <!-- If there are siblings, add spaces around the time -->
-    <xsl:when test="preceding-sibling::node()[normalize-space()] or following-sibling::node()[normalize-space()]">
-      <xsl:text> </xsl:text>
-      <span class="timestamp">
-        <xsl:value-of select="."/>
-      </span>
-      <xsl:text> </xsl:text>
-    </xsl:when>
-    <!-- Otherwise just output the time without spaces -->
-    <xsl:otherwise>
-      <span class="timestamp">
-        <xsl:value-of select="."/>
-      </span>
-    </xsl:otherwise>
-  </xsl:choose>
-</xsl:template>
+    <xsl:template match="tei:time">
+        <xsl:choose>
+            <!-- If there are siblings, add spaces around the time -->
+            <xsl:when test="preceding-sibling::node()[normalize-space()] or following-sibling::node()[normalize-space()]">
+                <xsl:text></xsl:text>
+                <span class="timestamp">
+                    <xsl:value-of select="."/>
+                </span>
+                <xsl:text></xsl:text>
+            </xsl:when>
+            <!-- Otherwise just output the time without spaces -->
+            <xsl:otherwise>
+                <span class="timestamp">
+                    <xsl:value-of select="."/>
+                </span>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
 
-<xsl:template match="tei:note[@type='chairpersons']">
-    <p class="fw-bold">
-        <xsl:text>Vorsitzende: </xsl:text>
-        <xsl:apply-templates/>
-    </p>
-</xsl:template>
+    <xsl:template match="tei:note[@type='chairpersons']">
+        <p class="fw-bold">
+            <xsl:text>Vorsitzende: </xsl:text>
+            <xsl:apply-templates/>
+        </p>
+    </xsl:template>
 
-<xsl:template match="tei:note[@type='speaker']">
-    <p class="fw-bold">
-        <xsl:apply-templates/>
-        <xsl:text>: </xsl:text>
-    </p>
-</xsl:template>
+    <xsl:template match="tei:note[@type='speaker']">
+        <p class="fw-bold">
+            <xsl:apply-templates/>
+            <xsl:text>: </xsl:text>
+        </p>
+    </xsl:template>
+
+    <!-- two type of interruptions-->
+    <xsl:template match="tei:note[@type='unauthorized_interruption']">
+        <p class="fst-italic">
+            <xsl:apply-templates/>
+        </p>
+    </xsl:template>
+    <xsl:template match="tei:vocal[@type='interruption']/tei:desc">
+        <p class="fst-italic">
+            <xsl:apply-templates/>
+        </p>
+    </xsl:template>
+
+    <xsl:template match="tei:kinesic/tei:desc">
+        <div class="fw-light fst-italic">
+            <xsl:text>(</xsl:text>
+            <xsl:apply-templates/>
+            <xsl:text>)</xsl:text>
+        </div>
+    </xsl:template>
 </xsl:stylesheet>

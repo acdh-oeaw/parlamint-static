@@ -16,3 +16,13 @@ dd {
 .wikidataimage {
     height: 300px;
 }
+
+.time {
+    font-size: 0.8em;
+    font-style: italic;
+}
+.time-heading{
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+}
