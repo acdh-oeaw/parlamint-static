@@ -48,7 +48,7 @@
                             <thead>
                                 <tr>
                                     <th scope="col">Ortsname</th>
-                                    <th scope="col">Erwähnungen</th>
+                                    <th scope="col">Anzahl Personen (Geb./Gest.)</th>
                                     <th scope="col">lat</th>
                                     <th scope="col">lng</th>
                                     <th scope="col">linkToEntity</th>
@@ -64,7 +64,7 @@
                                             <xsl:value-of select="./tei:placeName[1]/text()"/>
                                         </td>
                                         <td>
-                                            <xsl:value-of select="count(.//tei:note[@type='mentions'])"/>
+                                            <xsl:value-of select="count(.//tei:note[@type='births' or @type='deaths'])"/>
                                         </td>
                                         <td>
                                             <xsl:choose>

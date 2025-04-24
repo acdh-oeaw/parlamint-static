@@ -100,7 +100,7 @@
                 <xsl:if test=".//tei:location">
                 <tr>
                     <th>
-                        Latitude
+                        Breitengrad
                     </th>
                     <td>
                         <xsl:value-of select="tokenize(./tei:location[1]/tei:geo[1], '\s')[1]"/>
@@ -110,23 +110,41 @@
                 <xsl:if test=".//tei:location">
                 <tr>
                     <th>
-                        Longitude
+                        Längengrad
                     </th>
                     <td>
                         <xsl:value-of select="tokenize(./tei:location[1]/tei:geo[1], '\s')[2]"/>
                     </td>
                 </tr>
                 </xsl:if>
-                <xsl:if test="./tei:noteGrp/tei:note[@type='mentions']">
+                <xsl:if test="./tei:noteGrp/tei:note[@type='births']">
                     <tr>
                         <th>
-                            Erwähnt in
+                            Geburtsort von
                         </th>
                         <td>
                             <ul>
-                                <xsl:for-each select="./tei:noteGrp/tei:note[@type='mentions']">
+                                <xsl:for-each select="./tei:noteGrp/tei:note[@type='births']">
                                     <li>
-                                        <a href="{replace(@target, '.xml', '.html')}">
+                                        <a href="{concat(substring-after(@target, '#'), '.html')}">
+                                            <xsl:value-of select="./text()"/>
+                                        </a>
+                                    </li>
+                                </xsl:for-each>
+                            </ul>
+                        </td>
+                    </tr>
+                </xsl:if>
+                <xsl:if test="./tei:noteGrp/tei:note[@type='deaths']">
+                    <tr>
+                        <th>
+                            Sterbeort von
+                        </th>
+                        <td>
+                            <ul>
+                                <xsl:for-each select="./tei:noteGrp/tei:note[@type='deaths']">
+                                    <li>
+                                        <a href="{concat(substring-after(@target, '#'), '.html')}">
                                             <xsl:value-of select="./text()"/>
                                         </a>
                                     </li>
