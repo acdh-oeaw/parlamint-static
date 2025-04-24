@@ -96,6 +96,7 @@
                 <i>
                     <xsl:value-of select="tei:desc[@xml:lang='de']"/>
                 </i>
+                <xsl:element name="hr"/>
             </xsl:when>
             <xsl:otherwise>
                 <!-- Do nothing -->
@@ -124,11 +125,11 @@
         <xsl:choose>
             <!-- If there are siblings, add spaces around the time -->
             <xsl:when test="preceding-sibling::node()[normalize-space()] or following-sibling::node()[normalize-space()]">
-                <xsl:text></xsl:text>
+                <xsl:text>&#x20;</xsl:text>
                 <span class="timestamp">
                     <xsl:value-of select="."/>
                 </span>
-                <xsl:text></xsl:text>
+                <xsl:text>&#x20;</xsl:text>
             </xsl:when>
             <!-- Otherwise just output the time without spaces -->
             <xsl:otherwise>
@@ -166,10 +167,21 @@
     </xsl:template>
 
     <xsl:template match="tei:kinesic/tei:desc">
-        <div class="fw-light fst-italic">
+        <span class="fw-light fst-italic">
             <xsl:text>(</xsl:text>
             <xsl:apply-templates/>
             <xsl:text>)</xsl:text>
-        </div>
+        </span>
+    </xsl:template>
+    <!-- note types: chairpersons, comment, inquietude, objection, p ??, procedural, referencing_document, side_talk, speaker, speaker_action-->
+
+
+    <xsl:template match="tei:pb">
+        <xsl:element name="hr"/>
+        <xsl:element name="p">
+            <xsl:attribute name="class" select="'text-end'"/>
+            <xsl:text>Seite </xsl:text>
+            <xsl:value-of select="@n"/>
+        </xsl:element>
     </xsl:template>
 </xsl:stylesheet>
