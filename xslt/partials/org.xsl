@@ -3,7 +3,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:tei="http://www.tei-c.org/ns/1.0" version="2.0" exclude-result-prefixes="xsl tei xs">
 
-
+    <xsl:import href="tabulator_dl_buttons.xsl"/>
     <xsl:template match="tei:org" name="org_detail">
         <table class="table entity-table">
             <tbody>
@@ -96,45 +96,57 @@
                 <xsl:variable name="relations" select="//tei:listRelation/tei:relation[@active=$org-ref]"/>
                 <xsl:if test="$relations">
                     <tr>
-                        <th>Mitglieder und Funktionen</th>
+                        <th>Personen</th>
                         <td>
-                            <ul>
-                                <xsl:for-each select="$relations">
-                                    <li>
-                                    <xsl:variable name="person-id" select="substring-after(@passive, '#')"/>
-                                        <a href="{concat($person-id, '.html')}">
-                                            <!-- Get the text content of the first persName element -->
-                                            <xsl:value-of select="//tei:standOff/tei:listPerson/tei:person[@xml:id=$person-id]/tei:persName[1]"/>
-                                        </a>
-                                        <xsl:if test="@from or @to">
-                                            <xsl:text> (</xsl:text>
-                                            <xsl:if test="@from">
-                                                <xsl:value-of select="@from"/>
-                                            </xsl:if>
-                                            <xsl:if test="@from and @to">
-                                                <xsl:text> - </xsl:text>
-                                            </xsl:if>
-                                            <xsl:if test="@to">
-                                                <xsl:value-of select="@to"/>
-                                            </xsl:if>
-                                            <xsl:text>)</xsl:text>
-                                        </xsl:if>
-
-                                        <xsl:if test="./tei:desc">
-                                            <div class="role-description">
-                                                <xsl:choose>
-                                                    <xsl:when test="./tei:desc[@xml:lang='de']">
-                                                        <xsl:value-of select="./tei:desc[@xml:lang='de']"/>
-                                                    </xsl:when>
-                                                    <xsl:otherwise>
-                                                        <xsl:value-of select="./tei:desc[1]"/>
-                                                    </xsl:otherwise>
-                                                </xsl:choose>
-                                            </div>
-                                        </xsl:if>
-                                    </li>
-                                </xsl:for-each>
-                            </ul>
+                            <table id="myTable">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Name</th>
+                                        <th scope="col">Rolle</th>
+                                        <th scope="col">Zeitraum</th>
+                                        <th scope="col">URL</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <xsl:for-each select="$relations">
+                                        <xsl:variable name="person-id" select="substring-after(@passive, '#')"/>
+                                        <tr>
+                                            <td>
+                                                <xsl:value-of select="normalize-space(string-join(//tei:standOff/tei:listPerson/tei:person[@xml:id=$person-id]/tei:persName[1]//text()))"/>
+                                            </td>
+                                            <td>
+                                                <xsl:if test="./tei:desc">
+                                                    <xsl:choose>
+                                                        <xsl:when test="./tei:desc[@xml:lang='de']">
+                                                            <xsl:value-of select="./tei:desc[@xml:lang='de']"/>
+                                                        </xsl:when>
+                                                        <xsl:otherwise>
+                                                            <xsl:value-of select="./tei:desc[1]"/>
+                                                        </xsl:otherwise>
+                                                    </xsl:choose>
+                                                </xsl:if>
+                                            </td>
+                                            <td>
+                                                <xsl:if test="@from or @to">
+                                                    <xsl:if test="@from">
+                                                        <xsl:value-of select="@from"/>
+                                                    </xsl:if>
+                                                    <xsl:if test="@from and @to">
+                                                        <xsl:text> - </xsl:text>
+                                                    </xsl:if>
+                                                    <xsl:if test="@to">
+                                                        <xsl:value-of select="@to"/>
+                                                    </xsl:if>
+                                                </xsl:if>
+                                            </td>
+                                            <td>
+                                                <xsl:value-of select="concat($person-id, '.html')"/>
+                                            </td>
+                                        </tr>
+                                    </xsl:for-each>
+                                </tbody>
+                            </table>
+                            <xsl:call-template name="tabulator_dl_buttons"/>
                         </td>
                     </tr>
                 </xsl:if>
