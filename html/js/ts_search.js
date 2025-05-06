@@ -256,8 +256,19 @@ const typesenseInstantsearchAdapter = new TypesenseInstantSearchAdapter({
       })(instantsearch.widgets.rangeSlider)({
         container: "#refinement-range-slider",
         attribute: "date",
-        templates: {
-          //bmitText: "Suchen",
+        step: 86400, // One day in seconds
+        format: {
+          to: (value) => {
+            return new Date(value * 1000).toISOString().split('T')[0];
+          },
+          from: (value) => {
+            return Math.floor(new Date(value).getTime() / 1000);
+          }
+        },
+        tooltips: {
+          format: (value) => {
+            return new Date(value * 1000).toISOString().split('T')[0];
+          }
         },
         pips: false,
         cssClasses: {
