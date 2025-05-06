@@ -1,0 +1,31 @@
+#hits {
+    padding: 1em 0;
+}
+
+#stats-container, 
+#searchbox, 
+#current-refinements,
+#clear-refinements {
+    padding: 1em 0 .5em 0;
+}
+
+.ais-SearchBox-form {
+    display: flex;
+}
+
+#refinement-list-person,
+#refinement-list-period,
+#refinement-range-year,
+#refinement-range-slider{
+    padding: 1em .5em 2em .5em;
+    -webkit-box-shadow: -14px 21px 24px -28px rgba(156,156,156,1);
+    -moz-box-shadow: -14px 21px 24px -28px rgba(156,156,156,1);
+    box-shadow: -14px 21px 24px -28px rgba(156,156,156,1);
+    background-color: var(--bv-main-bg-color);
+    border-radius: .10rem;
+
+}
+
+.col-md-4 h4 {
+    margin-top: 1em;
+}
