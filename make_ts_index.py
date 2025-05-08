@@ -67,7 +67,6 @@ records = []
 for xml_file in tqdm(files, total=len(files)):
     doc = TeiReader(xml=xml_file)
     # make record for each document
-    body = doc.any_xpath("//tei:body")
     record = {}
     record["id"] = os.path.split(xml_file)[-1]
 
@@ -88,7 +87,9 @@ for xml_file in tqdm(files, total=len(files)):
         print(record["date"])
     except ValueError:
         pass
-
+    
+    # get body (there's only one div per page)
+    body = doc.any_xpath("//tei:body/tei:div[1]")
     if len(body) > 0:
         # get unique persons per page
         ent_type = "person"
@@ -101,12 +102,21 @@ for xml_file in tqdm(files, total=len(files)):
         record["legislative_period"] = doc.any_xpath(
             ".//tei:meeting[@xml:lang='de'][contains(@ana, '#parla.term')]/text()"
         )
-        print(record["legislative_period"])
 
-        record["full_text"] = "\n".join(
-            " ".join("".join(p.itertext()).split()) for p in body
-        )
-
+        #extract full text, excluding some elements
+        full_text = []
+        if len(body) > 1:
+            print("more than one div in body found")
+        # Iterate through all text nodes excluding those within <gap> and <note> elements
+        tags_to_exclude = ["gap", "note"]
+        xpath_expr = f'.//text()[not({" or ".join(f"ancestor::tei:{tag}" for tag in tags_to_exclude)})]'
+        for node in body[0].xpath(xpath_expr, namespaces={"tei": "http://www.tei-c.org/ns/1.0"}):
+            # Process each text node
+            processed_text = ' '.join(node.replace('\n', ' ').split())
+            if processed_text:  # Only append non-empty strings
+                full_text.append(processed_text)
+        
+        record["full_text"] = "\n".join(full_text)
         if len(record["full_text"]) > 0:
             records.append(record)
 
