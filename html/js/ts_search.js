@@ -1,27 +1,21 @@
 const project_collection_name = "parlamint"
 const main_search_field = "full_text"
-const search_api_key = "q5A1z9i5OLryOkfnlx3ePGT1wio6MnsI"
+const search_api_key = "XE9UQ67xDYMlSl9DSo1owaUEaK4s3yFY"
 
 const typesenseInstantsearchAdapter = new TypesenseInstantSearchAdapter({
     server: {
         apiKey: search_api_key,
         nodes: [
-          /*{
+          {
                 host: "typesense.acdh-dev.oeaw.ac.at",
                 port: "443",
                 protocol: "https",
             },
-            */      {
-                host: "localhost",
-                port: "8108",
-                protocol: "http",
-            }
         ],
     },
     additionalSearchParameters: {
         query_by: main_search_field,
         sort_by: '_text_match:desc, date:asc',
-        //rt_by: '_text_match:desc, datum:asc, seite:asc',
     },
 });
   
